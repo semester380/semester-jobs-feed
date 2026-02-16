@@ -1,5 +1,40 @@
 [
   {
+    "item_id": "000A CC95 / 1",
+    "source": "xms",
+    "source_ref": "000A CC95 / 1",
+    "job_id": "000A CC95 / 1",
+    "job_title": "Social Worker - Children's",
+    "client": "Children, Young People and Families, City of Doncaster Council",
+    "procurer": null,
+    "working_address": "Colonnades House, Duke Street, Doncaster, South Yorkshire, DN1 1ER, United Kingdom",
+    "start_date": "2026-02-23",
+    "end_date": "2026-05-29",
+    "pay_from": "32",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "For MASH Team 1",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1393393?backToItem=&initialLoad=&tab=&_xmscs=65430f00cc7ad9dc6f9a0530ee922d45f26f61657e513176b1c563721f0df5b6f2680ad022d51b60",
+    "accepted_at": "2026-02-16T21:38:17.477Z",
+    "scraped_at": "2026-02-16T21:38:17.477Z",
+    "attachments": [
+      {
+        "filename": "Social Worker All Services JDPS Sept 2022.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133536?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A CC95 _ 1/Social Worker All Services JDPS Sept 2022.doc",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133537?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A CC95 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A C743 / 1",
     "source": "xms",
     "source_ref": "000A C743 / 1",
