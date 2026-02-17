@@ -968,6 +968,28 @@
     ]
   },
   {
+    "item_id": "prism:OR23306",
+    "source": "prism",
+    "source_ref": "OR23306",
+    "job_id": "OR23306",
+    "job_title": "QARO - Quality Assurance - Social Care Qualified",
+    "client": "Swindon Borough Council",
+    "procurer": "Tori Sutton",
+    "working_address": "Civic Campus, Euclid Street, Swindon, SN1 2JW, United Kingdom",
+    "start_date": "2026-03-16",
+    "end_date": "",
+    "pay_from": "35.30",
+    "pay_to": "47.53",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "Office based 3 days per week. Must have 3 years PQE in permanent setting.",
+    "description": "We are seeking Quality Assurance Reviewing Officers to join our growing team. This dynamic role, reporting to the service manager you will be committed to providing a quality assurance and reviewing service across differing levels of need, to drive strengths-based practice and culture.\n\nQuality Assurance Reviewing Officers (QARO’s) ensure that statutory and regulatory safeguarding requirements are met for independent reviewing for children in care, child protection and fostering reviewing functions and go beyond that to focus on the delivery and improvement of services for children, young people and their families through the provision of high-quality independent oversight of practice, and effective partnership working with all those involved with the child.\n\nThe service will provide independent, professional support and challenge and be accountable for service improvement, ensuring quality assurance of practice across the whole service. The service will champion a child’s right to family life.\n\nSwindon operates the family safeguarding model and workers are excited by this approach; we can see the difference it is making to children, young people and their families. When children do need to be looked after, the QARO ensures the Local Authority are providing the best care possible.\n\nSwindon Borough Council has confirmed that the £100 weekly travel and accommodation expenses will remain in place for all new and existing agency placements within Children’s Social Care until 10 May 2026. Workers must reside more than 50 miles from Swindon.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=f80c0807-5595-4030-86cb-a68c8911c101",
+    "accepted_at": null,
+    "scraped_at": "2026-02-17T08:38:22.132Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR23295",
     "source": "prism",
     "source_ref": "OR23295",
