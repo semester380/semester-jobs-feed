@@ -1,5 +1,46 @@
 [
   {
+    "item_id": "000A CE29 / 1",
+    "source": "xms",
+    "source_ref": "000A CE29 / 1",
+    "job_id": "000A CE29 / 1",
+    "job_title": "Children's Independent Reviewing Officer [Bolton]",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Castleton Street, Tonge Moor, Bolton, Lancashire, BL2 2JW, United Kingdom",
+    "start_date": "2026-03-16",
+    "end_date": "2026-04-30",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Suppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.\n\nThe Independent Reviewing and Conferencing Team require a qualified Social Worker, to fulfil a vacancy within the Team to cover and facilitate Conferences for Child Protection\n\nCandidates will need to have minimum of 5 years post qualification Social Work experience within childcare settings and prior IRO/ CPCC experience would be a clear advantage.\n\nEssential to the role:\n\nUnderstanding of legislation for Children in Need; Children subject to child protection plans; Pathway plans and children Looked After\nEvidence of preparing, producing, implementing, and evaluating plans with individual Children, families, carers, and professional colleagues\nExperience of leading, chairing, recording, and facilitating child protection meetings\nAbility to relate easily to and support children and young people to participate in their meetings and engage the family in decision making\n\nFor a full list of experience and duties please refer to the attached Job Description\n\n\n\nThere is some hybrid working, however, IRO's are expected to facilitate conferences face-to-face and will need to be able to get to Bolton before 9am.\n\n\n\nFor full duties see the attached JD/PS\n\nFree on-site parking\n\n37 hours per week – full-time post\n\nReferences will be requested for any candidates",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1393786?backToItem=&initialLoad=&tab=&_xmscs=a0898a2ae40fbe54f70efaac41175501a9e00296f53654e6cce59bf20ec9a06348ba29ff094bcf58",
+    "accepted_at": "2026-02-17T12:59:13.804Z",
+    "scraped_at": "2026-02-17T12:59:13.804Z",
+    "attachments": [
+      {
+        "filename": "057-CH20 Independent Reviewing Officer.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133602?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A CE29 _ 1/057-CH20 Independent Reviewing Officer.docx",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133603?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A CE29 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      },
+      {
+        "filename": "066-CH26_IRO.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133606?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A CE29 _ 1/066-CH26_IRO.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A CBCC / 1",
     "source": "xms",
     "source_ref": "000A CBCC / 1",
