@@ -1,5 +1,46 @@
 [
   {
+    "item_id": "000A CDA7 / 1",
+    "source": "xms",
+    "source_ref": "000A CDA7 / 1",
+    "job_id": "000A CDA7 / 1",
+    "job_title": "Adults Social Worker [Salford]",
+    "client": "Salford City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Adult Health & Social Care, 1 City Approach, Albert St, Eccles, Manchester, M30 0BL",
+    "start_date": "2026-03-16",
+    "end_date": "2026-05-29",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "1x Fulltime, Adults Social Worker position available to join Review & Extra Care Team within Salford ASC, part of Northern Care Alliance NHS Foundation Trust. 3 month contract with a possibility to extend.\n\n3 years reference, gaps in employment history checked, any relevant quals as per JDPS",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1393496?backToItem=&initialLoad=&tab=&_xmscs=26041a75142f01f1074196ae7aee66af82143c883112cbea35cf2dd303727b96982df8a797171cd0",
+    "accepted_at": "2026-02-17T09:16:18.446Z",
+    "scraped_at": "2026-02-17T09:16:18.446Z",
+    "attachments": [
+      {
+        "filename": "6171_ThisIsSalford_Feb2023_v3 (1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133583?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A CDA7 _ 1/6171_ThisIsSalford_Feb2023_v3 (1).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "6173_Why work for TeamSalford_v7 (1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133584?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A CDA7 _ 1/6173_Why work for TeamSalford_v7 (1).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "Social Worker JD Nov 24.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133585?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A CDA7 _ 1/Social Worker JD Nov 24.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A CC95 / 1",
     "source": "xms",
     "source_ref": "000A CC95 / 1",
