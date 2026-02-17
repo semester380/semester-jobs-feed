@@ -1,5 +1,27 @@
 [
   {
+    "item_id": "comensura:5289623",
+    "source": "comensura",
+    "source_ref": "5289623",
+    "job_id": "5289623",
+    "job_title": "5289623 – Personal Advisor (Jajb4326 - G... (Social and Healthcare Qualifie...)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": null,
+    "start_date": "2026-03-02",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": null,
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-02-17T19:20:31.678Z",
+    "scraped_at": "2026-02-17T19:20:31.678Z",
+    "attachments": []
+  },
+  {
     "item_id": "comensura:5290083",
     "source": "comensura",
     "source_ref": "5290083",
