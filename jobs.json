@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A CE5A / 1",
+    "source": "xms",
+    "source_ref": "000A CE5A / 1",
+    "job_id": "000A CE5A / 1",
+    "job_title": "Adults Social Worker [Bolton]",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Breightmet Fold Lane, Breightmet, Bolton, Lancashire, BL2 6NT, United Kingdom",
+    "start_date": "2026-03-16",
+    "end_date": "2026-05-01",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Must have experience of working with Older adults.\n\n5 years post qualification experience.\n\nEvidence that ASYE was completed within 2 years of qualifying.\n\nAt least 2 years experience as a Social Worker (not agency) and within a mental health team – Older Adults CMHT\n\nDriver.\n\nAble to start within 4 weeks.\n\n3 years sound references available.\n\nNo gaps in employment.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1394028?inst=1394028--Distribution--1567563891-false&_csrf=43822ad4-6731-47b9-979f-0a9e00298527&_xmscs=00f8b462720b970d73dc198b357a69e6e6258b6e10653a3c52c17dd36196128a52f72cfb57ef908d",
+    "accepted_at": "2026-02-17T15:36:49.023Z",
+    "scraped_at": "2026-02-17T15:36:49.023Z",
+    "attachments": [
+      {
+        "filename": "JDPS Social Worker.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133621?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A CE5A _ 1/JDPS Social Worker.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A CE79 / 1",
     "source": "xms",
     "source_ref": "000A CE79 / 1",
