@@ -1,5 +1,27 @@
 [
   {
+    "item_id": "comensura:5290122",
+    "source": "comensura",
+    "source_ref": "5290122",
+    "job_id": "5290122",
+    "job_title": "5290122 – Home Support Worker - Grade 5 (Social Care Unqualified)",
+    "client": "Durham County Council",
+    "procurer": null,
+    "working_address": null,
+    "start_date": "2026-02-23",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": null,
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-02-18T20:01:32.800Z",
+    "scraped_at": "2026-02-18T20:01:32.800Z",
+    "attachments": []
+  },
+  {
     "item_id": "comensura:5285257",
     "source": "comensura",
     "source_ref": "5285257",
