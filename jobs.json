@@ -1,5 +1,27 @@
 [
   {
+    "item_id": "000A CAB7 / 1",
+    "source": "xms",
+    "source_ref": "000A CAB7 / 1",
+    "job_id": "000A CAB7 / 1",
+    "job_title": "Youth Offending Team Officer [Stkp Met]",
+    "client": "Stockport Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Grand Central, Wellington Road South, Stockport, SK1 3TA, United Kingdom",
+    "start_date": "2026-03-16",
+    "end_date": "2026-05-29",
+    "pay_from": "18.35",
+    "pay_to": "20.29",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are looking for a dynamic and creative individual who has Youth Justice experience to come and work with us to manage a range of out of court disposals. You will need to be able to assess (using the YJB accredited tools), plan and deliver intervention to young people and families. Other key aspects of the role include:\n\nBeing trauma informed\nEnsuring accurate recording on case management systems\nEngaging with multi-agency partners\nMaking referrals as required\nBe able to work with a range of complexities within a child's life including exploitation, drug and alcohol use and understand the importance of identity\nInvolve children in the production of their plan and understand their lived experience\nParticipate in supervision and Service meetings\n\nAt least 3 days in the office\n\nRelevant degree required",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1394300?backToItem=&initialLoad=&tab=&_xmscs=a6cde9db53a30e999cbbfc00248677c6fe930910bc8005a509912138684b73532620aa3896456eee",
+    "accepted_at": "2026-02-18T10:04:11.823Z",
+    "scraped_at": "2026-02-18T10:04:11.823Z",
+    "attachments": []
+  },
+  {
     "item_id": "comensura:5289623",
     "source": "comensura",
     "source_ref": "5289623",
