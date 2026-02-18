@@ -1317,6 +1317,28 @@
     ]
   },
   {
+    "item_id": "prism:OR23390",
+    "source": "prism",
+    "source_ref": "OR23390",
+    "job_id": "OR23390",
+    "job_title": "Care Worker - Social Care Non-Qualified",
+    "client": "Thurrock Council",
+    "procurer": "Kayleigh Arthurton",
+    "working_address": "Springhouse Road, Corringham, Essex, SS177LE, United Kingdom",
+    "start_date": "2026-03-01",
+    "end_date": "",
+    "pay_from": "12.21",
+    "pay_to": "15.75",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "POS_05274",
+    "description": "To provide care and support to Residents in Residential settings\n\nTo provide personal care, support with medication and food and fluid intake\n\nTo work flexibily between Collins House in Corringham and Piggs Corner in Grays\n\nTo work 3 night shifts per week",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=a6729344-76ad-464e-a0a0-c047922eb31c",
+    "accepted_at": null,
+    "scraped_at": "2026-02-18T10:14:12.141Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR23334",
     "source": "prism",
     "source_ref": "OR23334",
