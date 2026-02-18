@@ -37,11 +37,18 @@
     "pay_type": null,
     "ir35": null,
     "ir35_note": null,
-    "description": null,
-    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "description": "Job Title (Job Category):\nPersonal Advisor (Jajb4326 - G7) (Social and Healthcare Qualified)\nJob Type:\nTemporary\nJob File(s):\nJAJB4326 - Personal Advisor - JD and PS.pdf",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders?OrderNumber=5289623&TabName=Search#Search",
     "accepted_at": "2026-02-17T19:20:31.678Z",
-    "scraped_at": "2026-02-17T19:20:31.678Z",
-    "attachments": []
+    "scraped_at": "2026-02-18T12:17:32.442Z",
+    "attachments": [
+      {
+        "filename": "JAJB4326 - Personal Advisor - JD and PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5289623/File/218020",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
   },
   {
     "item_id": "comensura:5290083",
