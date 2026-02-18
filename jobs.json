@@ -1368,6 +1368,28 @@
     ]
   },
   {
+    "item_id": "prism:OR23456",
+    "source": "prism",
+    "source_ref": "OR23456",
+    "job_id": "OR23456",
+    "job_title": "Social Worker - Standard (Childrens) - Social Care Qualified",
+    "client": "Knowsley Borough Council",
+    "procurer": "Gary Jeffrey",
+    "working_address": "2nd Floor, Nutgrove Villa, Westmorland Road, Huyton, Merseyside, L36 6GA, United Kingdom",
+    "start_date": "2026-03-02",
+    "end_date": "",
+    "pay_from": "214.34",
+    "pay_to": "283.17",
+    "pay_type": "per day",
+    "ir35": "Inside",
+    "ir35_note": "We are looking for 2 experienced social workers who have experience of court work and permeance within a looked after team",
+    "description": "We are looking for social workers who have experience of court work, adoption and through to final care plans alongside permeance planning in a looked after team.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=7ee6d9f6-4a5d-4929-9d92-72efe6908121",
+    "accepted_at": null,
+    "scraped_at": "2026-02-18T15:46:15.385Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR23430",
     "source": "prism",
     "source_ref": "OR23430",
