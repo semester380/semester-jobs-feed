@@ -1,5 +1,27 @@
 [
   {
+    "item_id": "comensura:5290134",
+    "source": "comensura",
+    "source_ref": "5290134",
+    "job_id": "5290134",
+    "job_title": "5290134 – Mou - Childrens Social Care -... (Social Care Qualified)",
+    "client": "Newcastle City Council",
+    "procurer": null,
+    "working_address": null,
+    "start_date": "2026-03-01",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": null,
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-02-18T21:30:51.565Z",
+    "scraped_at": "2026-02-18T21:30:51.565Z",
+    "attachments": []
+  },
+  {
     "item_id": "comensura:5290029",
     "source": "comensura",
     "source_ref": "5290029",
