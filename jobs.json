@@ -1,5 +1,40 @@
 [
   {
+    "item_id": "000A CA12 / 1",
+    "source": "xms",
+    "source_ref": "000A CA12 / 1",
+    "job_id": "000A CA12 / 1",
+    "job_title": "Senior Social Worker Children's",
+    "client": "Barnsley Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Worsbrough Lift Building, West Street,, Barnsley, South Yorkshire, S70 5DJ",
+    "start_date": "2026-02-16",
+    "end_date": "2026-05-16",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Vacancy\n\nSenior Social Worker – Assessment and Duty Team\n\nThis is a fixed contract for 3 months to cover a sickness within the team.\n\nWe're looking to recruit a highly motivated, enthusiastic, and committed professional social worker to join one of our four Assessment Teams. Co-located with the police at Wombwell Police Station, the Assessment Teams complete assessments with children and families within 40 working days and collaboratively with the family determine the right intervention. Once the plan has been agreed, the family will either close to Children’s Social Care or transfer to the relevant service area, Early Help services or long-term social work teams. The four teams are on a rota for being on duty allocations for one week and then spend three weeks “off duty” and complete and assessments and develop plans for intervention where needed. This is a short-term service with a focus on timely quality assessments which consider need and risk.\n\nWe are looking for someone with passion and drive to improve the outcomes and lived experience of children within Barnsley. You will be able to work at pace to ensure decision making is timely. You will know what good looks like and will be confident in working within a performance management framework which supports good outcomes for children. In return, you will be welcomed into a friendly and nurturing environment, with visible managers, who will support you.\n\n\n\nDue to the post being based in a Police Station, the preferred candidate will require level 2 vetting. The south Yorkshire Force Vetting Unit Privacy Notice is available at: https://www.southyorkshire.police.uk/search/?q=vetting, and we are happy to discuss the process involved if you would like any further information about this.\n\n\n\n\n\nWork base\n\nCurrent workplace is Wombwell Police Station (pending the outcome of police checks).\n\n\n\nWorking pattern\n\nFull-time post.\nHybrid working – minimum 3 days in the office per week and on duty week this is 5 days per week.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1395155?backToItem=&initialLoad=&tab=&_xmscs=4aae5018d5bfcd1220889d30e3e739e8fd2585675493b7135efccfb1a458ff0291b86156d08f4943",
+    "accepted_at": "2026-02-19T16:41:03.889Z",
+    "scraped_at": "2026-02-19T16:41:03.889Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133349?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A CA12 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      },
+      {
+        "filename": "92690 Senior Social Worker Profile 20150120.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133350?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A CA12 _ 1/92690 Senior Social Worker Profile 20150120.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5290048",
     "source": "comensura",
     "source_ref": "5290048",
