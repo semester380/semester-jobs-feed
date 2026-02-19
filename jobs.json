@@ -940,7 +940,7 @@
     "job_title": "5289837 – Home Care Support Worker - Gra... (Social Care Unqualified)",
     "client": "Durham County Council",
     "procurer": null,
-    "working_address": null,
+    "working_address": "Floor Harbour Lodge, Seaham Harbour Lodge Extra Care Scheme, SR7 7BF",
     "start_date": "2026-02-14",
     "end_date": "",
     "pay_from": null,
@@ -948,11 +948,18 @@
     "pay_type": null,
     "ir35": null,
     "ir35_note": null,
-    "description": null,
-    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "description": "Home Care Support Worker - Grade 4 (Social Care Unqualified)\nTemporary\nJOB DESCRIPTION Home care and Support worker Extra Care gr4.docx",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders?OrderNumber=5289837&TabName=Search#Search",
     "accepted_at": "2026-02-16T12:41:19.182Z",
-    "scraped_at": "2026-02-16T12:41:19.182Z",
-    "attachments": []
+    "scraped_at": "2026-02-19T14:28:10.600Z",
+    "attachments": [
+      {
+        "filename": "JOB DESCRIPTION Home care and Support worker Extra Care gr4.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5289837/File/218111",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
   },
   {
     "item_id": "000A C966 / 1",
