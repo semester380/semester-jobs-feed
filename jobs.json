@@ -851,7 +851,7 @@
     "job_title": "5287086 – Social Worker - Childrens Serv... (Social Care - Qualified)",
     "client": "Lancashire County Council",
     "procurer": null,
-    "working_address": null,
+    "working_address": "County Hall, PR1 8RE",
     "start_date": "2026-02-23",
     "end_date": "",
     "pay_from": null,
@@ -859,10 +859,10 @@
     "pay_type": null,
     "ir35": null,
     "ir35_note": null,
-    "description": null,
-    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "description": "Social Worker - Childrens Services (Social Care - Qualified)\nTemporary",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders?OrderNumber=5287086&TabName=Search#Search",
     "accepted_at": "2026-02-16T12:50:58.939Z",
-    "scraped_at": "2026-02-16T12:50:58.939Z",
+    "scraped_at": "2026-02-19T15:45:03.393Z",
     "attachments": []
   },
   {
@@ -873,7 +873,7 @@
     "job_title": "5289105 – Send Key Worker (Jajb4473 - G9... (Social and Healthcare Qualifie...)",
     "client": "Cheshire East Council",
     "procurer": null,
-    "working_address": null,
+    "working_address": "Delamere House, CW1 2JZ",
     "start_date": "2026-02-23",
     "end_date": "",
     "pay_from": null,
@@ -881,10 +881,10 @@
     "pay_type": null,
     "ir35": null,
     "ir35_note": null,
-    "description": null,
-    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "description": "Send Key Worker (Jajb4473 - G9). (Social and Healthcare Qualified)\nTemporary",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders?OrderNumber=5289105&TabName=Search#Search",
     "accepted_at": "2026-02-16T12:49:42.237Z",
-    "scraped_at": "2026-02-16T12:49:42.237Z",
+    "scraped_at": "2026-02-19T15:44:40.604Z",
     "attachments": []
   },
   {
@@ -895,7 +895,7 @@
     "job_title": "5289172 – Send Key Worker (Jajb4473 - G9... (Social and Healthcare Qualifie...)",
     "client": "Cheshire East Council",
     "procurer": null,
-    "working_address": null,
+    "working_address": "Delamere House, CW1 2JZ",
     "start_date": "2026-02-23",
     "end_date": "",
     "pay_from": null,
@@ -903,11 +903,18 @@
     "pay_type": null,
     "ir35": null,
     "ir35_note": null,
-    "description": null,
-    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "description": "Send Key Worker (Jajb4473 - G9). (Social and Healthcare Qualified)\nTemporary\nJAJB4473 - SEND Keyworker - JD&PS.pdf",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders?OrderNumber=5289172&TabName=Search#Search",
     "accepted_at": "2026-02-16T12:49:29.623Z",
-    "scraped_at": "2026-02-16T12:49:29.623Z",
-    "attachments": []
+    "scraped_at": "2026-02-19T15:44:17.237Z",
+    "attachments": [
+      {
+        "filename": "JAJB4473 - SEND Keyworker - JD&PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5289172/File/217865",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
   },
   {
     "item_id": "comensura:5289352",
@@ -917,7 +924,7 @@
     "job_title": "5289352 – Home Support Worker - Grade 5 (Social Care Unqualified)",
     "client": "Durham County Council",
     "procurer": null,
-    "working_address": null,
+    "working_address": "Hawthorn House, DH1 5PJ",
     "start_date": "2026-03-02",
     "end_date": "",
     "pay_from": null,
@@ -925,11 +932,18 @@
     "pay_type": null,
     "ir35": null,
     "ir35_note": null,
-    "description": null,
-    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "description": "Home Support Worker - Grade 5 (Social Care Unqualified)\nTemporary\nHome support worker - LD March 2018.doc",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders?OrderNumber=5289352&TabName=Search#Search",
     "accepted_at": "2026-02-16T12:47:59.940Z",
-    "scraped_at": "2026-02-16T12:47:59.940Z",
-    "attachments": []
+    "scraped_at": "2026-02-19T15:43:54.792Z",
+    "attachments": [
+      {
+        "filename": "Home support worker - LD March 2018.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5289352/File/217930",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
   },
   {
     "item_id": "comensura:5289699",
