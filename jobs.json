@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A CCE0 / 1",
+    "source": "xms",
+    "source_ref": "000A CCE0 / 1",
+    "job_id": "000A CCE0 / 1",
+    "job_title": "Leaving Care Personal Advisor Officer (G7)",
+    "client": "Wakefield Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "2 Warren Court, Off Park Lodge Lane, Wakefield, West Yorkshire, WF1 4XA",
+    "start_date": "2026-03-09",
+    "end_date": "2027-02-12",
+    "pay_from": "16.62",
+    "pay_to": "16.62",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": null,
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1394753?backToItem=&initialLoad=&tab=&_xmscs=d421dbbeaeadb375bbbf9c6bb8cacb21c4454b577e4c880e0455e8e1d3c88724880fc70af4eacaf6",
+    "accepted_at": "2026-02-19T08:40:55.530Z",
+    "scraped_at": "2026-02-19T08:40:55.530Z",
+    "attachments": [
+      {
+        "filename": "HR JobSpecification Form Personal Advisor .doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133552?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A CCE0 _ 1/HR JobSpecification Form Personal Advisor .doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5290134",
     "source": "comensura",
     "source_ref": "5290134",
