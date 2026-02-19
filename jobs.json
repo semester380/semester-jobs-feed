@@ -189,7 +189,7 @@
     "job_title": "5290029 – Home Support Worker - Grade 5 (Social Care Unqualified)",
     "client": "Durham County Council",
     "procurer": null,
-    "working_address": null,
+    "working_address": "Hawthorn House, DH1 5PJ",
     "start_date": "2026-02-20",
     "end_date": "",
     "pay_from": null,
@@ -197,11 +197,18 @@
     "pay_type": null,
     "ir35": null,
     "ir35_note": null,
-    "description": null,
-    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "description": "Home Support Worker - Grade 5 (Social Care Unqualified)\nTemporary\nHome support worker - LD March 2018.doc",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders?OrderNumber=5290029&TabName=Search#Search",
     "accepted_at": "2026-02-18T20:20:09.609Z",
-    "scraped_at": "2026-02-18T20:20:09.609Z",
-    "attachments": []
+    "scraped_at": "2026-02-19T16:28:45.059Z",
+    "attachments": [
+      {
+        "filename": "Home support worker - LD March 2018.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5290029/File/218188",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
   },
   {
     "item_id": "comensura:5290073",
@@ -211,7 +218,7 @@
     "job_title": "5290073 – Mou - Childrens Social Care -... (Social Care Qualified)",
     "client": "Redcar and Cleveland Borough Council",
     "procurer": null,
-    "working_address": null,
+    "working_address": "THE MACH, TS7 9LF",
     "start_date": "2026-03-23",
     "end_date": "",
     "pay_from": null,
@@ -219,10 +226,10 @@
     "pay_type": null,
     "ir35": null,
     "ir35_note": null,
-    "description": null,
-    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "description": "Mou - Childrens Social Care - Senior Social Worker (Social Care Qualified)\nTemporary",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders?OrderNumber=5290073&TabName=Search#Search",
     "accepted_at": "2026-02-18T20:15:41.796Z",
-    "scraped_at": "2026-02-18T20:15:41.796Z",
+    "scraped_at": "2026-02-19T16:28:20.763Z",
     "attachments": []
   },
   {
@@ -233,7 +240,7 @@
     "job_title": "5290122 – Home Support Worker - Grade 5 (Social Care Unqualified)",
     "client": "Durham County Council",
     "procurer": null,
-    "working_address": null,
+    "working_address": "Hawthorn House, DH1 5PJ",
     "start_date": "2026-02-23",
     "end_date": "",
     "pay_from": null,
@@ -241,11 +248,18 @@
     "pay_type": null,
     "ir35": null,
     "ir35_note": null,
-    "description": null,
-    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "description": "Home Support Worker - Grade 5 (Social Care Unqualified)\nTemporary\nHome support worker - LD March 2018.doc",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders?OrderNumber=5290122&TabName=Search#Search",
     "accepted_at": "2026-02-18T20:01:32.800Z",
-    "scraped_at": "2026-02-18T20:01:32.800Z",
-    "attachments": []
+    "scraped_at": "2026-02-19T16:27:57.920Z",
+    "attachments": [
+      {
+        "filename": "Home support worker - LD March 2018.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5290122/File/218243",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
   },
   {
     "item_id": "comensura:5285257",
@@ -255,7 +269,7 @@
     "job_title": "5285257 – Youth Justice Practitioner (Bc... (Social and Healthcare Qualifie...)",
     "client": "Bradford Metropolitan District Council",
     "procurer": null,
-    "working_address": null,
+    "working_address": "Sir Henry Mitchell House, BD5 0QL",
     "start_date": "2026-02-23",
     "end_date": "",
     "pay_from": null,
@@ -263,11 +277,18 @@
     "pay_type": null,
     "ir35": null,
     "ir35_note": null,
-    "description": null,
-    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "description": "Youth Justice Practitioner (Bcft) (Social and Healthcare Qualified)\nTemporary\nYJS Practioner JD.pdf",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders?OrderNumber=5285257&TabName=Search#Search",
     "accepted_at": "2026-02-18T18:10:48.031Z",
-    "scraped_at": "2026-02-18T18:10:48.031Z",
-    "attachments": []
+    "scraped_at": "2026-02-19T16:27:35.687Z",
+    "attachments": [
+      {
+        "filename": "YJS Practioner JD.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5285257/File/216159",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
   },
   {
     "item_id": "comensura:5289103",
