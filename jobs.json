@@ -1169,7 +1169,7 @@
     "job_title": "5284995 – Social Worker (Childrens) (Jaj... (Social and Healthcare Qualifie...)",
     "client": "Cheshire East Council",
     "procurer": null,
-    "working_address": null,
+    "working_address": "Floor 7, Delamere House, CW1 2JZ",
     "start_date": "2026-02-23",
     "end_date": "",
     "pay_from": null,
@@ -1177,11 +1177,18 @@
     "pay_type": null,
     "ir35": null,
     "ir35_note": null,
-    "description": null,
-    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "description": "Job Title (Job Category):\nSocial Worker (Childrens) (Jajb4097 - G10) (Social and Healthcare Qualified)\nJob Type:\nTemporary\nJob File(s):\nJAJB4097 - Social Worker - JD and PS.pdf",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders?OrderNumber=5284995&TabName=Search#Search",
     "accepted_at": "2026-02-12T16:02:36.549Z",
-    "scraped_at": "2026-02-12T16:02:36.549Z",
-    "attachments": []
+    "scraped_at": "2026-02-19T14:24:54.954Z",
+    "attachments": [
+      {
+        "filename": "JAJB4097 - Social Worker - JD and PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5284995/File/216052",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
   },
   {
     "item_id": "comensura:5289684",
@@ -1191,7 +1198,7 @@
     "job_title": "5289684 – Social Worker - Childrens Serv... (Social Care - Qualified)",
     "client": "Lancashire County Council",
     "procurer": null,
-    "working_address": null,
+    "working_address": "Chorley Library, PR7 1EB",
     "start_date": "2026-02-23",
     "end_date": "",
     "pay_from": null,
@@ -1199,11 +1206,18 @@
     "pay_type": null,
     "ir35": null,
     "ir35_note": null,
-    "description": null,
-    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "description": "Job Title (Job Category):\nSocial Worker - Childrens Services (Social Care - Qualified)\nJob Type:\nTemporary\nJob File(s):\nsocial-worker-csc-job-description-person-specification (2).docx",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders?OrderNumber=5289684&TabName=Search#Search",
     "accepted_at": "2026-02-12T15:00:52.245Z",
-    "scraped_at": "2026-02-12T15:00:52.245Z",
-    "attachments": []
+    "scraped_at": "2026-02-19T14:24:32.891Z",
+    "attachments": [
+      {
+        "filename": "social-worker-csc-job-description-person-specification (2).docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5289684/File/218043",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
   },
   {
     "item_id": "comensura:5289689",
@@ -1213,19 +1227,26 @@
     "job_title": "5289689 – Family Service Worker (Jajb426... (Social and Healthcare Qualifie...)",
     "client": "Cheshire East Council",
     "procurer": null,
-    "working_address": null,
-    "start_date": "2026-02-23",
+    "working_address": "Macclesfield Town Hall, SK10 1EA",
+    "start_date": "2026-03-09",
     "end_date": "",
     "pay_from": null,
     "pay_to": null,
     "pay_type": null,
     "ir35": null,
     "ir35_note": null,
-    "description": null,
-    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "description": "Job Title (Job Category):\nFamily Service Worker (Jajb4267 - G7) (Social and Healthcare Qualified)\nJob Type:\nTemporary\nJob File(s):\nJAJB4267 - Family Service Worker - JD and PS.pdf",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders?OrderNumber=5289689&TabName=Search#Search",
     "accepted_at": "2026-02-12T13:28:58.156Z",
-    "scraped_at": "2026-02-12T13:28:58.156Z",
-    "attachments": []
+    "scraped_at": "2026-02-19T14:24:10.944Z",
+    "attachments": [
+      {
+        "filename": "JAJB4267 - Family Service Worker - JD and PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5289689/File/218048",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
   },
   {
     "item_id": "000A C8F6 / 1",
