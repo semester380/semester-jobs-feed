@@ -489,7 +489,7 @@
     "job_title": "5290047 – Neighbourhood Housing Officer (Housing)",
     "client": "Gateshead Council",
     "procurer": null,
-    "working_address": null,
+    "working_address": "Gateshead Council Civic Centre, NE8 1HH",
     "start_date": "2026-02-17",
     "end_date": "",
     "pay_from": null,
@@ -497,11 +497,18 @@
     "pay_type": null,
     "ir35": null,
     "ir35_note": null,
-    "description": null,
-    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "description": "Neighbourhood Housing Officer (Housing)\nTemporary\njob profile new format march23.docx",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders?OrderNumber=5290047&TabName=Search#Search",
     "accepted_at": "2026-02-17T15:50:09.838Z",
-    "scraped_at": "2026-02-17T15:50:09.838Z",
-    "attachments": []
+    "scraped_at": "2026-02-19T15:46:34.366Z",
+    "attachments": [
+      {
+        "filename": "job profile new format march23.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5290047/File/218198",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
   },
   {
     "item_id": "000A CE5A / 1",
@@ -785,7 +792,7 @@
     "job_title": "5289858 – Mou - Childrens Social Care -... (Social Care Qualified)",
     "client": "Middlesbrough Borough Council",
     "procurer": null,
-    "working_address": null,
+    "working_address": "Middlesbrough House Assessment, TS1 2RH",
     "start_date": "2026-02-23",
     "end_date": "",
     "pay_from": null,
@@ -793,10 +800,10 @@
     "pay_type": null,
     "ir35": null,
     "ir35_note": null,
-    "description": null,
-    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "description": "Mou - Childrens Social Care - Advanced Practitioner (Social Care Qualified)\nTemporary",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders?OrderNumber=5289858&TabName=Search#Search",
     "accepted_at": "2026-02-16T13:25:11.140Z",
-    "scraped_at": "2026-02-16T13:25:11.140Z",
+    "scraped_at": "2026-02-19T15:46:11.774Z",
     "attachments": []
   },
   {
@@ -807,7 +814,7 @@
     "job_title": "5280540 – Social Worker (Childrens) (Jaj... (Social and Healthcare Qualifie...)",
     "client": "Cheshire East Council",
     "procurer": null,
-    "working_address": null,
+    "working_address": "Floor 1, Delamere House, CW1 2JZ",
     "start_date": "2026-02-23",
     "end_date": "",
     "pay_from": null,
@@ -815,11 +822,18 @@
     "pay_type": null,
     "ir35": null,
     "ir35_note": null,
-    "description": null,
-    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "description": "Social Worker (Childrens) (Jajb4097 - G10) (Social and Healthcare Qualified)\nTemporary\nJAJB4097 - Social Worker - JD and PS.pdf",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders?OrderNumber=5280540&TabName=Search#Search",
     "accepted_at": "2026-02-16T12:54:00.033Z",
-    "scraped_at": "2026-02-16T12:54:00.033Z",
-    "attachments": []
+    "scraped_at": "2026-02-19T15:45:49.421Z",
+    "attachments": [
+      {
+        "filename": "JAJB4097 - Social Worker - JD and PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5280540/File/215053",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
   },
   {
     "item_id": "comensura:5284322",
@@ -829,7 +843,7 @@
     "job_title": "5284322 – Team Manager (Jajb4033-G11) (Social and Healthcare Qualifie...)",
     "client": "Cheshire East Council",
     "procurer": null,
-    "working_address": null,
+    "working_address": "Floor 1, Delamere House, CW1 2JZ",
     "start_date": "2026-01-26",
     "end_date": "",
     "pay_from": null,
@@ -837,11 +851,24 @@
     "pay_type": null,
     "ir35": null,
     "ir35_note": null,
-    "description": null,
-    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "description": "Team Manager (Jajb4033-G11) (Social and Healthcare Qualified)\nTemporary\nJAJB4033 - Team Manager - JD&PS.pdf\nJAJB4033 - Team Manager - JD and PS.pdf",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders?OrderNumber=5284322&TabName=Search#Search",
     "accepted_at": "2026-02-16T12:52:28.845Z",
-    "scraped_at": "2026-02-16T12:52:28.845Z",
-    "attachments": []
+    "scraped_at": "2026-02-19T15:45:26.273Z",
+    "attachments": [
+      {
+        "filename": "JAJB4033 - Team Manager - JD&PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5284322/File/215816",
+        "localPath": null,
+        "downloaded": false
+      },
+      {
+        "filename": "JAJB4033 - Team Manager - JD and PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5284322/File/215817",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
   },
   {
     "item_id": "comensura:5287086",
