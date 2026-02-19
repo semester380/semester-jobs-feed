@@ -467,7 +467,7 @@
     "job_title": "5289968 – Mou - Childrens Social Care -... (Social Care Qualified)",
     "client": "South Tyneside Council",
     "procurer": null,
-    "working_address": null,
+    "working_address": "Town Hall, NE33 2RL",
     "start_date": "2026-02-16",
     "end_date": "",
     "pay_from": null,
@@ -475,11 +475,18 @@
     "pay_type": null,
     "ir35": null,
     "ir35_note": null,
-    "description": null,
-    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "description": "Mou - Childrens Social Care - Advanced Practitioner (Social Care Qualified)\nTemporary\nSocial Worker (CWD) JD - 31.10.25.doc",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders?OrderNumber=5289968&TabName=Search#Search",
     "accepted_at": "2026-02-17T15:51:41.342Z",
-    "scraped_at": "2026-02-17T15:51:41.342Z",
-    "attachments": []
+    "scraped_at": "2026-02-19T15:46:57.113Z",
+    "attachments": [
+      {
+        "filename": "Social Worker (CWD) JD - 31.10.25.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5289968/File/218154",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
   },
   {
     "item_id": "comensura:5290047",
