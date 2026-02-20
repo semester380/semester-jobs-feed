@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A D0E6 / 1",
+    "source": "xms",
+    "source_ref": "000A D0E6 / 1",
+    "job_id": "000A D0E6 / 1",
+    "job_title": "Adults Social Worker [Trafford]",
+    "client": "Trafford Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "TALBOT ROAD, MANCHESTER, GREATER MANCHESTER, M32 0TH, United Kingdom",
+    "start_date": "2026-03-16",
+    "end_date": "2026-05-22",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "3 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nWe currently have a fantastic opportunity within our Safeguarding Hub for a full-time Social Worker to support our ongoing development, contribute fresh perspectives, and help drive forward best practice and innovation within the team.\n\nAbout you\n\nYour approach will embody our core values and behaviours: showing a commitment to continuous learning and improvement to achieve the best outcomes; recognising and respecting the contributions of others; collaborating to deliver high-quality services; taking ownership and responsibility to get things right and learning from challenges; and being proactive in resolving issues and embracing change to make a meaningful difference.\n\nThe successful candidate will join a highly skilled, welcoming, and supportive team, working with adults at risk to deliver proportionate, person-centred safeguarding responses across Trafford in line with current legislation and statutory guidance. Previous experience in adult social care and safeguarding, along with a strong understanding of the relevant legal frameworks including the Care Act 2014, Mental Capacity Act 2005, and Human Rights Act 1998 is essential.\n\nAbout the Role\n\nThe Safeguarding Hub serves as the single point of access for all adult safeguarding referrals received by the Local Authority. It is responsible for screening incoming concerns, coordinating provider-led safeguarding responses, and addressing organisational safeguarding concerns. In this role, you will play an active and integral part in a dedicated safeguarding team, ensuring that all responses are proportionate, person-centred, and compliant with current legislative frameworks to effectively protect and support adults at risk.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1395468?backToItem=&initialLoad=&tab=&_xmscs=286954d9423019d2efa9726d7c080efa4fb044fe9734131225f957aad5c58719ead28b34ffebde32",
+    "accepted_at": "2026-02-20T14:12:18.022Z",
+    "scraped_at": "2026-02-20T14:12:18.022Z",
+    "attachments": [
+      {
+        "filename": "Social Worker Safeguarding Hub Band 8 FINAL 30.4.25 (2).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133772?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A D0E6 _ 1/Social Worker Safeguarding Hub Band 8 FINAL 30.4.25 (2).pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A D0B6 / 1",
     "source": "xms",
     "source_ref": "000A D0B6 / 1",
