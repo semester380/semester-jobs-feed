@@ -1,5 +1,40 @@
 [
   {
+    "item_id": "000A D0B0 / 1",
+    "source": "xms",
+    "source_ref": "000A D0B0 / 1",
+    "job_id": "000A D0B0 / 1",
+    "job_title": "Team Manager Children's",
+    "client": "Barnsley Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Worsbrough Lift Building, West Street,, Barnsley, South Yorkshire, S70 5DJ",
+    "start_date": "2026-02-23",
+    "end_date": "2026-05-25",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "About the Post:\n\nThis is an exciting time to join Barnsley Children and Family Social Care. Working in partnership to achieve better outcomes for our most vulnerable children, our Social Work Team Managers are key to supporting the development of our workforce and leading best practice for children across our Children and Young People’s Service.\n\nCo-located with the police and the Integrated Front Door MASH at the Wombwell Police Station, our four Assessment Teams work with children in need of a statutory assessment and intervention. Our Assessment Teams are dynamic and energetic, driven by a passion for ensuring that children, young people, and families in our community receive a positive and timely service. The work is diverse and engaging, allowing for extensive multi-agency collaboration, often within tight deadlines. The nature of our work means that positive outcomes are seen quickly\n\nWe have recently adopted our Stronger Together practice model, underpinned by Signs of Safety and a relational approach and our managers and leaders are key to embedding this into practice. As a manager you will be responsible for the leadership and oversight of a small team of Advanced Practitioners, Social Workers and Newly Qualified Social Workers, offering regular support and supervision and driving practice in your team\n\nOur vision in Childrens Services is clear –\n\nBarnsley a place of possibilities:\n\nWe are one service with one goal, working together to build a brighter Barnsley for every child\n\n\n\nPutting Children and Families First\nWorking together in partnership to deliver joined up care\nDelivered by a strong and valued workforce\n\n\n\nOur vision and genuine commitment to supporting our teams and social workers to deliver the very best outcomes for our children and young people, makes it the perfect time for forward thinking, motivated and dedicated leaders to join us in Barnsley.\n\nWho are we looking for?\n\n\n\nYou will be a qualified social worker with significant experience of practice\nYou will have experience of delivering reflective supervision\nYou will be committed to supporting and developing teams and workers, with experience of mentoring students, NQSW’s or colleagues\nYou will have extensive experience of working in statutory children’s social work, of driving plans for our most vulnerable children and of working in partnership with families and agencies to achieve positive change\nYou will maintain an up to date knowledge of the legislation, policies and procedures and how we implement these in practice\n\n\n\nHybrid working arrangement - 3 days in the office and all week when you are on duty (one week per month).",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1395647?backToItem=&initialLoad=&tab=&_xmscs=4225458a998b5b9074c51dfe2ff7f0a67e9063446d0021573c2679b49a578e8fb7b54a257e3f4305",
+    "accepted_at": "2026-02-20T16:04:29.282Z",
+    "scraped_at": "2026-02-20T16:04:29.282Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133756?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A D0B0 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      },
+      {
+        "filename": "77281 Team Manager Profile 20170711.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133757?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A D0B0 _ 1/77281 Team Manager Profile 20170711.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5290245",
     "source": "comensura",
     "source_ref": "5290245",
