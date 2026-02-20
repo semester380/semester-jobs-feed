@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "comensura:5290250",
+    "source": "comensura",
+    "source_ref": "5290250",
+    "job_id": "5290250",
+    "job_title": "5290250 – (scas) Support Worker (Social Care Unqualified)",
+    "client": null,
+    "procurer": null,
+    "working_address": "Floor Reablement - Non-Drivers, Farmborough Court, SR5 4EU",
+    "start_date": "2026-03-02",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role Information/Duties:\n\nReablement at Home - Non Driver Positions\n\nWe offer a range of shift options between 07:00 and 22:00, with opportunities across weekdays and weekends. We aim to be flexible around your availability, depending on service needs.",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-02-20T15:00:56.502Z",
+    "scraped_at": "2026-02-20T15:00:56.502Z",
+    "attachments": [
+      {
+        "filename": "Feb26-Reablement-NonDrivers.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5290250/File/218300",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000A D0E6 / 1",
     "source": "xms",
     "source_ref": "000A D0E6 / 1",
@@ -2026,6 +2055,28 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR23606",
+    "source": "prism",
+    "source_ref": "OR23606",
+    "job_id": "OR23606",
+    "job_title": "Social Worker (Adults) (Grade 10) - Social Care Qualified",
+    "client": "Somerset Council",
+    "procurer": "Maxine Walton",
+    "working_address": "Higher Kingston, Yeovil, Somerset, BA214AT, United Kingdom",
+    "start_date": "2026-03-02",
+    "end_date": "",
+    "pay_from": "27.78",
+    "pay_to": "38.00",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "Replacement for existing Locum SW's",
+    "description": "On site Acute Hospital Social Worker to support hospital discharges in line with intermediate care process so will need knowledge of mental capacity act and discharge planning.\n\nWill need to be willing to work onsite daily\n\nJob Description attached",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=599a8ddc-67ca-4894-a3e0-580b8c9a684b",
+    "accepted_at": null,
+    "scraped_at": "2026-02-20T15:00:21.235Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR23600",
