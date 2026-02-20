@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A D0B6 / 1",
+    "source": "xms",
+    "source_ref": "000A D0B6 / 1",
+    "job_id": "000A D0B6 / 1",
+    "job_title": "Adults - Social Worker - Advanced",
+    "client": "Hiring - Leeds City Council, Leeds City Council",
+    "procurer": null,
+    "working_address": "Tribeca House, 71 Roundhay Road, Leeds, LS7 3BE, United Kingdom",
+    "start_date": "2026-04-13",
+    "end_date": "2026-04-27",
+    "pay_from": "22.2",
+    "pay_to": "22.2",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Senior Social Worker required to cover maternity leave for 30 hours per week, working within a specialist learning disability social work team. Must have experience of working with adults who have a learning disability, including all statutory work under the Care Act 2014 and MCA 2005. Knowledge of CIS preferable. Drivers preferable.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1395430?backToItem=&initialLoad=&tab=&_xmscs=54bb28cb20b10c011b03bd4675829677d112057d1ff40103168c5c5f653156611d5de7cc58dfc9e8",
+    "accepted_at": "2026-02-20T14:10:40.590Z",
+    "scraped_at": "2026-02-20T14:10:40.590Z",
+    "attachments": [
+      {
+        "filename": "Social Worker - Avanced LCC Profile v2.2 UDATED 08.11.18.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133762?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A D0B6 _ 1/Social Worker - Avanced LCC Profile v2.2 UDATED 08.11.18.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5290062",
     "source": "comensura",
     "source_ref": "5290062",
