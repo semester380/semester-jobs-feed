@@ -1501,7 +1501,7 @@
     "job_title": "5284995 – Social Worker (Childrens) (Jaj... (Social and Healthcare Qualifie...)",
     "client": "Cheshire East Council",
     "procurer": null,
-    "working_address": "Floor 7, Delamere House, CW1 2JZ",
+    "working_address": null,
     "start_date": "2026-02-23",
     "end_date": "",
     "pay_from": null,
@@ -1509,10 +1509,10 @@
     "pay_type": null,
     "ir35": null,
     "ir35_note": null,
-    "description": "Job Title (Job Category):\nSocial Worker (Childrens) (Jajb4097 - G10) (Social and Healthcare Qualified)\nJob Type:\nTemporary\nJob File(s):\nJAJB4097 - Social Worker - JD and PS.pdf",
-    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders?OrderNumber=5284995&TabName=Search#Search",
+    "description": null,
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
     "accepted_at": "2026-02-12T16:02:36.549Z",
-    "scraped_at": "2026-02-19T14:24:54.954Z",
+    "scraped_at": "2026-02-20T12:09:57.938Z",
     "attachments": [
       {
         "filename": "JAJB4097 - Social Worker - JD and PS.pdf",
