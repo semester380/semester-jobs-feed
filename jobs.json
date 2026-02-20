@@ -2121,6 +2121,28 @@
     ]
   },
   {
+    "item_id": "prism:OR23618",
+    "source": "prism",
+    "source_ref": "OR23618",
+    "job_id": "OR23618",
+    "job_title": "CSW - Senior Social Worker / Advanced Practitioner - 0-25 Disabilities (Grade J) - Social Care Qualified",
+    "client": "Barnet Council",
+    "procurer": "Andrew Nicolaou",
+    "working_address": "2 Bristol Avenue, Colindale, London, London, NW9 4EW, United Kingdom",
+    "start_date": "2026-03-06",
+    "end_date": "",
+    "pay_from": "27.32",
+    "pay_to": "37.54",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "This post sits in a children's disability team, working with young people up to 18 years.\nCandidate must have extensive experience of working in a similar team, with court work.\nHybrid working - in the office 1-2 times per week",
+    "description": "Please Add JD",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=7e4fc7fd-b566-4419-b2af-fbeb89f5e90d",
+    "accepted_at": null,
+    "scraped_at": "2026-02-20T16:36:56.970Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR23606",
     "source": "prism",
     "source_ref": "OR23606",
