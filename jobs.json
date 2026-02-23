@@ -2289,6 +2289,28 @@
     ]
   },
   {
+    "item_id": "prism:OR23711",
+    "source": "prism",
+    "source_ref": "OR23711",
+    "job_id": "OR23711",
+    "job_title": "Strategic Property Surveyors - Interims",
+    "client": "Thurrock Council",
+    "procurer": "Danielle Hadley",
+    "working_address": "New Road, Grays, Essex, RM176SL, United Kingdom",
+    "start_date": "2026-03-10",
+    "end_date": "",
+    "pay_from": "340.95",
+    "pay_to": "458.24",
+    "pay_type": "per day",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Please Add JD",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=fbaf8c76-f40c-472c-98ea-0ea0f77bd4a6",
+    "accepted_at": null,
+    "scraped_at": "2026-02-23T17:02:47.385Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR23702",
     "source": "prism",
     "source_ref": "OR23702",
