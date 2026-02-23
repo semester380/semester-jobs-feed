@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A CA0A / 1",
+    "source": "xms",
+    "source_ref": "000A CA0A / 1",
+    "job_id": "000A CA0A / 1",
+    "job_title": "Adults Social Worker [Manchester City Council]",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Wythenshawe Hospital, Manchester, Lancashire, M23 9LT, United Kingdom",
+    "start_date": "2026-03-16",
+    "end_date": "2026-05-25",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Social worker required for the hospital discharge to assess team based at Wythenshawe hospital\n\nExperience of working in discharge to assess and hospitals required\n\n\n\n3 years reference, gaps in employment history checked, any relevant quals as per JDPS",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1395787?backToItem=&initialLoad=&tab=&_xmscs=ebbb7f4e6bbc92efab56bdfa0523225f919edd05eb710e81b729ca6c7331d8e5c76c9d471484761f",
+    "accepted_at": "2026-02-23T09:33:48.557Z",
+    "scraped_at": "2026-02-23T09:33:48.557Z",
+    "attachments": [
+      {
+        "filename": "Manchester Adults EVP.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133345?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A CA0A _ 1/Manchester Adults EVP.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A D0B0 / 1",
     "source": "xms",
     "source_ref": "000A D0B0 / 1",
