@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A D05D / 1",
+    "source": "xms",
+    "source_ref": "000A D05D / 1",
+    "job_id": "000A D05D / 1",
+    "job_title": "Independent fostering reviewing officer [Wigan Council]",
+    "client": "Wigan Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "College Avenue, Wigan, WN1 1NJ",
+    "start_date": "2026-03-16",
+    "end_date": "2026-04-30",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are delighted to be able to recruit an additional part time Independent Fostering Reviewing Officer  to join Wigan’s Independent Safeguarding and Quality Assurance Unit.\n\nThe Independent Fostering Reviewing Officer will ensure that the Local Authority fulfils its statutory responsibility to undertake a review of the approved foster carers.\n\nThe Independent Fostering Reviewing Officer will:\n\nYou will have responsibility for the process of reviewing Wigan Children’s Services approved foster carers by organising, advising, and chairing the statutory reviews of foster carers\n\nYou will provide advice to foster carers and practitioners and hold a scrutiny and challenge role for ensuring effective assessment, CPD/ training, support and supervision, statutory visiting and achieving positive outcomes for children in their  care.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1396175?backToItem=&initialLoad=&tab=&_xmscs=3ba126b064eb6ffe63f191b75056a16c2c0d43c8c3270dde307731940085be5158d14e1c52938afc",
+    "accepted_at": "2026-02-23T15:45:50.909Z",
+    "scraped_at": "2026-02-23T15:45:50.909Z",
+    "attachments": [
+      {
+        "filename": "ECP5430 - FIRO - EY108.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133733?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A D05D _ 1/ECP5430 - FIRO - EY108.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5290329",
     "source": "comensura",
     "source_ref": "5290329",
