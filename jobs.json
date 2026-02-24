@@ -2289,6 +2289,28 @@
     ]
   },
   {
+    "item_id": "prism:OR23757",
+    "source": "prism",
+    "source_ref": "OR23757",
+    "job_id": "OR23757",
+    "job_title": "Social Worker - Standard (Childrens) - Social Care Qualified",
+    "client": "Knowsley Borough Council",
+    "procurer": "Rachel Daintry",
+    "working_address": "2nd Floor, Nutgrove Villa, Westmorland Road, Huyton, Merseyside, L36 6GA, United Kingdom",
+    "start_date": "2026-03-09",
+    "end_date": "",
+    "pay_from": "29.77",
+    "pay_to": "39.15",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "This is a role within the fostering service. It will involve primarily completing fostering assessments; connected carer assessments (form K), mainstream fostering assessments (form F), viabilities, reg 24 assessments and initial visits.",
+    "description": "This is a role within the fostering service. It will involve primarily completing fostering assessments; connected carer assessments (form K), mainstream fostering assessments (form F), viabilities, reg 24 assessments and initial visits to timescale.\n\nThe role will also involve being part of a duty rota in the fostering service and will involve some mainstream fostering recruitment activity when required.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=fc773e6b-f597-456b-bdad-a4eb65730b77",
+    "accepted_at": null,
+    "scraped_at": "2026-02-24T11:50:18.498Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR23725",
     "source": "prism",
     "source_ref": "OR23725",
