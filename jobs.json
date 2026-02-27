@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A CC7A / 1",
+    "source": "xms",
+    "source_ref": "000A CC7A / 1",
+    "job_id": "000A CC7A / 1",
+    "job_title": "Adults Review Lead - Mental Health",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Town Hall Extension, Albert Square, Manchester, Lancashire, M60 2LA, United Kingdom",
+    "start_date": "2026-03-23",
+    "end_date": "2026-08-31",
+    "pay_from": "32",
+    "pay_to": "32",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "This is a unique and exciting opportunity to play a key role in shaping the future of mental health social care in Manchester. The post is temporary ahead of a planned transfer of Mental Health Social Workers to Manchester City Council as part of our ambitious Transformation Programme. Designed as a ‘test of change’, this role will help us realise our aspirations to improve outcomes for people receiving commissioned care—particularly those in supported living and individuals eligible for support under Section 117 of the Mental Health Act. We are looking for someone who can hit the ground running, working closely with the Performance and Governance Manager to provide quality assurance for commissioned care decisions. You will help reduce delays, improve efficiencies in access to care and support, and explore innovative ways to enhance recovery journeys. To succeed, you’ll need experience in mental health social care and strong collaboration skills with housing providers and commissioning colleagues.\n\nNeed to have knowledge and experience of The care act, reviews, Working with brokerage teams , Commissioning, Legal processes\n\nIdeally previously worked within management or as an AMHP",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1398359?backToItem=&initialLoad=&tab=&_xmscs=1b19b56fa68a328928b10f5726f75e935b14f9cdcb5d017191c7b74547b9a3df12c7910fddc30c9d",
+    "accepted_at": "2026-02-27T09:46:24.422Z",
+    "scraped_at": "2026-02-27T09:46:24.422Z",
+    "attachments": [
+      {
+        "filename": "Lead_Reviewing_Social_Worker_Role_Profile final.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133631?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A CC7A _ 1/Lead_Reviewing_Social_Worker_Role_Profile final.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5290656",
     "source": "comensura",
     "source_ref": "5290656",
