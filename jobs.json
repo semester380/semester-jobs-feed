@@ -2500,6 +2500,28 @@
     ]
   },
   {
+    "item_id": "prism:OR24073",
+    "source": "prism",
+    "source_ref": "OR24073",
+    "job_id": "OR24073",
+    "job_title": "Youth Offending Team Officer (Grade I) (Non-Qualified) - Social Care Non-Qualified",
+    "client": "Barnet Council",
+    "procurer": "Nicola Smith",
+    "working_address": "2 Bristol Avenue, Colindale, London, London, NW9 4EW, United Kingdom",
+    "start_date": "2026-03-17",
+    "end_date": "",
+    "pay_from": "22.08",
+    "pay_to": "28.79",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "Restorative Justice & Victim Officer:\nKey accountabilities\n• To initiate consistent and high-quality contact with victims of crimes committed by young people and to co-ordinate their engagement with the Youth Justice Service.\n• To undertake assessments of victim’s needs in accordance with effective practice guidelines to ascertain the appropriate level of intervention required\n• To work with young people who have offended, their families and with victims promoting restorative justice",
+    "description": "Please Add JD",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=0fbb28b9-1687-45d1-bfba-fcb1f7e7f888",
+    "accepted_at": null,
+    "scraped_at": "2026-02-27T14:55:22.156Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR24015",
     "source": "prism",
     "source_ref": "OR24015",
