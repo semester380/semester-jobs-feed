@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A D0E8 / 1",
+    "source": "xms",
+    "source_ref": "000A D0E8 / 1",
+    "job_id": "000A D0E8 / 1",
+    "job_title": "Care Assistant (G4)",
+    "client": "Wakefield Authorising, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "102 Flanshaw Lane, Wakefield, West Yorkshire, WF2 9JE",
+    "start_date": "2026-02-23",
+    "end_date": "2026-03-01",
+    "pay_from": "13.26",
+    "pay_to": "13.26",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Cover for Flanshaw Lodge",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1398881?backToItem=&initialLoad=&tab=&_xmscs=e79c864977db3aa128c2c27d44785c0d0a75ea8b574bcb8bfe6ee985931a8c94affad71e01b254f9",
+    "accepted_at": "2026-02-28T17:25:44.286Z",
+    "scraped_at": "2026-02-28T17:25:44.286Z",
+    "attachments": [
+      {
+        "filename": "Care Assistant (G4).docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133770?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A D0E8 _ 1/Care Assistant (G4).docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A D5D7 / 1",
     "source": "xms",
     "source_ref": "000A D5D7 / 1",
