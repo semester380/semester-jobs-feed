@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "comensura:5290814",
+    "source": "comensura",
+    "source_ref": "5290814",
+    "job_id": "5290814",
+    "job_title": "5290814 – Senior Social Worker (Bcft Dfe... (Social and Healthcare Qualifie...)",
+    "client": "Bradford Metropolitan District Council",
+    "procurer": null,
+    "working_address": "Sir Henry Mitchell House, BD5 0QL",
+    "start_date": "2026-03-16",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role Information/Duties:\n\nAG489 - 27.02.26",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-03-01T01:55:37.748Z",
+    "scraped_at": "2026-03-01T01:55:37.748Z",
+    "attachments": [
+      {
+        "filename": "Senior Social Worker CFT.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5290814/File/218583",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000A D0E8 / 1",
     "source": "xms",
     "source_ref": "000A D0E8 / 1",
