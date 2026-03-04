@@ -1,5 +1,27 @@
 [
   {
+    "item_id": "comensura:5291004",
+    "source": "comensura",
+    "source_ref": "5291004",
+    "job_id": "5291004",
+    "job_title": "5291004 – Care Assistant (Grade 3) (Social Care - Unqualified)",
+    "client": "Lancashire County Council",
+    "procurer": null,
+    "working_address": "Lady Elsie Finney House Residential Care Home, PR2 3XH",
+    "start_date": "2026-03-01",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role Information/Duties:",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-03-04T07:54:09.033Z",
+    "scraped_at": "2026-03-04T07:54:09.033Z",
+    "attachments": []
+  },
+  {
     "item_id": "comensura:5291020",
     "source": "comensura",
     "source_ref": "5291020",
