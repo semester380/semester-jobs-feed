@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "comensura:5291223",
+    "source": "comensura",
+    "source_ref": "5291223",
+    "job_id": "5291223",
+    "job_title": "5291223 – Residential Worker (Secure) -... (Social Care Unqualified)",
+    "client": "Durham County Council",
+    "procurer": null,
+    "working_address": "16 Hickstead Rise, DL5 4TP",
+    "start_date": "2025-09-01",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role Information/Duties:",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-03-06T09:24:13.695Z",
+    "scraped_at": "2026-03-06T09:24:13.695Z",
+    "attachments": [
+      {
+        "filename": "Residential Worker - A4960 JDPS.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5291223/File/218756",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5290968",
     "source": "comensura",
     "source_ref": "5290968",
