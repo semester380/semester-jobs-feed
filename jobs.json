@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A DF07 / 1",
+    "source": "xms",
+    "source_ref": "000A DF07 / 1",
+    "job_id": "000A DF07 / 1",
+    "job_title": "Childrens Team Manager [Trafford]",
+    "client": "Trafford Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "TALBOT ROAD, MANCHESTER, GREATER MANCHESTER, M32 0TH, United Kingdom",
+    "start_date": "2026-04-06",
+    "end_date": "2026-09-27",
+    "pay_from": "45",
+    "pay_to": "45",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Practice Manager required at Trafford Council\n\nThe service provides oversight and management of casework for children and young people who have a permanent care plan. The Practice Manager ensures that placements remain stable, needs are met with minimal disruption, and that each child or young person receives the support and time they need to understand their journey and begin to heal from the impact of past experiences.\n\nOur aim is to sustain long-term, trusted relationships by coordinating the care and guidance essential to creating a sense of belonging and stability for children following care proceedings. The role brings together professionals and partners around the child and their carers, building a strong, consistent network of support that promotes positive outcomes and long-term wellbeing.\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1403926?backToItem=&initialLoad=&tab=&_xmscs=9cfbc914d398ad13c01fc5c087799aa65e3d57d2cdd0ab9a739cf2df53c999d292f124bfb03028a9",
+    "accepted_at": "2026-03-12T16:41:22.040Z",
+    "scraped_at": "2026-03-12T16:41:22.040Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134542?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A DF07 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A D910 / 1",
     "source": "xms",
     "source_ref": "000A D910 / 1",
