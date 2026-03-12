@@ -1,5 +1,46 @@
 [
   {
+    "item_id": "000A D913 / 1",
+    "source": "xms",
+    "source_ref": "000A D913 / 1",
+    "job_id": "000A D913 / 1",
+    "job_title": "Children's Social Worker [Salford]",
+    "client": "Salford City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Chorley Road, Swinton, Greater Manchester, M27 5DA, United Kingdom",
+    "start_date": "2026-04-20",
+    "end_date": "2026-05-29",
+    "pay_from": "39",
+    "pay_to": "39",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "CP / CIN Team\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1403830?backToItem=&initialLoad=&tab=&_xmscs=b5eade866f3ced9ba8012ac825a0659aeae79521a81eac8f22d53d135c355ff327435fa1dfc437ec",
+    "accepted_at": "2026-03-12T16:01:28.187Z",
+    "scraped_at": "2026-03-12T16:01:28.187Z",
+    "attachments": [
+      {
+        "filename": "6171_ThisIsSalford_Feb2023_v3 (1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134192?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A D913 _ 1/6171_ThisIsSalford_Feb2023_v3 (1).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "6173_Why work for TeamSalford_v7 (1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134193?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A D913 _ 1/6173_Why work for TeamSalford_v7 (1).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134194?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A D913 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A DDD1 / 1",
     "source": "xms",
     "source_ref": "000A DDD1 / 1",
