@@ -1,5 +1,46 @@
 [
   {
+    "item_id": "000A E04B / 1",
+    "source": "xms",
+    "source_ref": "000A E04B / 1",
+    "job_id": "000A E04B / 1",
+    "job_title": "Senior Social Worker (Childrens)",
+    "client": "Wakefield Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Market Place, Wakefield, West Yorkshire, WF1 1DF",
+    "start_date": "2026-03-16",
+    "end_date": "2026-07-16",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "For CIC Team",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1403484?backToItem=&initialLoad=&tab=&_xmscs=1946a7df6c1263fba989e16224d752b940a20b9fa0fcbe942a69d34868481133ec64fa5aee65519b",
+    "accepted_at": "2026-03-12T09:39:57.481Z",
+    "scraped_at": "2026-03-12T09:39:57.481Z",
+    "attachments": [
+      {
+        "filename": "Senior Social Worker (Children).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134612?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E04B _ 1/Senior Social Worker (Children).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "Wakefield Your Temp Experience.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134613?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E04B _ 1/Wakefield Your Temp Experience.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134614?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E04B _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5291378",
     "source": "comensura",
     "source_ref": "5291378",
