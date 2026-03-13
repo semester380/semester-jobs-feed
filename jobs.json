@@ -3187,6 +3187,28 @@
     ]
   },
   {
+    "item_id": "prism:OR25163",
+    "source": "prism",
+    "source_ref": "OR25163",
+    "job_id": "OR25163",
+    "job_title": "CSW - Senior Social Worker / Advanced Practitioner - Duty & Assessment (Grade J) - Social Care Qualified",
+    "client": "Barnet Council",
+    "procurer": "Andrew Nicolaou",
+    "working_address": "2 Bristol Avenue, Colindale, London, London, NW9 4EW, United Kingdom",
+    "start_date": "2026-03-24",
+    "end_date": "",
+    "pay_from": "27.32",
+    "pay_to": "37.54",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "1-2 days per week in the office and visits to families. every 4th week is a duty week and they will need to be office based all of that week.",
+    "description": "candidate must have at least 3 years experience of working in an assessment team",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=af2c13bb-7f50-44f7-b89d-232f68d1fbf5",
+    "accepted_at": null,
+    "scraped_at": "2026-03-13T12:15:28.768Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR25159",
     "source": "prism",
     "source_ref": "OR25159",
