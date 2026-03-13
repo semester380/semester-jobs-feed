@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A E18E / 1",
+    "source": "xms",
+    "source_ref": "000A E18E / 1",
+    "job_id": "000A E18E / 1",
+    "job_title": "Adults Social Worker [Blackpool]",
+    "client": "Blackpool Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Talbot Gateway, Blackpool, Lancashire, FY1 3AH, United Kingdom",
+    "start_date": "2026-04-20",
+    "end_date": "2026-05-04",
+    "pay_from": "30.66",
+    "pay_to": "30.66",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "3 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\n1 x 37 Learning Disability Social Worker\n\nOpportunity for a qualified, experienced Social Worker to work in the learning disability team.\n\nWe operate a flexible working policy which allows up to two days working from home and three days office based.\n\nThis role may be required to cover duty which is an office based task.\n\nExperience of working as a safeguarding lead and coordinating and carrying out safeguarding enquiries.\n\nExperience also required of carrying out assessments and reviews under the Care Act 2014.\n\nWe have a variety of parking options available for staff and good links to public transport.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1404126?inst=1404126--Distribution--1579767944-false&_csrf=3f0c398a-f260-463a-b18d-f4983bef361a&_xmscs=6c5bc54aa388375cd58373b68174c5b70b730b21521b3b792af2cd35b475e977cda58a23b36e6068",
+    "accepted_at": "2026-03-13T09:41:59.136Z",
+    "scraped_at": "2026-03-13T09:41:59.136Z",
+    "attachments": [
+      {
+        "filename": "JD - 8034.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134690?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E18E _ 1/JD - 8034.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A DF87 / 1",
     "source": "xms",
     "source_ref": "000A DF87 / 1",
