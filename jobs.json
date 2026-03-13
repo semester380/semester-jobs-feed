@@ -1,5 +1,40 @@
 [
   {
+    "item_id": "000A DF87 / 1",
+    "source": "xms",
+    "source_ref": "000A DF87 / 1",
+    "job_id": "000A DF87 / 1",
+    "job_title": "Children's Independent Reviewing Officer [Bolton]",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Castleton Street, Tonge Moor, Bolton, Lancashire, BL2 2JW, United Kingdom",
+    "start_date": "2026-04-13",
+    "end_date": "2026-06-19",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Suppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.\n\nWe are looking to appoint an experienced IRO to support the team in processing Subject Access Requests from care leavers.\n\nThe role will be based at Castle Hill with the IRO team and the Town Hall, with the Information Governance team  when required.  Some home working will be available to suit the needs of the service.\n\nApplicants must have an understanding of relevant legislation.\n\n37 hours per week - free parking at the Castle Hill location\n\nReferences will be requested for candidates invited to interview",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1404081?backToItem=&initialLoad=&tab=&_xmscs=c3edde743d6c0b2ff08beaa54429ff8d0cc9a0cf9daf001a337edd0321d29f832a6e59557c1e98af",
+    "accepted_at": "2026-03-13T09:28:43.073Z",
+    "scraped_at": "2026-03-13T09:28:43.073Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134566?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A DF87 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      },
+      {
+        "filename": "066-CH26_IRO.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134567?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A DF87 _ 1/066-CH26_IRO.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A DF07 / 1",
     "source": "xms",
     "source_ref": "000A DF07 / 1",
