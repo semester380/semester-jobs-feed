@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A D83E / 1",
+    "source": "xms",
+    "source_ref": "000A D83E / 1",
+    "job_id": "000A D83E / 1",
+    "job_title": "Childrens Social Worker [Manchester City Council]",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Etrop Court, Rowlandsway, Manchester, Lancashire, M22 5RG, United Kingdom",
+    "start_date": "2026-04-13",
+    "end_date": "2026-06-30",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "** Rate Negotiable depending on experience **\n\nThe position is for a social worker within the court & locality service to work with children who are subject to CIN, CP, pre-proceedings, court proceedings.  The candidate will be based within a team of 2 advanced Practitioners and 4 social workers, all managed by an experienced team manager.\n\nThe candidate will be provided with regular supervision and access to training alongside their peers.  Caseloads are manageable with support from advanced practitioners, team manager and a social work consultant.  A weekly service wide learning morning is held to support with discrete areas of practice and sharing of good practice.\n\nThe post is office based as this promotes team identify and team support but home working can be agreed by the team manager for specific pieces of work.\n\nThere is free car parking close to the office.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1404599?backToItem=&initialLoad=&tab=&_xmscs=846adf970f266427a8434739ed4ae17a96e0f283889129c58699c68002c45208b78550645918ea78",
+    "accepted_at": "2026-03-13T15:10:59.773Z",
+    "scraped_at": "2026-03-13T15:10:59.773Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134148?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A D83E _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5292678",
     "source": "comensura",
     "source_ref": "5292678",
