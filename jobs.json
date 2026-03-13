@@ -3407,6 +3407,28 @@
     ]
   },
   {
+    "item_id": "prism:OR25213",
+    "source": "prism",
+    "source_ref": "OR25213",
+    "job_id": "OR25213",
+    "job_title": "CSW - Senior Practitioner - MASH/R&A/CP/FP PP1 - Social Care Qualified",
+    "client": "London Borough of Bexley",
+    "procurer": "Kwasi Amoako",
+    "working_address": "Civic Offices, 2 Watling Street, Bexleyheath, Kent, DA6 7AT, United Kingdom",
+    "start_date": "2026-03-30",
+    "end_date": "",
+    "pay_from": "28.41",
+    "pay_to": "38.69",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Please Add JD",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=a94d6aef-d759-48c5-bb14-6b0e7a282a16",
+    "accepted_at": null,
+    "scraped_at": "2026-03-13T16:18:14.921Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR25199",
     "source": "prism",
     "source_ref": "OR25199",
