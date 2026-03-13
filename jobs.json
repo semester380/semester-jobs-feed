@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A A807 / 1",
+    "source": "xms",
+    "source_ref": "000A A807 / 1",
+    "job_id": "000A A807 / 1",
+    "job_title": "ADHOC RCO Blossom House",
+    "client": "Children, Young People and Families, City of Doncaster Council",
+    "procurer": null,
+    "working_address": "1 Dove Lane, Woodlands, Doncaster, DN6 7FW",
+    "start_date": "2026-03-16",
+    "end_date": "2026-04-30",
+    "pay_from": "14.13",
+    "pay_to": "14.13",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Adhoc order for Blossom House",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1404289?backToItem=&initialLoad=&tab=&_xmscs=9c8c19ee8ec7fc22c60dc1da6790afb602826eff6cdad7470d2829c3ca495472b8d12133fef4c1e9",
+    "accepted_at": "2026-03-13T12:59:50.292Z",
+    "scraped_at": "2026-03-13T12:59:50.292Z",
+    "attachments": [
+      {
+        "filename": "Residential Care Officer JD.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/131652?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A A807 _ 1/Residential Care Officer JD.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5289672",
     "source": "comensura",
     "source_ref": "5289672",
