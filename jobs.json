@@ -3114,6 +3114,28 @@
     ]
   },
   {
+    "item_id": "prism:OR25125",
+    "source": "prism",
+    "source_ref": "OR25125",
+    "job_id": "OR25125",
+    "job_title": "Business Support Minute Taker - Admin & Clerical",
+    "client": "Sefton MBC",
+    "procurer": "Olivia Rawcliffe",
+    "working_address": "Trinity Road, Bootle, Merseyside, L20 3NJ, United Kingdom",
+    "start_date": "2026-03-23",
+    "end_date": "",
+    "pay_from": "13.63",
+    "pay_to": "17.72",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Please Add JD",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=7103d67d-b27a-42d0-b3ac-f5276ad65951",
+    "accepted_at": null,
+    "scraped_at": "2026-03-13T10:27:02.920Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR25117",
     "source": "prism",
     "source_ref": "OR25117",
