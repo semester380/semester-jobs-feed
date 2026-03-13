@@ -1,5 +1,104 @@
 [
   {
+    "item_id": "000A DF61 / 1",
+    "source": "xms",
+    "source_ref": "000A DF61 / 1",
+    "job_id": "000A DF61 / 1",
+    "job_title": "Children's Team Manager [Bolton]",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Castleton Street, Tonge Moor, Bolton, Lancashire, BL2 2JW, United Kingdom",
+    "start_date": "2026-04-13",
+    "end_date": "2026-06-19",
+    "pay_from": "43",
+    "pay_to": "43",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.\n\nWe are looking to recruit an experienced  Integrated Front Door (IFD) Team Manager to lead the team in as the point of contact for enquiries and referrals relating to children and young people made by professionals, families and the public.\n\nThe IFD is a team of multi-agency professionals including Child Protection social workers, Early Help Access Point workers, Health, Police and other partner agencies. These agencies work together to provide advice and guidance and to jointly triage referrals made in respect of children and navigate them to the correct service.\n\nFull-time post – 37 hour per week\n\nThe post is office based.\n\nFree on-site parking\n\nFor full duties see the attached JD/PS\n\nReferences will be requested for any candidates offered an interview and DBS requested for any candidate offered a post.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1404315?backToItem=&initialLoad=&tab=&_xmscs=6c4df88be10900fa4b7341060915511812f975383d6b90453364dd02f2772444b83027dfd8c6814c",
+    "accepted_at": "2026-03-13T13:32:12.294Z",
+    "scraped_at": "2026-03-13T13:32:12.294Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134554?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A DF61 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      },
+      {
+        "filename": "IFD TM Job Description and Person Specification Feb 26.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134555?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A DF61 _ 1/IFD TM Job Description and Person Specification Feb 26.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
+    "item_id": "000A E177 / 1",
+    "source": "xms",
+    "source_ref": "000A E177 / 1",
+    "job_id": "000A E177 / 1",
+    "job_title": "Childrens - Social Work Team Manager",
+    "client": "Hiring - Leeds City Council, Leeds City Council",
+    "procurer": null,
+    "working_address": "Deacon House, Seacroft Avenue, Leeds, West Yorkshire, LS14 6JD",
+    "start_date": "2026-03-23",
+    "end_date": "2026-04-05",
+    "pay_from": "35.13",
+    "pay_to": "35.13",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are looking for Children's Social work Team managers to manage busy area teams. Applicants must have experneice of team managing and be compietent in managing from referral through to permamance.\n\nCandidates must be able to evidence competence in managing\n\nReferrals, through Assessment & Child in Needs, strategy discussion, S47 to Child Protection, Pre-Proceedings through court proceedings into permanace and adoption.\nPracticing in line with the councils restoritive and family led approach.\nmanage and influence team culture\nsupport with performance, case decision making and outcome focussed supervision.\nManage staff welfare, performance and HR.\n\nApplicants will be mainly office based and available between office hours 8.30 - 5 with some flexibility to support to see through cases / safety planning.\n\nAs Leeds is a restorative and relationship based organisation, candidates are expected to be office based initially to get to know the team and service, with some hybrid working negotiated thereafter on non-duty weeks.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1404344?backToItem=&initialLoad=&tab=&_xmscs=51a9740c302c3f0b6722d49d4d7442c5e0cfad7ba33e9dddaee5ede2d1daaf032eb95cf117feba12",
+    "accepted_at": "2026-03-13T13:29:08.833Z",
+    "scraped_at": "2026-03-13T13:29:08.833Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134678?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E177 _ 1/DfE Recommendation Attribute.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
+    "item_id": "000A E17E / 1",
+    "source": "xms",
+    "source_ref": "000A E17E / 1",
+    "job_id": "000A E17E / 1",
+    "job_title": "Childrens - Advanced Practitioner",
+    "client": "Hiring - Leeds City Council, Leeds City Council",
+    "procurer": null,
+    "working_address": "Deacon House, Seacroft Avenue, Leeds, LS14 6JD",
+    "start_date": "2026-03-23",
+    "end_date": "2026-04-05",
+    "pay_from": "32.5",
+    "pay_to": "32.5",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are looking for an experienced social worker who is able to manage a caseload comprising of Child and Family Assessments, Child in Need, Child Protection, Child Care Proceedings until permanence. This caseload will have a level of complexity and lead worker responsibilities working alongside other social workers, it will not have supervisory / line manager responsibilities. Social workers should be able to practice restoratively with child and families and promote family led decisions to manage risk and meet support needs.\n\nApplicants must demonstrate excellent relational work with children and families and be able to engage children through direct work and child centred practice.\n\nOrganisation skills and ability to meet competing demands are required to ensure practice standards, good quality and practice and performance.\n\nThe post requires workers to have good analytical assessment skills and with high quality written work.\n\nSocial workers will need to work as part of a busy but supportive team and share their knowledge and skills to promote the learning culture.\n\nApplicants must be able to drive and have use of a car.\n\n37 hours per week 8.30 – 5pm.\n\nMust be office based for duty but hybrid working is negotiable dependant on the needs of the team (due to the relational approach of the organisation, it is envisaged this will be office based on duty weeks and one WFH home day/compressed hours on non-duty).\n\nMust have a clean DBS",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1404381?backToItem=&initialLoad=&tab=&_xmscs=5c85f0c454244772313116080dcd0fac79092e397413917521ffb71aa17d4bdb3a64b0642c664a6b",
+    "accepted_at": "2026-03-13T13:26:05.280Z",
+    "scraped_at": "2026-03-13T13:26:05.280Z",
+    "attachments": [
+      {
+        "filename": "Childrens - Advanced Practitioner LCC Profile v1.0.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134682?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E17E _ 1/Childrens - Advanced Practitioner LCC Profile v1.0.docx",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134683?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E17E _ 1/DfE Recommendation Attribute.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A A807 / 1",
     "source": "xms",
     "source_ref": "000A A807 / 1",
