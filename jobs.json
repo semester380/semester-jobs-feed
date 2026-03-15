@@ -1,5 +1,40 @@
 [
   {
+    "item_id": "000A E223 / 1",
+    "source": "xms",
+    "source_ref": "000A E223 / 1",
+    "job_id": "000A E223 / 1",
+    "job_title": "Family Support Worker (Childrens)",
+    "client": "Wakefield Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Market Place, Wakefield, West Yorkshire, WF1 1DF",
+    "start_date": "2026-03-23",
+    "end_date": "2026-06-14",
+    "pay_from": "16.62",
+    "pay_to": "16.62",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Experience in supervising family time (contact) is a key part of this role and therefore experience is essential\n\nNeed to be able to drive - sometimes will need to pick up children and take them home but will need to travel across the Wakefield district and out of the area - Will need own business car insurance\n\nMonday - Friday 0830 - 5pm and run the contacts throughout the day",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1404725?backToItem=&initialLoad=&tab=&_xmscs=e89326c3e0217cdfdb7d53d7d4ce075e1aa777d821687cd26d3d64850a2f031b142b02e6924251a4",
+    "accepted_at": "2026-03-15T15:14:21.477Z",
+    "scraped_at": "2026-03-15T15:14:21.477Z",
+    "attachments": [
+      {
+        "filename": "Wakefield Your Temp Experience.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134709?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E223 _ 1/Wakefield Your Temp Experience.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "Family Support Worker (Children’s).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134710?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E223 _ 1/Family Support Worker (Children’s).pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5287751",
     "source": "comensura",
     "source_ref": "5287751",
