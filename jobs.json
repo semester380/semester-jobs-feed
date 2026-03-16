@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A E2CB / 1",
+    "source": "xms",
+    "source_ref": "000A E2CB / 1",
+    "job_id": "000A E2CB / 1",
+    "job_title": "Social Worker - Advanced (Adults) (G10)",
+    "client": "Wakefield Authorising, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Holywell Lane, Castleford , WF10 3HH",
+    "start_date": "2026-03-23",
+    "end_date": "2026-06-01",
+    "pay_from": "22.2",
+    "pay_to": "22.2",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Senior Social Worker- G10\n\nTo work in Social Care Direct Team\n\n3 months contract\n\nAddress: Holywell Lane, Castleford, WF10 3HH",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1404938?backToItem=&initialLoad=&tab=&_xmscs=e415b9f9bfe1d706844613daa41fcd64b02e6e3e5de3d342f196c90f2c88ce25d492498f0485fb1e",
+    "accepted_at": "2026-03-16T13:12:09.451Z",
+    "scraped_at": "2026-03-16T13:12:09.451Z",
+    "attachments": [
+      {
+        "filename": "G10 Senior Social Worker October 2024.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134764?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E2CB _ 1/G10 Senior Social Worker October 2024.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A E223 / 1",
     "source": "xms",
     "source_ref": "000A E223 / 1",
@@ -3469,6 +3498,28 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR25272",
+    "source": "prism",
+    "source_ref": "OR25272",
+    "job_id": "OR25272",
+    "job_title": "CSW - Senior Social Worker / Advanced Practitioner - Duty & Assessment (Grade J) - Social Care Qualified",
+    "client": "Barnet Council",
+    "procurer": "Andrew Nicolaou",
+    "working_address": "2 Bristol Avenue, Colindale, London, London, NW9 4EW, United Kingdom",
+    "start_date": "2026-04-02",
+    "end_date": "",
+    "pay_from": "27.32",
+    "pay_to": "37.54",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "1-2 days per week in the office and visits to families. every 4th week is a duty week and they will need to be office based all of that week.",
+    "description": "candidate must have at least 3 years experience of working in an assessment team",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=c57a2b9d-0323-48ce-b18d-978aee84db81",
+    "accepted_at": null,
+    "scraped_at": "2026-03-16T13:12:39.127Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR25253",
