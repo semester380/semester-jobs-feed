@@ -3663,6 +3663,28 @@
     ]
   },
   {
+    "item_id": "prism:OR25353",
+    "source": "prism",
+    "source_ref": "OR25353",
+    "job_id": "OR25353",
+    "job_title": "Scheduler - Admin & Clerical",
+    "client": "Southern Housing",
+    "procurer": "CARLA PESTANA",
+    "working_address": "Unit 11, The Tramsheds, Coomber Way, Croydon, London, CR0 4TQ, United Kingdom",
+    "start_date": "2026-03-23",
+    "end_date": "",
+    "pay_from": "13.92",
+    "pay_to": "18.02",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": null,
+    "description": "Please see JD attached - Office based role",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=774cb38a-26e4-49cc-8074-12de14d8e237",
+    "accepted_at": null,
+    "scraped_at": "2026-03-17T11:33:58.872Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR25346",
     "source": "prism",
     "source_ref": "OR25346",
