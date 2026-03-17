@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "comensura:5292995",
+    "source": "comensura",
+    "source_ref": "5292995",
+    "job_id": "5292995",
+    "job_title": "5292995 – Social Work Team Manager - Adu... (Social Care Qualified)",
+    "client": "Newcastle City Council",
+    "procurer": null,
+    "working_address": "Westgate Community College, NE4 9LU",
+    "start_date": "2026-03-23",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role Information/Duties:",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-03-17T11:16:29.257Z",
+    "scraped_at": "2026-03-17T11:16:29.257Z",
+    "attachments": [
+      {
+        "filename": "JD - Team Manager (AA343).pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5292995/File/219111",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000A E324 / 1",
     "source": "xms",
     "source_ref": "000A E324 / 1",
@@ -3632,6 +3661,28 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR25346",
+    "source": "prism",
+    "source_ref": "OR25346",
+    "job_id": "OR25346",
+    "job_title": "Adult Senior Social Worker - Safeguarding Hub - Social Care Qualified",
+    "client": "Bromley Council",
+    "procurer": "Zubair Mohammad",
+    "working_address": "Churchill Court, 2 Westmoreland Road, Bromley, Kent, BR1 1AS , United Kingdom",
+    "start_date": "2026-03-30",
+    "end_date": "",
+    "pay_from": "26.72",
+    "pay_to": "34.91",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "Adult Senior Social Worker\nAdult Safeguarding Hub\n3-month contract\n£36 p/h\nPlease only submit candidates that have SENIOR SW experience",
+    "description": "Locum Senior Social Worker\n\nAdults Safeguarding Hub\n\n£36 PH - non negotiable\n\nPlease only submit candidates that have SENIOR SW experience\n\nPlease only submit candidates that can start in 1-2 weeks\n\nAs part of the Safeguarding Hub, you will lead on screening all safeguarding referrals, allocate work to staff, oversee end-to-end safeguarding processes, and provide supervision to staff carrying out Section 42 enquiries. You will be able to work under pressure, manage your time effectively, communicate clearly, and have experience in managing Section 42 enquiries.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=bbfa7f7f-04c5-4dfd-9ec1-19c73f44f887",
+    "accepted_at": null,
+    "scraped_at": "2026-03-17T11:15:55.520Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR25323",
