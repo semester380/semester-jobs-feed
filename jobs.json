@@ -1,5 +1,40 @@
 [
   {
+    "item_id": "000A E278 / 1",
+    "source": "xms",
+    "source_ref": "000A E278 / 1",
+    "job_id": "000A E278 / 1",
+    "job_title": "Independent Reviewing Officer / Conference Chair Children's",
+    "client": "Barnsley Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Westgate Plaza One, 1 Westgate, Western Street, Barnsley, South Yorkshire, S70 2DR",
+    "start_date": "2026-03-30",
+    "end_date": "2026-06-30",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Driving is required, full time only, 3 days onsite minimum\n\nWhilst this is advertised as an Independent Reviewing Officer role the candidate must have experience in the below outlines areas of experience, particularly reg 44 visits.\n\nTo ensure a high quality, safe, compliant placement provision for children and young people by maintaining robust QA systems, monitoring provider performance, coordinating due diligence processes, and supporting continuous improvement across the Children’s Placements service. The postholder will be required to visit residential homes and complete Quality Assurance, and be confident to respond to serious concerns. The postholder will have experience of working alongside LADO and attending Strategy meetings. They will also be required to have a level experience to make decisions around Quality Assurance, Compliance Response and next steps.\n\nThe postholder will be expected to:\n\nLiaise with providers to obtain required QA documentation, clarify compliance issues, and support the exchange of accurate information.\nCoordinate with internal teams (commissioning, placements, QA, finance) to ensure clear, timely communication on provider quality issues and actions.\nProvide professional advice and guidance to colleagues on QA expectations, provider documentation, and regulatory compliance.\n\nThe postholder will also require experience in the following:\n\nKnowledge of regulatory requirements for residential and supported accommodation providers (Ofsted, Reg 44, safeguarding standards).\nStrong analytical skills with the ability to interpret performance data, trends, and QA indicators.\nExcellent organisation and coordination skills to manage multiple QA processes, deadlines, and actions.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1405247?backToItem=&initialLoad=&tab=&_xmscs=7b60a7658b0180a9c4551aa5ea92b3511582ea37d8ce58f88ef8ef926b8192ee5368ecb6b425a7c3",
+    "accepted_at": "2026-03-17T09:51:46.159Z",
+    "scraped_at": "2026-03-17T09:51:46.159Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134740?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E278 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      },
+      {
+        "filename": "76335 Independent Reviewing Officer Conference Chair Profile.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134741?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E278 _ 1/76335 Independent Reviewing Officer Conference Chair Profile.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5292977",
     "source": "comensura",
     "source_ref": "5292977",
