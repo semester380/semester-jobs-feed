@@ -1,5 +1,40 @@
 [
   {
+    "item_id": "000A E24D / 1",
+    "source": "xms",
+    "source_ref": "000A E24D / 1",
+    "job_id": "000A E24D / 1",
+    "job_title": "Service Manager Grade 12",
+    "client": "Children, Young People and Families, City of Doncaster Council",
+    "procurer": null,
+    "working_address": "Civic Office, Waterdale, Doncaster, South Yorkshire, DN1 3BU, United Kingdom",
+    "start_date": "2026-04-06",
+    "end_date": "2026-07-31",
+    "pay_from": "340.86",
+    "pay_to": "340.86",
+    "pay_type": "per day",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Needing 1 service manager for Children's Residential & 1 Service Manager for Supported Accommodation\n\nRI experience advantageous as may be required once in booking. Applicants should be willing to be assessed for RI in case there is a need once in booking\n\nMUST have relevant education, youth work, social care, health care or management qualification or degree or equivalent\n\nBases may vary across Doncaster\n\nService Manager - Residential Services\n\nThis role requires a strong, strategic leader with experience managing residential children’s homes and acting as a Responsible Individual. The postholder ensures services meet all statutory and safeguarding requirements, drives high‑quality care and positive outcomes, manages budgets and resources effectively, supports and develops Home Managers and staff teams, and builds effective partnerships with internal and external agencies. They must be skilled in compliance, service improvement, and leading change while maintaining high professional standards.\n\nService Manager - Supported Accommodation\n\nThe role demands an experienced leader with strong knowledge of supported accommodation, safeguarding, and statutory regulations. It requires someone skilled in managing teams, budgets, and change, while working collaboratively with partners to improve outcomes for young people. Excellent communication, strategic thinking, and the ability to drive quality, compliance, and continuous improvement are essential.\n\n'Pay rate detailed is for a LTD candidate. Contact the MSP Coordinator to confirm the PAYE rate.'",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1406155?backToItem=&initialLoad=&tab=&_xmscs=ac48ba4dc97937d3cfc9c4b2dfc19851d04fc5875f8531765d28448389ddecbc3cc376435b7a2f25",
+    "accepted_at": "2026-03-18T14:04:46.786Z",
+    "scraped_at": "2026-03-18T14:04:46.786Z",
+    "attachments": [
+      {
+        "filename": "Job Role Summary - Service Manager Supported Accommodation.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134760?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E24D _ 1/Job Role Summary - Service Manager Supported Accommodation.docx",
+        "downloaded": true
+      },
+      {
+        "filename": "Job Role Summary - Service Manager Residential Child Care.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134761?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E24D _ 1/Job Role Summary - Service Manager Residential Child Care.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5292457",
     "source": "comensura",
     "source_ref": "5292457",
