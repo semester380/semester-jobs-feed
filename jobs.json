@@ -1,5 +1,40 @@
 [
   {
+    "item_id": "000A E31F / 1",
+    "source": "xms",
+    "source_ref": "000A E31F / 1",
+    "job_id": "000A E31F / 1",
+    "job_title": "Childrens Team Manager - Safeguarding - [Stockport Met BC]",
+    "client": "Stockport Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "1st Floor Stopford House, Civic Complex, Stockport, SK1 3XE, United Kingdom",
+    "start_date": "2026-04-20",
+    "end_date": "2026-06-16",
+    "pay_from": "46",
+    "pay_to": "46",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Team Leader - Safeguarding CSC\n\n\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1406315?backToItem=&initialLoad=&tab=&_xmscs=5a18f5cf3496ad678ab9d4a2669dbfbc30004759e286c20917b09b34a2f37da53e0177f5f6bcd275",
+    "accepted_at": "2026-03-18T15:47:22.921Z",
+    "scraped_at": "2026-03-18T15:47:22.921Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134791?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E31F _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      },
+      {
+        "filename": "Team Manager Safeguarding.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134792?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E31F _ 1/Team Manager Safeguarding.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5292498",
     "source": "comensura",
     "source_ref": "5292498",
