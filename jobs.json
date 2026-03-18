@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "comensura:5290004",
+    "source": "comensura",
+    "source_ref": "5290004",
+    "job_id": "5290004",
+    "job_title": "5290004 – Social Worker (Progressed) (Social and Healthcare Qualifie...)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Floor first floor, Alderley Building, SK10 3BL",
+    "start_date": "2026-03-23",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role Information/Duties:\n\nPlease confirm which DBS is required for this role.\n\n     Enhanced – including barred:\n\n     Both children’s and adults\n\nThis information is required for all Orders. If you are unsure please refer to the GOV.UK website:\n\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-03-18T11:01:44.665Z",
+    "scraped_at": "2026-03-18T11:01:44.665Z",
+    "attachments": [
+      {
+        "filename": "Social Worker (Progressed) Job Description and Specification.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5290004/File/218170",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000A E3FE / 1",
     "source": "xms",
     "source_ref": "000A E3FE / 1",
