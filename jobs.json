@@ -4032,6 +4032,28 @@
     ]
   },
   {
+    "item_id": "prism:OR25529",
+    "source": "prism",
+    "source_ref": "OR25529",
+    "job_id": "OR25529",
+    "job_title": "Social Worker (HAY BD B) - Social Care Qualified",
+    "client": "Nottinghamshire County Council",
+    "procurer": "Khadeejha Akhtar",
+    "working_address": "40 Station Road, Sutton in Ashfield, Nottinghamshire, NG175GA, United Kingdom",
+    "start_date": "2026-04-13",
+    "end_date": "",
+    "pay_from": "152.18",
+    "pay_to": "207.26",
+    "pay_type": "per day",
+    "ir35": "Inside",
+    "ir35_note": "The office base is at Lawn View house, the area that we cover is Ashfield. The pay rate is £36 per hour.",
+    "description": "The vacancy is for a long term busy social work team.  We cover, child in need, child protection, initial child looked after and initiating care proceedings.  The role requires a level of flexibility due to work demands.\n\nThe office base is at Lawn View house, the area that we cover is Ashfield.  The pay rate is £36 per hour.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=97d5758d-9895-415f-853e-0ab8547204c4",
+    "accepted_at": null,
+    "scraped_at": "2026-03-18T16:21:19.637Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR25521",
     "source": "prism",
     "source_ref": "OR25521",
