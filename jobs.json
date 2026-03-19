@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A E60A / 1",
+    "source": "xms",
+    "source_ref": "000A E60A / 1",
+    "job_id": "000A E60A / 1",
+    "job_title": "Children's Social Worker - Locality, Duty, CWD & The Hub [Wigan]",
+    "client": "Wigan Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Wigan Life Centre, College Avenue , Wigan, Wigan, WN1 1NJ, United Kingdom",
+    "start_date": "2026-04-20",
+    "end_date": "2026-06-22",
+    "pay_from": "38",
+    "pay_to": "38",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Childrens social worker for family safeguarding team, holding CP, PLO and court work. Hybrid role, 2 days per week in the office.\n\n\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.\n\n3 years experience including court work",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1407050?backToItem=&initialLoad=&tab=&_xmscs=71b92456f5402ec039d35ee81e48dfa63fb417821e26eca96c90a0f2f9021466648bd95997b0b7a5",
+    "accepted_at": "2026-03-19T14:58:22.977Z",
+    "scraped_at": "2026-03-19T14:58:22.977Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134983?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E60A _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5293021",
     "source": "comensura",
     "source_ref": "5293021",
