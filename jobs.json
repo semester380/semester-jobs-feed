@@ -1,5 +1,46 @@
 [
   {
+    "item_id": "000A C525 / 1",
+    "source": "xms",
+    "source_ref": "000A C525 / 1",
+    "job_id": "000A C525 / 1",
+    "job_title": "Senior Social Worker (Childrens)",
+    "client": "Wakefield Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "The Airedale Centre, The Square, Castleford, West Yorkshire, WF10 3JJ",
+    "start_date": "2026-03-23",
+    "end_date": "2026-04-06",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "The post is based in Castleford/Pontefract Team 2 for Wakefield Child and Young People Services. There will be hybrid working and a duty rota every for weeks.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1406585?backToItem=&initialLoad=&tab=&_xmscs=aa8eecec7294b4f922e0b6449b9bbb13916fa34e8453691c65258f838f05960c7152c73cb49dbae4",
+    "accepted_at": "2026-03-19T08:29:02.728Z",
+    "scraped_at": "2026-03-19T08:29:02.728Z",
+    "attachments": [
+      {
+        "filename": "Wakefield Your Temp Experience.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133014?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A C525 _ 1/Wakefield Your Temp Experience.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "Senior Social Worker (Children).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133015?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A C525 _ 1/Senior Social Worker (Children).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133016?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A C525 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A DA61 / 1",
     "source": "xms",
     "source_ref": "000A DA61 / 1",
