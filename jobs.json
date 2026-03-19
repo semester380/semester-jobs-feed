@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A DA61 / 1",
+    "source": "xms",
+    "source_ref": "000A DA61 / 1",
+    "job_id": "000A DA61 / 1",
+    "job_title": "Support Worker [Stkp Met]",
+    "client": "Stockport Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Grand Central, Wellington Road South, Stockport, SK1 3TA, United Kingdom",
+    "start_date": "2026-04-16",
+    "end_date": "2026-06-16",
+    "pay_from": "14.82",
+    "pay_to": "16.08",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Umbrella rate - £18.75 - £20.39\n\nIntensive Support Worker Edge of Care Childrens Services\n\n\n\nWorking in partnership with the young person's Social Worker, the Intensive Support Worker offers direct work interventions to young people and their families whom are at risk of family breakdown. The workers are responsible for establishing, maintaining and developing professional relationships with young people through targeted and tailored interventions. We seek to ensure, when safe to do so, these young people remain in their home.\n\nYoung people tell us they need consistent and timely support where they are actively listened too, and are part of the decision making process. In this role you, will be an integral part of ensuring we actively promote young people's engagement in how they wish to be supported.\n\nIn this important and varied role, the worker will need to be creative and adopt a persistent and consistent approach to engaging our most vulnerable young people and their families.\n\nYou will provide tailored support to young people whom may be at risk of Child Sexual Exploitation, Criminal Exploitation, Missing and NEET with multiple and complex needs, on the edge of care. You will have relevant experience with young people, and will be a confident and creative thinker whom is experienced in direct work. You will have good knowledge around safeguarding policy and practice with excellent self-organisation skills. Day to day you will deliver targeted interventions, assess needs, and deliver young people's focused plans of support. You will work with our partners across various settings; home, school, education providers and community.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1406535?backToItem=&initialLoad=&tab=&_xmscs=22c6d162e27131f7aff048cebdfa1537b4374972cb999eea66aa9ea25e50c7c2562376d379c6ca7f",
+    "accepted_at": "2026-03-19T08:07:17.391Z",
+    "scraped_at": "2026-03-19T08:07:17.391Z",
+    "attachments": [
+      {
+        "filename": "Job Profile ISW agency role.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134278?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A DA61 _ 1/Job Profile ISW agency role.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5293090",
     "source": "comensura",
     "source_ref": "5293090",
