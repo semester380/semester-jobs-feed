@@ -1,5 +1,40 @@
 [
   {
+    "item_id": "000A E408 / 1",
+    "source": "xms",
+    "source_ref": "000A E408 / 1",
+    "job_id": "000A E408 / 1",
+    "job_title": "Social Worker - Children's",
+    "client": "Children, Young People and Families, City of Doncaster Council",
+    "procurer": null,
+    "working_address": "Adwick Leisure Centre, Doncaster, South Yorkshire, DN6 7QF, United Kingdom",
+    "start_date": "2026-03-23",
+    "end_date": "2026-06-30",
+    "pay_from": "32",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Based at Adwick Leisure Centre which has access to free parking\n\nNorth help and protection team 2 is a social work team which supports children on child in need, child protection, PLO and care proceedings.\n\nAccess to both mandatory and optional training\n\nRegular personal supervision and reflective case supervision (every month)\n\nHybrid working- Monday and Tuesday workers can base themselves at home if they wish with office days being Wednesday, Thursday and Friday",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1406693?backToItem=&initialLoad=&tab=&_xmscs=0c85f623050198a1f8af64929e6eba35f5eeceb9d9094e5e3484e8b8c6b6172adfbf9cf413987c62",
+    "accepted_at": "2026-03-19T10:47:09.297Z",
+    "scraped_at": "2026-03-19T10:47:09.297Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134877?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E408 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      },
+      {
+        "filename": "Social Worker All Services JDPS Sept 2022.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134878?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E408 _ 1/Social Worker All Services JDPS Sept 2022.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A C525 / 1",
     "source": "xms",
     "source_ref": "000A C525 / 1",
