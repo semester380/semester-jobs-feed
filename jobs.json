@@ -4348,6 +4348,28 @@
     ]
   },
   {
+    "item_id": "prism:OR25760",
+    "source": "prism",
+    "source_ref": "OR25760",
+    "job_id": "OR25760",
+    "job_title": "Passenger Fleet Supervisor - Social Care Non-Qualified",
+    "client": "Barnet Council",
+    "procurer": "Rachael Ryan",
+    "working_address": "North London Business Park, Building 4, London, London, N11 1NP, United Kingdom",
+    "start_date": "2026-04-02",
+    "end_date": "",
+    "pay_from": "20.98",
+    "pay_to": "27.35",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "This role is for a split shift full time supervisor, Description attached and Pre-Screening Questions required.",
+    "description": "This role is for a full‑time Passenger Transport Supervisor working a split shift, based at North London Business Park, with attendance at Oakleigh Road Depot once dispatch duties have been completed morning and afternoon. A full job description is attached for further details.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=11d7c9fa-48a3-4157-ac26-94a6e0071c5e",
+    "accepted_at": null,
+    "scraped_at": "2026-03-20T17:13:53.896Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR25747",
     "source": "prism",
     "source_ref": "OR25747",
