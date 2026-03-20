@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "comensura:5293143",
+    "source": "comensura",
+    "source_ref": "5293143",
+    "job_id": "5293143",
+    "job_title": "5293143 – Housing Services Electrician -... (Housing)",
+    "client": "Northumberland County Council",
+    "procurer": null,
+    "working_address": "Floor ground, Blyth Cowley Road Depot, NE24 5TF",
+    "start_date": "2026-03-23",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role Information/Duties:\n\n18th Edition\nInspecting and Testing\nNapit Registered",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-03-20T09:02:52.826Z",
+    "scraped_at": "2026-03-20T09:02:52.826Z",
+    "attachments": [
+      {
+        "filename": "pb.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5293143/File/219194",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5293154",
     "source": "comensura",
     "source_ref": "5293154",
