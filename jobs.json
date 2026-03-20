@@ -4268,6 +4268,28 @@
     ]
   },
   {
+    "item_id": "prism:OR25688",
+    "source": "prism",
+    "source_ref": "OR25688",
+    "job_id": "OR25688",
+    "job_title": "Occupational Therapist",
+    "client": "Vale of Glamorgan Council",
+    "procurer": null,
+    "working_address": "Barry",
+    "start_date": "2026-03-30",
+    "end_date": "",
+    "pay_from": "27.39",
+    "pay_to": "27.39",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": null,
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=12436c40-0842-4cbb-89e1-5e02a09dcc29",
+    "accepted_at": null,
+    "scraped_at": "2026-03-20T12:39:37.637Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR25669",
     "source": "prism",
     "source_ref": "OR25669",
