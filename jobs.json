@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A E3D5 / 1",
+    "source": "xms",
+    "source_ref": "000A E3D5 / 1",
+    "job_id": "000A E3D5 / 1",
+    "job_title": "Residential Worker (Childrens) (G7)",
+    "client": "Wakefield Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "32 Ackworth road, Featherstone, West Yorkshire, WF7 5LU",
+    "start_date": "2026-03-01",
+    "end_date": "2026-04-30",
+    "pay_from": "16.62",
+    "pay_to": "16.62",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": null,
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1407663?backToItem=&initialLoad=&tab=&_xmscs=e39fdfb63449ec26fce3f7449524340e86a5fa1ee86c1293ba11f45f7d8f13638488eeda0f35955b",
+    "accepted_at": "2026-03-22T09:16:08.531Z",
+    "scraped_at": "2026-03-22T09:16:08.531Z",
+    "attachments": [
+      {
+        "filename": "Residential Worker (Childrens) (G7).doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134857?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E3D5 _ 1/Residential Worker (Childrens) (G7).doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5291347",
     "source": "comensura",
     "source_ref": "5291347",
