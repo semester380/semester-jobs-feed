@@ -4435,6 +4435,28 @@
     ]
   },
   {
+    "item_id": "prism:OR25833",
+    "source": "prism",
+    "source_ref": "OR25833",
+    "job_id": "OR25833",
+    "job_title": "Passenger Fleet Supervisor - Social Care Non-Qualified",
+    "client": "Barnet Council",
+    "procurer": "Rachael Ryan",
+    "working_address": "Oakleigh Road Depot, Oakleigh Road South, London, London, N11 1HJ, United Kingdom",
+    "start_date": "2026-03-30",
+    "end_date": "",
+    "pay_from": "20.98",
+    "pay_to": "27.35",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Short‑term interim position to assist the service. Job specification attached.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=39951abd-cc28-466d-a538-dd0f9112a91e",
+    "accepted_at": null,
+    "scraped_at": "2026-03-23T13:54:34.697Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR25830",
     "source": "prism",
     "source_ref": "OR25830",
