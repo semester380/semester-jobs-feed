@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A E457 / 1",
+    "source": "xms",
+    "source_ref": "000A E457 / 1",
+    "job_id": "000A E457 / 1",
+    "job_title": "Personal Advisor G6 - [Rochdale BC]",
+    "client": "Rochdale Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "57-59 drake street, Rochdale, OL16 1XL, United Kingdom",
+    "start_date": "2026-04-01",
+    "end_date": "2026-08-30",
+    "pay_from": "16.62",
+    "pay_to": "16.62",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Umb rate - £21.07\n\nDescription:\n\nWe are seeking to recruit a Personal Advisor (PA) to work within the Care Leavers Service in Cared for Children.\n\nThe role is to support young people who are leaving care\n\nPAs work with the young people and offer support to these young people around many areas of their lives:\n\nHealth and Emotional Well-being.  GP, Dental and Optical\n\nIdentity: Ethnicity, religion, self-care and presentation.\n\nFamily and social\n\nFinances: Budgeting and practical skills\n\nAccommodation\n\nUASC \n\nApplicants must have experience of working with young people/young adults around and knowledge of the legislation around Care for Children and Care leavers.\n\nActing as an advocate on behalf of care leavers to ensure their needs are met.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1407737?backToItem=&initialLoad=&tab=&_xmscs=94cd45ce0d3d90589e38b177832952b2a9b91627cbcba9cee0269d90e621c6f3ef3a81a47140301d",
+    "accepted_at": "2026-03-23T09:18:49.472Z",
+    "scraped_at": "2026-03-23T09:18:49.472Z",
+    "attachments": [
+      {
+        "filename": "Personal Advisor G6 Job Description.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134902?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E457 _ 1/Personal Advisor G6 Job Description.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A E3D5 / 1",
     "source": "xms",
     "source_ref": "000A E3D5 / 1",
