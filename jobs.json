@@ -4435,6 +4435,28 @@
     ]
   },
   {
+    "item_id": "prism:OR25786",
+    "source": "prism",
+    "source_ref": "OR25786",
+    "job_id": "OR25786",
+    "job_title": "SOCIAL WORKER LEVEL 3 (Children) - Social Care Qualified",
+    "client": "Sefton MBC",
+    "procurer": "Olivia Rawcliffe",
+    "working_address": "Trinity Road, Bootle, Merseyside, L20 3NJ, United Kingdom",
+    "start_date": "2026-04-07",
+    "end_date": "",
+    "pay_from": "22.38",
+    "pay_to": "29.35",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Please Add JD",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=5675ff07-76ca-4dbd-91d0-6ee6f37fc949",
+    "accepted_at": null,
+    "scraped_at": "2026-03-23T09:45:22.133Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR25785",
     "source": "prism",
     "source_ref": "OR25785",
