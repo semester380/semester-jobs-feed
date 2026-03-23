@@ -4435,6 +4435,28 @@
     ]
   },
   {
+    "item_id": "prism:OR25785",
+    "source": "prism",
+    "source_ref": "OR25785",
+    "job_id": "OR25785",
+    "job_title": "Streetworks Technician (Grade 13) - Admin & Clerical",
+    "client": "Somerset Council",
+    "procurer": "Jonathan Weeks",
+    "working_address": "The Crescent, Taunton, Somerset, TA1 4DY, United Kingdom",
+    "start_date": "2026-04-13",
+    "end_date": "",
+    "pay_from": "13.47",
+    "pay_to": "17.82",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Looking for a motivated and enthusiastic Street Works Technician to join our friendly team helping to keep Somerset moving — whether you already have some experience, or more importantly, you’re looking to start a career in highways, traffic management, or public service.\n\nWhat you’ll be doing\nAssisting with road closures, permits and network coordination\nProviding basic technical advice (with support from senior colleagues)\nUsing digital tools, mapping systems and databases\nPreparing maps, plans, tables and reports\nSupporting colleagues with administration and accuracy checking\nDealing with members of the public and helping to resolve urgent highways issues\nAttending meetings and occasional site visits as needed\nAbout you\n\nWe offer full training, so prior experience in Street Works isn’t required — just a willingness to learn and develop. You’ll succeed in this role if you are:\n\nCustomer‑focused and confident communicating with a variety of people\nOrganised, enthusiastic and ready to take on new challenges\nComfortable using ICT and willing to learn new systems\nAble to hold a valid driving licence",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=a6f5b592-44df-4d56-89dd-f645558751b2",
+    "accepted_at": null,
+    "scraped_at": "2026-03-23T09:33:23.948Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR25760",
     "source": "prism",
     "source_ref": "OR25760",
