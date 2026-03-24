@@ -1,5 +1,40 @@
 [
   {
+    "item_id": "000A E8D2 / 1",
+    "source": "xms",
+    "source_ref": "000A E8D2 / 1",
+    "job_id": "000A E8D2 / 1",
+    "job_title": "Senior Social Worker - Children's",
+    "client": "Kirklees Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Civic Centre 1, High Street, Huddersfield, West Yorkshire, HD1 2NF, United Kingdom",
+    "start_date": "2026-04-06",
+    "end_date": "2026-09-30",
+    "pay_from": "27.3",
+    "pay_to": "27.3",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Working within relevant legislation, government guidance and the council’s practice standards we are looking for social workers who can carry out assessments and provide social work interventions using a child centred approach.   Someone who can:\n\nBuild relationships with children, young people, families, partner agencies – working to achieve positive outcomes.\nWork collaboratively with appropriate agencies and professionals as part of a multi‑disciplinary service/team.\nDeliver high‑quality assessments and person‑centred plans.\nWork confidently with complex needs and safeguarding situations.\nManage allocated caseload effectively.\n\nAn enhanced DBS and barred list check is required.\n\nIt is essential that you hold a full and valid driving licence.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1408738?backToItem=&initialLoad=&tab=&_xmscs=d082a078658afcf00d1aaed27afcf518c882332c9a2b3f678bc8c71e4d70f1c1370ea12f747f2d24",
+    "accepted_at": "2026-03-24T16:17:01.370Z",
+    "scraped_at": "2026-03-24T16:17:01.370Z",
+    "attachments": [
+      {
+        "filename": "Social Worker - Children's Grade 10-11.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135110?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E8D2 _ 1/Social Worker - Children's Grade 10-11.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "Social Worker - Children's Grade 10-11 Focus Sheet.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135111?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E8D2 _ 1/Social Worker - Children's Grade 10-11 Focus Sheet.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5293524",
     "source": "comensura",
     "source_ref": "5293524",
