@@ -4493,6 +4493,28 @@
     ]
   },
   {
+    "item_id": "prism:OR25876",
+    "source": "prism",
+    "source_ref": "OR25876",
+    "job_id": "OR25876",
+    "job_title": "Occupational Therapist - Social Care Qualified",
+    "client": "London Borough of Lambeth",
+    "procurer": "Stephen Risness",
+    "working_address": "6 Brixton Hill, London, Lambeth, SW2 1RW, United Kingdom",
+    "start_date": "2026-05-05",
+    "end_date": "",
+    "pay_from": "0.00",
+    "pay_to": "0.00",
+    "pay_type": "per day",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Please Add JD",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=c2d69444-70a6-4c50-b7fa-fdfbcdaa7449",
+    "accepted_at": null,
+    "scraped_at": "2026-03-24T09:10:58.701Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR25871",
     "source": "prism",
     "source_ref": "OR25871",
