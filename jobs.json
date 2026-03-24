@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "comensura:5293524",
+    "source": "comensura",
+    "source_ref": "5293524",
+    "job_id": "5293524",
+    "job_title": "5293524 – Adults Social Worker (Qualifie... (Social Care Qualified)",
+    "client": "Middlesbrough Borough Council",
+    "procurer": null,
+    "working_address": "Fountain Court, TS1 9FT",
+    "start_date": "2026-03-30",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role Information/Duties:",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-03-24T15:17:50.490Z",
+    "scraped_at": "2026-03-24T15:17:50.490Z",
+    "attachments": [
+      {
+        "filename": "Social work JD PS revised January 2026.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5293524/File/219357",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5293528",
     "source": "comensura",
     "source_ref": "5293528",
