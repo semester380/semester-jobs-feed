@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A E545 / 1",
+    "source": "xms",
+    "source_ref": "000A E545 / 1",
+    "job_id": "000A E545 / 1",
+    "job_title": "Children's Team Manager [MCC]",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Harpurhey District Office, Manchester, Lancashire, M9 4DD, United Kingdom",
+    "start_date": "2026-04-27",
+    "end_date": "2026-07-06",
+    "pay_from": "40",
+    "pay_to": "46",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "MCC require a Team Manager in North Children with Disabilities team\n\nThis role will lead and manage a social work team ensuring the service provided is effective and delivers positive outcomes for children and their families ensuring that the social workers you have responsibility for meet the statutory requirements set through legislation, national and regional guidance in respect of children in need, child protection, looked after children and care leavers.\n\nThe role holder will effectively lead, manage and motivate a team of professional practitioners to develop a skilled and confident workforce which meets the needs of the service and Manchester residents.\n\nThe role holder will work in collaboration with partners and key stakeholders to develop effective partnerships and greater coordinated working with other services and organisations to ensure a positive contribution to the development and delivery of care and support priorities for the city.\n\nYour role as Team Manager in North Children with Disabilities team, would be to support and supervise a team of 6  social workers and 2 Advanced practitioners to ensure appropriate plans are put in place to ensure the children's needs are being met.\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1408602?backToItem=&initialLoad=&tab=&_xmscs=5acefd80578d92e28bb06525fdc36026477fb53a212187b059e0413f5b65bc5fc6c14fd5bbc6e189",
+    "accepted_at": "2026-03-24T15:08:51.201Z",
+    "scraped_at": "2026-03-24T15:08:51.201Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134948?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E545 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5293509",
     "source": "comensura",
     "source_ref": "5293509",
