@@ -4796,6 +4796,28 @@
     ]
   },
   {
+    "item_id": "prism:OR26033",
+    "source": "prism",
+    "source_ref": "OR26033",
+    "job_id": "OR26033",
+    "job_title": "CSW - Team Manager - Duty & Assessment (Grade L) - Social Care Qualified",
+    "client": "Barnet Council",
+    "procurer": "Andrew Nicolaou",
+    "working_address": "2 Bristol Avenue, Colindale, London, London, NW9 4EW, United Kingdom",
+    "start_date": "2026-04-21",
+    "end_date": "",
+    "pay_from": "31.78",
+    "pay_to": "43.72",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "This is a hybrid role, Manager will need to be in approx twice a week. In addition, every 4th week is a duty week and they will need to be in all that week.\nMust have at least 3 years experience at TM level - particularly in an assessment team.\nif there are any questions email these through as both the interview and role may need some co-ordination\nInterviews will be held in person - please do not submit candidates who are not able to attend an interview in person",
+    "description": "Please Add JD",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=0bfb836e-faac-44e7-a26f-89286a61a181",
+    "accepted_at": null,
+    "scraped_at": "2026-03-25T12:17:56.839Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR26020",
     "source": "prism",
     "source_ref": "OR26020",
