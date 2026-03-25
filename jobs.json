@@ -1,5 +1,27 @@
 [
   {
+    "item_id": "comensura:5293637",
+    "source": "comensura",
+    "source_ref": "5293637",
+    "job_id": "5293637",
+    "job_title": "5293637 – Mou - Childrens Social Care -... (Social Care Qualified)",
+    "client": "Gateshead Council",
+    "procurer": null,
+    "working_address": "Gateshead Council Civic Centre, NE8 1HH",
+    "start_date": "2026-03-30",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role Information/Duties:",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-03-25T14:33:48.233Z",
+    "scraped_at": "2026-03-25T14:33:48.233Z",
+    "attachments": []
+  },
+  {
     "item_id": "comensura:5293602",
     "source": "comensura",
     "source_ref": "5293602",
@@ -4794,6 +4816,28 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR26062",
+    "source": "prism",
+    "source_ref": "OR26062",
+    "job_id": "OR26062",
+    "job_title": "Advanced Practitioner - Childrens (G10) - Social Care Qualified",
+    "client": "Lincolnshire County Council",
+    "procurer": "Ruth Roberts",
+    "working_address": "North Hykeham Technology Park, Stephenson Road, North Kesteven, Lincolnshire, LN6 3QU, United Kingdom",
+    "start_date": "2026-04-08",
+    "end_date": "",
+    "pay_from": "29.51",
+    "pay_to": "40.00",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Seeking full time experienced Social Worker to work in North Kesteven Family Help Team. The base is at North Hykeham (Lincoln) and covers travel over North Kesteven which is a large rural area. The team takes referrals from the front door on a duty rota system- one week in four on duty.  The role involves assessment, planning and support for children at CIN, CP and Children In Care. Public and private law proceedings are part of the role.\n\nHybrid working- required to be onsite at least two days per week and five days within the duty week.\n\nThis is a settled, stable and supportive team.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=5477c180-763c-411d-80f5-94c42ae0f065",
+    "accepted_at": null,
+    "scraped_at": "2026-03-25T14:33:13.777Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR26054",
