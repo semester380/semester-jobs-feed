@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A E503 / 1",
+    "source": "xms",
+    "source_ref": "000A E503 / 1",
+    "job_id": "000A E503 / 1",
+    "job_title": "Case Assessor [Blackpool]",
+    "client": "Blackpool Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Talbot Gateway, Blackpool, Lancashire, FY1 3AH, United Kingdom",
+    "start_date": "2026-04-01",
+    "end_date": "2026-06-01",
+    "pay_from": "15.78",
+    "pay_to": "15.78",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Umbrella rate - £20.01\n\n2 year reference history, gaps in employment checked, Enhanced Adults DBS, Quals as per JDPS\n\n1 x 37 Case Asessor required until 01/06/2026 - Community Team, Blackpool Adult Social Care\n\nWe have an exciting opportunity for a motivated and compassionate individual to join our community social work team as a Case Assessor. In this role, you will work with adults to understand their needs and help identify solutions that promote independence and prevent future care requirements.\n\nYou will use a strengths-based approach, working closely with community and voluntary groups, reablement services, and commissioned providers to support individuals effectively. Strong communication, problem-solving, and decision-making skills are essential, as you will be liaising with service users, families, and professionals to ensure the best outcomes.\n\nIf you are passionate about making a difference in the Blackpool community and want to be part of a supportive team, we would love to hear from you.\n\nThis is a hybrid role and the expectation of working in the office at least 3 days a week. There is reduced rate office parking and permits for visits on offer to agency staff.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1408913?backToItem=&initialLoad=&tab=&_xmscs=0c550652af2c2547c827eba62c379c12bb885f8eaaeee5d725e434a08e8d5d5dcc8ebccf2ac8e987",
+    "accepted_at": "2026-03-25T09:47:54.666Z",
+    "scraped_at": "2026-03-25T09:47:54.666Z",
+    "attachments": [
+      {
+        "filename": "JD - 8035 - Advert.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134934?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A E503 _ 1/JD - 8035 - Advert.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5293531",
     "source": "comensura",
     "source_ref": "5293531",
