@@ -1,5 +1,56 @@
 [
   {
+    "item_id": "comensura:5293353",
+    "source": "comensura",
+    "source_ref": "5293353",
+    "job_id": "5293353",
+    "job_title": "5293353 – Catering Supervisor (Social Care - Qualified)",
+    "client": "Lancashire County Council",
+    "procurer": null,
+    "working_address": "Outdoor Education Borwick Hall, LA6 1JU",
+    "start_date": "2026-05-06",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role Information/Duties:\n\nLocation - Borwick Hall, Borwick, Carnforth, LA61JU\nInterviews - ASAP\nSee attached JD for full details",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-03-26T08:41:55.732Z",
+    "scraped_at": "2026-03-26T08:41:55.732Z",
+    "attachments": [
+      {
+        "filename": "Grade 4 Catering Supervisor JD.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5293353/File/219298",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
+    "item_id": "comensura:5293598",
+    "source": "comensura",
+    "source_ref": "5293598",
+    "job_id": "5293598",
+    "job_title": "5293598 – Social Worker - Childrens Serv... (Social Care - Qualified)",
+    "client": "Lancashire County Council",
+    "procurer": null,
+    "working_address": "Lancaster Central Library, LA1 1HY",
+    "start_date": "2026-04-06",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role Information/Duties:\n\nLocation - Lancaster Mill\nInterviews - ASAP\nWe require a social worker within Duty and Assessment in Lancaster.  The social worker will have experience of completing C&A assessments, devising appropriate plans for children, completing safeguarding investigations and have experience within a duty and assessment or CP team",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-03-26T08:39:02.663Z",
+    "scraped_at": "2026-03-26T08:39:02.663Z",
+    "attachments": []
+  },
+  {
     "item_id": "000A E9CD / 1",
     "source": "xms",
     "source_ref": "000A E9CD / 1",
