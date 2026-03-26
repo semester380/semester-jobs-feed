@@ -1,5 +1,46 @@
 [
   {
+    "item_id": "0009 CCAF / 1",
+    "source": "xms",
+    "source_ref": "0009 CCAF / 1",
+    "job_id": "0009 CCAF / 1",
+    "job_title": "Senior Social Worker (Childrens)",
+    "client": "Wakefield Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Headquarters, Havertop Lane, Normanton, West Yorkshire, WF6 1FD",
+    "start_date": "2026-03-30",
+    "end_date": "2026-06-29",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Enhanced Senior Social Worker – Emergency Duty Team (Part‑Time - 18.5hrs)\n\nLocation: Wakefield District Headquarters, Havertop Lane, Normanton, WF6 1FD\nContract Length: Minimum 3 months (office‑based)\n\nWe are seeking an experienced and dedicated Enhanced Senior Social Worker to join our Emergency Duty Team (EDT) on a part‑time basis. This is an excellent opportunity for a confident practitioner who thrives in fast‑paced, responsive environments and is committed to safeguarding children, adults, and families outside normal working hours.\n\nAbout the Role\n\nWorking as part of a rota, you will provide essential out‑of‑hours social care support across the Wakefield District. You will be responsible for assessing urgent situations, ensuring immediate safety planning, and delivering timely and effective interventions until daytime services resume.\n\nKey Duties Include:\nManaging and responding to Social Care inboxes\nHandling emergency and crisis situations, ensuring safety and stability until the next working day\nUndertaking planned visits on behalf of locality teams\nCompleting comprehensive risk assessments and making appropriate safeguarding decisions\nParticipating in on‑call duties between 00:00 and 08:30 as required\nShift Pattern\n\nEDT rota coverage includes:\n\n16:00 – 00:00 (Monday–Sunday)\n09:00 – 17:00 (Saturday–Sunday and Bank Holidays)\nAbout You\n\nWe are looking for a skilled practitioner who can remain calm, decisive, and compassionate in challenging situations. You will bring:\n\nA minimum of 3 years’ post‑qualifying experience, ideally within EDT or MASH\nStrong assessment, communication, and crisis‑management skills\nThe ability to work autonomously and make robust safeguarding decisions\nFlexibility to work a varied rota, including evenings, weekends, and bank holidays",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1409433?backToItem=&initialLoad=&tab=&_xmscs=9113b31cd79eb0a9f3045ce060ed127df79726ebdcd4f3946d78f7d7ec88dfd932f727a2d6f76461",
+    "accepted_at": "2026-03-26T08:55:41.389Z",
+    "scraped_at": "2026-03-26T08:55:41.389Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/120785?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/0009 CCAF _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      },
+      {
+        "filename": "Senior Social Worker (Children).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/120786?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/0009 CCAF _ 1/Senior Social Worker (Children).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "Wakefield Your Temp Experience.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/120787?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/0009 CCAF _ 1/Wakefield Your Temp Experience.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A EA4F / 1",
     "source": "xms",
     "source_ref": "000A EA4F / 1",
