@@ -5026,6 +5026,28 @@
     ]
   },
   {
+    "item_id": "prism:OR26108",
+    "source": "prism",
+    "source_ref": "OR26108",
+    "job_id": "OR26108",
+    "job_title": "Children Services Social Worker (PO1-PO3) - Social Care Qualified",
+    "client": "London Borough of Lambeth",
+    "procurer": "First Name: Colette Elliott-Cooper",
+    "working_address": "6 Brixton Hill, London, Lambeth, SW2 1RW, United Kingdom",
+    "start_date": "2026-04-28",
+    "end_date": "",
+    "pay_from": "27.94",
+    "pay_to": "37.69",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Essential to have Children in care experience;  Leaving  care would also be good.;\n\nAlso child protection experience, good understanding of contextual safeguarding.\n\nExperience of working with children who require adoption.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=f9210ba8-b5e5-4a5f-88f2-72158996d908",
+    "accepted_at": null,
+    "scraped_at": "2026-03-26T10:09:40.000Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR26086",
     "source": "prism",
     "source_ref": "OR26086",
