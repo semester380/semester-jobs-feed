@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A D43E / 1",
+    "source": "xms",
+    "source_ref": "000A D43E / 1",
+    "job_id": "000A D43E / 1",
+    "job_title": "EHC Assessment and Review Officer",
+    "client": "Hiring - Leeds City Council, Leeds City Council",
+    "procurer": null,
+    "working_address": "Merrion House, 110 Merrion Centre, Leeds, LS1 2HJ",
+    "start_date": "2026-04-08",
+    "end_date": "2026-04-22",
+    "pay_from": "37.84",
+    "pay_to": "37.84",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": null,
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1409678?backToItem=&initialLoad=&tab=&_xmscs=32251dc2afbb19d9d22090ffc8f94632af7761fb20ec535ced2cf99cd86fcea0c90fba3fa4301ba7",
+    "accepted_at": "2026-03-26T13:52:05.330Z",
+    "scraped_at": "2026-03-26T13:52:05.330Z",
+    "attachments": [
+      {
+        "filename": "EHC Assessment & Review Officer Agency Role Profile Template Oct19.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/133957?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A D43E _ 1/EHC Assessment & Review Officer Agency Role Profile Template Oct19.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A EA73 / 1",
     "source": "xms",
     "source_ref": "000A EA73 / 1",
