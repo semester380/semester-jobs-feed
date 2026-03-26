@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "comensura:5293723",
+    "source": "comensura",
+    "source_ref": "5293723",
+    "job_id": "5293723",
+    "job_title": "5293723 – Adults Social Care - Social Wo... (Social Care Qualified)",
+    "client": "South Tyneside Council",
+    "procurer": null,
+    "working_address": "Floor Ground Floor, South Tyneside Primary Care Trust, NE31 1AT",
+    "start_date": "2026-04-20",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role Information/Duties:",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-03-26T16:22:07.258Z",
+    "scraped_at": "2026-03-26T16:22:07.258Z",
+    "attachments": [
+      {
+        "filename": "Social Worker (Adult Social Care) JD.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5293723/File/219464",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5293758",
     "source": "comensura",
     "source_ref": "5293758",
