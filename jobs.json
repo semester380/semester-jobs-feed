@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "comensura:5293686",
+    "source": "comensura",
+    "source_ref": "5293686",
+    "job_id": "5293686",
+    "job_title": "5293686 – Social Worker (Adults) (Jajf41... (Social and Healthcare Qualifie...)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Delamere House, CW1 2JZ",
+    "start_date": "2026-04-07",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role Information/Duties:\n\nPlease confirm which DBS is required for this role.\n\n5.      Enhanced – including barred:\n                  c.      Both children’s and adults",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-03-26T11:17:39.466Z",
+    "scraped_at": "2026-03-26T11:17:39.466Z",
+    "attachments": [
+      {
+        "filename": "Social Worker (Progressed) Job Description Specficiation (1).pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5293686/File/219456",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5293501",
     "source": "comensura",
     "source_ref": "5293501",
