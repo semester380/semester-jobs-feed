@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A EA4F / 1",
+    "source": "xms",
+    "source_ref": "000A EA4F / 1",
+    "job_id": "000A EA4F / 1",
+    "job_title": "MOSAIC Trainer",
+    "client": "Calderdale Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Princess Buildings, Princess Street, Halifax, HX1 1TS",
+    "start_date": "2026-04-20",
+    "end_date": "2026-09-20",
+    "pay_from": "400",
+    "pay_to": "425",
+    "pay_type": "per day",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Outside IR35.\n\nRole Purpose\n\nThe Mosaic Trainer will support the successful delivery and adoption of Mosaic at Calderdale Council.  The role involves designing and delivering training to staff and ensuring users are confident and capable in applying new workflows and recording models. The trainer will work closely with SME’s, operational leads, and technical teams to align training content to the project’s delivery goals.\n\n\n\n Key Responsibilities\n\nCreate, develop and deliver tailored Mosaic training to Adults, Children’s & Finance directorates across all staff levels\nDesign training materials, guides, and e-learning content aligned with new workflows and system features\nSupport a train-the-trainer approach equipping the internal support team to confidently delivery training post go-live\nConduct training analysis across service areas to inform content and rollout plans\nCollaborate with Mosaic project SMEs and practitioners to ensure training reflects practice requirements and statutory needs\nSupport UAT and early adopter groups with walk-throughs, drop-ins, and guidance\nMaintain and update training content based on feedback and changes to system design\nWork flexibly across rollout plans to deliver training aligned with go-live timelines\nEvaluate training impact and collate feedback to continuously improve delivery\n\n\n\n Essential Skills and Experience\n\nStrong experience of delivering successful Mosaic training for Adults & Children’s and Finance directorates\nExperience of setting up and delivering e-learning\nAbility to communicate complex processes in accessible, clear language\nGood finance exposure and ability to build specific finance guides\nExperience of training users from all levels and backgrounds\nExperience developing both in-person and digital training formats\nStrong core Mosaic knowledge and its functionality\nExperience of public sector working\nHybrid role\nPlenty of remote working through the project lifecycle\n3 month training period before go live with In office training times to be negotiated for classroom training and associated activities",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1409395?backToItem=&initialLoad=&tab=&_xmscs=d8159e7c0172aea9aeec433282d1fed680d96d9e0beedcd0501bd08094feb77d0c91878ad5325926",
+    "accepted_at": "2026-03-26T08:42:48.352Z",
+    "scraped_at": "2026-03-26T08:42:48.352Z",
+    "attachments": [
+      {
+        "filename": "CEST.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135206",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A EA4F _ 1/CEST.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5293353",
     "source": "comensura",
     "source_ref": "5293353",
@@ -3536,17 +3565,17 @@
     "client": "Cheshire East Council",
     "procurer": null,
     "working_address": "Floor 7, Delamere House, CW1 2JZ",
-    "start_date": "2026-03-02",
+    "start_date": "2026-04-07",
     "end_date": "",
     "pay_from": null,
     "pay_to": null,
     "pay_type": null,
     "ir35": null,
     "ir35_note": null,
-    "description": "Job Title (Job Category):\nPersonal Advisor (Jajb4326 - G7) (Social and Healthcare Qualified)\nJob Type:\nTemporary\nJob File(s):\nJAJB4326 - Personal Advisor - JD and PS.pdf",
-    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders?OrderNumber=5289623&TabName=Search#Search",
+    "description": "Role Information/Duties:\n\nPlease confirm which DBS is required for this role.\n\n(Delete the lines which are not applicable and leave the option that is required)\n\n           c.      Both children’s and adults\n\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
     "accepted_at": "2026-02-17T19:20:31.678Z",
-    "scraped_at": "2026-02-19T14:34:09.650Z",
+    "scraped_at": "2026-03-26T08:46:13.667Z",
     "attachments": [
       {
         "filename": "JAJB4326 - Personal Advisor - JD and PS.pdf",
