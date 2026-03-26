@@ -5128,6 +5128,28 @@
     ]
   },
   {
+    "item_id": "prism:OR26206",
+    "source": "prism",
+    "source_ref": "OR26206",
+    "job_id": "OR26206",
+    "job_title": "Family Time Supervisor - Social Care Non-Qualified",
+    "client": "Barnet Council",
+    "procurer": "Dermot Kelly",
+    "working_address": "Curtis Family Centre, Coppies Grove, London, London, N11 1NT, United Kingdom",
+    "start_date": "2026-04-14",
+    "end_date": "",
+    "pay_from": "14.80",
+    "pay_to": "19.17",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Please Add JD",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=b9c1657f-9c9a-407a-9c3f-21ccfe49ee67",
+    "accepted_at": null,
+    "scraped_at": "2026-03-26T15:57:41.092Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR26145",
     "source": "prism",
     "source_ref": "OR26145",
