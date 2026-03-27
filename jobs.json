@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A EB60 / 1",
+    "source": "xms",
+    "source_ref": "000A EB60 / 1",
+    "job_id": "000A EB60 / 1",
+    "job_title": "Social Care Occupational Therapist",
+    "client": "Kirklees Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Civic Centre 1, High Street, Huddersfield, West Yorkshire, HD1 2NF, United Kingdom",
+    "start_date": "2026-04-01",
+    "end_date": "2027-03-23",
+    "pay_from": "17.85",
+    "pay_to": "17.85",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We require a social care occupational therapist with experience of assessing under the Care Act and Disabled Facilities Grant legislation to work within a supportive team in Kirklees. The staff member will be able to work flexibly - upto 37 hours a week for a period of 12 months as part of a transformation project.\n\nMust be HCPC qualified and hold a recognised qualification in Occupational Therapy.\n\nEnhanced DBS and barred list check is required",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1409915?backToItem=&initialLoad=&tab=&_xmscs=d5e809ff796ac2726c2621f9f1aa2af96f5cd81b301779914dc6974c0b620bf5a33eaf299ab0b504",
+    "accepted_at": "2026-03-27T08:39:51.337Z",
+    "scraped_at": "2026-03-27T08:39:51.337Z",
+    "attachments": [
+      {
+        "filename": "Social Care Occupational Therapist.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135246?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A EB60 _ 1/Social Care Occupational Therapist.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5293749",
     "source": "comensura",
     "source_ref": "5293749",
