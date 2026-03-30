@@ -5383,6 +5383,28 @@
     ]
   },
   {
+    "item_id": "prism:OR26480",
+    "source": "prism",
+    "source_ref": "OR26480",
+    "job_id": "OR26480",
+    "job_title": "Supervised Contact Worker (BR6) - Social Care Non-Qualified",
+    "client": "Bromley Council",
+    "procurer": "Amanda Kirk",
+    "working_address": "Churchill Court, 2 Westmoreland Road, Bromley, Kent, BR1 1AS , United Kingdom",
+    "start_date": "2026-05-05",
+    "end_date": "",
+    "pay_from": "14.80",
+    "pay_to": "19.18",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "This role is for a  Supervised Contact Worker 35/36 hours per week, Sunday through to Thursday with a fixed schedule which is non negotiable.  Core hours are Sundays 9:00 - 5:00 and Monday - Thursday 10:00 - 6:00 with a slight variation in actual working times.  The role is peripatetic, based mainly and Royston in Penge and you will be required to work across the borough at various locations including in the community.  Initially for 3 months with the possibility of extension.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=971b15ca-d24b-4816-a9f9-4b34dce7dd9e",
+    "accepted_at": null,
+    "scraped_at": "2026-03-30T16:51:18.732Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR26453",
     "source": "prism",
     "source_ref": "OR26453",
