@@ -5332,6 +5332,28 @@
     ]
   },
   {
+    "item_id": "prism:OR26453",
+    "source": "prism",
+    "source_ref": "OR26453",
+    "job_id": "OR26453",
+    "job_title": "CSW - Senior Social Worker / Advanced Practitioner - Intervention & Planning (Grade J) - Social Care Qualified",
+    "client": "Barnet Council",
+    "procurer": "Andrew Nicolaou",
+    "working_address": "2 Bristol Avenue, Colindale, London, London, NW9 4EW, United Kingdom",
+    "start_date": "2026-04-13",
+    "end_date": "",
+    "pay_from": "27.32",
+    "pay_to": "37.54",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "This is a long term team working with CIN, CP and court work. candidate must have experience in this area. Hybrid working.",
+    "description": "Please Add JD",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=be639dbd-91ef-4d39-b153-52c73eb7dae7",
+    "accepted_at": null,
+    "scraped_at": "2026-03-30T14:28:42.363Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR26402",
     "source": "prism",
     "source_ref": "OR26402",
