@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "comensura:5293107",
+    "source": "comensura",
+    "source_ref": "5293107",
+    "job_id": "5293107",
+    "job_title": "5293107 – Home Support Worker - Grade 5 (Social Care Unqualified)",
+    "client": "Durham County Council",
+    "procurer": null,
+    "working_address": "Floor 55643, Hawthorn House, DH1 5PJ",
+    "start_date": "2026-03-18",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role Information/Duties:",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-03-31T10:48:58.752Z",
+    "scraped_at": "2026-03-31T10:48:58.752Z",
+    "attachments": [
+      {
+        "filename": "Home support worker - LD March 2018.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5293107/File/219183",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000A ED8A / 1",
     "source": "xms",
     "source_ref": "000A ED8A / 1",
