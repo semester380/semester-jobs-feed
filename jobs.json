@@ -1,5 +1,46 @@
 [
   {
+    "item_id": "000A EEB8 / 1",
+    "source": "xms",
+    "source_ref": "000A EEB8 / 1",
+    "job_id": "000A EEB8 / 1",
+    "job_title": "Senior Social Worker (Childrens)",
+    "client": "Wakefield Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "West Yorkshire Police Wakefield District Headquarters    , Havertop Lane, Normanton , WF6 1GX",
+    "start_date": "2026-04-27",
+    "end_date": "2026-07-24",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Summary of Service and Team\nWakefield’s Integrated Front Door provides a single integrated gateway for all concerns about child safety or welfare. The purpose of this role is to bring together a Multi-Agency Workforce to facilitate the early identification of risk of harm and unmet additional ned. To make timely, co-ordinated and proportionate interventions to keep children and vulnerable people safe and ensure that they are receiving an appropriate level of support where additional need has been identified.\n\nThe appointed worker will be expected to hit the ground running, it is a busy service.\n\nAbout us\n\nOur IFD in Wakefield is the Front Door for referrals into our Early Help Service and Children’s Social Care. We are a co-located service with partners from the Police, Health, Education, Domestic Abuse Services, CET team and Housing.\n\nOur social work practice with children and families is so important. It can be both incredibly challenging and hugely rewarding. The responsibility or working with families where the decision you make and the power of your influence can shape and change lives, can be difficult. The work will be fast paced due to the tight timescales of MASH work and our expectations for the quality of work is high due to the importance of keeping children safe. You will have access to management advice where required on cases as well as support from colleagues. There will be a limit on the number of cases you hold at any given time.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1412068?backToItem=&initialLoad=&tab=&_xmscs=381af283b9d62f3fbb8e948fc8a3e193d4a5c8db8c01be7e084a58e3a46b845df1c638f638d5295a",
+    "accepted_at": "2026-04-01T15:54:55.805Z",
+    "scraped_at": "2026-04-01T15:54:55.805Z",
+    "attachments": [
+      {
+        "filename": "Wakefield Your Temp Experience.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135408?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A EEB8 _ 1/Wakefield Your Temp Experience.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "Senior Social Worker (Children).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135409?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A EEB8 _ 1/Senior Social Worker (Children).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135410?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A EEB8 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5294344",
     "source": "comensura",
     "source_ref": "5294344",
