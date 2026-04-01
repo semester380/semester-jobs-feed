@@ -5601,6 +5601,28 @@
     ]
   },
   {
+    "item_id": "prism:OR26666",
+    "source": "prism",
+    "source_ref": "OR26666",
+    "job_id": "OR26666",
+    "job_title": "Placement Officer (BR9) - Admin & Clerical",
+    "client": "Bromley Council",
+    "procurer": "Michael Taylor",
+    "working_address": "Churchill Court, 2 Westmoreland Road, Bromley, Kent, BR1 1AS , United Kingdom",
+    "start_date": "2026-04-20",
+    "end_date": "",
+    "pay_from": "19.01",
+    "pay_to": "24.75",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "Minimum 2 days required in the office - depending on the length of the role working from Office in PRUH or Orpington may also be required.",
+    "description": "to manage referrals from Hospital and community to source domiciliary care agencies for residents of Bromley. Working in a fast paced environment, a high level of IT competence is needed as well as accuracy and working within a team.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=fbb1ff0d-e07b-4af6-98c4-478af8e5a765",
+    "accepted_at": null,
+    "scraped_at": "2026-04-01T12:17:50.339Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR26643",
     "source": "prism",
     "source_ref": "OR26643",
