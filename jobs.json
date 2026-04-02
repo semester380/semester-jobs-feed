@@ -1,5 +1,27 @@
 [
   {
+    "item_id": "000A EFF0 / 1",
+    "source": "xms",
+    "source_ref": "000A EFF0 / 1",
+    "job_id": "000A EFF0 / 1",
+    "job_title": "EDT AMHP [Trafford]",
+    "client": "Trafford Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "TALBOT ROAD, MANCHESTER, GREATER MANCHESTER, M32 0TH, United Kingdom",
+    "start_date": "2026-05-11",
+    "end_date": "2026-07-31",
+    "pay_from": "40",
+    "pay_to": "45",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Experienced AMHP required for the Emergency Duty Team in Safeguarding Hub in Adults - Trafford Town Hall\n\nYou will need to be a duel qualified AHMP for Adult and Children Social Care. You will need to be warranted\n\nThe Emergency Duty Team (EDT) delivers immediate social work assistance to vulnerable individuals and families, including children at risk of harm, adults with care and support needs and people experiencing acute mental health crises requiring Approved Mental Health Professional (AMHP) intervention under the Mental Health Act. This team of highly skilled practitioners ensures that Trafford meets its statutory duties out of hours, including responsibilities under Adult Social Care legislation, Children’s Social Care legislation, and the Mental Health Act.\n\n\n\n3 years reference, gaps in employment history checked, any relevant quals as per JDPS",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1412500?backToItem=&initialLoad=&tab=&_xmscs=5ce2657d38a51e0777c0b9fc38090378bfca60128508cd5ba9668bca5fad7a943345bd407eca7247",
+    "accepted_at": "2026-04-02T14:28:10.283Z",
+    "scraped_at": "2026-04-02T14:28:10.283Z",
+    "attachments": []
+  },
+  {
     "item_id": "000A EFA1 / 1",
     "source": "xms",
     "source_ref": "000A EFA1 / 1",
