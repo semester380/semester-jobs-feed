@@ -5800,6 +5800,28 @@
     ]
   },
   {
+    "item_id": "prism:OR26750",
+    "source": "prism",
+    "source_ref": "OR26750",
+    "job_id": "OR26750",
+    "job_title": "Independent Reviewing Officer - Social Care Qualified",
+    "client": "Sefton MBC",
+    "procurer": "Olivia Rawcliffe",
+    "working_address": "Trinity Road, Bootle, Merseyside, L20 3NJ, United Kingdom",
+    "start_date": "2026-04-13",
+    "end_date": "",
+    "pay_from": "34.62",
+    "pay_to": "45.58",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "£40 per hour",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=c9499d2d-1f10-48dd-b35b-bc6411c152b4",
+    "accepted_at": null,
+    "scraped_at": "2026-04-02T12:06:34.895Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR26738",
     "source": "prism",
     "source_ref": "OR26738",
