@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "comensura:5294505",
+    "source": "comensura",
+    "source_ref": "5294505",
+    "job_id": "5294505",
+    "job_title": "5294505 – Care Assistant (Social Care Unqualified)",
+    "client": "Middlesbrough Borough Council",
+    "procurer": null,
+    "working_address": "Levick Court, TS5 5JR",
+    "start_date": "2026-04-07",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role Information/Duties:\n\nEnhanced DBS checked against adults is required. We are looking for a candidate experienced at working in a care setting.",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-04-02T19:35:28.218Z",
+    "scraped_at": "2026-04-02T19:35:28.218Z",
+    "attachments": [
+      {
+        "filename": "Care Assistant JDPS March 2026.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5294505/File/219780",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5294426",
     "source": "comensura",
     "source_ref": "5294426",
