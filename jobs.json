@@ -1,5 +1,46 @@
 [
   {
+    "item_id": "000A EFA1 / 1",
+    "source": "xms",
+    "source_ref": "000A EFA1 / 1",
+    "job_id": "000A EFA1 / 1",
+    "job_title": "Children's Social Worker [Salford]",
+    "client": "Salford City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Chorley Road, Swinton, Greater Manchester, M27 5DA, United Kingdom",
+    "start_date": "2026-04-20",
+    "end_date": "2026-07-03",
+    "pay_from": "35",
+    "pay_to": "39",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Children with Disabilities Team\n\n\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1412288?backToItem=&initialLoad=&tab=&_xmscs=ed8b68e844185555a2b1acf34bcac09b5dbe637a9adcd1e1e02daf0bcf378afaf76bc0beb6fa7c64",
+    "accepted_at": "2026-04-02T09:27:50.327Z",
+    "scraped_at": "2026-04-02T09:27:50.327Z",
+    "attachments": [
+      {
+        "filename": "6173_Why work for TeamSalford_v7 (1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135460?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A EFA1 _ 1/6173_Why work for TeamSalford_v7 (1).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "6171_ThisIsSalford_Feb2023_v3 (1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135461?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A EFA1 _ 1/6171_ThisIsSalford_Feb2023_v3 (1).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135462?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A EFA1 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5293864",
     "source": "comensura",
     "source_ref": "5293864",
