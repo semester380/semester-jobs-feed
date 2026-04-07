@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A DEB5 / 1",
+    "source": "xms",
+    "source_ref": "000A DEB5 / 1",
+    "job_id": "000A DEB5 / 1",
+    "job_title": "Occupational Therapist",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Philips Park Road, Manchester, M11 3FU, United Kingdom",
+    "start_date": "2026-05-18",
+    "end_date": "2026-06-30",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "MCC require an experienced Occupation Therapist for the Equipment and Adaptations Partnership",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1413105?inst=1413105--Distribution--1592654246-false&_csrf=fb25111b-90f1-41f1-8b1b-a3ebc47db07a&_xmscs=920ccef0524b2e3af8c854be1908de84b70c1ec00682288bfd3a059c8e78a81dd09a7ab8365ae5da",
+    "accepted_at": "2026-04-07T13:41:43.689Z",
+    "scraped_at": "2026-04-07T13:41:43.689Z",
+    "attachments": [
+      {
+        "filename": "MLCO RP - Occupational Therapist Level 1 September 2025.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135302?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A DEB5 _ 1/MLCO RP - Occupational Therapist Level 1 September 2025.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5294306",
     "source": "comensura",
     "source_ref": "5294306",
