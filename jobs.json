@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A EF5D / 1",
+    "source": "xms",
+    "source_ref": "000A EF5D / 1",
+    "job_id": "000A EF5D / 1",
+    "job_title": "Family Worker - [Blackpool]",
+    "client": "Blackpool Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Talbot Gateway, Blackpool, Lancashire, FY1 3AH, United Kingdom",
+    "start_date": "2026-04-02",
+    "end_date": "2026-04-30",
+    "pay_from": "15.78",
+    "pay_to": "15.78",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Umbrella rate - £20.01\n\n2 year references, gaps in employment history checked, quals as per JD, Enhanced Child & Adult DBS\n\nFamily Workers required - Blackpool Family Safeguarding Team\n\nDue to difficulties recruiting agency Social Workers, the service are seeking agency Family Workers to step in.\n\n37 hours per week - hybrid working - staff parking at reduced rates - condensed working hours considered\n\nSW order to be discarded upon confirmation of Family Worker appointment - AB311/1 A3F7B/1 A9F54/1",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1413664?backToItem=&initialLoad=&tab=&_xmscs=3c0bf07529840cda41290e395c47849a3d5486ffb6841b9dbde2867161a9aa2c37e61814c0d1a18f",
+    "accepted_at": "2026-04-08T11:59:15.017Z",
+    "scraped_at": "2026-04-08T11:59:15.017Z",
+    "attachments": [
+      {
+        "filename": "JD - 9756 10569.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135449?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A EF5D _ 1/JD - 9756 10569.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5294310",
     "source": "comensura",
     "source_ref": "5294310",
