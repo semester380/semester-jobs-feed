@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A F1B4 / 1",
+    "source": "xms",
+    "source_ref": "000A F1B4 / 1",
+    "job_id": "000A F1B4 / 1",
+    "job_title": "Children's Social Worker [Stockport MBC]",
+    "client": "Stockport Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Piccadilly, Stockport, Stockport, SK1 3XE, United Kingdom",
+    "start_date": "2026-04-20",
+    "end_date": "2026-07-20",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "1 x PT kinship assessing social worker (18.5 hrs)\n\nImmediate start\n\nFostering / Kinship experience necessary\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1413855?backToItem=&initialLoad=&tab=&_xmscs=0b82ce2c8df4a2985db129e3920653e9bad4d16866ca003cae755fdede2f9867d19a5bceb40b097e",
+    "accepted_at": "2026-04-08T14:37:47.944Z",
+    "scraped_at": "2026-04-08T14:37:47.944Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135656?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A F1B4 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A F20E / 1",
     "source": "xms",
     "source_ref": "000A F20E / 1",
