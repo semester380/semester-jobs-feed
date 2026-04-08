@@ -6417,6 +6417,28 @@
     ]
   },
   {
+    "item_id": "prism:OR26957",
+    "source": "prism",
+    "source_ref": "OR26957",
+    "job_id": "OR26957",
+    "job_title": "Recycling Advisor L2Z1 - Admin & Clerical",
+    "client": "Camden Council",
+    "procurer": "Toye Ogunleye",
+    "working_address": "25 Ashley Road, Tottenham Hale, London, Greater London, N17 9LJ, United Kingdom",
+    "start_date": "2026-05-05",
+    "end_date": "",
+    "pay_from": "17.77",
+    "pay_to": "23.09",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "Candidate to start as soon as possible",
+    "description": ".",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=37b46f64-1214-4de3-81b4-b9461b69da75",
+    "accepted_at": null,
+    "scraped_at": "2026-04-08T11:06:52.613Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR26955",
     "source": "prism",
     "source_ref": "OR26955",
