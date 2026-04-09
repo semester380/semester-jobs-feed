@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "000A F1FC / 1",
+    "source": "xms",
+    "source_ref": "000A F1FC / 1",
+    "job_id": "000A F1FC / 1",
+    "job_title": "Childrens - Senior Social Worker",
+    "client": "Hiring - Leeds City Council, Leeds City Council",
+    "procurer": null,
+    "working_address": "Kernel House, Killingbeck House, Leeds, LS14 6UF, United Kingdom",
+    "start_date": "2026-04-08",
+    "end_date": "2026-04-22",
+    "pay_from": "30.74",
+    "pay_to": "30.74",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "3 full time SWs ideally with prior experience of working with CLA.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1414226?backToItem=&initialLoad=&tab=&_xmscs=9e175b157470bf8922dc92f364473ca35832f63939fef4a78958aa681a598274b6abc246c0507e55",
+    "accepted_at": "2026-04-09T13:04:32.657Z",
+    "scraped_at": "2026-04-09T13:04:32.657Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135669?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A F1FC _ 1/DfE Recommendation Attribute.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5294307",
     "source": "comensura",
     "source_ref": "5294307",
