@@ -1,5 +1,27 @@
 [
   {
+    "item_id": "000A F2BD / 1",
+    "source": "xms",
+    "source_ref": "000A F2BD / 1",
+    "job_id": "000A F2BD / 1",
+    "job_title": "Adults Social Worker [Bolton]",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Castleton Street, Tonge Moor, Bolton, Lancashire, BL2 2JW, United Kingdom",
+    "start_date": "2026-05-18",
+    "end_date": "Sat 11/07/2026",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "3 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nWe require an experienced worker to triage safeguarding concerns, and determine if they need to progress to a Section 42 safeguarding enquiry, Care Act 2014.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1414400?backToItem=&initialLoad=&tab=&_xmscs=a3ddfb3dfaf14abc27c497d8d9e1e79bfc77bbf3929e448c29cf30882c98bcf89d7172ced2c6e6e4",
+    "accepted_at": "2026-04-10T07:57:38.892Z",
+    "scraped_at": "2026-04-10T07:57:38.892Z",
+    "attachments": []
+  },
+  {
     "item_id": "000A F1FC / 1",
     "source": "xms",
     "source_ref": "000A F1FC / 1",
@@ -6808,6 +6830,28 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR99234",
+    "source": "prism",
+    "source_ref": "OR99234",
+    "job_id": "OR99234",
+    "job_title": "CSW - Senior Social Worker / Advanced Practitioner - Children in Care (Grade J) - Social Care Qualified",
+    "client": "Barnet Council",
+    "procurer": "Andrew Nicolaou",
+    "working_address": "2 Bristol Avenue, Colindale, London, London, NW9 4EW, United Kingdom",
+    "start_date": "2026-04-28",
+    "end_date": "",
+    "pay_from": "27.32",
+    "pay_to": "37.54",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "Hybrid role; 1-2 in the office plus visits to young people. Must have worked in a similar team with at least 3 years experience in a perm role.",
+    "description": "Please Add JD",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=58a6a728-6418-4714-9f24-fd45245f8063",
+    "accepted_at": null,
+    "scraped_at": "2026-04-10T07:58:09.018Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR99159",
