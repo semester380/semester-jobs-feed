@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "comensura:5294738",
+    "source": "comensura",
+    "source_ref": "5294738",
+    "job_id": "5294738",
+    "job_title": "5294738 – Mou - Childrens Social Care -... (Social Care Qualified)",
+    "client": "Stockton on Tees Borough Council",
+    "procurer": null,
+    "working_address": "Floor Municipal Building Stockton on, Head Office, TS17 6BJ",
+    "start_date": "2026-04-20",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role Information/Duties:\n\nWill consider applicants who may not have been an IRO before but have the quality and skills to undertake this role",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-04-10T14:06:10.967Z",
+    "scraped_at": "2026-04-10T14:06:10.967Z",
+    "attachments": [
+      {
+        "filename": "Agency IRO Job Advert.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5294738/File/219885",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000A F2BD / 1",
     "source": "xms",
     "source_ref": "000A F2BD / 1",
@@ -6830,6 +6859,50 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR99322",
+    "source": "prism",
+    "source_ref": "OR99322",
+    "job_id": "OR99322",
+    "job_title": "Receptionist - Admin & Clerical",
+    "client": "Nottingham Community Housing Association",
+    "procurer": "Rafique Duncan",
+    "working_address": "Clifton Place, 9 Fairham Brook Drive, NOTTINGHAM, Nottinghamshire, NG11 8PY, United Kingdom",
+    "start_date": "2026-04-15",
+    "end_date": "",
+    "pay_from": "13.40",
+    "pay_to": "17.43",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "shifts: 8.00 - 16.00, 10.00 - 18.00, 5 days a week, Monday to Friday. 1 hours lunch.",
+    "description": "Reception and visitor management with a focus on providing a positive building user experience.\n\nCoordinate head office meeting room resources including set up and configuration and organising the appropriate hospitality.\n\nPerform general clerical duties to include, but not limited to, copying, mailing, laminating and filing.\n\nOrder and maintain stock in relation to the workplace services provision and managing the invoices relating to these orders.\n\nAttend team meetings and produce minutes/actions.\n\nTo take reasonable care for the health and safety of yourself and of other persons who may be affected by your actions or omissions at work.\n\nProvide support to the Workplaces team on the raising and closing of reactive and planned maintenance.\n\nProduce reports for managers as required.\n\nCoordinate deliveries in line with service standards. Maintain office security by following safety procedures and controlling access via the Reception desk Provide accurate information in-person and via phone/email, ensuring all communications are handled appropriately. Manage and use the appropriate office systems in line with workplace standards. Act as Fire Safety warden and First aider for building; ensuring all colleagues/visitors are aware of the relevant safety procedures. Support with building checks and maintaining welfare facilities and the general office environment both internal and external. Any other duties deemed commensurate to the role. Create, implement and keep up to date procedures relevant to the role.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=c9e9d997-2470-420e-a9b7-af66f4ff08e0",
+    "accepted_at": null,
+    "scraped_at": "2026-04-10T14:05:31.393Z",
+    "attachments": []
+  },
+  {
+    "item_id": "prism:OR99327",
+    "source": "prism",
+    "source_ref": "OR99327",
+    "job_id": "OR99327",
+    "job_title": "Children Social Worker - Care and support (Grade 11) - Social Care Qualified",
+    "client": "Powys County Council",
+    "procurer": "Becky Higginson",
+    "working_address": "Ty Brycheiniog, Brecon Enterprise Park, Brecon, Powys, LD3 8BT, United Kingdom",
+    "start_date": "2026-04-27",
+    "end_date": "",
+    "pay_from": "29.34",
+    "pay_to": "38.43",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "This position is within the Care and Support Team in the South of Powys. Candidates must hold a driving license and have access to a vehicle as Powys is remote and does not have regular public transport.",
+    "description": "All distances in minutes using Google maps  \tBrecon \tBuilth Wells \tCrickhowell \tHay-on-Wye \tKnighton \tLlandrindod \tLlanfyllin \tLlanidloes \tMachynlleth \tNewtown \tRhayader \tWelshpool \tYstradgynlais\nBrecon \tX \t30 \t24 \t25 \t61 \t42 \t123 \t69 \t102 \t82 \t48 \t104 \t40\nBuilth Wells \t30 \tX \t45 \t32 \t42 \t15 \t96 \t42 \t75 \t55 \t21 \t77 \t65\nCrickhowell \t24 \t45 \tX \t34 \t69 \t55 \t139 \t83 \t115 \t96 \t62 \t118 \t56\nHay-on-Wye \t25 \t32 \t34 \tX \t40 \t43 \t112 \t70 \t103 \t80 \t50 \t93 \t59\nKnighton \t61 \t42 \t69 \t40 \tX \t30 \t72 \t57 \t84 \t43 \t36 \t52 \t96\nLlandrindod \t42 \t15 \t55 \t43 \t30 \tX \t81 \t37 \t70 \t40 \t30 \t62 \t77\nLlanfyllin \t123 \t96 \t139 \t112 \t72 \t81 \tX \t65 \t56 \t43 \t83 \t20 \t158\nLlanidloes \t69 \t42 \t83 \t70 \t57 \t37 \t65 \tX \t36 \t25 \t22 \t66 \t84\nMachynlleth \t102 \t75 \t115 \t103 \t84 \t70 \t56 \t36 \tX \t50 \t56 \t59 \t140\nNewtown \t82 \t55 \t96 \t80 \t43 \t40 \t43 \t25 \t50 \tX \t45 \t24 \t119\nRhayader \t48 \t21 \t62 \t50 \t36 \t30 \t83 \t22 \t56 \t45 \tX \t65 \t84\nWelshpool \t104 \t77 \t118 \t93 \t52 \t62 \t20 \t66 \t59 \t24 \t65 \tX \t139\nYstradgynlais \t40 \t65 \t56 \t59 \t96 \t77 \t158 \t84 \t140 \t119 \t84 \t139 \tX",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=0bb96685-5805-4c4e-890e-fac11fde8865",
+    "accepted_at": null,
+    "scraped_at": "2026-04-10T14:05:27.066Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR99276",
