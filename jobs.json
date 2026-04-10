@@ -6832,6 +6832,28 @@
     ]
   },
   {
+    "item_id": "prism:OR99274",
+    "source": "prism",
+    "source_ref": "OR99274",
+    "job_id": "OR99274",
+    "job_title": "Occupational Therapist (Grade J) - Social Care Qualified",
+    "client": "Barnet Council",
+    "procurer": "Andrew Nicolaou",
+    "working_address": "2 Bristol Avenue, Colindale, London, London, NW9 4EW, United Kingdom",
+    "start_date": "2026-04-28",
+    "end_date": "",
+    "pay_from": "29.06",
+    "pay_to": "39.93",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Please Add JD",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=11da3990-f779-497e-a8f7-b9ca0ee76415",
+    "accepted_at": null,
+    "scraped_at": "2026-04-10T10:47:49.309Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR99248",
     "source": "prism",
     "source_ref": "OR99248",
