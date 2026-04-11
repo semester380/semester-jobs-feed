@@ -1,5 +1,46 @@
 [
   {
+    "item_id": "000A F045 / 1",
+    "source": "xms",
+    "source_ref": "000A F045 / 1",
+    "job_id": "000A F045 / 1",
+    "job_title": "Senior Social Worker (Childrens)",
+    "client": "Wakefield Hiring, Yorkshire Collaboration",
+    "procurer": "Yorkshire Collaboration",
+    "working_address": "The Airedale Centre, The Square , Castleford , West Yorkshire, WF10 3JJ",
+    "start_date": "2026-04-13",
+    "end_date": "2026-06-12",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "For a Senior Social worker to float between team 1 and 3\n\nAnd the 2nd to float between team 2 and 4",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1414816?backToItem=&initialLoad=&tab=&_xmscs=bcd64a4e1ec611794857bd98be2974ce74dc52acac2565deab0acb80421d94cbe4c6b884fb647691",
+    "accepted_at": "2026-04-11T07:45:08.030Z",
+    "scraped_at": "2026-04-11T07:45:08.030Z",
+    "attachments": [
+      {
+        "filename": "Wakefield Your Temp Experience.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135512?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A F045 _ 1/Wakefield Your Temp Experience.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135513?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A F045 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      },
+      {
+        "filename": "Senior Social Worker (Children).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135514?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A F045 _ 1/Senior Social Worker (Children).pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5294738",
     "source": "comensura",
     "source_ref": "5294738",
@@ -5390,7 +5431,7 @@
     "client": "Lancashire County Council",
     "procurer": null,
     "working_address": "Lancaster Central Library, LA1 1HY",
-    "start_date": "2026-03-23",
+    "start_date": "2026-04-27",
     "end_date": "",
     "pay_from": null,
     "pay_to": null,
@@ -5400,7 +5441,7 @@
     "description": "Role Information/Duties:\n\nInterviews - ASAP\nLocation - Lancaster\nSee attached JD for full details\nMUST BE ABLE TO ATTEND OFFICE (LANCASTER) 3 DAYS A WEEK\n\nThis is a fantastic opportunity to step into a leadership role within our recently remodelled multi disciplinary, innovative service; one that is transforming how we safeguard young people facing risks outside the home\nAs Team Manager, you will:\n•\tLead and inspire a passionate, skilled team committed to making a difference.\n•\tChampion high-quality, trauma-informed, relational and strengths-based practice.\n•\tPlay a key role in shaping the strategic direction of contextual safeguarding across the North.\nWe’re looking for someone who:\n•\tBrings experience in safeguarding and a passion and commitment to improving outcomes for young people at risk of exploitation.\n•\tLeads with empathy, clarity, and a collaborative spirit.\n•\tIs ready to influence change and drive innovation in contextual safeguarding.",
     "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
     "accepted_at": "2026-02-18T15:15:38.619Z",
-    "scraped_at": "2026-03-12T15:30:49.723Z",
+    "scraped_at": "2026-04-11T07:46:06.495Z",
     "attachments": [
       {
         "filename": "TM job description .docx",
