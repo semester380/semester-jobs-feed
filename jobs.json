@@ -6881,28 +6881,6 @@
     ]
   },
   {
-    "item_id": "comensura:Pending Acceptance",
-    "source": "comensura",
-    "source_ref": "Pending Acceptance",
-    "job_id": "Pending Acceptance",
-    "job_title": "Filter Off",
-    "client": "Bradford Metropolitan District Council",
-    "procurer": null,
-    "working_address": null,
-    "start_date": "2026-02-23",
-    "end_date": "",
-    "pay_from": null,
-    "pay_to": null,
-    "pay_type": null,
-    "ir35": null,
-    "ir35_note": null,
-    "description": null,
-    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
-    "accepted_at": "2026-02-11T11:18:56.780Z",
-    "scraped_at": "2026-02-11T11:18:56.780Z",
-    "attachments": []
-  },
-  {
     "item_id": "000A BEE8 / 1",
     "source": "xms",
     "source_ref": "000A BEE8 / 1",
