@@ -1,5 +1,27 @@
 [
   {
+    "item_id": "000A F4C8 / 1",
+    "source": "xms",
+    "source_ref": "000A F4C8 / 1",
+    "job_id": "000A F4C8 / 1",
+    "job_title": "Adults Social Worker Level 2",
+    "client": "SCC_Authorising, Sheffield City Council",
+    "procurer": null,
+    "working_address": "Howden House, Union Street, Sheffield, South Yorkshire, S1 2SH, United Kingdom",
+    "start_date": "2026-04-27",
+    "end_date": "2026-10-30",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "This is for a temporary post within the Preparation to Adulthood Team in Adult future options. The team works with\nComplex young people from 16yrs transitioning from children's services through to adult services. This includes the first\nCare act assessment that will take place for each young person.\n\nThe post covers statutory requirements linked to the Care act, Mental capacity etc – completing Care act assessments,\nsupporting planning Mental capacity and best interest assessments, court of protection applications etc",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1416020?backToItem=&initialLoad=&tab=&_xmscs=6c067530fbc98a6de7ae478966ef12dd45b4e3e064b577ea67736406ef461ab5edbe971d781543d2",
+    "accepted_at": "2026-04-14T15:02:03.953Z",
+    "scraped_at": "2026-04-14T15:02:03.953Z",
+    "attachments": []
+  },
+  {
     "item_id": "000A F528 / 1",
     "source": "xms",
     "source_ref": "000A F528 / 1",
