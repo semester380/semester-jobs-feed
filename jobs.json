@@ -1,5 +1,34 @@
 [
   {
+    "item_id": "comensura:5294972",
+    "source": "comensura",
+    "source_ref": "5294972",
+    "job_id": "5294972",
+    "job_title": "5294972 – Personal Advisor (Jajb4326 - G... (Social and Healthcare Qualifie...)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Delamere House, CW1 2JZ",
+    "start_date": "2026-04-20",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role Information/Duties:\n\nRole is for a Personal Advisor, supporting care experienced young people transition into adulthood. Working with young people aged 16-25 years.\nOffice presence in Crewe 3 days per week.\nTravel is essential through the UK.\n\nPlease confirm which DBS is required for this role.\n\n(Delete the lines which are not applicable and leave the option that is required)\n\n           c.      Both children’s and adults\n\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-04-14T10:46:36.348Z",
+    "scraped_at": "2026-04-14T10:46:36.348Z",
+    "attachments": [
+      {
+        "filename": "JAJB4326 - Personal Advisor - JD and PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5294972/File/220014",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5294900",
     "source": "comensura",
     "source_ref": "5294900",
