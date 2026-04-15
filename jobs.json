@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000A F699 / 1",
+    "source": "xms",
+    "source_ref": "000A F699 / 1",
+    "job_id": "000A F699 / 1",
+    "job_title": "Childrens Senior Social Worker/ Advance Practitioner [Trafford]",
+    "client": "Trafford Council, GM Collaboration",
+    "procurer": "GM Collaboration",
+    "working_address": "TALBOT ROAD, MANCHESTER, GREATER MANCHESTER, M32 0TH, United Kingdom",
+    "city": "MANCHESTER",
+    "postcode": "M32 0TH",
+    "start_date": "2026-05-25",
+    "end_date": "2026-07-31",
+    "pay_from": "37",
+    "pay_to": "37",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Here in Trafford Children’s Services our vision is that our teams are offering the right help at the right time, and that at all levels our interventions make life better for children and families. We are ambitious for our children and for our practitioners - and our core value is ‘would this be good enough for my child’?\n\nWe want to have practitioners and managers who are confident and brave in their practice and are supported by strong leaders at all levels. As a relatively small local authority, we pride ourselves on our friendly teams, manageable caseloads, creative approach and colleagues who support each other. We were pleased to see this recognised in the Ofsted report that followed our ILACS inspection in late 2022, which highlighted that “social workers in Trafford are overwhelmingly positive about both the local authority and the support they receive.”\n\nIn Trafford our approach is strengths-based, using relational and restorative practice. Our recent Ofsted report referred to our \"relational model of social work practice, which is well regarded by the wider workforce, has been successfully implemented.”\n\nWe have developed our Support and Protect Service to support children and families who need longer term support and achieving permanence this might be through Child Protection Planning or if required in the Court arena.\n\nWe are looking for an advanced practitioner who is passionate about making a difference for children and can work creatively to ensure the best outcomes and support children to stay within the family wherever it is safe to do so.\n\nWe have already worked closely with our multi agency partners and have started to further build on this in line with the current reforms.\n\nOur teams work well together to ensure the safety of children and are supported to do this by experienced and passionate team managers.\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1416748?backToItem=&initialLoad=&tab=&_xmscs=b6dbe4d29e5112c5bba4d5787178fba27a80b898afa8bdcb7d220e6b3717c64b03b6ea61d279e140",
+    "accepted_at": "2026-04-15T16:26:40.892Z",
+    "scraped_at": "2026-04-15T16:26:40.892Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135896?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A F699 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      },
+      {
+        "filename": "Support & Protection Advanced Practitioner Roles.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135897?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A F699 _ 1/Support & Protection Advanced Practitioner Roles.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A F662 / 1",
     "source": "xms",
     "source_ref": "000A F662 / 1",
