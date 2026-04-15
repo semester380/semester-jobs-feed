@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000A F662 / 1",
+    "source": "xms",
+    "source_ref": "000A F662 / 1",
+    "job_id": "000A F662 / 1",
+    "job_title": "Childrens Social Worker [Trafford]",
+    "client": "Trafford Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "TALBOT ROAD, MANCHESTER, GREATER MANCHESTER, M32 0TH, United Kingdom",
+    "city": "MANCHESTER",
+    "postcode": "M32 0TH",
+    "start_date": "2026-05-25",
+    "end_date": "Sun 02/08/2026",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Social Worker - Support and Protection - locality based\n\nWe have developed our Support and Protect Service to support children and families who need longer term support and achieving permanence this might be through Child Protection Planning or if required in the Court arena.\n\nWe are looking for social workers who are passionate about making a difference for children and can work creatively to ensure the best outcomes and support children to stay within the family wherever it is safe to do so.\n\nWe have already worked closely with our multi agency partners and have started to further build on this in line with the current reforms.\n\nOur teams work well together to ensure the safety of children and are supported to do this by experienced and passionate team managers.\n\nYou will be working in a busy and friendly team and will work predominantly with children in need, child protection, care proceedings and private law applications, working on a longer-term\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1416695?backToItem=&initialLoad=&tab=&_xmscs=cec6da6b02368b5bc16d2d036992d5d163189ff64bb2c9386c24a405a9ff8f55323e64bf5a47009c",
+    "accepted_at": "2026-04-15T16:11:32.282Z",
+    "scraped_at": "2026-04-15T16:11:32.282Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135884?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A F662 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5295047",
     "source": "comensura",
     "source_ref": "5295047",
