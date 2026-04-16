@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000A EED7 / 1",
+    "source": "xms",
+    "source_ref": "000A EED7 / 1",
+    "job_id": "000A EED7 / 1",
+    "job_title": "Childrens Social Worker [Tameside MBC]",
+    "client": "Tameside Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Old Street, Ashton-u-Lyne, Tameside, OL6 7SG",
+    "city": "Tameside",
+    "postcode": "OL6 7SG",
+    "start_date": "2026-05-18",
+    "end_date": "2026-07-31",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are embarking on an ambitious and inspiring journey to remodel and strengthen our fostering service — and we’re looking for experienced, dynamic Social Workers who are ready to make a real impact. This is a unique opportunity to be at the heart of positive change, shaping the way we support children and families across our community.\n\nAs part of our dedicated fostering duty function, you will play a leading role in completing Regulation 24 assessments, viabilities, and kinship checks, ensuring these are completed swiftly, safely, and with confidence. We want to take the lead in driving high standards, reducing delays, and ensuring that every child has the opportunity to remain safely within their family network wherever possible. We want to be responsive, forward thinking and truly centred around keeping children connected to the people who know and love them.\n\nYou’ll be joining a team that is passionate about innovation, committed to high‑quality practice, and energised by the challenge of doing things differently. You will be supported by a service that values your expertise and encourages professional development.\n\n\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the GM Pledge Compliance Attributes Questions Attachment on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1416809?backToItem=&initialLoad=&tab=&_xmscs=a3d6e8caa1c49d8c28dd211b0ed6b9bc77befac2010c831c6e8f31b25ea95d88ebfa458c5e2df4c5",
+    "accepted_at": "2026-04-16T07:51:40.736Z",
+    "scraped_at": "2026-04-16T07:51:40.736Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135416?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A EED7 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A F699 / 1",
     "source": "xms",
     "source_ref": "000A F699 / 1",
