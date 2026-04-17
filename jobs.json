@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000A ECD6 / 1",
+    "source": "xms",
+    "source_ref": "000A ECD6 / 1",
+    "job_id": "000A ECD6 / 1",
+    "job_title": "Senior Social Worker Children's",
+    "client": "Barnsley Hiring, Yorkshire Collaboration",
+    "procurer": "Yorkshire Collaboration",
+    "working_address": "Westgate Plaza One, 1 Westgate, Western Street, Barnsley, South Yorkshire, S70 2DR",
+    "city": "Barnsley",
+    "postcode": "S70 2DR",
+    "start_date": "2026-05-11",
+    "end_date": "2026-07-31",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are seeking a part-time senior social worker for our Children's Integrated Front Door to cover a vacancy pending permanent recruitment. The successful candidate will have worked previously within a MASH/Screening Team and will be able to work at pace. The candidate will have a clear understanding of thresholds, be able to undertake risk assessments, complete safety plans and analyse information from multiple sources to inform plans and ensure children receive the level of service/help they require at the right time. Previous experience of working within a signs of safety framework and using Mosaic is preferred.\n\nWorking arrangements will follow the following pattern: Week 1 - Monday, Tuesday Wednesday; Week 2  - Monday, Tuesday. Hybrid working arrangements are in place - currently a minimum of  2 days in the office on the 3 day week and 1 day in the office on the 2 day week",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1417447?backToItem=&initialLoad=&tab=&_xmscs=b6854d1398df4c375196cb43bc5876d197da58ff1ac2679c127368e01f63199fd52130bb483d7ebc",
+    "accepted_at": "2026-04-17T09:46:40.018Z",
+    "scraped_at": "2026-04-17T09:46:40.018Z",
+    "attachments": [
+      {
+        "filename": "92690 Senior Social Worker Profile 20150120.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135316?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A ECD6 _ 1/92690 Senior Social Worker Profile 20150120.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135317?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A ECD6 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5295185",
     "source": "comensura",
     "source_ref": "5295185",
