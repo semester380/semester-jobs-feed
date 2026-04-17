@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000A F7B3 / 1",
+    "source": "xms",
+    "source_ref": "000A F7B3 / 1",
+    "job_id": "000A F7B3 / 1",
+    "job_title": "Adults Social Worker [Stockport MBC]",
+    "client": "Stockport Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Piccadilly, Stockport, Stockport, SK1 3XE, United Kingdom",
+    "city": "Stockport",
+    "postcode": "SK1 3XE",
+    "start_date": "2026-05-18",
+    "end_date": "2026-07-27",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Experienced social worker on early adulthood team - 3 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nThis role will include completing assessments & support planning which are strengths based for young people aged 14-25 years old . You will be expected to complete robust legally compliant assessments under the Care act 2014 and will also be expected to complete mental capacity assessments and reports under SEND legislation to contribute to Education Health and Care Plans and reviews",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1417388?backToItem=&initialLoad=&tab=&_xmscs=940870f5a328d50d61aaf122eb009193edd0fa950dda15b22b7508e0322eec6419bcaa6fdc707f6b",
+    "accepted_at": "2026-04-17T08:54:26.970Z",
+    "scraped_at": "2026-04-17T08:54:26.970Z",
+    "attachments": [
+      {
+        "filename": "Agency advert - experienced social worker .docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135938?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A F7B3 _ 1/Agency advert - experienced social worker .docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A EED7 / 1",
     "source": "xms",
     "source_ref": "000A EED7 / 1",
