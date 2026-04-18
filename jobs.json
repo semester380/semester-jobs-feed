@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5295282",
+    "source": "comensura",
+    "source_ref": "5295282",
+    "job_id": "5295282",
+    "job_title": "5295282 – Residential Practitioner (Bcft... (Social and Healthcare Qualifie...)",
+    "client": "Bradford Metropolitan District Council",
+    "procurer": null,
+    "working_address": "Hollybank Road Children's Home, BD7 4QL",
+    "city": "Hollybank Road Children's Home",
+    "postcode": "BD7 4QL",
+    "start_date": "2026-04-20",
+    "end_date": "",
+    "pay_from": "20.58",
+    "pay_to": "20.58",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role Information/Duties:\nAG534 - 17.04.26",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-04-18T14:12:46.046Z",
+    "scraped_at": "2026-04-18T14:12:46.046Z",
+    "attachments": [
+      {
+        "filename": "Residential Practitioner - BRD.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5295282/File/220170",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000A ECD6 / 1",
     "source": "xms",
     "source_ref": "000A ECD6 / 1",
