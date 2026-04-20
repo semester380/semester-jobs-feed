@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000A F904 / 1",
+    "source": "xms",
+    "source_ref": "000A F904 / 1",
+    "job_id": "000A F904 / 1",
+    "job_title": "Childrens Social Worker [Manchester City Council]",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Etrop Court, Rowlands Way, Wythenshawe, M22 5RG",
+    "city": "Wythenshawe",
+    "postcode": "M22 5RG",
+    "start_date": "2026-05-25",
+    "end_date": "2026-06-30",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Refreshed version of order - 000A B0C6 / 1\n\nExperienced fostering social worker required for kinship team.\n\nCourt directed assessments- essential assessment skills in assessing kinship foster carer required\n\nMust be able to meet deadlines and effective time management\n\nUnderstanding of fostering regulations and safeguarding/ child protection experience preferred.\n\nMainly office based\n\nNeed to work outside of office hours when on duty as the service requires\n\nManchester local authority has been graded as 'outstanding' in recent Ofsted inspection\n\n\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1418050?backToItem=&initialLoad=&tab=&_xmscs=ab31a56d97af2b7069268a7cc8e72bb04a12f961d4151e475319379e91abdf2c19229f8f8ec41985",
+    "accepted_at": "2026-04-20T09:50:07.208Z",
+    "scraped_at": "2026-04-20T09:50:07.208Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136011?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robertarnold/Desktop/xms-harvester/data/attachments/000A F904 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5295282",
     "source": "comensura",
     "source_ref": "5295282",
