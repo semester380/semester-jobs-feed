@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000A FA83 / 1",
+    "source": "xms",
+    "source_ref": "000A FA83 / 1",
+    "job_id": "000A FA83 / 1",
+    "job_title": "Childrens Social Worker [Trafford]",
+    "client": "Trafford Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "TALBOT ROAD, MANCHESTER, GREATER MANCHESTER, M32 0TH, United Kingdom",
+    "city": "MANCHESTER",
+    "postcode": "M32 0TH",
+    "start_date": "2026-05-25",
+    "end_date": "2026-07-31",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "This is an exciting opportunity to be part of a service that brings together and aligns our Family Help Services with our Front Door of Social Care. These are non- case holding social work roles that are about reaching out into the community, supporting the Families to build upon their strengths and access support where necessary.\n\nDo you have partnership skills? Can you take advice and guidance to another level by stepping out and showing how to bring a plan together, assess risk, draw partners together and enable effective intervention with families. Are you confident in your knowledge of risk, of levels of need and able to engage others kindly, building relationships in the community and making a difference for families?\n\nYour knowledge and confidence will be useful in supporting the Front Door, taking referrals and working alongside First Response Advisors and partners to share information, identify risk and strengths and facilitating work transfer to the right place at the right time. You may be required to work outside of core business hours in line with the needs of the service.\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1418892?backToItem=&initialLoad=&tab=&_xmscs=0bbc1c1d793d860d51ed2cea946107fc0621b32bbbc4cfda30a9b8cc818d3ca020104d79455a7c4c",
+    "accepted_at": "2026-04-21T14:13:41.417Z",
+    "scraped_at": "2026-04-21T14:13:41.417Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136085?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000A FA83 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5294750",
     "source": "comensura",
     "source_ref": "5294750",
