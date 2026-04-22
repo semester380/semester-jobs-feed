@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5295505",
+    "source": "comensura",
+    "source_ref": "5295505",
+    "job_id": "5295505",
+    "job_title": "5295505 – Social Worker - Acute - Adults... (Social Care - Qualified)",
+    "client": "Lancashire County Council",
+    "procurer": null,
+    "working_address": "Wyre CAPSS, FY7 8FF",
+    "city": "Wyre CAPSS",
+    "postcode": "FY7 8FF",
+    "start_date": "2026-05-05",
+    "end_date": "",
+    "pay_from": "35.00",
+    "pay_to": "35.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role Information/Duties:\nALL CANDIDATES MUST\n• have at least three years' experience in a permanent post within a local authority\n• not have held a permanent or fixed-term position with an LA within the last 12 weeks\n· Provide a professional social work service, including statutory social care responsibilities\n· Contribute to service delivery that is strengths based and outcome focussed with an emphasis on promoting independence and enabling recovery\n· Work collaboratively with other professionals and agencies to address complex needs and achieve the most ideal outcomes for individuals and their carers that supports their choice and independence\n· Work collaboratively with health colleagues to ensure safe and timely discharges from hospital, to the most appropriate service and setting for the individual.\nlocation based in the Fylde and Wyre area.",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-04-22T20:32:26.816Z",
+    "scraped_at": "2026-04-22T20:32:26.816Z",
+    "attachments": [
+      {
+        "filename": "grade-8-sw-jd-role-def.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5295505/File/220283",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5295520",
     "source": "comensura",
     "source_ref": "5295520",
