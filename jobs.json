@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5291279",
+    "source": "comensura",
+    "source_ref": "5291279",
+    "job_id": "5291279",
+    "job_title": "5291279 – Social Worker (Childrens) (Jaj... (Social and Healthcare Qualifie...)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Delamere House, CW1 2JZ",
+    "city": "Delamere House",
+    "postcode": "CW1 2JZ",
+    "start_date": "2026-04-27",
+    "end_date": "",
+    "pay_from": "39.00",
+    "pay_to": "39.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role Information/Duties:\nPlease confirm which DBS is required for this role.\n5. Enhanced – including barred:\nc. Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-04-23T13:22:06.445Z",
+    "scraped_at": "2026-04-23T13:22:06.445Z",
+    "attachments": [
+      {
+        "filename": "JAJB4097 - Social Worker - JD and PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5291279/File/218771",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000A F7D3 / 1",
     "source": "xms",
     "source_ref": "000A F7D3 / 1",
