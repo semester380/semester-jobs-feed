@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000A FBC6 / 1",
+    "source": "xms",
+    "source_ref": "000A FBC6 / 1",
+    "job_id": "000A FBC6 / 1",
+    "job_title": "Childrens Senior Social Worker/ Advance Practitioner [Trafford]",
+    "client": "Trafford Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "TALBOT ROAD, MANCHESTER, M32 0TH",
+    "city": "MANCHESTER",
+    "postcode": "M32 0TH",
+    "start_date": "2026-05-25",
+    "end_date": "2026-07-31",
+    "pay_from": "37",
+    "pay_to": "37",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Families First - Advanced Practitioner (various locations in the Borough)\n\nYou will be working in our Child in Need Service where you will work on a locality basis with children and families that require a social work assessment. We have developed a specialised service in this area of work to allow us to strengthen our assessment and planning for children in need and their families, raising the status of children in need and ensuring a consistent approach across the borough.\n\n Teams complete duty on a rota basis and social workers will have a varied workload including undertaking section 47 enquiries, completing child and family assessments and holding a manageable case load of children who are supported through child in need planning.\n\n It is also important that workers in this service are able to build relational partnerships that strengthen our work and enable the step down of plans where it is safe to do so and in the families’ timescales.\n\nAs an Advanced Practitioner you will coach, support and supervise designated staff or students and support their professional development.\n\n\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1419622?backToItem=&initialLoad=&tab=&_xmscs=579d9f9d594276e4c2b58191938624f8267bf08017851291b106457138b260016f6b0d07a618cee0",
+    "accepted_at": "2026-04-23T08:16:52.338Z",
+    "scraped_at": "2026-04-23T08:16:52.338Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136147?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000A FBC6 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A FBC2 / 1",
     "source": "xms",
     "source_ref": "000A FBC2 / 1",
