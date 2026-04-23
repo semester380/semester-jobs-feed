@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000A F7D3 / 1",
+    "source": "xms",
+    "source_ref": "000A F7D3 / 1",
+    "job_id": "000A F7D3 / 1",
+    "job_title": "Adults Social Worker [Salford]",
+    "client": "Salford City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Chorley Road, Swinton, Greater Manchester, M27 5DA, United Kingdom",
+    "city": "Swinton",
+    "postcode": "M27 5DA",
+    "start_date": "2026-04-20",
+    "end_date": "2027-01-22",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Salford is proud of its journey toward fully integrated health and social care—and we want you to be part of the next stage! For the next nine months, we’re looking for passionate, skilled Social Workers to join our Adult Social Care teams and help us deliver outstanding outcomes for our residents.\n\nWhy join us?\n\nBe part of a forward-thinking, integrated health and social care system.\nWork in a supportive environment that values creativity, flexibility, and collaboration.\nMake a real difference by putting residents at the heart of everything you do.\n\nWhat we’re looking for:\n\nExperienced Social Workers with a passion for person-centred, strengths-based practice.\nProfessionals who thrive in integrated working and embrace change.\n\nYour role:\n\nCarry out Social Work Care Act duties with the highest level of skill and professionalism.\nSupport safe, effective services through creative strengths-based assessment and person-centred planning.\nEnhanced DBS required.\nCar driver is ssential\n\nWhat we offer:\n\nInduction\nAccess to learning and development resources, including CPD opportunities.\nA welcoming, collaborative team environment.\n\nLocation: Walkden & Little Hulton social work team\nContract: Agency – 9 months\nHours: 37",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1419924?backToItem=&initialLoad=&tab=&_xmscs=3c137c763bed0d95ec2bf23eb63fb744b5feea4b922c8fa53f16cb56ed92090a2bf2f5e45bc7d282",
+    "accepted_at": "2026-04-23T12:54:02.266Z",
+    "scraped_at": "2026-04-23T12:54:02.266Z",
+    "attachments": [
+      {
+        "filename": "6171_ThisIsSalford_Feb2023_v3 (1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135944?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000A F7D3 _ 1/6171_ThisIsSalford_Feb2023_v3 (1).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "Social Worker JD 16.12.2025.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135946?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000A F7D3 _ 1/Social Worker JD 16.12.2025.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A FB0F / 1",
     "source": "xms",
     "source_ref": "000A FB0F / 1",
