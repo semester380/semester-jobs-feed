@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000A FBC2 / 1",
+    "source": "xms",
+    "source_ref": "000A FBC2 / 1",
+    "job_id": "000A FBC2 / 1",
+    "job_title": "Childrens Social Worker [Trafford]",
+    "client": "Trafford Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "TALBOT ROAD, MANCHESTER, M32 0TH",
+    "city": "MANCHESTER",
+    "postcode": "M32 0TH",
+    "start_date": "2026-05-25",
+    "end_date": "2026-07-31",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Refreshed version of order - AAFF8/1\n\nTrafford Families first team are in need of Families First (Duty & Assessment & Children in Need) social workers\n\nCandidates must be able to be office based at least 3 days per week.\n\nYou will be working with our dedicated Child in Need Service where you will work on a locality basis with children and families that require a social work assessment. We have developed a specialised service in this area of work to allow us to strengthen our assessment and planning for children in need and their families, raising the status of children in need and ensuring a consistent approach across the borough.\n\nTeams complete duty on a rota basis and social workers will have a varied workload including undertaking section 47 enquiries, completing child and family assessments and holding a manageable case load of children who are supported through child in need planning.\n\n It is also important that social workers in this service are able to build relational partnerships that strengthen our work and enable the step down of plans where it is safe to do so and in the families’ timescales.\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1419583?backToItem=&initialLoad=&tab=&_xmscs=7614cd5abe35b75b17c68a9f676ab8904b611b4a8416183f7ad895d434dc4d415d495571bbfe5d55",
+    "accepted_at": "2026-04-23T08:06:32.419Z",
+    "scraped_at": "2026-04-23T08:06:32.419Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136145?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000A FBC2 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5295505",
     "source": "comensura",
     "source_ref": "5295505",
