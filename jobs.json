@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000A F290 / 1",
+    "source": "xms",
+    "source_ref": "000A F290 / 1",
+    "job_id": "000A F290 / 1",
+    "job_title": "Principal Officer Strategy [Salford CC]",
+    "client": "Salford City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Chorley Road, Swinton, Greater Manchester, M27 5DA, United Kingdom",
+    "city": "Swinton",
+    "postcode": "M27 5DA",
+    "start_date": "2026-05-01",
+    "end_date": "2027-04-30",
+    "pay_from": "25.14",
+    "pay_to": "26.78",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Full time candidates only\n\nHybrid, 2 days a week at least, candidate would need to be flexible for change workload dependant.\n\nNeed to have some experience of writing strategies, can work to tight deadlines, some understanding of Housing and Homelessness in general.\n\nThese are exciting times to work within Salford City Council's fast paced and varied Housing Strategy Team. The team is responsible for the production, monitoring and reporting on the delivery of our housing and homelessness related strategies and policies, driving and delivering a number of key actions within our strategy action plans.\n\nWe are now seeking a dynamic Strategy Principal Officer who will develop Salford’s supported housing needs assessment, a new supported housing strategy, delivery plan and monitoring framework – in line with the statutory requirements of the Supported Housing Regulatory Oversight Act.\n\nWe are seeking a highly effective individual who can ensure that the tight deadlines for this are achieved, while our ideal candidate will also be someone who can demonstrate their ability to use their initiative to drive a partnership approach to achieving local outcomes.\n\nExperienced in strategy development, you will have excellent written and verbal skills, be conversant in data collection and analysis and be able to plan and manage competing pieces of work. A knowledge and understanding of a wide range of housing and homelessness issues is required. The post holder must have experience and excellent skills in engaging with a wide range of stakeholders, in order to ensure the strategy reflects the voice of people with lived experience, as well as our key partners.\n\nOur values of pride, passion, people and personal responsibility are at the heart of everything we do, and they are central to the way in which we behave with colleagues, customers and partners.\n\nThe post is fixed term for 12 months from the commencement of the contract - we are seeking someone to commence as soon as possible.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1420272?backToItem=&initialLoad=&tab=&_xmscs=8d6f7d1321f4d674a418368fe287ed8a291f9b69d59d06c28f1faab3ab5e26f07835ed0af4f36445",
+    "accepted_at": "2026-04-24T09:49:52.062Z",
+    "scraped_at": "2026-04-24T09:49:52.062Z",
+    "attachments": [
+      {
+        "filename": "Job Profile PO Strategy Officer.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/135700?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000A F290 _ 1/Job Profile PO Strategy Officer.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A FC6D / 1",
     "source": "xms",
     "source_ref": "000A FC6D / 1",
@@ -8973,6 +9004,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "MANCHESTER-ADULTS-HOSPITAL-1777021996670",
+    "source": "xms",
+    "source_ref": "MANCHESTER-ADULTS-HOSPITAL-1777021996670",
+    "job_id": null,
+    "job_title": "[TEST Auto Pipeline] Social Worker - Hospital Social Work Team",
+    "client": null,
+    "procurer": null,
+    "working_address": "Manchester Royal Infirmary, Oxford Road, Manchester",
+    "city": "Manchester",
+    "postcode": "M13 9WL",
+    "start_date": "",
+    "end_date": "",
+    "pay_from": "35",
+    "pay_to": "38",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "An exciting opportunity has arisen for an experienced Social Worker to join a busy Hospital Social Work Team based at Manchester Royal Infirmary, one of the North West's leading NHS acute trusts. This is a genuinely impactful role at the heart of adults' services, working collaboratively with ward staff, therapists, and discharge coordinators to ensure safe, timely discharges for adults and older people presenting with complex needs.\n\nKey responsibilities include carrying out Care Act assessments and reviews on the wards, coordinating hospital discharges under Discharge to Assess (D2A) pathways, and liaising with community teams, reablement, and brokerage services. You will undertake safeguarding enquiries under Section 42 of the Care Act, complete Mental Capacity Act assessments and Best Interest decisions, and refer for DoLS where appropriate. You will also work closely with NHS colleagues, families, and care providers to plan ongoing support packages, including residential, nursing, and domiciliary care arrangements, managing a varied caseload with a focus on both throughput and quality.\n\nEssential requirements include current Social Work England registration, a recognised social work qualification (DipSW, BA or MA in Social Work), and post-qualified experience within an adults hospital or discharge team — or strong community adults experience with demonstrable hospital-facing work. Candidates must be confident applying the Care Act 2014 and MCA 2005 in a fast-paced acute setting, be eligible to work in the UK, and hold an enhanced DBS.\n\nThis role offers a competitive rate of £35–£38 per hour. If you are a motivated and resilient social worker ready to make a real difference in an acute NHS environment, please get in touch today.",
+    "detail_url": null,
+    "accepted_at": null,
+    "scraped_at": "2026-04-24T09:13:40.277Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR100521",
