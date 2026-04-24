@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000A FC6D / 1",
+    "source": "xms",
+    "source_ref": "000A FC6D / 1",
+    "job_id": "000A FC6D / 1",
+    "job_title": "Childrens Social Worker [Trafford]",
+    "client": "Trafford Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "TALBOT ROAD, MANCHESTER, GREATER MANCHESTER, M32 0TH, United Kingdom",
+    "city": "MANCHESTER",
+    "postcode": "M32 0TH",
+    "start_date": "2026-06-01",
+    "end_date": "2026-10-30",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are looking for an experienced social worker to work in our Cared for Childrens Service.\n\nThe service manages the casework where a child or young person has a permanent care plan, ensuring that their placement needs are met with as little disruption as possible and that each child or young person has support and time to understand their journey and can heal from the impact of past experiences on their lives. We aim to sustain long-term relationships, providing the care and support essential to giving a sense of belonging and stability to children coming out of care proceedings, and pulling partners around children and carers to provide a network of support and guidance.\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1420132?inst=1420132--Distribution--1600969944-false&_csrf=0dcd0fe8-fe46-4aab-9ad9-42c7a6b917b5&_xmscs=89ffc092f5e554c892ca50514ef0ac36187cc4f4fd0392ff3facfa5d6f8efe49878d8ff4b96e9803",
+    "accepted_at": "2026-04-24T08:21:04.093Z",
+    "scraped_at": "2026-04-24T08:21:04.093Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136188?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000A FC6D _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      },
+      {
+        "filename": "Social Worker Trafford Council.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136189?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000A FC6D _ 1/Social Worker Trafford Council.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5295279",
     "source": "comensura",
     "source_ref": "5295279",
