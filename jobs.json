@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000A F9D0 / 1",
+    "source": "xms",
+    "source_ref": "000A F9D0 / 1",
+    "job_id": "000A F9D0 / 1",
+    "job_title": "Childrens Social Worker [Manchester City Council]",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Harpurhey District Office, 6 Moston Lane, Manchester, Lancashire, M9 4DD, United Kingdom",
+    "city": "Manchester",
+    "postcode": "M9 4DD",
+    "start_date": "2026-06-01",
+    "end_date": "2026-08-11",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "One part time role - 2.5 days (Mon, Tues, Weds half day)  and one full time 5 days\n\nNorth Court and Locality Services.\n\nOffice based but flexible working considered.\n\nExperience of child protection, child in need plan, managing care proceedings, court proceedings , parenting assessments, Section 37 and 7 reports.\n\nExperience of developing students or less qualified workers.\n\nAbility to work within a Team.\n\nMotivation to work in an Outstanding authority.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1421095?backToItem=&initialLoad=&tab=&_xmscs=726739ceeb2a06b1b149aff2af1a84100078097133e1f8134369f6933e69e986dc361358c3cb245e",
+    "accepted_at": "2026-04-27T15:01:34.976Z",
+    "scraped_at": "2026-04-27T15:01:34.976Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136051?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000A F9D0 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A FA8B / 1",
     "source": "xms",
     "source_ref": "000A FA8B / 1",
