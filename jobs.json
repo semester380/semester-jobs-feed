@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5295806",
+    "source": "comensura",
+    "source_ref": "5295806",
+    "job_id": "5295806",
+    "job_title": "5295806 – Mou - Childrens Social Care -... (Social Care Qualified)",
+    "client": "Stockton on Tees Borough Council",
+    "procurer": null,
+    "working_address": "Floor Municipal Building Stockton on, Head Office, TS17 6BJ",
+    "city": "Head Office",
+    "postcode": "TS17 6BJ",
+    "start_date": "2026-05-11",
+    "end_date": "",
+    "pay_from": "34.45",
+    "pay_to": "34.45",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role Information/Duties:\nWill consider applicants who may not have been an IRO before but have the quality and skills to undertake this role",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-04-28T19:01:58.573Z",
+    "scraped_at": "2026-04-28T19:01:58.573Z",
+    "attachments": [
+      {
+        "filename": "Agency IRO Job Advert.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5295806/File/220440",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000A FEA9 / 1",
     "source": "xms",
     "source_ref": "000A FEA9 / 1",
