@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000A FEA9 / 1",
+    "source": "xms",
+    "source_ref": "000A FEA9 / 1",
+    "job_id": "000A FEA9 / 1",
+    "job_title": "Occupational Therapist [Wigan]",
+    "client": "Wigan Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Cross Street, Hindley, Wigan, Greater Manchester, WN2 3AX, United Kingdom",
+    "city": "Wigan",
+    "postcode": "WN2 3AX",
+    "start_date": "2026-05-18",
+    "end_date": "2026-09-30",
+    "pay_from": "30",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "As an Occupational Therapist within Early Intervention Integrated services, including Reablement, Equipment and Adaptations and Assistive Technology, you will work with service users who are experiencing difficulties with their ability to complete activities of daily living and experiencing reduced levels of independence.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1421518?backToItem=&initialLoad=&tab=&_xmscs=d148f85e235f645b2042ce944793138f61cc2137627c353e8470c8989393dd0d8e56b7aa4146d2c1",
+    "accepted_at": "2026-04-28T13:38:09.634Z",
+    "scraped_at": "2026-04-28T13:38:09.634Z",
+    "attachments": [
+      {
+        "filename": "Job-specification- OT adults and paeds.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136271?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000A FEA9 _ 1/Job-specification- OT adults and paeds.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5295748",
     "source": "comensura",
     "source_ref": "5295748",
@@ -9291,6 +9322,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR100895",
+    "source": "prism",
+    "source_ref": "OR100895",
+    "job_id": "OR100895",
+    "job_title": "SOCIAL WORKER LEVEL 3 (Children) - Social Care Qualified",
+    "client": "Sefton MBC",
+    "procurer": "Angela O'Neill",
+    "working_address": "Trinity Road, Bootle, Merseyside, L20 3NJ, United Kingdom",
+    "city": "Bootle",
+    "postcode": "L20 3NJ",
+    "start_date": "2026-05-12",
+    "end_date": "",
+    "pay_from": "22.38",
+    "pay_to": "29.35",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "Multiple post /2 x SW post Team 6/Team 4 - Mat cover/Team 7 - SW post = 4 posts in total.\nECF No 26 0099 - Mat Cover\nECF 26 0103 - Team 6\nECF 26 0101 - Team 6\nECF 26 0102 Team 7",
+    "description": "Please Add JD",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=430a09fa-6c46-415e-95f7-47b9ccece2cd",
+    "accepted_at": null,
+    "scraped_at": "2026-04-28T13:38:33.638Z",
+    "attachments": []
   },
   {
     "item_id": "MANCHESTER-ADULTS-HOSPITAL-1777375215106",
