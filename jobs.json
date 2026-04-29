@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000A FFAC / 1",
+    "source": "xms",
+    "source_ref": "000A FFAC / 1",
+    "job_id": "000A FFAC / 1",
+    "job_title": "Occupational Therapist [Blackburn with Darwen]",
+    "client": "Blackburn with Darwen Council, GM Collaboration",
+    "procurer": "GM Collaboration",
+    "working_address": "10 Duke Street, Blackburn, Lancashire, BB2 1DH, United Kingdom",
+    "city": "Blackburn",
+    "postcode": "BB2 1DH",
+    "start_date": "2026-06-01",
+    "end_date": "2026-07-31",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Locum Occupational Therapist\n\n£30 per hour\nBlackburn with Darwen Council\nTemporary, full-time\n\n\n\nLocation: Blackburn\nPosition: Locum Occupational Therapist\nStart Date: ASAP\n\nWe are seeking a skilled and experienced Occupational Therapist to join our team in Blackburn with Darwen on a locum basis. This role involves delivering essential community-based assessments and interventions for individuals requiring equipment minor adaptations and major adaptations to support their independence and well-being.\n\nKey Responsibilities:\n\nConduct community assessments in a local authority setting, identifying needs and recommending both standard and specialist equipment.\nPlan and facilitate minor and major adaptations to enhance safety and functionality within clients’ homes.\nCollaborate with clients, families, and other professionals to create individualized support plans.\nMaintain thorough and accurate records in line with professional and legal standards.\n\nRequirements:\n\nHCPC registration and relevant qualifications in Occupational Therapy.\nDemonstrated experience working within a local authority setting.\nProficiency in completing manual handling assessments.\nStrong knowledge of equipment provision and home adaptation processes.\nExcellent communication and organizational skills.\n\nContact Joanne Harris, OT Manager for further details on 01254 269220 main line, direct line 01254 585267 or 079662747",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1422346?backToItem=&initialLoad=&tab=&_xmscs=d5383c8fee40dea4543a9209a611a9aa91e98146608de425a3625168a149f56ec6f273eef6305150",
+    "accepted_at": "2026-04-29T16:36:43.198Z",
+    "scraped_at": "2026-04-29T16:36:43.198Z",
+    "attachments": [
+      {
+        "filename": "Locum Occupational Therapist April 2026 advert.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136332?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000A FFAC _ 1/Locum Occupational Therapist April 2026 advert.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A FFCF / 1",
     "source": "xms",
     "source_ref": "000A FFCF / 1",
