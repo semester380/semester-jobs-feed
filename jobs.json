@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 025D / 1",
+    "source": "xms",
+    "source_ref": "000B 025D / 1",
+    "job_id": "000B 025D / 1",
+    "job_title": "Children's Advanced Practitioner [Bury]",
+    "client": "Bury Council, GM Collaboration",
+    "procurer": "GM Collaboration",
+    "working_address": "3 Knowsley Place, Duke Street, Bury, BL9 0EJ, United Kingdom",
+    "city": "Bury",
+    "postcode": "BL9 0EJ",
+    "start_date": "2026-05-18",
+    "end_date": "2026-08-31",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Children's Advanced Practitioner required for Family Safeguarding\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1423083?backToItem=&initialLoad=&tab=&_xmscs=b4ca1f9518737e1efa0b001a37d1be8cbfae59201422eca0dbab6b3ff62d6aad340b83b07dd2a65a",
+    "accepted_at": "2026-05-01T14:42:28.209Z",
+    "scraped_at": "2026-05-01T14:42:28.209Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136442?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 025D _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5294810",
     "source": "comensura",
     "source_ref": "5294810",
@@ -9690,6 +9721,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR101349",
+    "source": "prism",
+    "source_ref": "OR101349",
+    "job_id": "OR101349",
+    "job_title": "Experienced Social Worker - Children with Disabilities - Social Care Qualified",
+    "client": "Swindon Borough Council",
+    "procurer": "Pam Ritchie",
+    "working_address": "Civic Campus, Euclid Street, Swindon, SN1 2JG, United Kingdom",
+    "city": "Swindon",
+    "postcode": "SN1 2JG",
+    "start_date": "2026-05-25",
+    "end_date": "",
+    "pay_from": "32.67",
+    "pay_to": "42.00",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Swindon Borough Council now have an opportunity for an Experienced Social Worker to join the Children with Disabilities Team. In the Disabled Children's Team, we are working to ensure disabled children in Swindon are appropriately safeguarded and supported to achieve their full potential, we use current research and innovative practice to ensure we achieve these goals. The Disabled Children�s safeguarding and support team is co-located at the Saltway Centre with multi agency partners. This means that we are able to provide a holistic service to disabled children, young people and their families. In Swindon we recognise that Disabled Children are more likely to be abused than their non-disabled peers, and have created a bespoke service comprised of highly motivated and specialist social workers with experience in both safeguarding and disability. Please note that candidates living 50+ miles from Swindon are entitled to claim a flat rate of �100 per week to use towards either accommodation or mileage.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=b86c726a-5bbc-447a-b25b-12cb630cbd9f",
+    "accepted_at": null,
+    "scraped_at": "2026-05-01T14:42:50.508Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR101341",
