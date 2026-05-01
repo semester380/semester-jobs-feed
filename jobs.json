@@ -1,5 +1,29 @@
 [
   {
+    "item_id": "comensura:5294810",
+    "source": "comensura",
+    "source_ref": "5294810",
+    "job_id": "5294810",
+    "job_title": "5294810 – Mou - Childrens Social Care -... (Social Care Qualified)",
+    "client": "North Tyneside Council",
+    "procurer": null,
+    "working_address": "Quadrant East, NE27 0BY",
+    "city": "Quadrant East",
+    "postcode": "NE27 0BY",
+    "start_date": "2026-04-13",
+    "end_date": "",
+    "pay_from": "34.45",
+    "pay_to": "34.45",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role Information/Duties:",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-05-01T10:42:07.488Z",
+    "scraped_at": "2026-05-01T10:42:07.488Z",
+    "attachments": []
+  },
+  {
     "item_id": "comensura:5295387",
     "source": "comensura",
     "source_ref": "5295387",
@@ -9666,6 +9690,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR101284",
+    "source": "prism",
+    "source_ref": "OR101284",
+    "job_id": "OR101284",
+    "job_title": "Customer Service Advisor Care & Wellbeing Hub (Childrens) G2 - Admin & Clerical",
+    "client": "Lincolnshire County Council",
+    "procurer": "Dawn Lawson",
+    "working_address": "36 Orchard Street, Lincoln, Lincolnshire, LN1 1XX, United Kingdom",
+    "city": "Lincoln",
+    "postcode": "LN1 1XX",
+    "start_date": "2026-05-18",
+    "end_date": "",
+    "pay_from": "12.76",
+    "pay_to": "16.49",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "Hours for this role will be between 08:00 and 18:00 Monday to Friday\nThis will be an office based role",
+    "description": "Customer Service Advisor - Children's Service\n\nPosting Start Date : TBC\n\nLocation: 3rd Floor Lancaster House, Lincoln, Lincolnshire, GB, LN1 1YL\n\nJob Advertisement: Customer Service Advisor, Children's Social Care Teams, Care & Wellbeing Hub\n\n37 Hours, 12 weeks minimum\n\nThe Customer Service Centre is the First Point of Contact for many of Lincolnshire County Councils Services, including Adult Care, Children's Services, Highways, Registration & Celebratory Services, Library Services. We deliver a diverse range of services, many of which play an important part in people's lives - whether it is carrying out a Social Care Assessment to enable a resident to stay safely at home, taking a contact to support a Child in Need or simply renewing a library book, it can be hard, but rewarding work.\n\nThe Opportunity\n\nWe are currently recruiting for Customer Service Advisor's for our Children's Team in the Lincolnshire County Council Customer Service Centre. In this crucial and sensitive role for Children's Services, you'll be the first point of contact for anyone that calls in to Customer Services to report concerns about a child. This will include taking calls from members of the public and professionals such as Police Officers, Nurses and School Teachers. It will be your responsibility to gather as much information and detail from the caller as possible, using your professional curiosity to fact-find information and more importantly to not take anything at face value. This will all be captured by you, written up against a framework onto our system and then passed over to Children's Social Care. The decisions that are made for the children are based on the evidence you have gathered; so, you'll need your clear, concise, and cool-headed communication style to provide that information.\n\nThe subject matter of the calls can be very difficult, so you'll naturally need to be a strong and resilient character and be mentally prepared to deal with situations that are sometimes harrowing and distressing. As the first port of call, you'll also naturally need to be able to adopt an empathetic, caring and compassionate approach.\n\nYou will have exceptional customer service skills, particularly with the ability to build rapport with people in order to gather information accurately whilst talking on the phone. Lastly, you need to be able to compile information and present it in a logical manner ensuring that it is clear, concise, and error-free.\n\nYou will be dealing with calls from professionals (e.g. Police and Health Services), and from Members of the Public. The calls will be of a sensitive nature and you will be required to gather and process information efficiently and accurately.\n\nTo be a successful Children's Service Customer Service Advisor you will have a passion for delivering excellent customer service and excellent communication skills. Candidates will be flexible. Good IT skills with a competency in using Microsoft Office and Windows is also essential!\n\nIf you enjoy working in a fast-paced environment, with plenty of variety with the chance to learn new things, then this is the role for you!\n\nWhere will I work?\n\nOur offices are based in Lincoln City Centre at Lancaster House.\n\nWhat hours will I work?\n\nDue to the nature of the role, you will need to be flexible to work between the hours of 8am and 6pm Monday to Friday.\n\nWhat training will I be given?\n\nYou will be given a full Induction and then move onto service specific training; training is delivered from service matter experts from within the CSC Children's Team, the CSC Training Team and Lincolnshire County Council's Children's Services Team",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=9aec539b-95c7-46b2-a4ef-d89869e7a3aa",
+    "accepted_at": null,
+    "scraped_at": "2026-05-01T10:37:23.954Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR101257",
