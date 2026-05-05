@@ -1,5 +1,29 @@
 [
   {
+    "item_id": "comensura:5295933",
+    "source": "comensura",
+    "source_ref": "5295933",
+    "job_id": "5295933",
+    "job_title": "5295933 – Care Assistant (Grade 3) (Social Care - Unqualified)",
+    "client": "Lancashire County Council",
+    "procurer": null,
+    "working_address": "Grove House, PR6 9RH",
+    "city": "Grove House",
+    "postcode": "PR6 9RH",
+    "start_date": "2026-05-01",
+    "end_date": "",
+    "pay_from": "16.93",
+    "pay_to": "16.93",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role Information/Duties:",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-05-05T08:52:56.288Z",
+    "scraped_at": "2026-05-05T08:52:56.288Z",
+    "attachments": []
+  },
+  {
     "item_id": "comensura:5295934",
     "source": "comensura",
     "source_ref": "5295934",
@@ -9889,6 +9913,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "MANCHESTER-ADULTS-HOSPITAL-1777971052772",
+    "source": "xms",
+    "source_ref": "MANCHESTER-ADULTS-HOSPITAL-1777971052772",
+    "job_id": null,
+    "job_title": "[TEST Auto Pipeline] Adults Social Worker - Hospital Social Work Team",
+    "client": null,
+    "procurer": null,
+    "working_address": "Manchester Royal Infirmary, Oxford Road, Manchester",
+    "city": "Manchester",
+    "postcode": "M13 9WL",
+    "start_date": "",
+    "end_date": "",
+    "pay_from": "35",
+    "pay_to": "38",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "An exciting opportunity has arisen for an experienced Adults Social Worker to join the Hospital Social Work Team at Manchester Royal Infirmary, one of the region's leading NHS acute trusts. This is a pivotal role sitting within Adults Services, working at the heart of a multidisciplinary team to facilitate safe, timely, and well-planned discharges for adults and older people presenting with complex needs.\n\nYou will carry out Care Act assessments and reviews directly on the wards, coordinate hospital discharges under Discharge to Assess (D2A) pathways, and liaise closely with community teams, reablement services, and brokerage. You will undertake Section 42 safeguarding enquiries, complete Mental Capacity Act assessments, make Best Interest decisions, and refer appropriately for DoLS. Working alongside ward staff, therapists, discharge coordinators, families, and care providers, you will plan ongoing support packages including residential, nursing, and domiciliary care arrangements.\n\nTo be considered you must hold current Social Work England registration and a recognised social work qualification (DipSW, BA or MA Social Work). Post-qualified experience within an adults hospital or discharge team is strongly preferred; candidates with robust community adults experience and demonstrable hospital-facing practice will also be considered. You must be confident applying the Care Act 2014 and MCA 2005 in a fast-paced acute environment and be eligible to work in the UK with an enhanced DBS.\n\nThe role is based on-site at Manchester Royal Infirmary and is offered at £35–£38 per hour. If you are ready to make a real difference in a dynamic acute setting, apply today.",
+    "detail_url": null,
+    "accepted_at": null,
+    "scraped_at": "2026-05-05T08:51:15.474Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR100804",
