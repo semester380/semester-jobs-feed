@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000A FEE4 / 1",
+    "source": "xms",
+    "source_ref": "000A FEE4 / 1",
+    "job_id": "000A FEE4 / 1",
+    "job_title": "Social Care Occupational Therapist",
+    "client": "Kirklees Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Civic Centre 1, High Street, Huddersfield, West Yorkshire, HD1 2NF",
+    "city": "Huddersfield",
+    "postcode": "HD1 2NF",
+    "start_date": "2026-05-11",
+    "end_date": "2026-11-29",
+    "pay_from": "17.85",
+    "pay_to": "17.85",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are looking for someone with the following qualifications/accreditation:\n\nHCPC registered and holds a recognised qualification in Occupational Therapy.\nAyres Sensory Integration qualification\nto be able to deliver the required project work.\n\nCandidates must have Enhanced & Barred list DBS check",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1423416?backToItem=&initialLoad=&tab=&_xmscs=a8db85d0a4b0cf78af609e862e379a0bc39182b4a304e2fe87b55aa9ff628c654cf75d0f38d5c6ac",
+    "accepted_at": "2026-05-05T09:52:52.046Z",
+    "scraped_at": "2026-05-05T09:52:52.046Z",
+    "attachments": [
+      {
+        "filename": "Social Care Occupational Therapist.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136294?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000A FEE4 _ 1/Social Care Occupational Therapist.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5296035",
     "source": "comensura",
     "source_ref": "5296035",
