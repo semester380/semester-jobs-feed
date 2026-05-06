@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5296044",
+    "source": "comensura",
+    "source_ref": "5296044",
+    "job_id": "5296044",
+    "job_title": "Mou Childrens Iro (Social Care Qualified)",
+    "client": "Durham County Council",
+    "procurer": null,
+    "working_address": "Spennymoor Green Lane Council Offices, DL16 6JQ",
+    "city": "Spennymoor Green Lane Council Offices",
+    "postcode": "DL16 6JQ",
+    "start_date": "2026-05-18",
+    "end_date": "",
+    "pay_from": "35.45",
+    "pay_to": "35.45",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "This is a temporary 3 month agency IRO post to support with capacity within the team. Previous experience as an IRO or Conference Chair is preferred.\nChair CLA reviews and Child Protection meetings\nEngage with children and young people and their families\nMonitor the progress of children's care plans and challenge effectively where there is drift and delay\nWork collaboratively with the social work teams to ensure the best outcomes are achieved for children and families and that children are safe and supported",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-05-06T14:40:31.076Z",
+    "scraped_at": "2026-05-06T14:40:31.076Z",
+    "attachments": [
+      {
+        "filename": "Independent_Reviewing_Officer_JDPS (Agency) June 2025 (2) (1).docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5296044/File/220567",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5296189",
     "source": "comensura",
     "source_ref": "5296189",
