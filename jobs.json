@@ -1,5 +1,29 @@
 [
   {
+    "item_id": "comensura:5296189",
+    "source": "comensura",
+    "source_ref": "5296189",
+    "job_id": "5296189",
+    "job_title": "5296189 – Cc337 Adult Social Worker N8 (Social Care Qualified)",
+    "client": "Newcastle City Council",
+    "procurer": null,
+    "working_address": "Byker Lodge Resource Centre, NE6 2AT",
+    "city": "Byker Lodge Resource Centre",
+    "postcode": "NE6 2AT",
+    "start_date": "2026-05-10",
+    "end_date": "",
+    "pay_from": "27.56",
+    "pay_to": "27.56",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "to work with older people with dementia in Byker Lodge",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-05-06T13:05:05.894Z",
+    "scraped_at": "2026-05-06T13:05:05.894Z",
+    "attachments": []
+  },
+  {
     "item_id": "comensura:5296208",
     "source": "comensura",
     "source_ref": "5296208",
@@ -20,7 +44,7 @@
     "description": "Corporate Parenting\nFostering Supervisory & Support Team 4\nBradford Children and Families Trust operate hybrid working - However, there will be instances where employees are expected to be in the office for specific tasks or team days, as defined by the needs of the service.\nAG544 - 24.04.26",
     "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders?OrderNumber=5296208&TabName=Search#Search",
     "accepted_at": "2026-05-06T10:22:16.055Z",
-    "scraped_at": "2026-05-06T13:02:50.718Z",
+    "scraped_at": "2026-05-06T13:03:52.186Z",
     "attachments": [
       {
         "filename": "Senior Social Worker CFT.pdf",
