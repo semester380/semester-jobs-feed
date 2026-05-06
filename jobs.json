@@ -20,7 +20,7 @@
     "description": "Corporate Parenting\nFostering Supervisory & Support Team 4\nBradford Children and Families Trust operate hybrid working - However, there will be instances where employees are expected to be in the office for specific tasks or team days, as defined by the needs of the service.\nAG544 - 24.04.26",
     "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders?OrderNumber=5296208&TabName=Search#Search",
     "accepted_at": "2026-05-06T10:22:16.055Z",
-    "scraped_at": "2026-05-06T12:52:18.449Z",
+    "scraped_at": "2026-05-06T12:53:32.015Z",
     "attachments": [
       {
         "filename": "Senior Social Worker CFT.pdf",
@@ -10078,6 +10078,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR101569",
+    "source": "prism",
+    "source_ref": "OR101569",
+    "job_id": "OR101569",
+    "job_title": "Advanced Practitioner - Childrens (G10) - Social Care Qualified",
+    "client": "Lincolnshire County Council",
+    "procurer": "Ruth Roberts",
+    "working_address": "North Hykeham Technology Park, Stephenson Road, North Kesteven, Lincolnshire, LN6 3QU, United Kingdom",
+    "city": "North Kesteven",
+    "postcode": "LN6 3QU",
+    "start_date": "2026-06-01",
+    "end_date": "",
+    "pay_from": "29.51",
+    "pay_to": "40.00",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Seeking full time experienced Social Worker to work in North Kesteven Family Help Team. The base is at North Hykeham (Lincoln) and covers travel over North Kesteven which is a large rural area. The team takes referrals from the front door on a duty rota system- one week in four on duty.  The role involves assessment, planning and support for children at CIN, CP and Children In Care. Public and private law proceedings are part of the role.\n\nHybrid working- required to be onsite at least two days per week and five days within the duty week.\n\nThis is a settled, stable and supportive team.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=3ac6d302-e4f7-4df8-b8cc-d9047c2783da",
+    "accepted_at": null,
+    "scraped_at": "2026-05-06T12:52:59.335Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR101544",
