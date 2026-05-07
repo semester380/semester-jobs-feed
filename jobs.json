@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5296265",
+    "source": "comensura",
+    "source_ref": "5296265",
+    "job_id": "5296265",
+    "job_title": "Social Worker (Adults) (Jajf4131 - G9) (Social and Healthcare Qualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Floor first floor, Alderley Building, SK10 3BL",
+    "city": "Alderley Building",
+    "postcode": "SK10 3BL",
+    "start_date": "2026-05-18",
+    "end_date": "",
+    "pay_from": "36.00",
+    "pay_to": "36.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A Recruitment Request number is required for all Orders, please state here: 17974 - moved from Order 5290004 - incorrect job title\nPlease confirm which DBS is required for this role.\n5. Enhanced – including barred:\nc. Both children’s and adults",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-05-07T15:48:56.488Z",
+    "scraped_at": "2026-05-07T15:48:56.488Z",
+    "attachments": [
+      {
+        "filename": "Social Worker (Progressed) Job Description Specficiation (1).pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5296265/File/220683",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5296243",
     "source": "comensura",
     "source_ref": "5296243",
