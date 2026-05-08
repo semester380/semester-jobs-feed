@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5296401",
+    "source": "comensura",
+    "source_ref": "5296401",
+    "job_id": "5296401",
+    "job_title": "Adults Social Care - Social Worker (Qualified) (Social Care Qualified)",
+    "client": "Darlington Borough Council",
+    "procurer": null,
+    "working_address": "Floor 2, Town Hall, DL1 5QT",
+    "city": "Town Hall",
+    "postcode": "DL1 5QT",
+    "start_date": "2026-05-08",
+    "end_date": "",
+    "pay_from": "197.74",
+    "pay_to": "197.74",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Experience with individuals with Autism and learning Disabilities\nTo carry out statutory duties and responsibilities to safeguard and achieve good outcomes for adults in Darlington in line with a strength-based approach. Based on developed expertise and knowledge, take on management of the more complex cases within the team and contribute to team, service and practice development.",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-05-08T13:41:28.911Z",
+    "scraped_at": "2026-05-08T13:41:28.911Z",
+    "attachments": [
+      {
+        "filename": "Social Worker adult teams - non-AMHP Band 11 E3332 092021 KR new brand.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5296401/File/220775",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 064E / 1",
     "source": "xms",
     "source_ref": "000B 064E / 1",
