@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 0825 / 1",
+    "source": "xms",
+    "source_ref": "000B 0825 / 1",
+    "job_id": "000B 0825 / 1",
+    "job_title": "Children's Social Worker [Rochdale]",
+    "client": "Rochdale Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Smith Street, Floor 4, Rochdale, OL16 1XU, United Kingdom",
+    "city": "Rochdale",
+    "postcode": "OL16 1XU",
+    "start_date": "2026-06-22",
+    "end_date": "2026-09-26",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Cared for Children Team\n\nChildren and Adults Enhanced DBS only\n\nLooking for immediate availability\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1425588?backToItem=&initialLoad=&tab=&_xmscs=ad3a4990f562e3658db4b523ccb7e2c93ea356250b72d48cf5c6d54b5cb74229db3517422492a032",
+    "accepted_at": "2026-05-11T15:54:33.468Z",
+    "scraped_at": "2026-05-11T15:54:33.468Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136659?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0825 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "Social Worker Level 3 Order Info - Job Profile.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136660?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0825 _ 1/Social Worker Level 3 Order Info - Job Profile.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 0734 / 1",
     "source": "xms",
     "source_ref": "000B 0734 / 1",
