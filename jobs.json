@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5296415",
+    "source": "comensura",
+    "source_ref": "5296415",
+    "job_id": "5296415",
+    "job_title": "Personal Advisor (Jajb4326 - G7) (Social and Healthcare Qualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Delamere House, CW1 2JZ",
+    "city": "Delamere House",
+    "postcode": "CW1 2JZ",
+    "start_date": "2026-05-18",
+    "end_date": "",
+    "pay_from": "20.28",
+    "pay_to": "20.28",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A Recruitment Request number is required for all Orders, please state here: 18217 was initially used to cover Carlton Mabuva from 9th March – 29th March. The RWR was for 3 months and as Carlton used 1 month, I am using this to cover the 2 months of this order to then generate a new order and RWR will be requested for an extension.\nPlease confirm which DBS is required for this role.\n5. Enhanced – including barred:\na.\nc. Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-05-11T10:03:22.849Z",
+    "scraped_at": "2026-05-11T10:03:22.849Z",
+    "attachments": [
+      {
+        "filename": "JAJB4326 - Personal Advisor - JD and PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5296415/File/220787",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5296479",
     "source": "comensura",
     "source_ref": "5296479",
