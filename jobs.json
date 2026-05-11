@@ -1,5 +1,67 @@
 [
   {
+    "item_id": "comensura:5296451",
+    "source": "comensura",
+    "source_ref": "5296451",
+    "job_id": "5296451",
+    "job_title": "Social Worker (Childrens) (Jajb4097 - G10) (Social and Healthcare Qualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Floor 2, Macclesfield Town Hall, SK10 1EA",
+    "city": "Macclesfield Town Hall",
+    "postcode": "SK10 1EA",
+    "start_date": "2026-05-17",
+    "end_date": "",
+    "pay_from": "39.00",
+    "pay_to": "39.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A Recruitment Request number is required for all Orders, please state here: 18093\nWe are looking for a part-time Social Worker to join our Child in Need/Child Protection Service based at Macclesfield Town Hall to cover maternity leave for a minimum of 6 months. The role will be 3 days a week with the expectation of being office based atleast 2 of the 3 days.\nThe Social Worker will join a team of 5 Social Workers and one Family Support Worker which is managed by a Team Manager. The service comprises of 5 Social Work Teams.\nThe service covers work from initial referral through assessment, child in need, child protection, pre-proceedings and the issuing of care proceedings where the case then transitions to our dedicated Court Team.\nGiven the team takes cases from initial referral, each team is on duty atleast one day a week. This day will change on a rota bases and the expectation is that all staff in the team are on duty on their respective day.\nPlease confirm which DBS is required for this role.\n(Delete the lines which are not applicable and leave the option that is required)\n5. Enhanced – including barred:\na. Children’s barred list\nb. Adults barred list\nc. Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-05-11T20:06:03.654Z",
+    "scraped_at": "2026-05-11T20:06:03.654Z",
+    "attachments": [
+      {
+        "filename": "JAJB4097 - Social Worker - JD and PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5296451/File/220803",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
+    "item_id": "comensura:5296528",
+    "source": "comensura",
+    "source_ref": "5296528",
+    "job_id": "5296528",
+    "job_title": "Personal Advisor (Jajb4326 - G7) (Social and Healthcare Qualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Delamere House, CW1 2JZ",
+    "city": "Delamere House",
+    "postcode": "CW1 2JZ",
+    "start_date": "2026-05-18",
+    "end_date": "",
+    "pay_from": "20.28",
+    "pay_to": "20.28",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A Recruitment Request number is required for all Orders, please state here: 18358\nThis role is for a Personal Advisor working within the Staying Close Team, supporting young people who are in residential settings move into adulthood. Small caseloads, intense weekly support.\nPlease confirm which DBS is required for this role.\nc. Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-05-11T20:05:49.663Z",
+    "scraped_at": "2026-05-11T20:05:49.663Z",
+    "attachments": [
+      {
+        "filename": "JAJB4326 - Personal Advisor - JD and PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5296528/File/220842",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5296548",
     "source": "comensura",
     "source_ref": "5296548",
