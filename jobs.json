@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 0181 / 1",
+    "source": "xms",
+    "source_ref": "000B 0181 / 1",
+    "job_id": "000B 0181 / 1",
+    "job_title": "Family Support Worker (Childrens)",
+    "client": "Wakefield Hiring, Yorkshire Collaboration",
+    "procurer": "Yorkshire Collaboration",
+    "working_address": "Market Place, Wakefield, West Yorkshire, WF1 1DF",
+    "city": "Wakefield",
+    "postcode": "WF1 1DF",
+    "start_date": "2026-05-05",
+    "end_date": "2026-08-05",
+    "pay_from": "16.62",
+    "pay_to": "16.62",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Wakefield Children in Care Service is seeking an child and Family worker to join our dedicated team. This is an exciting opportunity to make a real difference in the lives of children and young people who are looked after or subject to care proceedings.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1425714?backToItem=&initialLoad=&tab=&_xmscs=de5b390b3e78d66f87b9f408ad7f627df74da7fdd2aaab66d1dc9a31c48047b77452cf6f765e3b59",
+    "accepted_at": "2026-05-12T09:15:34.473Z",
+    "scraped_at": "2026-05-12T09:15:34.473Z",
+    "attachments": [
+      {
+        "filename": "Family Support Worker (Children’s).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136412?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0181 _ 1/Family Support Worker (Children’s).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "Wakefield Your Temp Experience.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136413?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0181 _ 1/Wakefield Your Temp Experience.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5296451",
     "source": "comensura",
     "source_ref": "5296451",
@@ -10811,6 +10848,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR102021",
+    "source": "prism",
+    "source_ref": "OR102021",
+    "job_id": "OR102021",
+    "job_title": "CSW - Senior Social Worker / Advanced Practitioner - Duty & Assessment (Grade J) - Social Care Qualified",
+    "client": "Barnet Council",
+    "procurer": "Andrew Nicolaou",
+    "working_address": "2 Bristol Avenue, Colindale, London, London, NW9 4EW, United Kingdom",
+    "city": "Colindale",
+    "postcode": "NW9 4EW",
+    "start_date": "2026-06-05",
+    "end_date": "",
+    "pay_from": "27.32",
+    "pay_to": "37.54",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "hybrid role; 1-2 days in the office but every 4th week is a duty week and they are expected in all of that week.\nmust have 3 years experience in a similar role with permanent experience.\nThis is a senior SW role",
+    "description": "candidate must have at least 3 years experience of working in an assessment team",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=c18bdb90-0b2c-475d-9c5a-14ef6e836a7d",
+    "accepted_at": null,
+    "scraped_at": "2026-05-12T09:19:07.512Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR102014",
