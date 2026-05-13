@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5296634",
+    "source": "comensura",
+    "source_ref": "5296634",
+    "job_id": "5296634",
+    "job_title": "Social Worker - Childrens Services (Social Care - Qualified)",
+    "client": "Lancashire County Council",
+    "procurer": null,
+    "working_address": "County Hall, PR1 8RE",
+    "city": "County Hall",
+    "postcode": "PR1 8RE",
+    "start_date": "2026-05-25",
+    "end_date": "",
+    "pay_from": "36.00",
+    "pay_to": "36.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Adoption Support, Adoption Lancashire Blackpool\nExperience in working within Adoption Services would be highly desirable.\nInterviews 19/5\nSee attached JD for full details\nALL CANDIDATES MUST\n• have at least three years' experience in a permanent post within a local authority\n• not have held a permanent or fixed-term position with an LA within the last 12 weeks",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-05-13T19:27:15.819Z",
+    "scraped_at": "2026-05-13T19:27:15.819Z",
+    "attachments": [
+      {
+        "filename": "POST LIVE Adoption Support Social Worker ALB.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5296634/File/220904",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5296726",
     "source": "comensura",
     "source_ref": "5296726",
