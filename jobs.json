@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 0980 / 1",
+    "source": "xms",
+    "source_ref": "000B 0980 / 1",
+    "job_id": "000B 0980 / 1",
+    "job_title": "Occupational Therapist - Community PO1",
+    "client": "Hiring - Leeds City Council, Leeds City Council",
+    "procurer": "Leeds City Council",
+    "working_address": "North West Recovery Hubs, Silver Lane Surgery, 1 Suffolk Court, Silver Lane, Yeadon,, Leeds, Yorkshire, LS19 7JN, United Kingdom",
+    "city": "Yorkshire",
+    "postcode": "LS19 7JN",
+    "start_date": "2026-06-01",
+    "end_date": "2026-06-15",
+    "pay_from": "22.99",
+    "pay_to": "22.99",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Umbrella Rate: £30/hour\n\nThe Recovery Hubs consist of a team of 9 Occupational Therapists who work alongside colleagues across Health and Social Care, including Physiotherapists, Nurses and care staff to promote independence and a return to a persons own home. The Recovery Hubs are developing a rehabilitation-focussed culture with all staff that fosters a 24-hour therapeutic approach.\n\nWe are looking for an Occupational Therapist with proven assessment skills, with a strength based personalised approach, who can carry out Occupational Therapy assessments of people with a range of needs, to develop, implement goal led outcome planning. The Occupational Therapists work alongside the support workers to ensure that a person achieves their outcomes and regularly review their progress. The Occupational Therapists take the lead in discharges for those people who are returning to their own home.\n\nOccupational Therapists will also need to bring skills in moving and handling, both including in risk assessment and in identifying solutions to reduce risk which consider the needs and personal outcomes of disabled people and their families. The Recovery Service is part of Leeds Moving and Handling to ensure optimised care, including single handed care principals, are used.\n\n\n\nMain duties of the job\n\n\n\nUnder the general direction of a Team Manager, and with support from Senior Occupational Therapists, provide a high quality and comprehensive Occupational Therapy service to adults, children and young people, carers and the community in accordance with the organisational needs, policy and practices of the Directorate and within statutory guidelines\n\nThe post holder must at all times carry out responsibilities within the City Councils Policies and Procedures, in particular the Council Policies on Equality and Diversity, Health and Safety, and also within the Health and Care Professions Council Code of Practice.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1426727?backToItem=&initialLoad=&tab=&_xmscs=ba7e7275cbaed5c3599a9fc421fce8437c08b9167a850ac8576b3889854d7f8d5a2361c6c9a924ee",
+    "accepted_at": "2026-05-13T15:36:02.836Z",
+    "scraped_at": "2026-05-13T15:36:02.836Z",
+    "attachments": [
+      {
+        "filename": "Occupational Therapist - Community PO1 22.05.2018.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136714?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0980 _ 1/Occupational Therapist - Community PO1 22.05.2018.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5296696",
     "source": "comensura",
     "source_ref": "5296696",
