@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 0A43 / 1",
+    "source": "xms",
+    "source_ref": "000B 0A43 / 1",
+    "job_id": "000B 0A43 / 1",
+    "job_title": "Adults Social Worker [Blackpool]",
+    "client": "Blackpool Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Talbot Gateway, Blackpool, Lancashire, FY1 3AH, United Kingdom",
+    "city": "Blackpool",
+    "postcode": "FY1 3AH",
+    "start_date": "2026-06-22",
+    "end_date": "Wed 01/07/2026",
+    "pay_from": "30.66",
+    "pay_to": "30.66",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "3 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\n1 x 37 Adult Social Care Social Workers\n\nWe require experienced qualified social workers on our adult community team working with people who are over the age of 18years of age, which is focused around people with disabilities associated with illness or age/frailty and also more complex issues recording substance misuse, and domestic abuse,  who do not meet criteria for specialist learning disability, autism or mental health services. Blackpool is one of the most deprived towns in England and the needs of our population are reflective of this.\n\nWe need experienced staff working together from our office, dealing with new incoming referrals, undertaking Care Act assessments and reviews and also some safeguarding work as we do not have a separate safeguarding team- All support/induction to do this work will be provided.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1426626?inst=1426626--Distribution--1610778063-false&_csrf=b81312c5-c2b2-4109-bebd-d6cc3d809118&_xmscs=df8281e9190214703355e347c2a5e4acb1cde08b332df94962e8c5b56322b99f07b10c11de80cc7f",
+    "accepted_at": "2026-05-13T14:37:28.867Z",
+    "scraped_at": "2026-05-13T14:37:28.867Z",
+    "attachments": [
+      {
+        "filename": "JD - 8033.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136754?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0A43 _ 1/JD - 8033.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 097E / 1",
     "source": "xms",
     "source_ref": "000B 097E / 1",
