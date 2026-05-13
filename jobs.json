@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5296310",
+    "source": "comensura",
+    "source_ref": "5296310",
+    "job_id": "5296310",
+    "job_title": "Social Worker - Childrens Services (Social Care - Qualified)",
+    "client": "Lancashire County Council",
+    "procurer": null,
+    "working_address": "County Hall, PR1 8RE",
+    "city": "County Hall",
+    "postcode": "PR1 8RE",
+    "start_date": "2026-05-05",
+    "end_date": "",
+    "pay_from": "36.00",
+    "pay_to": "36.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Family Finding Social Worker\nLocation - Preston\nSome adoption experience whether from children's social care perspective or in an assessing capacity would be great.\nExperience of working collaboratively.\nExperience of mentoring.",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-05-13T08:46:35.892Z",
+    "scraped_at": "2026-05-13T08:46:35.892Z",
+    "attachments": [
+      {
+        "filename": "family-finder-sw-jd-final (1).docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5296310/File/220864",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5296368",
     "source": "comensura",
     "source_ref": "5296368",
