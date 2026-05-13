@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5296601",
+    "source": "comensura",
+    "source_ref": "5296601",
+    "job_id": "5296601",
+    "job_title": "Mou Childrens Advanced Practitioner (Social Care Qualified)",
+    "client": "Durham County Council",
+    "procurer": null,
+    "working_address": "Annfield Plain Greencroft Offices, DH9 7BF",
+    "city": "Annfield Plain Greencroft Offices",
+    "postcode": "DH9 7BF",
+    "start_date": "2026-06-01",
+    "end_date": "",
+    "pay_from": "35.45",
+    "pay_to": "35.45",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "We have an exciting opportunity for a Social Work Consultant in our Stanley Team to cover a maternity leave secondment.\nThis role includes development of Social Workers, via group supervision etc. Also the supervision of the Family Workers in the team, quality assurance and working closely with the Team Manager.",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-05-13T16:58:12.760Z",
+    "scraped_at": "2026-05-13T16:58:12.760Z",
+    "attachments": [
+      {
+        "filename": "Social Work Consultant Families First Disabilities JDPS New (002).docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5296601/File/220883",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5296611",
     "source": "comensura",
     "source_ref": "5296611",
