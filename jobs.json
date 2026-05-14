@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "comensura:5296790",
+    "source": "comensura",
+    "source_ref": "5296790",
+    "job_id": "5296790",
+    "job_title": "A5137 - Housing Support Assistant - N4 (Housing)",
+    "client": "Newcastle City Council",
+    "procurer": null,
+    "working_address": "Cherry Tree View, NE4 6HL",
+    "city": "Cherry Tree View",
+    "postcode": "NE4 6HL",
+    "start_date": "2026-05-15",
+    "end_date": "",
+    "pay_from": "16.72",
+    "pay_to": "16.72",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A5137 - Housing Support Assistant - N4 (Housing)\nTemporary\nJD - Housing Support Assistant.pdf\nPS - Housing Support Assistant.pdf",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-05-14T17:22:42.644Z",
+    "scraped_at": "2026-05-14T17:22:42.644Z",
+    "attachments": [
+      {
+        "filename": "JD - Housing Support Assistant.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5296790/File/220994",
+        "localPath": null,
+        "downloaded": false
+      },
+      {
+        "filename": "PS - Housing Support Assistant.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5296790/File/220995",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5296659",
     "source": "comensura",
     "source_ref": "5296659",
