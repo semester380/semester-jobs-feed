@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5296722",
+    "source": "comensura",
+    "source_ref": "5296722",
+    "job_id": "5296722",
+    "job_title": "Mou - Childrens Social Care - Advanced Practitioner (Social Care Qualified)",
+    "client": "South Tyneside Council",
+    "procurer": null,
+    "working_address": "Town Hall, NE33 2RL",
+    "city": "Town Hall",
+    "postcode": "NE33 2RL",
+    "start_date": "2026-06-15",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Experienced SW required for MASH Social Worker position (none case holding)",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-05-14T01:44:38.909Z",
+    "scraped_at": "2026-05-14T01:44:38.909Z",
+    "attachments": [
+      {
+        "filename": "Experienced Social Worker (CRT ISIT MASH) JD.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5296722/File/220950",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5296634",
     "source": "comensura",
     "source_ref": "5296634",
