@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 07B6 / 1",
+    "source": "xms",
+    "source_ref": "000B 07B6 / 1",
+    "job_id": "000B 07B6 / 1",
+    "job_title": "Senior Social Worker Children's",
+    "client": "Barnsley Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Westgate Plaza, Barnsley , S70 2DR",
+    "city": "Barnsley",
+    "postcode": "S70 2DR",
+    "start_date": "2026-05-25",
+    "end_date": "2026-07-31",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "A Supervising Social Worker within the Fostering Supervision and Support Team is required.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1427031?backToItem=&initialLoad=&tab=&_xmscs=11f7236399bfbbfaff61fc273f34343d8f463242a42a31e4a010f29f11887429299b9e3c70862296",
+    "accepted_at": "2026-05-14T09:23:46.962Z",
+    "scraped_at": "2026-05-14T09:23:46.962Z",
+    "attachments": [
+      {
+        "filename": "92690 Senior Social Worker Profile 20150120.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136648?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 07B6 _ 1/92690 Senior Social Worker Profile 20150120.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136649?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 07B6 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5296722",
     "source": "comensura",
     "source_ref": "5296722",
