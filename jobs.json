@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 0A10 / 1",
+    "source": "xms",
+    "source_ref": "000B 0A10 / 1",
+    "job_id": "000B 0A10 / 1",
+    "job_title": "Family Support Worker",
+    "client": "Barnsley Hiring, Yorkshire Collaboration",
+    "procurer": "Yorkshire Collaboration",
+    "working_address": "Worsbrough Lift Building, West Street,, Barnsley, South Yorkshire, S70 5DJ",
+    "city": "Barnsley",
+    "postcode": "S70 5DJ",
+    "start_date": "2026-05-13",
+    "end_date": "2026-11-13",
+    "pay_from": "18.35",
+    "pay_to": "18.35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "As Family Support Worker’s you will be based in the social work teams alongside social workers and will report directly to the Team Manager. The role will involve undertaking tasks identified by the lead social work practitioner to provide support and assistance to children and their families. The work will be diverse and responsive to the individual needs of children and families. The role will include practical tasks as well and more specific direct work and emotional support. For example, you will have a role in leading and encouraging parent child activities to promote attachment and child development, you will provide home visits and crisis support to families. You will undertake direct one to one work with children and their parents. You will build honest and open relationships with children and families and support parents to enable them to achieve change. You will also be supervising family time for children in local authority care.\n\n\n\nThe successful candidate will be innovative, creative and have the interests of the child and family at the heart of their work.  You will be committed and motivated, ensuring that children and their families are prioritised. You will have experience of developing positive working relationships with children and families. You will be familiar with strengths-based approaches and will have strong clear professional boundaries. You will be able to make positive collaborative relationships with other professionals and agencies. You will be flexible, willing to work when necessary outside office hours, reliable and able to make positive relationships with colleagues and partners.  You will need good written skills, excellent verbal communication skills.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1427450?backToItem=&initialLoad=&tab=&_xmscs=11c6308d825e63e9bdadcb9f60821835dc7be4801d1acd9ee510a87717285d37d77618f71fcfa372",
+    "accepted_at": "2026-05-15T07:42:11.566Z",
+    "scraped_at": "2026-05-15T07:42:11.566Z",
+    "attachments": [
+      {
+        "filename": "59029 Family Support Worker Profile (v 2) 10.11.2015.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136742?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0A10 _ 1/59029 Family Support Worker Profile (v 2) 10.11.2015.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5296760",
     "source": "comensura",
     "source_ref": "5296760",
