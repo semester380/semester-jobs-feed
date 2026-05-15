@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 0B5C / 1",
+    "source": "xms",
+    "source_ref": "000B 0B5C / 1",
+    "job_id": "000B 0B5C / 1",
+    "job_title": "Adults Manager [Bolton]",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Castleton Street, Tonge Moor, Bolton, Lancashire, BL2 2JW, United Kingdom",
+    "city": "Bolton",
+    "postcode": "BL2 2JW",
+    "start_date": "2026-06-15",
+    "end_date": "2026-09-04",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Experienced Adult Safeguarding Team Manager required. Initial 3 month placement with a potential view for extension.\n\nAdult Safeguarding experience is an essential requirement.\n\nAt the Bolton Adult Safeguarding Team, we can offer a hybrid role with regular supervision. The team is welcoming and supportive, with a supportive leadership team to guide you. Although the team supports the safeguarding element of Bolton Adult Social Care, wait lists are low and managable.\n\nHybrid role. Person to attend Bolton office 3 days per week to support business.\n\nPlease read Job Description before applying.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1427647?backToItem=&initialLoad=&tab=&_xmscs=f83b6ecfdd6afe791df3a4fd8283f3b35328272b158318e3e2bdf2956461cb0b11570cb5811e7ad6",
+    "accepted_at": "2026-05-15T10:11:27.125Z",
+    "scraped_at": "2026-05-15T10:11:27.125Z",
+    "attachments": [
+      {
+        "filename": "Team Manager JD.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136810?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0B5C _ 1/Team Manager JD.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 0A07 / 1",
     "source": "xms",
     "source_ref": "000B 0A07 / 1",
