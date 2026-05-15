@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5296891",
+    "source": "comensura",
+    "source_ref": "5296891",
+    "job_id": "5296891",
+    "job_title": "Senior Social Worker (Bcft Dfe) (Social and Healthcare Qualified)",
+    "client": "Bradford Metropolitan District Council",
+    "procurer": null,
+    "working_address": "Sir Henry Mitchell House, BD5 0QL",
+    "city": "Sir Henry Mitchell House",
+    "postcode": "BD5 0QL",
+    "start_date": "2026-06-08",
+    "end_date": "",
+    "pay_from": "35.00",
+    "pay_to": "35.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "3 months\nCCHDT\nTeam 1 - 50215955\nTeam 2 - 50217068\nBradford Children and Families Trust operate hybrid working - However, there will be instances where employees are expected to be in the office for specific tasks or team days, as defined by the needs of the service.\nAG566 - 15.05.26",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-05-15T17:32:31.391Z",
+    "scraped_at": "2026-05-15T17:32:31.391Z",
+    "attachments": [
+      {
+        "filename": "Senior Social Worker CFT.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5296891/File/221058",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000A E837 / 1",
     "source": "xms",
     "source_ref": "000A E837 / 1",
