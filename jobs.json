@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 0BE3 / 1",
+    "source": "xms",
+    "source_ref": "000B 0BE3 / 1",
+    "job_id": "000B 0BE3 / 1",
+    "job_title": "Advanced Social Work Practitioner Children's",
+    "client": "Barnsley Hiring, Yorkshire Collaboration",
+    "procurer": "Yorkshire Collaboration",
+    "working_address": "Cudworth Lift Building, Carlton Street, Cudworth, Barnsley, South Yorkshire, S72 8SU",
+    "city": "Barnsley",
+    "postcode": "S72 8SU",
+    "start_date": "2026-05-18",
+    "end_date": "2026-08-14",
+    "pay_from": "37",
+    "pay_to": "37",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Barnsley MBC are seeking an Advanced Practitioner to join the locality service. The ideal candidate will have experience of working with children on CIN and CP plans, as well as court experience.\n\n3 days onsite",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1428115?backToItem=&initialLoad=&tab=&_xmscs=08885f879afe6e9750908ef4eed44a5a470c0af61dcc0bfe5ecb8bb33411b6b03714562a04999b36",
+    "accepted_at": "2026-05-18T08:32:53.033Z",
+    "scraped_at": "2026-05-18T08:32:53.033Z",
+    "attachments": [
+      {
+        "filename": "77282 Advanced Social Work Practitioner Profile 20170712(1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136844?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0BE3 _ 1/77282 Advanced Social Work Practitioner Profile 20170712(1).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136845?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0BE3 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 0B6C / 1",
     "source": "xms",
     "source_ref": "000B 0B6C / 1",
