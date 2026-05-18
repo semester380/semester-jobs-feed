@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5297000",
+    "source": "comensura",
+    "source_ref": "5297000",
+    "job_id": "5297000",
+    "job_title": "Practice Manager (Social Care - Qualified)",
+    "client": "Lancashire County Council",
+    "procurer": null,
+    "working_address": "Lancashire House, BB5 0FL",
+    "city": "Lancashire House",
+    "postcode": "BB5 0FL",
+    "start_date": "2026-06-01",
+    "end_date": "",
+    "pay_from": "26.62",
+    "pay_to": "26.62",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Dept - Children's services - Mash\nLocation - Lancashire House, Accrington BB8 0FL\nRequired - PSA\nInterviews - ASAP\nSee attached JD for full details",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-05-18T20:42:34.627Z",
+    "scraped_at": "2026-05-18T20:42:34.627Z",
+    "attachments": [
+      {
+        "filename": "Practice Manager JD June 25.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5297000/File/221112",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5296996",
     "source": "comensura",
     "source_ref": "5296996",
