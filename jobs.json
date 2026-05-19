@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000A FED1 / 1",
+    "source": "xms",
+    "source_ref": "000A FED1 / 1",
+    "job_id": "000A FED1 / 1",
+    "job_title": "Family Support Worker (Childrens)",
+    "client": "Wakefield Hiring, Yorkshire Collaboration",
+    "procurer": "Yorkshire Collaboration",
+    "working_address": "Barnsley Road, Hemsworth, Pontefract, West Yorkshire, WF9 4PU, United Kingdom",
+    "city": "Pontefract",
+    "postcode": "WF9 4PU",
+    "start_date": "2026-05-25",
+    "end_date": "2026-07-28",
+    "pay_from": "16.62",
+    "pay_to": "16.62",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "I require a Family Support Worker with experience of covering Family Time contact as this will be their main duties. The position is for 12 weeks initially until a permanent member of staff is recruited so the position could be extended. The position is part-time, to work at the start of the week, Monday, Tuesday and either Wednesday morning of Wednesday afternoon. The worker will need access to a car, be able to transport children, and have business insurance.\n\nMeeting notes:\n\nRole Requirements and Candidate Experience: The requirements for a part-time family time contact worker, emphasizing the need for candidates with prior experience in children's services or family time supervision, and considered the applicability of candidates from residential backgrounds.\nEssential Experience Criteria: The ideal candidate should have prior experience in family time contact or children's services, as the role requires someone who can start immediately without a training period.\nConsideration of Residential Backgrounds: If candidates from residential backgrounds would be suitable, and Richard agreed that such candidates may have transferable skills, especially if they have supervised family time in residential settings.\nMain Duties and Duration: The role involves transporting children, requires business insurance, and is initially for 12 weeks with the possibility of extension.\nWork Schedule and Flexibility: The expected work schedule, confirming set days of Monday, Tuesday, and either Wednesday morning or afternoon, with some flexibility to accommodate family time contacts and coordination with another part-time worker.\nSet Working Days: The role covers Monday, Tuesday, and either Wednesday morning or afternoon, aligning with the schedule of another part-time worker and the timing of most family time contacts.\nFlexibility for Contacts: While there is some flexibility for Wednesday (morning or afternoon), the role must cover the start of the week, and contacts with younger children can be scheduled for Wednesday mornings if needed.\nJob Sharing Arrangements: The days are fixed to ensure coverage during the first half of the week.\nAgency Role Duration: The role is initially for 12 weeks due to policy but may be extended if permanent recruitment is delayed.\nTravel, Locations, and Expenses: Travel requirements for the role, confirming that contacts occur across various locations in Wakefield and occasionally out of area, with travel expenses reimbursed from base to contact locations.\nContact Locations: Family time contacts are held at various centers across Wakefield, including Castleford and Snaithorpe, and sometimes out of area, such as Hull.\nTravel Requirements: Candidates should be aware of the need to travel between locations, sometimes outside the local area\nExpense Reimbursement: Travel expenses will be reimbursed from base to contact locations and back, and this should be included in the role information.\nActivity Funding and Supervision Duties: Funding for activities during family time,clarified that activities are usually funded by parents, but if support is needed, the local authority would cover costs; the worker is not responsible for funding activities.\nActivity Funding Responsibility: Richard explained that family time typically occurs in contact centers, and if activities are involved, parents are responsible for funding; if the local authority supports an activity, they will cover the cost, not the worker.\nRecording and IT System Requirements: The need for candidates to have basic computer skills to record family time supervision on the Liquid Logic system, with basic familiarization training provided if needed.\nSystem Used for Recording: Liquid Logic system is used for recording family time supervision, which involves downloading and completing a form.\nTraining Provided: Basic familiarization training will be provided for candidates unfamiliar with Liquid Logic, but the process is straightforward.\nComputer Skills Requirement: Candidates must have a basic level of computer skills to complete the required documentation.\nInterview Arrangements: Microsoft Teams for convenience.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1428602?inst=1428602--Distribution--1613593994-false&_csrf=df497ef4-ea97-4ecf-8de2-2fee9af9971b&_xmscs=a87753ea737df91745b21b5acd890cf1228a3781a32e66308a9de7ea366579a03f1fa2d0986b552a",
+    "accepted_at": "2026-05-19T08:09:21.148Z",
+    "scraped_at": "2026-05-19T08:09:21.148Z",
+    "attachments": [
+      {
+        "filename": "Family Support Worker (Children’s).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136287?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000A FED1 _ 1/Family Support Worker (Children’s).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "Wakefield Your Temp Experience.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136288?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000A FED1 _ 1/Wakefield Your Temp Experience.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5297000",
     "source": "comensura",
     "source_ref": "5297000",
