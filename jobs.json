@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 0BCF / 1",
+    "source": "xms",
+    "source_ref": "000B 0BCF / 1",
+    "job_id": "000B 0BCF / 1",
+    "job_title": "Childrens Social Worker [Tameside MBC]",
+    "client": "Tameside Metropolitan Borough Council, GM Collaboration",
+    "procurer": "GM Collaboration",
+    "working_address": "Gardenfold Way, Droylsden, Tameside, Greater Manchester, M43 7XU, United Kingdom",
+    "city": "Tameside",
+    "postcode": "M43 7XU",
+    "start_date": "2026-06-20",
+    "end_date": "2026-08-24",
+    "pay_from": "35",
+    "pay_to": "39",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Children with Disabilities (CWD) Social Worker\n\nAs a Social Worker on the CWD team you will be joining a multi-agency team supporting disabled children and their families. You will be working alongside colleagues from multi-disciplinary professions who are also passionate about delivering the best possible services for disabled children.\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the GM Pledge Compliance Attributes Questions Attachment on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1429403?inst=1429403--Distribution--1614325685-false&_csrf=1d50c2d2-3764-46c8-aebc-52d0064468f2&_xmscs=4cce2d10a058df803427f2fb0ade818e3f402c9ccefe95f7d85bc20f4cc7fde6e2d2574682b51279",
+    "accepted_at": "2026-05-20T08:23:07.928Z",
+    "scraped_at": "2026-05-20T08:23:07.928Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136841?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0BCF _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "Social Worker JD and PS ISCAN.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136842?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0BCF _ 1/Social Worker JD and PS ISCAN.docx",
+        "downloaded": true
+      },
+      {
+        "filename": "social worker CWD job advert amended.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136843?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0BCF _ 1/social worker CWD job advert amended.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 0DAF / 1",
     "source": "xms",
     "source_ref": "000B 0DAF / 1",
