@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 0EFB / 1",
+    "source": "xms",
+    "source_ref": "000B 0EFB / 1",
+    "job_id": "000B 0EFB / 1",
+    "job_title": "Children's Social Worker [Stockport MBC]",
+    "client": "Stockport Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Piccadilly, Stockport, Stockport, SK1 3XE, United Kingdom",
+    "city": "Stockport",
+    "postcode": "SK1 3XE",
+    "start_date": "2026-06-22",
+    "end_date": "2026-08-26",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Supervising Social Worker - Kinship\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1429601?backToItem=&initialLoad=&tab=&_xmscs=55d0c8363cd01a8198da6c6a13c17734cb63627c2e771af40ea325e8f3618d57ff196b1820da7234",
+    "accepted_at": "2026-05-20T09:42:59.893Z",
+    "scraped_at": "2026-05-20T09:42:59.893Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137036?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0EFB _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 0898 / 1",
     "source": "xms",
     "source_ref": "000B 0898 / 1",
