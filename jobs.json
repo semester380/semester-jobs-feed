@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 0F8F / 1",
+    "source": "xms",
+    "source_ref": "000B 0F8F / 1",
+    "job_id": "000B 0F8F / 1",
+    "job_title": "Social Worker / Best Interest Assessor [Trafford]",
+    "client": "Trafford Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "WATERSIDE HOUSE, SALE WATERSIDE, GREATER MANCHESTER, M33 7ZF, United Kingdom",
+    "city": "SALE WATERSIDE",
+    "postcode": "M33 7ZF",
+    "start_date": "2026-05-25",
+    "end_date": "2026-07-31",
+    "pay_from": "32",
+    "pay_to": "32",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are seeking an experienced Best Interests Assessor (BIA) to provide short-term capacity within our service due to maternity leave and temporary workforce gaps. This role is essential to ensure continuity of service, maintain assessment throughput, and support statutory responsibilities during a period of reduced staffing.\n\n Key Responsibilities\n\nUndertake timely Best Interests Assessments in line with the Mental Capacity Act and DoLS legislation\n\nComplete high-quality, evidence-based assessments and reports\n\nManage a varied caseload, ensuring all work is prioritised effectively\n\nWork collaboratively with multi-disciplinary professionals and care providers\n\nContribute to maintaining internal assessment capacity, reducing reliance on external providers\n\nEnsure practice is compliant with legal frameworks, local policy, and best practice guidance\n\nEssential Requirements\n\nQualified Social Worker, Nurse, OT, or Psychologist with BIA qualification\n\nExperience completing DoLS assessments within a local authority setting\n\nStrong working knowledge of:\n\nMental Capacity Act (MCA)\n\nDeprivation of Liberty Safeguards (DoLS)\n\nAbility to work autonomously and manage competing priorities\n\nExcellent report-writing and analytical skills\n\nDesirable - Familiarity with Liquid Logic or similar case management systems",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1429793?backToItem=&initialLoad=&tab=&_xmscs=eef9e86f45eb58639dd0de8a87ec0cbc10c1fafca1ddf37ac2d32e0ddaa9b8a8ea589ad90bb4de76",
+    "accepted_at": "2026-05-20T12:18:41.744Z",
+    "scraped_at": "2026-05-20T12:18:41.744Z",
+    "attachments": [
+      {
+        "filename": "Role-Profile Best Interest Assessor B8.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137063?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0F8F _ 1/Role-Profile Best Interest Assessor B8.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 0EFB / 1",
     "source": "xms",
     "source_ref": "000B 0EFB / 1",
