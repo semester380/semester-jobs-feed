@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5297150",
+    "source": "comensura",
+    "source_ref": "5297150",
+    "job_id": "5297150",
+    "job_title": "Residential Practitioner (Bcft) (Social and Healthcare Qualified)",
+    "client": "Bradford Metropolitan District Council",
+    "procurer": null,
+    "working_address": "Clockhouse Respite Centre, BD21 1QX",
+    "city": "Clockhouse Respite Centre",
+    "postcode": "BD21 1QX",
+    "start_date": "2026-05-06",
+    "end_date": "",
+    "pay_from": "20.58",
+    "pay_to": "20.58",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Lee Dyer - Started 6th May\nDismas Rushurikiye - started 18th May\nMaddeyia Ahmed",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-05-20T16:03:13.198Z",
+    "scraped_at": "2026-05-20T16:03:13.198Z",
+    "attachments": [
+      {
+        "filename": "Residential Practitioner - BRD.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5297150/File/221194",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 0FD4 / 1",
     "source": "xms",
     "source_ref": "000B 0FD4 / 1",
