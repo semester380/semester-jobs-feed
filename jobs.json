@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 0DF0 / 1",
+    "source": "xms",
+    "source_ref": "000B 0DF0 / 1",
+    "job_id": "000B 0DF0 / 1",
+    "job_title": "Housing Assistant",
+    "client": "Kirklees Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Fartown, Flint street, Huddersfield, West Yorkshire, HD1 6LG",
+    "city": "Huddersfield",
+    "postcode": "HD1 6LG",
+    "start_date": "2026-06-01",
+    "end_date": "2026-11-27",
+    "pay_from": "13.26",
+    "pay_to": "13.26",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Working in the Empty Homes Team facilitating the letting of Council homes. Full time position 37 hours per week Monday to Friday. Hours can be worked flexibly between 8 a.m. and 6 p.m. dependent on the needs of the service. Hybrid - working from home 4 days per week with one day (Thursday) in the office based at Flint Street in Huddersfield. You will carry out tasks relating to the ending of tenancies and return of keys. Monitoring progress of repairs to vacant properties to ensure they can be advertised in a timely manner.  Allocating properties in line with the Councils Allocation Policy. Offering properties efficiently to reduce property re-let times. Working with partners to ensure appropriate us of properties i.e. Accessible Homes Team for properties with adaptations.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1429312?backToItem=&initialLoad=&tab=&_xmscs=c9262e0163acccfae4b237d92d007729860e63729e9b3304e3c83370ad6a456f1d98a1c5b778dfa9",
+    "accepted_at": "2026-05-20T07:24:17.395Z",
+    "scraped_at": "2026-05-20T07:24:17.395Z",
+    "attachments": [
+      {
+        "filename": "Housing Service Officer - Empty Homes - Focus Sheet.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136989?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0DF0 _ 1/Housing Service Officer - Empty Homes - Focus Sheet.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "Housing Services Officer.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136990?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0DF0 _ 1/Housing Services Officer.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5276862",
     "source": "comensura",
     "source_ref": "5276862",
