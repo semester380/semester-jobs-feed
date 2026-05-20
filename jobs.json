@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 0898 / 1",
+    "source": "xms",
+    "source_ref": "000B 0898 / 1",
+    "job_id": "000B 0898 / 1",
+    "job_title": "Occupational Health Nurse Advisor",
+    "client": "Chief Executives, City of Doncaster Council",
+    "procurer": null,
+    "working_address": null,
+    "city": null,
+    "postcode": null,
+    "start_date": "",
+    "end_date": "",
+    "pay_from": "40778",
+    "pay_to": "40778",
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Key requirements include:\n\nClinical expertise & qualifications: Registered General Nurse with a degree/diploma in Occupational Health and evidence of ongoing professional development.\nOccupational health experience: Proven background in health surveillance, case management, pre-placement assessments, and advising on complex workplace health issues across varied environments.\nAdvisory capability: Ability to provide clear, practical guidance to managers and employees on fitness to work, rehabilitation, and health interventions.\nStakeholder engagement: Strong relationship-building skills and experience working with multidisciplinary teams, external providers, and unionised settings.\nProfessional standards & compliance: Knowledge of health & safety legislation, clinical governance, and occupational health best practice.\nPersonal attributes: Highly organised, detail-oriented, resilient under pressure, and able to work independently while managing competing priorities.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1429515?backToItem=&initialLoad=&tab=&_xmscs=9934d70e0a610e9566e8f5d5df09b64120a46fa0490af27241fb00589249b2b71918966460753e0d",
+    "accepted_at": "2026-05-20T09:05:11.830Z",
+    "scraped_at": "2026-05-20T09:05:11.830Z",
+    "attachments": [
+      {
+        "filename": "OHA job description full time 2026.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136681?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0898 _ 1/OHA job description full time 2026.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 055B / 1",
     "source": "xms",
     "source_ref": "000B 055B / 1",
