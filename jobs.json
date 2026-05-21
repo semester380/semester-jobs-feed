@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5297228",
+    "source": "comensura",
+    "source_ref": "5297228",
+    "job_id": "5297228",
+    "job_title": "Mou - Childrens Social Care - Advanced Practitioner (Social Care Qualified)",
+    "client": "South Tyneside Council",
+    "procurer": null,
+    "working_address": "Town Hall, NE33 2RL",
+    "city": "Town Hall",
+    "postcode": "NE33 2RL",
+    "start_date": "2026-06-01",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Experienced Social Worker required for busy assessment team / front door",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-05-21T19:12:52.697Z",
+    "scraped_at": "2026-05-21T19:12:52.697Z",
+    "attachments": [
+      {
+        "filename": "Social Worker (CRT Assessment Team) JD - 14.02.25.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5297228/File/221240",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5297192",
     "source": "comensura",
     "source_ref": "5297192",
