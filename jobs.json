@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 0FDA / 1",
+    "source": "xms",
+    "source_ref": "000B 0FDA / 1",
+    "job_id": "000B 0FDA / 1",
+    "job_title": "LADO [Bolton]",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Castleton Street, Tonge Moor, Bolton, Lancashire, BL2 2JW, United Kingdom",
+    "city": "Bolton",
+    "postcode": "BL2 2JW",
+    "start_date": "2026-06-20",
+    "end_date": "2026-08-28",
+    "pay_from": "43",
+    "pay_to": "45",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We have a vacancy to cover the Local Authority Designated Officer in Bolton.  The role involves collaborating with police, children's social care. employers and other professionals. It is important to note the LADO does not conduct investigations directly, but rather oversees and guides them to ensure thoroughness, timeliness, and fairness.\n\n\n\nThe LADO responds promptly, effectively and confidentially to allegations and concerns from all organisations offering a service to children, ensuring high standards of professionals practice consistent with legislation and statutory guidance\nThe LADO also has a key role in challenging and supporting agencies to take appropriate and timely steps to safeguard children from neglect and abuse by professionals, volunteers and those in public office who have direct contact with or responsibility for children.\n\n\n\nFor full duties see the attached JD/PS\n\n\n\nFree on-site parking\n\nFull-time role-37 hours per week -Flexible working in place- balance between working from home/office to meet the needs of the service\n\nReferences will be requested for any candidates offered an interview and DBS requested for any candidate offered a post",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1430212?inst=1430212--Distribution--1614834195-false&_csrf=cd3290ff-cf78-4053-b0ab-96f1ab9c5671&_xmscs=0909fca48a41744ed4275c76924b66ee4ca2457d4cad5dbc74b3132f4a4d4708103b90cefc851610",
+    "accepted_at": "2026-05-21T10:03:09.022Z",
+    "scraped_at": "2026-05-21T10:03:09.022Z",
+    "attachments": [
+      {
+        "filename": "LADO JD Dec 25.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137073?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0FDA _ 1/LADO JD Dec 25.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5291321",
     "source": "comensura",
     "source_ref": "5291321",
