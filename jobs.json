@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 0E74 / 1",
+    "source": "xms",
+    "source_ref": "000B 0E74 / 1",
+    "job_id": "000B 0E74 / 1",
+    "job_title": "Childrens - Residential Practitioner",
+    "client": "Hiring - Leeds City Council, Leeds City Council",
+    "procurer": "Leeds City Council",
+    "working_address": "44 Lanshaw Crescent, Middleton, LS10 3NN",
+    "city": "Middleton",
+    "postcode": "LS10 3NN",
+    "start_date": "2026-06-01",
+    "end_date": "2026-06-15",
+    "pay_from": "14.82",
+    "pay_to": "14.82",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Residential home based in Middleton\n\n3 children based in home currently facing challenging behaviour, overall, well behaved and settled.\n\nWe're looking for male/female staff with experience in residential homes, training in relation to trauma informed practice and qualifications relevant - youth work/child development would be ideal L3 residential childcare\n\nLooking for someone with experience in this type of role; covering shifts, long-term assignments\n\nAssignment will be 2-4 months, will interview candidates informally f2f, followed by shadow shifts and then can see how children respond to the worker and will be allocated rota from there.\n\nShift pattern will include lates 10:30am-10:30pm, sometimes may need day shift - 9am-4/5pm, predominately need cover for sleep-ins, 10am-11pm/Sleep/7am-11am\n\nAiming for 3 workers to induct and slot into rota\n\nIt is likely with sleep-ins workers may have to stay awake based on environment\n\nResilience is key",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1430392?backToItem=&initialLoad=&tab=&_xmscs=039fe8ca1e24d7b696048cc554e414c9d460288e2167378e3eb79f3d7cfbe167a7595e36ce07026c",
+    "accepted_at": "2026-05-21T12:12:14.054Z",
+    "scraped_at": "2026-05-21T12:12:14.054Z",
+    "attachments": [
+      {
+        "filename": "Childrens - Residential Practitioner LCC Profile v2 (002).docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137007?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0E74 _ 1/Childrens - Residential Practitioner LCC Profile v2 (002).docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 0B65 / 1",
     "source": "xms",
     "source_ref": "000B 0B65 / 1",
