@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 0FF8 / 1",
+    "source": "xms",
+    "source_ref": "000B 0FF8 / 1",
+    "job_id": "000B 0FF8 / 1",
+    "job_title": "Children's Social Worker [Oldham]",
+    "client": "Oldham Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "George Street, Oldham, Greater Manchester, OL1 1HD, United Kingdom",
+    "city": "Oldham",
+    "postcode": "OL1 1HD",
+    "start_date": "2026-06-22",
+    "end_date": "2026-12-31",
+    "pay_from": "39",
+    "pay_to": "39",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "The Children with Additional & Complex Needs Team have an opportunity for a qualified Social Worker to join our busy, dynamic and exciting team. You must be a qualified Social Worker with at least 3 Years Post Qualifying Experience and registered with Social Work England, have experience in safeguarding children and looked after processes.\n\nWe are a generic team of social workers who manage cases from Short Breaks, Child in Need, Child Protection, PLO, Court, CLA, Transitions and Adoption. You will increase your skill set within this service as an all-round social worker building speciality knowledge in Mental Capacity Assessments, Best Interest Meetings, Court of Protection and Inherent Jurisdiction applications You will be creative in your communication skills and tools with a range of verbal and non-verbal children and young people, complete carers assessments and providing packages of respite care. You will also work towards young people transitioning from children to adult services. As a Social Worker within the role it is expected that You will have Expeirence and Knowledge within these Areas.\n\nWe are an Ofsted rated Good authority and embed systemic practice into our everyday work and practice. Come and join are well established, friendly and creative team.\n\nWe always have a well-stocked selection of snacks and brews to keep us going!\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1430476?backToItem=&initialLoad=&tab=&_xmscs=bea6f8eb00d3639f08b5e9fef4b01424f14d93f396eb04d2002d24a28d1b33a2243a613921108434",
+    "accepted_at": "2026-05-21T13:54:04.974Z",
+    "scraped_at": "2026-05-21T13:54:04.974Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137074?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0FF8 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 0E74 / 1",
     "source": "xms",
     "source_ref": "000B 0E74 / 1",
@@ -12668,6 +12699,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR103034",
+    "source": "prism",
+    "source_ref": "OR103034",
+    "job_id": "OR103034",
+    "job_title": "Job Title Return Home Interviewer - Social Care Non-Qualified",
+    "client": "Thurrock Council",
+    "procurer": "Seema Moules",
+    "working_address": "New Road, Grays, Essex, RM176SL, United Kingdom",
+    "city": "Grays",
+    "postcode": "RM17 6SL",
+    "start_date": "2026-06-15",
+    "end_date": "",
+    "pay_from": "13.76",
+    "pay_to": "17.81",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Thurrock Council are seeking to recruit a part time Return Home Interviewer to join an independent Return Home Interview service for children and young people up to the age of 17 years (to the day before their 18th birthday) a statutory function, for Thurrock children reported as missing from home and care in borough.\n\nPlease see JD attached",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=d6f3d7d5-620a-4eae-b5e9-b9afd3d6a172",
+    "accepted_at": null,
+    "scraped_at": "2026-05-21T13:54:25.205Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR102643",
