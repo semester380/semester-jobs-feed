@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 0B65 / 1",
+    "source": "xms",
+    "source_ref": "000B 0B65 / 1",
+    "job_id": "000B 0B65 / 1",
+    "job_title": "Family Support Worker",
+    "client": "Barnsley Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Cudworth Lift Building, Carlton Street, Cudworth, Barnsley, South Yorkshire, S72 8SU",
+    "city": "Barnsley",
+    "postcode": "S72 8SU",
+    "start_date": "2026-05-18",
+    "end_date": "2026-08-14",
+    "pay_from": "18.35",
+    "pay_to": "18.35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Barnsley MBC require a family support worker to join their family time service, assisting with supervision of court ordered family time and direct family support work with families.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1430242?inst=1430242--Distribution--1614843417-false&_csrf=cd3290ff-cf78-4053-b0ab-96f1ab9c5671&_xmscs=5e359b4ec0d8289405c1db1c88499d4d3877615efa9afe5e605bab1b784f381224f43caf9bbf2cb4",
+    "accepted_at": "2026-05-21T10:08:37.648Z",
+    "scraped_at": "2026-05-21T10:08:37.648Z",
+    "attachments": [
+      {
+        "filename": "59029 Family Support Worker Profile (v 2) 10.11.2015.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136811?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0B65 _ 1/59029 Family Support Worker Profile (v 2) 10.11.2015.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 0FDA / 1",
     "source": "xms",
     "source_ref": "000B 0FDA / 1",
