@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 0D59 / 1",
+    "source": "xms",
+    "source_ref": "000B 0D59 / 1",
+    "job_id": "000B 0D59 / 1",
+    "job_title": "EHCO Plan Coordinator",
+    "client": "Barnsley Hiring, Yorkshire Collaboration",
+    "procurer": "Yorkshire Collaboration",
+    "working_address": "Westgate Plaza One, 1 Westgate, Western Street, Barnsley, South Yorkshire, S70 2DR",
+    "city": "Barnsley",
+    "postcode": "S70 2DR",
+    "start_date": "2026-05-25",
+    "end_date": "2026-06-30",
+    "pay_from": "250",
+    "pay_to": "250",
+    "pay_type": "per day",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Experienced EHC Caseworker required for short term cover of existing caseloads.  Considerable experience of producing Education Health and Care Plans and holding Annual Reviews.  This is an agile role with Monday and Thursday from the office in Barnsley.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1430871?backToItem=&initialLoad=&tab=&_xmscs=fc3f80e74ee58331db93cf0c01fc78ec8a90d1350f9a9dab1b2ab478ee6eef6626ddf2eb992569e1",
+    "accepted_at": "2026-05-22T10:49:20.674Z",
+    "scraped_at": "2026-05-22T10:49:20.674Z",
+    "attachments": [
+      {
+        "filename": "71181 Plan Coordinator Profile 20181109.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136932?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0D59 _ 1/71181 Plan Coordinator Profile 20181109.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 0FA1 / 1",
     "source": "xms",
     "source_ref": "000B 0FA1 / 1",
