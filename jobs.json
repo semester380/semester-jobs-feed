@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 1241 / 1",
+    "source": "xms",
+    "source_ref": "000B 1241 / 1",
+    "job_id": "000B 1241 / 1",
+    "job_title": "Children's Social Worker [Bury]",
+    "client": "Bury Council, GM Collaboration",
+    "procurer": "GM Collaboration",
+    "working_address": "3 Knowsley Place, Duke Street, Bury, BL9 0EJ, United Kingdom",
+    "city": "Bury",
+    "postcode": "BL9 0EJ",
+    "start_date": "2026-06-22",
+    "end_date": "2026-08-03",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "The role is in CASS (Looked after childrens)\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1431386?inst=1431386--Distribution--1616779813-false&_csrf=3b222ae6-ecd6-4f5b-9e3a-b1c398f52861&_xmscs=32155339fe763c38581039321af1cb7f011fcabdc3eae8b09cdbb5c5eab29b0c76270c09696470fe",
+    "accepted_at": "2026-05-26T08:31:22.764Z",
+    "scraped_at": "2026-05-26T08:31:22.764Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137209?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1241 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 1269 / 1",
     "source": "xms",
     "source_ref": "000B 1269 / 1",
