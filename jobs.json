@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 0ED7 / 1",
+    "source": "xms",
+    "source_ref": "000B 0ED7 / 1",
+    "job_id": "000B 0ED7 / 1",
+    "job_title": "LEAVING CARE PERSONAL ADVISOR [Blackburn & Darwin]",
+    "client": "Blackburn with Darwen Council, GM Collaboration",
+    "procurer": "GM Collaboration",
+    "working_address": "10 Duke Street, Blackburn, Lancashire, BB2 1DH, United Kingdom",
+    "city": "Blackburn",
+    "postcode": "BB2 1DH",
+    "start_date": "2026-06-01",
+    "end_date": "2026-07-31",
+    "pay_from": "18",
+    "pay_to": "20",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Umbrella rate - £22.89 - £25.44\n\nWe are looking for two experienced Personal Advisers to join our Leaving Care team, supporting care-experienced young people aged 16–25 as they transition into independent adulthood. As a Personal Adviser, you will play a key role in building trusting relationships, providing practical and emotional support, and helping young people to achieve positive outcomes in areas such as accommodation, education, employment, health, and wellbeing.\n\nYou will be responsible for:\n\nDeveloping and reviewing Pathway Plans\nSupporting young people to develop independence skills\nWorking in partnership with social care, housing, education, and external agencies\nAdvocating for young people and ensuring their voices are heard\nProviding consistent, flexible support tailored to individual needs\n\nWe are seeking motivated individuals who:\n\nHave experience working with vulnerable young people\nDemonstrate strong communication and relationship-building skills\nAre resilient, compassionate, and solution-focused\nCan manage a varied caseload and work both independently and as part of a team\n\nIn return, we offer a supportive team environment and the chance to make a lasting difference to young people’s lives.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1431932?backToItem=&initialLoad=&tab=&_xmscs=c5eaf43f1265e39bf19cfb3a8666387748014262ca314fc1934b16a2e06ac0afa93df251f992ee2a",
+    "accepted_at": "2026-05-26T14:46:23.457Z",
+    "scraped_at": "2026-05-26T14:46:23.457Z",
+    "attachments": [
+      {
+        "filename": "Key Requirements.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137029?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0ED7 _ 1/Key Requirements.docx",
+        "downloaded": true
+      },
+      {
+        "filename": "Key Requirements Leaving Care PA.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137030?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0ED7 _ 1/Key Requirements Leaving Care PA.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A FF65 / 1",
     "source": "xms",
     "source_ref": "000A FF65 / 1",
