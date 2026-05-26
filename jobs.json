@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 1141 / 1",
+    "source": "xms",
+    "source_ref": "000B 1141 / 1",
+    "job_id": "000B 1141 / 1",
+    "job_title": "Residential Care Officer - Children",
+    "client": "Children, Young People and Families, City of Doncaster Council",
+    "procurer": null,
+    "working_address": "17 Oaklands Avenue, Hatfield, Doncaster, South Yorkshire, DN7 6JL",
+    "city": "Doncaster",
+    "postcode": "DN7 6JL",
+    "start_date": "2026-06-01",
+    "end_date": "2026-08-31",
+    "pay_from": "14.13",
+    "pay_to": "14.13",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "These roles are 2 x Residential care officer temporary for 3 months. These are to cover Vacancies and sickness. It is for a home with Learning disabilities and they are long term children with a range of disabilities and challenging behaviours and it will involve personal care. The role does not involve sleep ins and but a range of shifts on a rota basis 7-3 or 2-10 and it will involve weekend work and working evening",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1431992?backToItem=&initialLoad=&tab=&_xmscs=bcb47ac25266ac78d91613fd62ecfdaee84893b44ad01205be366f9a4bbdc77f1dd2912ed218018f",
+    "accepted_at": "2026-05-26T15:06:13.592Z",
+    "scraped_at": "2026-05-26T15:06:13.592Z",
+    "attachments": [
+      {
+        "filename": "Residential Care Officer JD.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137163?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1141 _ 1/Residential Care Officer JD.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 0ED7 / 1",
     "source": "xms",
     "source_ref": "000B 0ED7 / 1",
