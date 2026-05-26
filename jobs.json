@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 0CF7 / 1",
+    "source": "xms",
+    "source_ref": "000B 0CF7 / 1",
+    "job_id": "000B 0CF7 / 1",
+    "job_title": "ADULTS Approved Mental Health Practitioner",
+    "client": "SCC_Hiring, Sheffield City Council",
+    "procurer": "Sheffield City Council",
+    "working_address": "Howden House, Union Street, Sheffield, South Yorkshire, S1 2SH, United Kingdom",
+    "city": "Sheffield",
+    "postcode": "S1 2SH",
+    "start_date": "2026-05-25",
+    "end_date": "2026-08-28",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "The candidate will need to be an experienced social worker with a mental health background and AMHP qualified.\n\nCore tasks and duties as follows:\n\nUndertaking social care assessments and delivering timely care packages for hospital inpatients prior to discharge\nSome mental capacity assessments, BI decisions and safeguarding as required\nUnderstanding of Section 117, Attending 117 meetings, ward rounds, professional meetings\nSupporting discharges from PICU and acute wards\nCompletion of MOJ (Ministry of Justice Reports) reports\nParticipation in duty rota\nCar driver preferred\nLAS (Liquid Logic) experience preferred",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1431700?backToItem=&initialLoad=&tab=&_xmscs=3572ea32e0b42bfe86a1d72386e1fe2f406b6b1827f4abe5a4bcf7a8c4614b103d93d9976cb90230",
+    "accepted_at": "2026-05-26T12:37:27.972Z",
+    "scraped_at": "2026-05-26T12:37:27.972Z",
+    "attachments": [
+      {
+        "filename": "JD Template - Accessible AMHP.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136906?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0CF7 _ 1/JD Template - Accessible AMHP.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "3093 ACW-TG-055- Resource Control Form - TG - 2 x agency SW for Hospital Discharge Team G8 G9.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136911?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0CF7 _ 1/3093 ACW-TG-055- Resource Control Form - TG - 2 x agency SW for Hospital Discharge Team G8 G9.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5296055",
     "source": "comensura",
     "source_ref": "5296055",
