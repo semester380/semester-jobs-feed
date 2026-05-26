@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 09F7 / 1",
+    "source": "xms",
+    "source_ref": "000B 09F7 / 1",
+    "job_id": "000B 09F7 / 1",
+    "job_title": "Adults Social Worker",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Cavendish Road , Manchester , M18 8HE",
+    "city": "Manchester",
+    "postcode": "M18 8HE",
+    "start_date": "2026-07-06",
+    "end_date": "2026-09-22",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "3 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nMCC require an agency social worker to support the HDTA Central Community Team for a period of three months to cover a vacancy.\n\nSocial worker with significant experience  in adult social care required ,  this is a 7 days service, which includes weekend working as per rota.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1432152?backToItem=&initialLoad=&tab=&_xmscs=72df9c5495c8b77539ff702e9f9e95a18577fc08f0e51a624cc4670cfce80811661eb6d84a336582",
+    "accepted_at": "2026-05-26T15:45:26.132Z",
+    "scraped_at": "2026-05-26T15:45:26.132Z",
+    "attachments": [
+      {
+        "filename": "Social Worker - Role Profile (2).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136743?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 09F7 _ 1/Social Worker - Role Profile (2).pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5297421",
     "source": "comensura",
     "source_ref": "5297421",
