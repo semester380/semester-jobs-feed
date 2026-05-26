@@ -1,5 +1,60 @@
 [
   {
+    "item_id": "comensura:5296964",
+    "source": "comensura",
+    "source_ref": "5296964",
+    "job_id": "5296964",
+    "job_title": "Mou - Childrens Social Care - Senior Social Worker (Social Care Qualified)",
+    "client": "Redcar and Cleveland Borough Council",
+    "procurer": null,
+    "working_address": "THE MACH, TS7 9LF",
+    "city": "THE MACH",
+    "postcode": "TS7 9LF",
+    "start_date": "2026-06-15",
+    "end_date": "",
+    "pay_from": "31.74",
+    "pay_to": "31.74",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Mou - Childrens Social Care - Senior Social Worker (Social Care Qualified)\nTemporary",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-05-26T09:55:28.059Z",
+    "scraped_at": "2026-05-26T09:55:28.059Z",
+    "attachments": []
+  },
+  {
+    "item_id": "000B 11FD / 1",
+    "source": "xms",
+    "source_ref": "000B 11FD / 1",
+    "job_id": "000B 11FD / 1",
+    "job_title": "Residential Children's Homes Service Manager",
+    "client": "Kirklees Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Market Street, Huddersfield, HD1 2YZ",
+    "city": "Huddersfield",
+    "postcode": "HD1 2YZ",
+    "start_date": "2026-06-01",
+    "end_date": "2026-09-30",
+    "pay_from": "29.78",
+    "pay_to": "29.78",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "the candidate will be required to oversee 3 homes and 3 home managers across the Kirklees borough, with a presence in the 3 homes across the working week",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1431539?backToItem=&initialLoad=&tab=&_xmscs=22732b3a77ccf16fab07ffd0d6add108cfe4a89a880e6a30f0abcfb24d713342ea0f0bc08d7fe3d7",
+    "accepted_at": "2026-05-26T09:54:05.922Z",
+    "scraped_at": "2026-05-26T09:54:05.922Z",
+    "attachments": [
+      {
+        "filename": "Residential Children's Home Service Manager.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137201?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 11FD _ 1/Residential Children's Home Service Manager.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 1249 / 1",
     "source": "xms",
     "source_ref": "000B 1249 / 1",
@@ -13118,6 +13173,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR103256",
+    "source": "prism",
+    "source_ref": "OR103256",
+    "job_id": "OR103256",
+    "job_title": "PA (Personal Assistant) - Admin & Clerical",
+    "client": "Worcester City Council",
+    "procurer": "Alison Darbyshire",
+    "working_address": "Foregate Street, Worcester, Worcestershire, WR1 1DT, United Kingdom",
+    "city": "Worcester",
+    "postcode": "WR1 1DT",
+    "start_date": "2026-05-27",
+    "end_date": "",
+    "pay_from": "15.56",
+    "pay_to": "20.26",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "URGENT: We need the candidate to start from TODAY.\nPlease submit compliant candidates who can start as per requirement.",
+    "description": "This is a one off role to move HR employee paper files to electronic, scanning and checking.  Some of these files are located in a basement area accessible by stairs and the role involves moving them to be scanned. It therefore has to be done on site.\nThe hours can be flexible and approximately 3 days per week and may be working alongside another colleague or alone.\nCandidates must be local & submit reasons why they are interested in this role and why we should choose them over other candidates.\n\nThis is a one off role to move HR employee paper files to electronic, scanning and checking.  Some of these files are located in a basement area accessible by stairs and the role involves moving them to be scanned.\n\nIt therefore has to be done on site.\n\nThe hours can be flexible and approximately 3 days per week and may be working alongside another colleague or alone.\n\nAccuracy and attention to detail along with confidentiality is of paramount importance.\n\nCandidates to submit reasons why they are interested in this role and why we should choose them over other candidates.\n\nAs this role is on site and part time, we expect candidates to be local.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=454f5143-712e-47c1-a305-04149375c850",
+    "accepted_at": null,
+    "scraped_at": "2026-05-26T09:54:29.206Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR103240",
