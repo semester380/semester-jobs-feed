@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 11B7 / 1",
+    "source": "xms",
+    "source_ref": "000B 11B7 / 1",
+    "job_id": "000B 11B7 / 1",
+    "job_title": "Children's Social Worker [Rochdale]",
+    "client": "Rochdale Borough Council, GM Collaboration",
+    "procurer": "GM Collaboration",
+    "working_address": "Smith Street, Rochdale, OL16 1XU, United Kingdom",
+    "city": "Rochdale",
+    "postcode": "OL16 1XU",
+    "start_date": "2026-06-22",
+    "end_date": "2026-10-31",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "CWD Social Worker\n\n 2 years reference , gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1431302?backToItem=&initialLoad=&tab=&_xmscs=73452eed13b85e781fbf80b2ede31bc1fc26407ff11d5ed6d89048e45ff08ffdbe8b26fe4d610c02",
+    "accepted_at": "2026-05-26T08:18:28.358Z",
+    "scraped_at": "2026-05-26T08:18:28.358Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137189?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 11B7 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5297300",
     "source": "comensura",
     "source_ref": "5297300",
