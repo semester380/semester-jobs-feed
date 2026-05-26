@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000A FF65 / 1",
+    "source": "xms",
+    "source_ref": "000A FF65 / 1",
+    "job_id": "000A FF65 / 1",
+    "job_title": "Housing Officer (Housing Services)",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "The Housing Office, 549 Cheetham Hill Road, Manchester , M8 9NW",
+    "city": "Manchester",
+    "postcode": "M8 9NW",
+    "start_date": "2026-05-05",
+    "end_date": "2026-11-02",
+    "pay_from": "18.16",
+    "pay_to": "18.16",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": null,
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1431896?inst=1431896--Distribution--1617375181-false&_csrf=6988e240-b6fa-431f-bdd1-8b4c490aa272&_xmscs=f6c14ba90ed7f71bf75e6fd67277e48a8931fe503068198cd7f2e1e8b0d545465fc6d8df22ef1fa5",
+    "accepted_at": "2026-05-26T14:41:13.283Z",
+    "scraped_at": "2026-05-26T14:41:13.283Z",
+    "attachments": [
+      {
+        "filename": "Housing Officer Role Profile.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136369?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000A FF65 _ 1/Housing Officer Role Profile.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A EDC3 / 1",
     "source": "xms",
     "source_ref": "000A EDC3 / 1",
