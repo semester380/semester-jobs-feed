@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 10BC / 1",
+    "source": "xms",
+    "source_ref": "000B 10BC / 1",
+    "job_id": "000B 10BC / 1",
+    "job_title": "Children's Team Manager [Bolton]",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Castleton Street, Tonge Moor, Bolton, Lancashire, BL2 2JW, United Kingdom",
+    "city": "Bolton",
+    "postcode": "BL2 2JW",
+    "start_date": "2026-07-06",
+    "end_date": "2026-08-28",
+    "pay_from": "43",
+    "pay_to": "45",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.\n\n\n\n37 hours per week Full-time post\n\n\nWe are looking for temporary cover for a team manager to work within our strong Assessment Service Management Team.\nOur Assessment Service is part of Bolton Council’s Front Door and takes referrals and assessments from the Integrated\nFront Door. The assessments are regarding children who are at risk of significant harm and in need of support to ensure\ntheir welfare and protection. The teams are responsible for Section 47 enquiries, social care assessments, Initial Child\nProtection Conferences, issuing Care Proceedings and the Public Law Outline.\nThe Team Manager will be responsible for the management, supervision, support and guidance of a team of social\nworkers. The Team Managers ensure that the services offered to children are of the highest quality, ensuring effective\nsafeguarding of children and adhering to statutory and legislative requirements.\nYou will be expected to ensure the standards of work through supervision, quality assurance, performance management\nand audit.\nAlongside the management team and Senior Head of Service you will work together to drive forward the vision of\nimproving services to ensure the most vulnerable children in Bolton are safe and their outcomes improved\n\nInterviews for successful candidates will be conducted via Microsoft Teams\n\nReferences will be requested for any candidates offered an interview and DBS requested for any candidate offered a post\nFree on-site parking",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1431788?backToItem=&initialLoad=&tab=&_xmscs=6caf3df22bd01ca01b6c478fbc2125d2dd4e5fb5c19d2881244174ccd7c8d4c63c4504b1d294c518",
+    "accepted_at": "2026-05-26T13:47:04.011Z",
+    "scraped_at": "2026-05-26T13:47:04.011Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137124?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 10BC _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "Team Manager R&A - Job Description and Personnel Specification.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137125?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 10BC _ 1/Team Manager R&A - Job Description and Personnel Specification.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 0CF7 / 1",
     "source": "xms",
     "source_ref": "000B 0CF7 / 1",
