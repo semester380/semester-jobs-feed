@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 08C5 / 1",
+    "source": "xms",
+    "source_ref": "000B 08C5 / 1",
+    "job_id": "000B 08C5 / 1",
+    "job_title": "Seasonal Gardener",
+    "client": "Wigan Council, GM Collaboration",
+    "procurer": "GM Collaboration",
+    "working_address": "Makerfield Way, Ince, Wigan, Greater Manchester, WN2 2PR, United Kingdom",
+    "city": "Wigan",
+    "postcode": "WN2 2PR",
+    "start_date": "2026-06-01",
+    "end_date": "2026-09-30",
+    "pay_from": "13.45",
+    "pay_to": "13.45",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Work on own initiative with the minimum of supervision.\nMaintain relevant operational records and documentation and submit them promptly to the Team Leader.\nTake responsibility for the security of vehicles, machinery and materials, including fuel, allocated to you.\nEffectively operate the full range of grass cutting equipment & powered hand tools utilised by the service\nUndertake the full range of grounds and general horticultural maintenance tasks including over marking Sports Pitches, maintenance of flower, rose and shrub beds and herbaceous borders. All works associated with formal lawns, soft and hard landscaping, Pruning & hedge cutting.\nSupport policies, procedures, relevant legislation and good practice, particularly regarding Health and Safety, ensuring the required quality standards are achieved.\nHelp to resolve day to day problems, enquiries and complaints\nProvide an ‘eyes and ears’ service across the borough by reporting any problems you observe, such as blocked gullies, fly tipping, anti-social behaviour through the relevant reporting procedure\n\n\n\nIdeally we would like a PA1, PA6, Quad (PA2) and driving license",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1432526?backToItem=&initialLoad=&tab=&_xmscs=474d3a30c00596b1e4028fdd51899341d2d8f7755b3cdcc2d1c49a141bd7538e2aa1172e1d42e91e",
+    "accepted_at": "2026-05-27T12:33:02.829Z",
+    "scraped_at": "2026-05-27T12:33:02.829Z",
+    "attachments": [
+      {
+        "filename": "Job Spec - Seasonal Gardener.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136687?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 08C5 _ 1/Job Spec - Seasonal Gardener.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 0F87 / 1",
     "source": "xms",
     "source_ref": "000B 0F87 / 1",
