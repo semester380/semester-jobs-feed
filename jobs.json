@@ -1,5 +1,79 @@
 [
   {
+    "item_id": "comensura:5297497",
+    "source": "comensura",
+    "source_ref": "5297497",
+    "job_id": "5297497",
+    "job_title": "Occupational Therapist (Social Care Qualified)",
+    "client": "Gateshead Council",
+    "procurer": null,
+    "working_address": "Gateshead Council Civic Centre, NE8 1HH",
+    "city": "Gateshead Council Civic Centre",
+    "postcode": "NE8 1HH",
+    "start_date": "2026-06-01",
+    "end_date": "",
+    "pay_from": "27.49",
+    "pay_to": "27.49",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Occupational Therapist (Social Care Qualified)\nTemporary\nOccupational Therapist Independent Living Service Role Profile.docx\nOccupational Therapist Independent Living Service.docx",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-05-27T16:23:32.074Z",
+    "scraped_at": "2026-05-27T16:23:32.074Z",
+    "attachments": [
+      {
+        "filename": "Occupational Therapist Independent Living Service Role Profile.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5297497/File/221399",
+        "localPath": null,
+        "downloaded": false
+      },
+      {
+        "filename": "Occupational Therapist Independent Living Service.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5297497/File/221400",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
+    "item_id": "000B 1089 / 1",
+    "source": "xms",
+    "source_ref": "000B 1089 / 1",
+    "job_id": "000B 1089 / 1",
+    "job_title": "Advanced Social Work Practitioner Children's",
+    "client": "Barnsley Hiring, Yorkshire Collaboration",
+    "procurer": "Yorkshire Collaboration",
+    "working_address": "Westgate Plaza One, 1 Westgate, Western Street, Barnsley, South Yorkshire, S70 2DR",
+    "city": "Barnsley",
+    "postcode": "S70 2DR",
+    "start_date": "2026-06-01",
+    "end_date": "2026-09-01",
+    "pay_from": "37",
+    "pay_to": "37",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Children in Care AP role",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1432758?backToItem=&initialLoad=&tab=&_xmscs=d0be2ea706ef6b27bf5aceef25b8d480419ac87196cc752acf179b40b9b1dcd4b08ea45491f05b05",
+    "accepted_at": "2026-05-27T16:22:36.005Z",
+    "scraped_at": "2026-05-27T16:22:36.005Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137103?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1089 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      },
+      {
+        "filename": "77282 Advanced Social Work Practitioner Profile 20170712(1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137104?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1089 _ 1/77282 Advanced Social Work Practitioner Profile 20170712(1).pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5297523",
     "source": "comensura",
     "source_ref": "5297523",
