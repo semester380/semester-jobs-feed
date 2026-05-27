@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 0F87 / 1",
+    "source": "xms",
+    "source_ref": "000B 0F87 / 1",
+    "job_id": "000B 0F87 / 1",
+    "job_title": "Direct Payments Case Worker [Blackpool]",
+    "client": "Blackpool Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Talbot Gateway, Blackpool, Lancashire, FY1 3AH, United Kingdom",
+    "city": "Blackpool",
+    "postcode": "FY1 3AH",
+    "start_date": "2026-05-21",
+    "end_date": "2026-07-30",
+    "pay_from": "16.62",
+    "pay_to": "18.36",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Umbrella rate £21.07 - £23.35\n\n2 years reference, gaps in employment history checked, essential qualifications as per JD, Child & Adult Enhanced DBS Check\n\n1 x 37 Direct Payments Case Worker in Adult Services required for 10 weeks\n\nWe are pleased to offer an exciting opportunity for a motivated and well-organised individual to join our Direct Payments Team within Adult Social Care.\n\nAs a Case Worker, you will play a vital role in supporting people who choose to manage their care through Direct Payments. Working as part of a supportive team, you will help individuals to manage their care packages effectively while promoting choice, control, and independence.\n\nKey Responsibilities\nWork collaboratively as part of a team while also using your own initiative to manage individual responsibilities.\nProvide clear guidance and support to current and potential Direct Payments users on recruitment and employment matters.\nMonitor, support, advise, and assist individuals in managing their Direct Payments packages and associated finances.\nReview and assess financial records and related documentation held by Direct Payments recipients, ensuring accurate record-keeping using Microsoft Excel (strong Excel skills are essential).\nCarry out home visits and develop positive, effective working relationships with individuals and other key stakeholders.\nPromote awareness of Direct Payments and contribute to the ongoing development of the service.\nMaintain up-to-date knowledge of employment legislation and agency arrangements relevant to Direct Payments.\nWorking Arrangements\n\nAn initial training period will be based in an office setting in Blackpool Town Centre. Hybrid working may be available following this period. The role will also involve visiting individuals in their own homes at times that meet their needs, therefore accessibility to Blackpool is essential.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1432421?backToItem=&initialLoad=&tab=&_xmscs=3e3e7ae82ef6159344eefa0c0bb084d28baf873d7f830b33ca2d6ca3bf5f47fd9f245583dc02ac28",
+    "accepted_at": "2026-05-27T10:52:04.633Z",
+    "scraped_at": "2026-05-27T10:52:04.633Z",
+    "attachments": [
+      {
+        "filename": "JD - 1350.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137062?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0F87 _ 1/JD - 1350.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 10BE / 1",
     "source": "xms",
     "source_ref": "000B 10BE / 1",
