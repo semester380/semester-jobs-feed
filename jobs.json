@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 16B4 / 1",
+    "source": "xms",
+    "source_ref": "000B 16B4 / 1",
+    "job_id": "000B 16B4 / 1",
+    "job_title": "Children's Social Worker [Bury]",
+    "client": "Bury Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "3 Knowsley Place, Duke Street, Bury, BL9 0EJ, United Kingdom",
+    "city": "Bury",
+    "postcode": "BL9 0EJ",
+    "start_date": "2026-06-22",
+    "end_date": "2026-09-25",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Social Work post on the Duty and Assessment Team for 30 hrs a week (day off not Monday or Friday).\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1434550?backToItem=&initialLoad=&tab=&_xmscs=a49f93287fffa3090b81c0136ca334b3f6a7f48546e382339ee97d6c913eec4e587d222ff53069ca",
+    "accepted_at": "2026-06-01T16:09:04.170Z",
+    "scraped_at": "2026-06-01T16:09:04.170Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137449?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 16B4 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5297758",
     "source": "comensura",
     "source_ref": "5297758",
