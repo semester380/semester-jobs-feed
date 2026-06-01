@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 10AA / 1",
+    "source": "xms",
+    "source_ref": "000B 10AA / 1",
+    "job_id": "000B 10AA / 1",
+    "job_title": "Contracts Manager - Housing Services [Oldham]",
+    "client": "Oldham Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "George Street, Oldham, Greater Manchester, OL1 1HD, United Kingdom",
+    "city": "Oldham",
+    "postcode": "OL1 1HD",
+    "start_date": "2026-06-01",
+    "end_date": "2026-12-18",
+    "pay_from": "26.87",
+    "pay_to": "28.51",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Job title: Contracts Manager - Housing Services [Oldham]\nClient: Oldham Council, GM Collaboration\nLocation: George Street, Oldham, Greater Manchester, OL1 1HD, United Kingdom\nStart date: Mon 01/06/2026\nEnd date: Fri 18/12/2026\nPay: 26.87-28.51 per per hour\nIR35: Yes\nFollowing the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.\n\n(Description not provided in the portal listing — fields above are the only available context for this role.)",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1434405?backToItem=&initialLoad=&tab=&_xmscs=e8e628b99b70c684ca50b9fef309fa6e044550c51847375bf75fc657bdea25c13bd7656af262bc49",
+    "accepted_at": "2026-06-01T13:56:52.717Z",
+    "scraped_at": "2026-06-01T13:56:52.717Z",
+    "attachments": [
+      {
+        "filename": "Contracts Manager - Housing Services 25.08.22.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137183?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 10AA _ 1/Contracts Manager - Housing Services 25.08.22.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 14F9 / 1",
     "source": "xms",
     "source_ref": "000B 14F9 / 1",
@@ -14038,6 +14069,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR103688",
+    "source": "prism",
+    "source_ref": "OR103688",
+    "job_id": "OR103688",
+    "job_title": "SEND Assessment & Review Officer (Grade 12) - Childrens Services",
+    "client": "Somerset Council",
+    "procurer": "Fiona Turnball",
+    "working_address": "Remote",
+    "city": "Remote",
+    "postcode": null,
+    "start_date": "2026-06-15",
+    "end_date": "",
+    "pay_from": "205.58",
+    "pay_to": "280.00",
+    "pay_type": "per day",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Key Responsibilities\n\nTribunal Case Management: Coordinate responses to SEND tribunal appeals, including preparing legal documentation, gathering evidence, and representing the local authority at hearings.\nMediation Coordination: Arrange and support mediation meetings between families and the local authority, aiming to resolve disagreements without formal legal proceedings.\nLegal Compliance: Ensure all actions and responses comply with the SEND Code of Practice, tribunal procedures, and statutory timelines.\nStakeholder Liaison: Work closely with parents/carers, legal representatives, schools, and internal teams to manage disputes sensitively and professionally.\nAdvice and Guidance: Provide expert advice to colleagues on tribunal and mediation processes, supporting consistent and lawful decision-making.\nRecord Keeping and Reporting: Maintain accurate records of cases, outcomes, and learning points, contributing to service improvement and accountability.\n\nKey Skills\n\nStrong understanding of SEND legislation and tribunal procedures\nExcellent written and verbal communication skills\nAbility to manage complex and sensitive cases with professionalism\nSkilled in negotiation, conflict resolution, and advocacy\nAttention to detail and ability to work under pressure",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=d97bbb9d-51a9-4921-883a-b61dcea89dc7",
+    "accepted_at": null,
+    "scraped_at": "2026-06-01T13:57:13.386Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR103820",
