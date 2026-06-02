@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 17CA / 1",
+    "source": "xms",
+    "source_ref": "000B 17CA / 1",
+    "job_id": "000B 17CA / 1",
+    "job_title": "Occupational Therapist G8 [Rochdale]",
+    "client": "Rochdale Borough Council, GM Collaboration",
+    "procurer": "GM Collaboration",
+    "working_address": "Smith Street, Rochdale, OL16 1XU, United Kingdom",
+    "city": "Rochdale",
+    "postcode": "OL16 1XU",
+    "start_date": "2026-06-22",
+    "end_date": "2026-12-21",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Job Advert: Occupational Therapist (2 Posts)\n\nService: Community Occupational Therapy Team & Moving and Handling Service\nPosition: Occupational Therapist (2 roles available)\n\nThe Community Occupational Therapy Team and Moving and Handling Service are seeking to recruit two experienced Occupational Therapists to support a busy and dynamic workload.\n\nAbout the Role\n\nThis is an exciting opportunity to join a large, supportive, and friendly multidisciplinary team, where you will play a key role in delivering high-quality services within the community.\n\nYou will:\n\nManage your own caseload effectively within an Adult Social Care setting\nUndertake duty work as part of the wider team\nWork collaboratively with colleagues to support individuals with a range of needs\nProvide specialist assessment and intervention focusing on equipment provision, adaptations, and moving and handling\n\nYou will receive regular supervision and professional support from an Advanced Practitioner, enabling your continued professional development.\n\nKey Requirements\n\nApplicants must:\n\nHave experience working within Community Occupational Therapy\nDemonstrate strong knowledge of equipment provision and housing adaptations\nBe confident and proficient in moving and handling practices\nPossess a good working knowledge of the Care Act 2024\nHave experience supporting adults with physical disabilities and frailty\nShow a clear understanding of adaptation planning within Adult Social Care\nBe able to work both independently and as part of a wider team\nWhat We Offer\nA welcoming, team-oriented working environment\nOngoing professional supervision from an Advanced Practitioner\nOpportunities to develop skills within both Community OT and Moving & Handling services\n\nIf you are an experienced Occupational Therapist looking to make a meaningful impact within a supportive and fast-paced service, we would love to hear from you.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1435193?backToItem=&initialLoad=&tab=&_xmscs=6ae9e68f7bc31473542af801d6c667c0dfb4842a43eab56eed2afc200847a0be9f0c081d4cb1b635",
+    "accepted_at": "2026-06-02T13:40:53.431Z",
+    "scraped_at": "2026-06-02T13:40:53.431Z",
+    "attachments": [
+      {
+        "filename": "JD_Occupational_Therapist.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137541?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 17CA _ 1/JD_Occupational_Therapist.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 1714 / 1",
     "source": "xms",
     "source_ref": "000B 1714 / 1",
