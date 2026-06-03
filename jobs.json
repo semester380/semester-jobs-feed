@@ -1,5 +1,29 @@
 [
   {
+    "item_id": "comensura:5297555",
+    "source": "comensura",
+    "source_ref": "5297555",
+    "job_id": "5297555",
+    "job_title": "Care Assistant (Grade 3) (Social Care - Unqualified)",
+    "client": "Lancashire County Council",
+    "procurer": null,
+    "working_address": "Broadfield House Residential Care Home, PR5 1NB",
+    "city": "Broadfield House Residential Care Home",
+    "postcode": "PR5 1NB",
+    "start_date": "2026-06-01",
+    "end_date": "",
+    "pay_from": "16.93",
+    "pay_to": "16.93",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Care Assistant (Grade 3) (Social Care - Unqualified)\nTemporary",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-06-03T10:13:09.689Z",
+    "scraped_at": "2026-06-03T10:13:09.689Z",
+    "attachments": []
+  },
+  {
     "item_id": "comensura:5297556",
     "source": "comensura",
     "source_ref": "5297556",
@@ -14956,6 +14980,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR104125",
+    "source": "prism",
+    "source_ref": "OR104125",
+    "job_id": "OR104125",
+    "job_title": "Data Analyst - Interims",
+    "client": "Redbridge Council",
+    "procurer": "Shaj Choudhury",
+    "working_address": "255 - 259 High Road, Ilford, Greater London, IG1 1NN, United Kingdom",
+    "city": "Ilford",
+    "postcode": "IG1 1NN",
+    "start_date": "2026-06-22",
+    "end_date": "",
+    "pay_from": "226.17",
+    "pay_to": "300.00",
+    "pay_type": "per day",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Performance & Insight Analyst (Modernisation Programme)\n\n London Borough of Redbridge (Hybrid)\nContract: 3-6 months\nRate: £300-£350 per day Umbrella\n\nAbout the Role\n\nThe London Borough of Redbridge is delivering an ambitious Modernisation Programme in the context of Exceptional Financial Support (EFS), designed to reshape services, reduce costs and improve outcomes for residents.\n\nWe are seeking a highly capable Performance & Insight Analyst to provide embedded analytical expertise across the modernisation portfolio. This is a fast-paced, programme-facing role focused on transforming complex data into clear, decision-ready insight to support senior leadership, programme boards and Cabinet-level decision-making.\n\nOperating at the heart of transformation activity, you will work across Modernisation, Finance, Digital and service areas to ensure a consistent and accurate understanding of performance, baselines and delivery progress.\n\nKey Responsibilities\nPerformance & Programme Insight\nDevelop and maintain performance frameworks aligned to programme priorities, milestones and outcomes\nProduce high-quality, concise outputs (dashboards, briefings, data packs) for senior stakeholders\nAnalyse trends, variance and emerging risks across modernisation activity\nTranslate complex datasets into actionable insight to support strategic decisions\nBenefits Realisation & Impact\nDefine and track benefits profiles (savings, productivity, demand reduction, service improvement)\nEstablish robust baselines and methodologies for ongoing performance tracking\nConduct in-flight and post-implementation analysis to assess delivery impact and variance\nData & Reporting\nDesign and maintain dashboards (e.g. Power BI) providing a portfolio-level view of performance\nImprove the quality, consistency and accessibility of management information\nEnsure reporting is streamlined, proportionate and aligned across the organisation\nCollaboration & Agile Delivery\nRespond rapidly to urgent analytical requests linked to transformation and financial recovery\nPartner with stakeholders across Modernisation, Finance, Digital, PMO and service areas\nAct as a �critical friend� to programme leads, challenging assumptions and strengthening evidence\nWork flexibly across multiple workstreams in line with evolving priorities\nGovernance & Quality\nEnsure outputs meet corporate standards for analytical quality, transparency and governance\nClearly document methodologies, assumptions and limitations\nSupport continuous improvement in performance reporting and insight capability\nAbout You\nEssential\nLocal authority experience\nExperience in a performance, insight or analytical role within local government or a similarly complex organisation\nStrong analytical capability, working confidently with operational, financial and performance data\nProven experience producing clear, decision-ready outputs for senior audiences\nAdvanced Excel skills and experience using Power BI (or similar tools)\nAbility to build credibility with senior stakeholders (Head of Service level and above)\nStrong understanding of local government pressures and the public sector operating environment\nAbility to work at pace, manage competing priorities and respond to changing demands\nExperience working cross-functionally across services and corporate teams\nDesirable\nExperience supporting transformation or financial recovery programmes\nExperience working with incomplete or complex datasets and developing pragmatic solutions\nKnowledge of benefits realisation, demand modelling, or forecasting\nTechnical expertise (e.g. SQL, DAX, Python/R) for data extraction, modelling or automation\nWhy Join\n\nThis is a unique opportunity to play a critical role in a high-profile, council-wide transformation programme, directly influencing decisions that drive financial sustainability and service improvement.\n\nYou'll gain exposure to senior stakeholders, work across a diverse portfolio of services and contribute to meaningful public sector change.\n\nApply Now\n\nThis is a priority hire with immediate start potential. If you have the experience to deliver high-impact analytical insight in a transformation environment, we want to hear from you today.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=a92c95bf-62e9-48b5-8564-01fc23f32cd3",
+    "accepted_at": null,
+    "scraped_at": "2026-06-03T10:08:31.765Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR104029",
