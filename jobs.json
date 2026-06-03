@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5297874",
+    "source": "comensura",
+    "source_ref": "5297874",
+    "job_id": "5297874",
+    "job_title": "Adults Senior Social Worker (Bmdc) (Social and Healthcare Qualified)",
+    "client": "Bradford Metropolitan District Council",
+    "procurer": null,
+    "working_address": "Britannia House, BD1 1HX",
+    "city": "Britannia House",
+    "postcode": "BD1 1HX",
+    "start_date": "2026-06-02",
+    "end_date": "",
+    "pay_from": "40.00",
+    "pay_to": "40.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Adults Senior Social Worker (Bmdc) (Social and Healthcare Qualified)\nTemporary\nExperienced-Senior Social Worker - Adults BMDC.pdf",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-06-03T09:33:01.232Z",
+    "scraped_at": "2026-06-03T09:33:01.232Z",
+    "attachments": [
+      {
+        "filename": "Experienced-Senior Social Worker - Adults BMDC.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5297874/File/221589",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5297893",
     "source": "comensura",
     "source_ref": "5297893",
