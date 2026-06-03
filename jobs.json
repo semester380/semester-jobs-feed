@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5297870",
+    "source": "comensura",
+    "source_ref": "5297870",
+    "job_id": "5297870",
+    "job_title": "Lifeline Response Officer - Band 6 (Social Care Unqualified)",
+    "client": "Darlington Borough Council",
+    "procurer": null,
+    "working_address": "Town Hall, DL1 5QT",
+    "city": "Town Hall",
+    "postcode": "DL1 5QT",
+    "start_date": "2026-06-08",
+    "end_date": "",
+    "pay_from": "17.82",
+    "pay_to": "17.82",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "We are seeking candidates who are flexible and able to work across any of the following shifts:\nMonday to Sunday:\no 07:30 – 15:45\no 15:30 – 21:30\no 21:15 – 07:45\nMonday to Friday:\no 08:30 – 17:00\nRotas are prepared on a monthly basis, with shifts confirmed at least one month in advance.\nPlease only propose candidates who are able to work across all of the above shift patterns, including weekends.\nEnhanced DBS required.\nAny relevant training would be considered.\nWe use white fleet and these vehicles are manual so the person must have a Full UK driver’s license to drive a manual vehicle",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-06-03T09:34:55.396Z",
+    "scraped_at": "2026-06-03T09:34:55.396Z",
+    "attachments": [
+      {
+        "filename": "Response Officer April 2026 (1).docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5297870/File/221586",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5297874",
     "source": "comensura",
     "source_ref": "5297874",
