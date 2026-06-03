@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5297588",
+    "source": "comensura",
+    "source_ref": "5297588",
+    "job_id": "5297588",
+    "job_title": "Adults Social Care - Social Worker (Qualified) (Social Care Qualified)",
+    "client": "South Tyneside Council",
+    "procurer": null,
+    "working_address": "Floor Ground Floor, Clarendon House,, NE31 1AT",
+    "city": "Clarendon House",
+    "postcode": "NE31 1AT",
+    "start_date": "2026-06-08",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Will be based in Neighbourhood Adults Teams - Community Work.\nLocation Clarendon House, Windmill Way, Hebburn.\nMostly office based but can discuss further with Line Manager",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-06-03T09:46:13.512Z",
+    "scraped_at": "2026-06-03T09:46:13.512Z",
+    "attachments": [
+      {
+        "filename": "Social Worker (Adult Social Care) JD.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5297588/File/221450",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5297589",
     "source": "comensura",
     "source_ref": "5297589",
