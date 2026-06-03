@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 0935 / 1",
+    "source": "xms",
+    "source_ref": "000B 0935 / 1",
+    "job_id": "000B 0935 / 1",
+    "job_title": "School Meals Business Manager [Warrington BC]",
+    "client": "Warrington Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "1 Time Square, Warrington, cheshire, WA1 2NT, United Kingdom",
+    "city": "Warrington",
+    "postcode": "WA1 2NT",
+    "start_date": "2026-06-15",
+    "end_date": "2027-05-06",
+    "pay_from": "18.24",
+    "pay_to": "18.24",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Urgently required - FULL TIME year round Business Manager on 12/18 month secondment\n\numbrella rate £23.20",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1435921?inst=1435921--Distribution--1621376277-false&_csrf=c3f8af44-0a8a-47d2-922a-19fc9dc3cec8&_xmscs=fe5900c225328bc0c79ad492ecddd5d888de696979e534f5d6b45e7f53dfc07daeb366df12de69f7",
+    "accepted_at": "2026-06-03T14:42:05.034Z",
+    "scraped_at": "2026-06-03T14:42:05.034Z",
+    "attachments": [
+      {
+        "filename": "JD & PS - School Meals Bus Manager 2026.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136704?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0935 _ 1/JD & PS - School Meals Bus Manager 2026.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5297920",
     "source": "comensura",
     "source_ref": "5297920",
