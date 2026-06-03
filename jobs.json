@@ -1,5 +1,29 @@
 [
   {
+    "item_id": "comensura:5297574",
+    "source": "comensura",
+    "source_ref": "5297574",
+    "job_id": "5297574",
+    "job_title": "Care Assistant (Grade 3) (Social Care - Unqualified)",
+    "client": "Lancashire County Council",
+    "procurer": null,
+    "working_address": "Bowgreave Rise Residential Home, PR3 1YD",
+    "city": "Bowgreave Rise Residential Home",
+    "postcode": "PR3 1YD",
+    "start_date": "2026-06-01",
+    "end_date": "",
+    "pay_from": "16.93",
+    "pay_to": "16.93",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Care Assistant (Grade 3) (Social Care - Unqualified)\nTemporary",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-06-03T09:53:01.516Z",
+    "scraped_at": "2026-06-03T09:53:01.516Z",
+    "attachments": []
+  },
+  {
     "item_id": "comensura:5297575",
     "source": "comensura",
     "source_ref": "5297575",
@@ -14829,6 +14853,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR104029",
+    "source": "prism",
+    "source_ref": "OR104029",
+    "job_id": "OR104029",
+    "job_title": "Business Analyst - Interims",
+    "client": "Redbridge Council",
+    "procurer": "Shaj Choudhury",
+    "working_address": "255 - 259 High Road, Ilford, Greater London, IG1 1NN, United Kingdom",
+    "city": "Ilford",
+    "postcode": "IG1 1NN",
+    "start_date": "2026-06-22",
+    "end_date": "",
+    "pay_from": "226.17",
+    "pay_to": "300.00",
+    "pay_type": "per day",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Location: Redbridge\nContract: Fixed term interim , 3- 6months\n Salary: £300- £350/day Umbrella\n\nAbout the Role\n\nWe are supporting a Council currently operating under Exceptional Financial Support (EFS) and delivering an ambitious recovery and modernisation programme across all directorates.\n\nAs part of this transformation, we are hiring  a Modernisation Business Analysts to provide the critical operational insight that underpins service redesign, cost savings, and improved outcomes for residents.\n\nThese roles sit at the heart of the Council�s modernisation portfolio�focused not on systems, but on how services actually operate, and how they can be reshaped to deliver better value.\n\nWhat You'll Be Doing\n\nConduct operational diagnostics to understand how services currently function\nAnalyse costs, staffing structures, demand volumes, and performance data\nDeliver process mapping and workflow analysis, identifying inefficiencies and duplication\nSupport the development of evidence-based transformation options and business cases\nProduce clear, structured outputs including briefing papers, data packs, and analysis\nTrack benefits realisation, verifying whether projected savings are achieved\nEngage with stakeholders across services to build a realistic picture of operations\nWork collaboratively with Finance, Digital, PMO, and HR/OD teams\n\nIn addition to the above, you will:\n\nLead end-to-end service diagnostics, from scoping through to recommendations\nDevelop costed transformation options, including savings, risks, and timelines\nManage and mentor a team of Modernisation Business Analysts\nAct as a key partner to Heads of Service and Senior Responsible Officers (SROs)\nContribute to programme governance, including board papers and reporting\nIdentify and escalate cross-cutting dependencies across programmes\nEnsure delivery aligns with the Council�s Understand � Redesign � Embed methodology\n\nYou will:\n\nDeliver hands-on analytical work across multiple service reviews\nSupport options appraisal through research, benchmarking, and modelling\nMaintain robust documentation of data sources, assumptions, and findings\nProvide timely updates and flag risks or dependencies to senior colleagues\nWork closely with operational teams to build trust and accurate insight\n\nWhat We're Looking For:\n\nEssential\n\nLocal Authority experience\nExperience in operational analysis, service review, or business improvement\nStrong analytical capability, particularly using financial, demand, and workforce data\nAbility to communicate insights clearly through structured written outputs\nExperience working in complex organizations (local government or similar preferred)\nStrong stakeholder engagement skills, with the ability to build credibility\nA proactive, detail-oriented approach to problem solving and analysis\n\nDesirable\n\nFamiliarity with Lean, systems thinking, or service redesign methodologies\nUnderstanding of benefits tracking and realisation frameworks\nKnowledge of local government structures, funding, or GLPC frameworks\n\nWhy Join?\n\nPlay a key role in a high-profile recovery and transformation programme\nInfluence decisions that directly impact services, communities, and outcomes\nWork across diverse service areas in a fast-paced, meaningful environment\nBe part of a collaborative modernisation function driving real, measurable change",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=97fcba53-46dc-4aec-9194-1702e2b2abd6",
+    "accepted_at": null,
+    "scraped_at": "2026-06-03T09:52:14.948Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR104015",
