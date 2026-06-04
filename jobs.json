@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 14FA / 1",
+    "source": "xms",
+    "source_ref": "000B 14FA / 1",
+    "job_id": "000B 14FA / 1",
+    "job_title": "Senior Social Worker (Childrens)",
+    "client": "Wakefield Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Normanton, Normanton, West Yorkshire, WF6 2DZ",
+    "city": "Normanton",
+    "postcode": "WF6 2DZ",
+    "start_date": "2026-06-22",
+    "end_date": "2027-02-27",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are currently seeking an experienced Social Worker to join the Complex Care Needs Team in Wakefield.\n\nThis role involves working with children and young people aged 0–18 who have complex health needs and disabilities. The successful candidate will manage a varied caseload, including Child in Need (CIN), Child Protection (CP), and Children in Care (CIC), while also working closely in partnership with the Short Breaks Team.\n\nThis is a fixed-term position to provide maternity cover until February 2027.\n\nTeam Structure and Staffing\n\nThe team is a specialist service supporting children with disabilities aged 0–18, responsible for delivering assessments, safeguarding, support packages, and child protection plans. The service is currently undergoing a restructure as part of wider social care reforms, and the successful candidate will join during this period of transition.\n\nRecent staffing changes and absences have resulted in increased caseloads across the team. There are currently six practitioners, with a proportion working part-time. Caseloads typically range between approximately 20–25 cases per worker.\n\nAlthough caseload numbers may appear high, many cases require lower-frequency visits (e.g. every 12 weeks or 6 months), allowing workloads to be balanced effectively. All cases are currently allocated, and there is no significant backlog.\n\nSkills and Experience\n\nWhile experience working with children with disabilities is advantageous, it is not essential. The key requirements are:\n\nUnderstanding of additional needs\nAbility to communicate effectively with children and young people\nStrong statutory social work skills\nPassion for working with children and families\n\nTraining and support will be provided in relation to disability-specific practice.\n\nWorking Arrangements\n\nFull-time candidates are preferred; however, flexibility (such as condensed hours) may be considered.\nA core working requirement is availability on Fridays.\nThe role operates on a hybrid basis, with approximately two office-based duty days per week and flexibility to work from home for administrative tasks, subject to service needs.\nKey Responsibilities\nManage a caseload of children and young people with disabilities\nComplete statutory assessments, reviews, and safeguarding work\nDevelop and maintain effective relationships with families\nEnsure timely completion of visits and documentation\nContribute to team duty functions and service delivery\n\nMeasures of Success\n\nDuring the first 3–6 months, success in this role will be defined by:\n\nSuccessful integration into the team\nBuilding strong, positive relationships with children and families\nManaging and progressing allocated work in line with statutory expectations\n\nInitial priorities focus on relationship-building and completing core responsibilities rather than immediate performance targets.\n\nSupport and Working Environment\n\nThe team offers a supportive and collaborative environment, with:\n\nOngoing management guidance and structured support\nTraining in specialist areas of practice\nCareful allocation of work to ensure manageable caseloads\n\nThe service focuses on relationship-based practice with children and families, offering a more planned and less reactive working environment compared to some frontline locality teams.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1436233?backToItem=&initialLoad=&tab=&_xmscs=1be5ce858cac608780e184c177a0514a60ca43119f528c4e3f6fb85eefd82713918787f1b78336b6",
+    "accepted_at": "2026-06-04T10:49:51.000Z",
+    "scraped_at": "2026-06-04T10:49:51.000Z",
+    "attachments": [
+      {
+        "filename": "Wakefield Your Temp Experience.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137354?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 14FA _ 1/Wakefield Your Temp Experience.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137355?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 14FA _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      },
+      {
+        "filename": "Senior Social Worker (Children).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137356?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 14FA _ 1/Senior Social Worker (Children).pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5297961",
     "source": "comensura",
     "source_ref": "5297961",
