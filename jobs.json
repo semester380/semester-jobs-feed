@@ -1,5 +1,54 @@
 [
   {
+    "item_id": "000B 19CA / 1",
+    "source": "xms",
+    "source_ref": "000B 19CA / 1",
+    "job_id": "000B 19CA / 1",
+    "job_title": "Children's Social Worker [Salford]",
+    "client": "Salford City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Chorley Road, Swinton, Greater Manchester, M27 5DA, United Kingdom",
+    "city": "Swinton",
+    "postcode": "M27 5DA",
+    "start_date": "2026-06-22",
+    "end_date": "2026-10-03",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.\n\n\n\nAbout the role\nTo be a Child Protection Co-ordinator within the Safeguarding and Quality Assurance Unit and to chair child protection conferences and oversee the effective delivery of plans for children and young people.\nThis role involves ensuring that the statutory functions required within Child Protection Conferences are delivered in an effective way, that a high-quality service is delivered and that there is appropriate, monitoring and development to drive service improvement.\nWhen required to support with other responsibilities within the Safeguarding and Quality Assurance Unit.\nTo contribute to the development of the service priorities within the Safeguarding and Quality Assurance Unit, promoting a focus on children’s lived experiences.\nTo support the implementation and embedment of an asset based and restorative approach to practice within the SQAU.\nWork with full regard to Salford City Council’s Values, Equal Opportunities, Health & Safety and Community Strategy policies.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1436274?backToItem=&initialLoad=&tab=&_xmscs=b36b67893947802b8b4a69ae52388630e29fc255c4222ac17de4a4f9d0b006f47d78ed545cd852df",
+    "accepted_at": "2026-06-04T11:00:34.291Z",
+    "scraped_at": "2026-06-04T11:00:34.291Z",
+    "attachments": [
+      {
+        "filename": "6171_ThisIsSalford_Feb2023_v3 (1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137625?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 19CA _ 1/6171_ThisIsSalford_Feb2023_v3 (1).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "6173_Why work for TeamSalford_v7 (1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137626?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 19CA _ 1/6173_Why work for TeamSalford_v7 (1).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137627?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 19CA _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "Role Profile for CPCO - Dec 2025.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137628?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 19CA _ 1/Role Profile for CPCO - Dec 2025.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 14FA / 1",
     "source": "xms",
     "source_ref": "000B 14FA / 1",
