@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5297687",
+    "source": "comensura",
+    "source_ref": "5297687",
+    "job_id": "5297687",
+    "job_title": "Social Worker (Childrens) (Jajb4097 - G10) (Social and Healthcare Qualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Delamere House, CW1 2JZ",
+    "city": "Delamere House",
+    "postcode": "CW1 2JZ",
+    "start_date": "2026-06-08",
+    "end_date": "",
+    "pay_from": "39.00",
+    "pay_to": "39.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "To replace worker that is leaving - this will then be for a 3 month contract - pending approval.\nA Recruitment Request number is required for all Orders, please state here: Recruitment Watch Requests 17152\n5. Enhanced – including barred:\nc. Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-06-04T17:34:45.710Z",
+    "scraped_at": "2026-06-04T17:34:45.710Z",
+    "attachments": [
+      {
+        "filename": "JAJB4097 - Social Worker - JD and PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5297687/File/221486",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5297950",
     "source": "comensura",
     "source_ref": "5297950",
