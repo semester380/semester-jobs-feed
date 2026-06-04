@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 19BC / 1",
+    "source": "xms",
+    "source_ref": "000B 19BC / 1",
+    "job_id": "000B 19BC / 1",
+    "job_title": "Adults Social Worker [Salford CC]",
+    "client": "Salford City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Ramsgate House,, 43 Ramsgate Street, Salford, Greater Manchester, M7 2YL",
+    "city": "Salford",
+    "postcode": "M7 2YL",
+    "start_date": "2026-06-22",
+    "end_date": "2026-09-11",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Mental Health Social Worker to work in two teams directly managed by Salford City Council but located with GMMH colleagues in CMHT bases - Cromwell House CMHT and Ramsgate House CMHT.\n\nThere is no care co-ordination role involved as MHSWs now focus on Care Act and s.117 duties including adult safeguarding but we do work collaboratively with our health colleagues.\n\nHybrid working with requirement to be based in the office at least 3 days per week.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1436366?backToItem=&initialLoad=&tab=&_xmscs=107f5d3ccc6869d8ca725a3406867907be0da1ab9d4ae1625eb6910c819a97c451e94c3a33176394",
+    "accepted_at": "2026-06-04T13:04:48.067Z",
+    "scraped_at": "2026-06-04T13:04:48.067Z",
+    "attachments": [
+      {
+        "filename": "6171_ThisIsSalford_Feb2023_v3 (1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137622?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 19BC _ 1/6171_ThisIsSalford_Feb2023_v3 (1).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "6173_Why work for TeamSalford_v7 (1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137623?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 19BC _ 1/6173_Why work for TeamSalford_v7 (1).pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 19CA / 1",
     "source": "xms",
     "source_ref": "000B 19CA / 1",
