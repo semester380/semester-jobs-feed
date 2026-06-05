@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 1A96 / 1",
+    "source": "xms",
+    "source_ref": "000B 1A96 / 1",
+    "job_id": "000B 1A96 / 1",
+    "job_title": "Childrens Team Manager - Childrens Services [Tameside]",
+    "client": "Tameside Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Gardenfold Way, Droylsden, Tameside, Greater Manchester, M43 7XU, United Kingdom",
+    "city": "Tameside",
+    "postcode": "M43 7XU",
+    "start_date": "2026-07-06",
+    "end_date": "2026-08-31",
+    "pay_from": "26.51",
+    "pay_to": "46",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "TM are in need of a Team Manager for the Children With Disabilities Team\n\nOffice Based\n\n Suppliers: Please complete the GM Pledge Compliance Attributes Questions Attachment on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1436715?inst=1436715--Distribution--1622272030-false&_csrf=48174b6d-689a-4f53-872a-6328f5adf267&_xmscs=8f1d6348c7a57a58859358b4a15956b031ad4308b11c41a5fbd680b217aa5816f5d2301f174d93bf",
+    "accepted_at": "2026-06-05T10:19:53.152Z",
+    "scraped_at": "2026-06-05T10:19:53.152Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137646?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1A96 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5297687",
     "source": "comensura",
     "source_ref": "5297687",
