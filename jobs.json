@@ -1,5 +1,29 @@
 [
   {
+    "item_id": "000B 1AEC / 1",
+    "source": "xms",
+    "source_ref": "000B 1AEC / 1",
+    "job_id": "000B 1AEC / 1",
+    "job_title": "Adults Social Worker [Bolton]",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Castleton Street, Tonge Moor, Bolton, Lancashire, BL2 2JW, United Kingdom",
+    "city": "Bolton",
+    "postcode": "BL2 2JW",
+    "start_date": "2026-07-06",
+    "end_date": "2026-08-10",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "As a Social Worker within the team you will be working alongside multi-disciplinary colleagues to provide a joined up approach to meeting the needs of individuals within our neighbourhoods.\n\nYou will need to have experience of carrying out strengths based assessments under the Care Act 2014 and devising and implementing comprehensive support plans, including supporting service users to access universal and voluntary services. You will be expected to carry out assessments, carers assessments and formulate support plans under the Care Act 2014. Knowledge, experience, and the ability to adhere to the principles of the Mental Capacity Act 2005 and other Social Work legislation and practice guidance are also essential.\n\nThe role includes covering a busy duty system on a rota basis, taking referrals and offering information and advice at point of contact.\n\nPreferable experience of:\n\nManaging an active caseload.\n\nUndertaking safeguarding investigations.\n\nContinuing health care assessments and attendance at multi-agency meetings.\n\nMulti-disciplinary working.\n\nThe role is on a supportive team where there is a wealth of experience, and we have a strong commitment to development and working together to achieve successful outcomes for Bolton residents.\n\n3 years reference, gaps in employment history checked, any relevant quals as per JDPS.\n\nThe post is based in Bolton and candidates are expected to be able to work with individuals in their own homes and other settings within the Bolton area.\n\nHybrid working arrangement in place the expectation is for people to be working from the office 3 out of days. However on starting the successful candidate will initially be expected to be based primarily in the office for the initial induction period.  Hours of work are between 8am and 7pm on a flexible basis, standard working day is around 7 hours.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1436917?inst=1436917--Distribution--1623208139-false&_csrf=3947bb63-4d9a-4f33-8d1f-8245a3fa237a&_xmscs=fbd033f59c81b804ddcb33742aaffabf1d014dba331c38ad3dbe3b439c8c04fc5a967fbebdd2b891",
+    "accepted_at": "2026-06-08T07:41:14.862Z",
+    "scraped_at": "2026-06-08T07:41:14.862Z",
+    "attachments": []
+  },
+  {
     "item_id": "comensura:5298134",
     "source": "comensura",
     "source_ref": "5298134",
@@ -15974,6 +15998,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR104555",
+    "source": "prism",
+    "source_ref": "OR104555",
+    "job_id": "OR104555",
+    "job_title": "HR Support Officer G5 - Admin & Clerical",
+    "client": "YPO",
+    "procurer": "Judith Clark",
+    "working_address": "Industrial Park, 41 Kenmore Road, Wakefield, West Yorkshire, WF2 0XE, United Kingdom",
+    "city": "Wakefield",
+    "postcode": "WF2 0XE",
+    "start_date": "2026-06-16",
+    "end_date": "",
+    "pay_from": "14.00",
+    "pay_to": "18.42",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "This HR Support Officer role will be based in the People Development Team and the duties will be specialised to this function.",
+    "description": "a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; }\n\nHR Support Officer � Summary\n\nPurpose:\nProvide accurate and timely HR administrative support, acting as a first point of contact for HR and payroll queries, and supporting payroll processing.\n\nKey Responsibilities:\nManage HR queries via People Portal, email, and in person\nSupport recruitment and onboarding (job adverts, shortlisting, checks, contracts)\nMaintain employee records and HR systems (starters, leavers, changes)\nProcess payroll data and resolve payroll queries\nAdminister employee benefits and HR policies\nProduce HR reports (e.g., absence, workforce data)\nSupport HR projects, audits, and policy updates\nProvide admin support including note-taking in meetings and general HR tasks\nKey Skills & Requirements:\nStrong organisation, attention to detail, and time management\nGood communication and customer service skills\nIT proficiency (MS Office and HR systems)\nAbility to manage confidential information\nAnalytical and problem-solving skills\nExperience in admin (HR preferred)\nKnowledge of GDPR; HR/payroll knowledge desirable\nEducated to NVQ Level 3 (CIPD Level 3 desirable)\nOther Details:\nNo direct reports or budget responsibility\nWorks closely with internal teams, payroll providers, and external partners\nRequires flexibility and ability to manage a fast-paced, changing workload",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=fb08f792-50d7-4c68-96a4-255011c06c23",
+    "accepted_at": null,
+    "scraped_at": "2026-06-08T07:41:34.514Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR104522",
