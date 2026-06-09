@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 1A0A / 1",
+    "source": "xms",
+    "source_ref": "000B 1A0A / 1",
+    "job_id": "000B 1A0A / 1",
+    "job_title": "Personal Adviser [Tameside MBC]",
+    "client": "Tameside Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Old Street, Ashton-u-Lyne, Tameside, OL6 7SG",
+    "city": "Tameside",
+    "postcode": "OL6 7SG",
+    "start_date": "2026-06-08",
+    "end_date": "2026-09-08",
+    "pay_from": "18.34",
+    "pay_to": "20.86",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Umbrella - £23.33 - £26.53\n\nPlease refer to the attached JD\n\nThe candidate must be a car driver as the service continues to support Tameside care experienced young people who have moved away from the local area.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1437787?inst=1437787--Distribution--1624588367-false&_csrf=c4a6df2b-9153-4c43-bf03-52a64ce40280&_xmscs=a6def6f5026b8f1469ae409074257fb639a9ccd27da2998fe0eb67afdef67a8cfa06a479e88185f3",
+    "accepted_at": "2026-06-09T12:39:49.266Z",
+    "scraped_at": "2026-06-09T12:39:49.266Z",
+    "attachments": [
+      {
+        "filename": "Personal Adviser (Leaving Care) JD PS.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137633?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1A0A _ 1/Personal Adviser (Leaving Care) JD PS.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A FD1F / 1",
     "source": "xms",
     "source_ref": "000A FD1F / 1",
