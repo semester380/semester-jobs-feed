@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 1BAF / 1",
+    "source": "xms",
+    "source_ref": "000B 1BAF / 1",
+    "job_id": "000B 1BAF / 1",
+    "job_title": "Adults Social Worker [Bury]",
+    "client": "Bury Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Rochdale Old Road, Bury, BL9 7TD, United Kingdom",
+    "city": "Bury",
+    "postcode": "BL9 7TD",
+    "start_date": "2026-06-22",
+    "end_date": "2026-09-18",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Hospital Social Worker\n\n3 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nHospital social work- preferably previous experience in hospital discharge.\n\nWeekend working and multiple hospital cross site cover\n\nVacancy cover",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1437552?inst=1437552--Distribution--1624430616-false&_csrf=c4a6df2b-9153-4c43-bf03-52a64ce40280&_xmscs=2a1570f5c93c66a7ab2793c73617a4306ebb4c76c855de1da3ed05f2c418d76d7149920f268ebf64",
+    "accepted_at": "2026-06-09T10:10:29.365Z",
+    "scraped_at": "2026-06-09T10:10:29.365Z",
+    "attachments": [
+      {
+        "filename": "Job description and person specification (1) SW.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137707?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1BAF _ 1/Job description and person specification (1) SW.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 1B2A / 1",
     "source": "xms",
     "source_ref": "000B 1B2A / 1",
