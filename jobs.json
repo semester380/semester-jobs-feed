@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5298311",
+    "source": "comensura",
+    "source_ref": "5298311",
+    "job_id": "5298311",
+    "job_title": "Residential Child Care Worker (Social Care - Qualified)",
+    "client": "Lancashire County Council",
+    "procurer": null,
+    "working_address": "Padiham Library, BB12 8BN",
+    "city": "Padiham Library",
+    "postcode": "BB12 8BN",
+    "start_date": "2026-06-22",
+    "end_date": "",
+    "pay_from": "18.81",
+    "pay_to": "18.81",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Children's Residential Stoney View\nLocation - Stoney View, Malvern, Padiham\nInterviews 17/6\nWe are looking for care workers that have experience of caring for children in a residential setting. They would need to have prior experience with children, an enhanced DBS for children and have a valid physical intervention certificate from Team Teach or MAPPA\nSee attached JD for full details",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-06-10T16:54:30.328Z",
+    "scraped_at": "2026-06-10T16:54:30.328Z",
+    "attachments": [
+      {
+        "filename": "rccw-jd-ps.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5298311/File/221832",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5298361",
     "source": "comensura",
     "source_ref": "5298361",
