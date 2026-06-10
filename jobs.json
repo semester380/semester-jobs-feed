@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 1E27 / 1",
+    "source": "xms",
+    "source_ref": "000B 1E27 / 1",
+    "job_id": "000B 1E27 / 1",
+    "job_title": "Senior Social Worker Children's",
+    "client": "Barnsley Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Westgate Plaza One, 1 Westgate, Western Street, Barnsley, South Yorkshire, S70 2DR",
+    "city": "Barnsley",
+    "postcode": "S70 2DR",
+    "start_date": "2026-07-06",
+    "end_date": "2026-09-30",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Barnsley require an experienced social worker to join the long term locality service. The desired candidate has experience of CIN,CP and court proceedings work.\n\n3 days a week onsite",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1438644?backToItem=&initialLoad=&tab=&_xmscs=6240acf96b52b255b40125eab59e8a7d5e2c2a263988760184c22547503dd2149d4f60abdcd81f63",
+    "accepted_at": "2026-06-10T14:27:59.238Z",
+    "scraped_at": "2026-06-10T14:27:59.238Z",
+    "attachments": [
+      {
+        "filename": "92690 Senior Social Worker Profile 20150120.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137833?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1E27 _ 1/92690 Senior Social Worker Profile 20150120.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137834?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1E27 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 1E2B / 1",
     "source": "xms",
     "source_ref": "000B 1E2B / 1",
