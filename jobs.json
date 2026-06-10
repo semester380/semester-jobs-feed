@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5298470",
+    "source": "comensura",
+    "source_ref": "5298470",
+    "job_id": "5298470",
+    "job_title": "Advanced Practitioner (Bcft Dfe) (Social and Healthcare Qualified)",
+    "client": "Bradford Metropolitan District Council",
+    "procurer": null,
+    "working_address": "Keighley Town Hall, BD21 3PA",
+    "city": "Keighley Town Hall",
+    "postcode": "BD21 3PA",
+    "start_date": "2026-06-22",
+    "end_date": "",
+    "pay_from": "37.00",
+    "pay_to": "37.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "K & S Team 2\nBradford Children and Families Trust operate hybrid working - However, there will be instances where employees are expected to be in the office for specific tasks or team days, as defined by the needs of the service.\nAG589 - 05.06.26",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-06-10T16:56:54.558Z",
+    "scraped_at": "2026-06-10T16:56:54.558Z",
+    "attachments": [
+      {
+        "filename": "Advanced Practitioner.doc.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5298470/File/221942",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5298311",
     "source": "comensura",
     "source_ref": "5298311",
