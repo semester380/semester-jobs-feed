@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 1E2B / 1",
+    "source": "xms",
+    "source_ref": "000B 1E2B / 1",
+    "job_id": "000B 1E2B / 1",
+    "job_title": "Advanced Social Work Practitioner Children's",
+    "client": "Barnsley Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Westgate Plaza One, 1 Westgate, Western Street, Barnsley, South Yorkshire, S70 2DR",
+    "city": "Barnsley",
+    "postcode": "S70 2DR",
+    "start_date": "2026-07-06",
+    "end_date": "2026-09-30",
+    "pay_from": "37",
+    "pay_to": "37",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Barnsley are seeking an Advanced Practitioner to join the locality service. The ideal candidate will have experience of working with children on CIN and CP plans, as well as court experience.\n\n3 days onsite",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1438612?backToItem=&initialLoad=&tab=&_xmscs=b3627d52671c955395aa30ea382929baaf7d476183f73dee49e45dc28432a4febb25f806994fe51f",
+    "accepted_at": "2026-06-10T14:24:41.164Z",
+    "scraped_at": "2026-06-10T14:24:41.164Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137835?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1E2B _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      },
+      {
+        "filename": "77282 Advanced Social Work Practitioner Profile 20170712(1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137836?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1E2B _ 1/77282 Advanced Social Work Practitioner Profile 20170712(1).pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 1DC6 / 1",
     "source": "xms",
     "source_ref": "000B 1DC6 / 1",
