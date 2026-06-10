@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5298465",
+    "source": "comensura",
+    "source_ref": "5298465",
+    "job_id": "5298465",
+    "job_title": "Child Protection Coordinator (Bcft) (Social and Healthcare Qualified)",
+    "client": "Bradford Metropolitan District Council",
+    "procurer": null,
+    "working_address": "Sir Henry Mitchell House, BD5 0QL",
+    "city": "Sir Henry Mitchell House",
+    "postcode": "BD5 0QL",
+    "start_date": "2026-06-22",
+    "end_date": "",
+    "pay_from": "32.70",
+    "pay_to": "32.70",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "3 months\nSafeguarding and Reviewing\nCP Coordinator\nAG581 - 05.06.26",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-06-10T16:25:23.573Z",
+    "scraped_at": "2026-06-10T16:25:23.573Z",
+    "attachments": [
+      {
+        "filename": "Child Protection Coordinator.doc.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5298465/File/221938",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5298268",
     "source": "comensura",
     "source_ref": "5298268",
