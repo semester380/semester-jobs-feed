@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 1987 / 1",
+    "source": "xms",
+    "source_ref": "000B 1987 / 1",
+    "job_id": "000B 1987 / 1",
+    "job_title": "Children's Advanced Social Work Practitioner",
+    "client": "SCC_Authorising, Sheffield City Council",
+    "procurer": "Sheffield City Council",
+    "working_address": "Stadia Technology Park, 60 Shirland Lane, Sheffield, South Yorkshire, S9 3SP, United Kingdom",
+    "city": "Sheffield",
+    "postcode": "S9 3SP",
+    "start_date": "2026-06-15",
+    "end_date": "2026-09-30",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are looing for two childrens advanced social work practitioners to work full time in our South Fieldwork area of service which is based at Attercliffe, Sheffield 9 but which covers the South of Sheffield service area.  The agency workers will be required to have at least three years statutory frontline fieldwork post qualification experience and be able to undertake complex care proceedings, court work and Section 47 investigations as well as an active caseload of up to 22 children.  The posts are for 3 months to cover for vacancies and working hours are 37 per week working 8.45am-5.15pm Monday to Thursday and with a 4.45pm finish on a Friday.  You must hold a social work qualification, ASYE fitness to practice certificate,SWE registration and comply with the DfE agency regulations.   Contact Khadra.Sheel@sheffield.gov.uk",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1439194?backToItem=&initialLoad=&tab=&_xmscs=69cb0f27b73d51d8cfd168653f946072c15dfa8ec41e697b28b687a325547633d0a05a62185e7428",
+    "accepted_at": "2026-06-11T13:50:40.580Z",
+    "scraped_at": "2026-06-11T13:50:40.580Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137612?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1987 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      },
+      {
+        "filename": "Children' Advanced Social Work Practitioner new template (1).docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137613?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1987 _ 1/Children' Advanced Social Work Practitioner new template (1).docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 1E9E / 1",
     "source": "xms",
     "source_ref": "000B 1E9E / 1",
