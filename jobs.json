@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 1DA2 / 1",
+    "source": "xms",
+    "source_ref": "000B 1DA2 / 1",
+    "job_id": "000B 1DA2 / 1",
+    "job_title": "Children's Social Worker [Stockport MBC]",
+    "client": "Stockport Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Edward Street, Stockport, Stockport, SK1 3XE, United Kingdom",
+    "city": "Stockport",
+    "postcode": "SK1 3XE",
+    "start_date": "2026-06-22",
+    "end_date": "2026-09-22",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further\n\n\n\nMain Purpose of the Job\n\nTo work in the first response social work team within Stockport’s Multi-Agency Safeguarding and Support Hub (MASSH).\n\nTo respond to contacts made into the MASSH in a timely way to identify and secure the most appropriate service to support and safeguard children and families.\n\nTo communicate with families, partner agencies and members of the public to enable you to analyse historical and current concerns in order for you to carry out timely multi-agency MASSH assessments and recommendations.\n\nYou will have a good understanding of statutory social worker functions and be confident in making informed threshold decisions.\n\nTo be accountable to the first response team leader for the enquires you undertake and to contribute to the decisions that are reached within Stockport MASSH ensuring that all children and families are protected and safeguarded\n\nKey Responsibilities\n\nTo be responsible for enquires undertaken within the MASSH.\nTo work closely with all teams across Stockport Family to ensure an effective, coordinated response to children, young people and families in need.\nTo complete MASSH enquiries, triaging and MASSH assessments in accordance with agreed and statutory timeframes.\nTo work with others to secure the best outcomes for the child.\nTo identify and secure the most appropriate service to support and safeguard children and families.\nTo work as part of a team within the MASSH to support and safeguard children.\nTo keep accurate and timely records in line with local and statutory requirements.\nTo ensure that service user views and the voice of the child is incorporated into all your work.\nTo work dynamically within Stockport Family and with partners to identify pathways for support for children and families, using strengths-based principles\nTo be a champion for Stockport Family and the principles of restorative approaches and of quality conversations, collaboration and minimal points of transfer.\nTo practice and promote a culture which places children, young people and families at the heart of the service.\nTo work in accordance with legislative requirements and local, regional and national policy and procedures.\nTo keep up to date with national and local developments relevant to the service area.\nTo work collaboratively and creatively with schools, colleges, other Local Authorities, other agencies, the voluntary sector and other groups to coordinate interventions for vulnerable children and young people.\nTo understand and embrace restorative practice and a strengths-based approach to work with children, families and communities.\nContribute to the development of an effective and well-functioning team by using emotionally intelligent social work practice i.e. self-awareness, interpersonal awareness, self-management and interpersonal relationship management.\nTo have demonstrable knowledge of child protection, safeguarding children, early help assessment/team around the child and the care of looked after children and apply this to practice.\nTo be effective in identifying the need to initiate section 47 child protection investigations\nTo perform any other duties that correspond reasonably with the general character of the post and that are commensurate with its level of responsibility.\nTo work positively and inclusively with colleagues and customers so that the Council provides a workplace to deliver a service that does not discriminate against people on the grounds of their age, disability, gender reassignment, marriage, civil partnership, pregnancy, maternity, race, religion, belief, sex, or sexual orientation.\nTo fulfil personal requirements, where appropriate, with regards to Council policies and procedures, standards of attendance, health, safety and welfare, customer care, emergency, evacuation, security and promotion of the Council’s priorities.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1438791?backToItem=&initialLoad=&tab=&_xmscs=c2a4d63fa9a7f7dc35ea4cbcc89f739739a2420147fdaae67ddf8921c81f3b39d5bc71bf6b3d5c4c",
+    "accepted_at": "2026-06-11T08:43:51.829Z",
+    "scraped_at": "2026-06-11T08:43:51.829Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137816?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1DA2 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "Stockport MASSH social work Job Profile.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137817?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1DA2 _ 1/Stockport MASSH social work Job Profile.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5298468",
     "source": "comensura",
     "source_ref": "5298468",
