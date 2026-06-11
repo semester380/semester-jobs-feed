@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 1C44 / 1",
+    "source": "xms",
+    "source_ref": "000B 1C44 / 1",
+    "job_id": "000B 1C44 / 1",
+    "job_title": "Childrens Advanced Practitioner (Senior Practitioner) [Tameside]",
+    "client": "Tameside Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Tameside, One, Market Place, Ashton-Under-Lyne, M34 2BW, United Kingdom",
+    "city": "Ashton-Under-Lyne",
+    "postcode": "M34 2BW",
+    "start_date": "2026-07-13",
+    "end_date": "2026-09-15",
+    "pay_from": "23.82",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Due to the permanent recruitment of some of our existing workers, we now have vacancies for senior practitioners in our safeguarding service. This is a really exciting time to join us as we continue to build and grow the service to deliver the best service possible to our children and families. This is an ideal opportunity for people to step-up into a more senior position to develop their practice and leadership skills.\n\nWe have attached the job description but to give you a flavour of the role, we would expect you to;\n\nTo offer support during visits and meetings to our children and families to support with planning.\nTo hold a caseload of more complex children.\nLead and support your team alongside your manager to drive the improvement plan within your team.\nSupport your colleagues by offering reflective supervision and group supervision to highlight good practice and learning opportunities.\nTo support and contribute to improving our data set.\nTo offer support to your team when your team manager is unavailable and to offer specified support where this has been identified.\nTo model good practice and to offer teaching/learning and support opportunities to newer members of staff.\n\n\n\n\n\n\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the GM Pledge Compliance Attributes Questions Attachment on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1439027?backToItem=&initialLoad=&tab=&_xmscs=ab7762d4d2d97e1051a5117ba41ba85caca06d1f5ae5e480f42cd5b4f529521e8a2933113b482b65",
+    "accepted_at": "2026-06-11T10:57:18.380Z",
+    "scraped_at": "2026-06-11T10:57:18.380Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137734?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1C44 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "JD Senior Practitioner April 2023.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137735?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1C44 _ 1/JD Senior Practitioner April 2023.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 1C1B / 1",
     "source": "xms",
     "source_ref": "000B 1C1B / 1",
