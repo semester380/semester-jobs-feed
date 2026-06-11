@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 1C1B / 1",
+    "source": "xms",
+    "source_ref": "000B 1C1B / 1",
+    "job_id": "000B 1C1B / 1",
+    "job_title": "Childrens Team Manager - Childrens Services [Tameside]",
+    "client": "Tameside Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Tameside, One, Market Place, Ashton-Under-Lyne, M34 2BW, United Kingdom",
+    "city": "Ashton-Under-Lyne",
+    "postcode": "M34 2BW",
+    "start_date": "2026-07-13",
+    "end_date": "2026-09-15",
+    "pay_from": "26.51",
+    "pay_to": "46",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "As the Team Manager of a Neighbourhood Social Work team, you will be responsible for a team providing assessment, planning and intervention services to children at the threshold of Child Protection, PLO and Court proceedings. You will have considerable experience of working with children and their families in a statutory social care environment, specifically managing and supporting social workers and ASYEs, and a wealth of experience supervising cases that are in the PLO/ Court arena.\n\nWith fantastic leadership skills and attributes, you will ensure your team members are well supported and equipped to succeed. We expect you to have extensive frontline experience as well as a solid track record of managing and developing a team.  Building positive relationships is important not just with the children, young people and families we work with but also with colleagues and external partner agencies.\n\nYou will offer a high level of support and challenge to your social workers and inspire your teams to do their very best for Tameside children.\n\nWe firmly believe that all children in Tameside deserve the best start in life, and we are looking for the right people to help make this happen.\n\nSuppliers: Please complete the GM Pledge Compliance Attributes Questions Attachment on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1438964?backToItem=&initialLoad=&tab=&_xmscs=a563ee0115e467ff958d34e3428d5af3b47fac5f8decad527c9ce4659afec2da7e8066233fa8da9d",
+    "accepted_at": "2026-06-11T10:18:32.210Z",
+    "scraped_at": "2026-06-11T10:18:32.210Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137722?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1C1B _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "Team Manager JD PS.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137733?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1C1B _ 1/Team Manager JD PS.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 16F2 / 1",
     "source": "xms",
     "source_ref": "000B 16F2 / 1",
