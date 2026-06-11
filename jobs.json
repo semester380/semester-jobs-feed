@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5298147",
+    "source": "comensura",
+    "source_ref": "5298147",
+    "job_id": "5298147",
+    "job_title": "Residential Support Worker - Grade 5 (Social Care Unqualified)",
+    "client": "Durham County Council",
+    "procurer": null,
+    "working_address": "Aycliffe Young Peoples Centre Aycliffe S, DL5 6JD",
+    "city": "Aycliffe Young Peoples Centre Aycliffe S",
+    "postcode": "DL5 6JD",
+    "start_date": "2026-06-08",
+    "end_date": "",
+    "pay_from": "16.97",
+    "pay_to": "16.97",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Residential support workers for 10am start until 10:30pm.\nPlus sleep over shifts - 7am until 11am the following day.",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-06-11T08:59:43.962Z",
+    "scraped_at": "2026-06-11T08:59:43.962Z",
+    "attachments": [
+      {
+        "filename": "Residential Support Worker, Children's Homes G5 JDPS.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5298147/File/221744",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 1DA2 / 1",
     "source": "xms",
     "source_ref": "000B 1DA2 / 1",
