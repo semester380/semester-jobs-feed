@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 1E9E / 1",
+    "source": "xms",
+    "source_ref": "000B 1E9E / 1",
+    "job_id": "000B 1E9E / 1",
+    "job_title": "Team Leader",
+    "client": "Calderdale Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Princess Buildings, Princess Street, Halifax, HX1 1TS",
+    "city": "Halifax",
+    "postcode": "HX1 1TS",
+    "start_date": "2026-06-30",
+    "end_date": "2026-10-30",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "£40/hour Umbrella\n\nAdults - covering hospital discharge and post discharge assessment team",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1439140?backToItem=&initialLoad=&tab=&_xmscs=06f8a24ac70d3a5fe550ec2afd1d465059cf23663a80c3531be6be00a59c677b33a94584251a275d",
+    "accepted_at": "2026-06-11T13:26:14.691Z",
+    "scraped_at": "2026-06-11T13:26:14.691Z",
+    "attachments": [
+      {
+        "filename": "Team Leader - Role Profile.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137855?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1E9E _ 1/Team Leader - Role Profile.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5298535",
     "source": "comensura",
     "source_ref": "5298535",
