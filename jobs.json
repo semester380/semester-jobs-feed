@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 1F82 / 1",
+    "source": "xms",
+    "source_ref": "000B 1F82 / 1",
+    "job_id": "000B 1F82 / 1",
+    "job_title": "Children's Social Worker [Bury]",
+    "client": "Bury Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "3 Knowsley Place, Duke Street, Bury, BL9 0EJ, United Kingdom",
+    "city": "Bury",
+    "postcode": "BL9 0EJ",
+    "start_date": "2026-06-29",
+    "end_date": "2026-12-31",
+    "pay_from": "38",
+    "pay_to": "38",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Family Safeguarding Social Worker\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1439513?backToItem=&initialLoad=&tab=&_xmscs=baf60c97636532f6ecd8fc3fcd3873a229949eb0bf4305b911ae1f96ad467d15146a55fe6749c8e8",
+    "accepted_at": "2026-06-12T09:34:40.360Z",
+    "scraped_at": "2026-06-12T09:34:40.360Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137907?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1F82 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5298552",
     "source": "comensura",
     "source_ref": "5298552",
@@ -17066,6 +17097,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR105239",
+    "source": "prism",
+    "source_ref": "OR105239",
+    "job_id": "OR105239",
+    "job_title": "Order Management Assistant - (G4) - Admin & Clerical",
+    "client": "YPO",
+    "procurer": "Janine Hodge",
+    "working_address": "Industrial Park, 41 Kenmore Road, Wakefield, West Yorkshire, WF2 0XE, United Kingdom",
+    "city": "Wakefield",
+    "postcode": "WF2 0XE",
+    "start_date": "2026-06-18",
+    "end_date": "",
+    "pay_from": "13.50",
+    "pay_to": "17.77",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "Testing the JT in live order",
+    "description": ".",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=7fb758de-79f5-43f8-b619-89bfcce561f2",
+    "accepted_at": null,
+    "scraped_at": "2026-06-12T09:35:01.480Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR105220",
