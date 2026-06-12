@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5298604",
+    "source": "comensura",
+    "source_ref": "5298604",
+    "job_id": "5298604",
+    "job_title": "Residential Practitioner (Bcft) (Social and Healthcare Qualified)",
+    "client": "Bradford Metropolitan District Council",
+    "procurer": null,
+    "working_address": "Bradford Metropolitan District Council, Netherlands Square, Low Moor, Bradford, Yorkshire, BD12",
+    "city": "Bradford",
+    "postcode": null,
+    "start_date": "2026-06-22",
+    "end_date": "",
+    "pay_from": "20.58",
+    "pay_to": "20.58",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Residential - 3 months - The Hollies\nAG595 - 12.06.26\n50218843\n50216458\n50216157",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-06-12T15:17:14.220Z",
+    "scraped_at": "2026-06-12T15:17:14.220Z",
+    "attachments": [
+      {
+        "filename": "Residential Practitioner - BRD.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5298604/File/222018",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5298575",
     "source": "comensura",
     "source_ref": "5298575",
