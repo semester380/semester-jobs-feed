@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "comensura:5298575",
+    "source": "comensura",
+    "source_ref": "5298575",
+    "job_id": "5298575",
+    "job_title": "Stock Condition Assessor - Band 6 Scp 22 (Housing)",
+    "client": "South Tyneside Council",
+    "procurer": null,
+    "working_address": "Unit 4 - Middlefields Industrial Estate, NE34 0NT",
+    "city": null,
+    "postcode": "NE34 0NT",
+    "start_date": "2026-06-22",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Driving licence and own transport required",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-06-12T14:42:26.171Z",
+    "scraped_at": "2026-06-12T14:42:26.171Z",
+    "attachments": [
+      {
+        "filename": "Stock Condition Assessor Job Description- Agency 2026.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5298575/File/221997",
+        "localPath": null,
+        "downloaded": false
+      },
+      {
+        "filename": "Stock Condition Assessor Person Specification- Agency 2026.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5298575/File/221998",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 1F82 / 1",
     "source": "xms",
     "source_ref": "000B 1F82 / 1",
