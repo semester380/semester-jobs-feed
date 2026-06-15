@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "comensura:5298738",
+    "source": "comensura",
+    "source_ref": "5298738",
+    "job_id": "5298738",
+    "job_title": "Data Co-Ordinator - Grade 4 Scp 12 (Housing)",
+    "client": "South Tyneside Council",
+    "procurer": null,
+    "working_address": "Unit 4 - Middlefields Industrial Estate, NE34 0NT",
+    "city": null,
+    "postcode": "NE34 0NT",
+    "start_date": "2026-06-22",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Data Co-Ordinator - Grade 4 Scp 12 (Housing)\nTemporary\nData Co-ordinator Job Description- Feb 26.doc\nData Co-ordinator Person Specification- Feb 26.doc",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-06-15T16:17:59.179Z",
+    "scraped_at": "2026-06-15T16:17:59.179Z",
+    "attachments": [
+      {
+        "filename": "Data Co-ordinator Job Description- Feb 26.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5298738/File/222086",
+        "localPath": null,
+        "downloaded": false
+      },
+      {
+        "filename": "Data Co-ordinator Person Specification- Feb 26.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5298738/File/222087",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 14F3 / 1",
     "source": "xms",
     "source_ref": "000B 14F3 / 1",
