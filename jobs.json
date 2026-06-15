@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 14F3 / 1",
+    "source": "xms",
+    "source_ref": "000B 14F3 / 1",
+    "job_id": "000B 14F3 / 1",
+    "job_title": "Childrens Social Worker [Manchester City Council]",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Longsight District Office, 523 Stockport Road, Manchester, Lancashire, M12 4LL, United Kingdom",
+    "city": "Manchester",
+    "postcode": "M12 4LL",
+    "start_date": "2026-06-15",
+    "end_date": "2026-09-14",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "MCC Require a Registered qualified social worker - registration is with Social Work England;\n\nExperience of working with children and young families in frontline services, i.e. child in need, child protection, and for children who are looked after.  Experience of undertaking pre-proceedings and working within legal frameworks including private and public law proceedings and adoption proceedings.   Must be a car driver with a full driving licence.\n\nOutstanding rated local authority (2025)\nFree parking outside the office\nAverage caseload is around 15 per social worker\nTraining offer\nGood standards of supervision and support",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1440436?inst=1440436--Distribution--1627818821-false&_csrf=39f2e7b1-4e22-4cc1-9b3d-f854889cf9fc&_xmscs=766ad8645e97269781752a6dc7b2cbad906b861588ee4f6df6035c0c65f93920243ecbc46e1ec056",
+    "accepted_at": "2026-06-15T15:41:26.633Z",
+    "scraped_at": "2026-06-15T15:41:26.633Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137350?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 14F3 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "Social Worker Role Profile 2023 (1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137352?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 14F3 _ 1/Social Worker Role Profile 2023 (1).pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 1FB0 / 1",
     "source": "xms",
     "source_ref": "000B 1FB0 / 1",
