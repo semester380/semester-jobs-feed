@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 1108 / 1",
+    "source": "xms",
+    "source_ref": "000B 1108 / 1",
+    "job_id": "000B 1108 / 1",
+    "job_title": "Housing Officer",
+    "client": "Kirklees Hiring, Yorkshire Collaboration",
+    "procurer": "Yorkshire Collaboration",
+    "working_address": "Civic Centre, High Street, Hudderfield, West Yorkshire, HD1 2NE, United Kingdom",
+    "city": "Hudderfield",
+    "postcode": "HD1 2NE",
+    "start_date": "2026-06-08",
+    "end_date": "2026-08-28",
+    "pay_from": "17.85",
+    "pay_to": "17.85",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Provide a robust housing management service Including: income collection, efficient turnaround of properties, appropriate letting and subsequent tenancy and leaseholder management in line with current legislation.\nWork in partnership with partners and other professionals to deliver effective services and positive outcomes for tenants and communities.\nPromote resident engagement and empowerment and promote and develop partnership working.\nWork with tenants and customers using a problem solving and flexible approach in undertaking day to day duties in order to achieve positive outcomes and utilising mediation skills when dealing with difficult problems.\nWork collaboratively with your Housing Manager/Services Manager and other Housing Officers to monitor, analyse and deliver improvements across all relevant performance indicator areas in order to increase customer satisfaction.\nPrepare professional and clearly written communications to colleagues, partners, and customers.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1440078?backToItem=&initialLoad=&tab=&_xmscs=c1a39c0f83f0e035f345b045f341a6b38e94de4a7ba3b645667fe4583af784887dd40170104e5744",
+    "accepted_at": "2026-06-15T10:31:14.496Z",
+    "scraped_at": "2026-06-15T10:31:14.496Z",
+    "attachments": [
+      {
+        "filename": "Housing Officer_.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137143?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1108 _ 1/Housing Officer_.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 1CF7 / 1",
     "source": "xms",
     "source_ref": "000B 1CF7 / 1",
