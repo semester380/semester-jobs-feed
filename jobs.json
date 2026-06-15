@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 1FB0 / 1",
+    "source": "xms",
+    "source_ref": "000B 1FB0 / 1",
+    "job_id": "000B 1FB0 / 1",
+    "job_title": "Social Worker Level 3 - Childrens & Families",
+    "client": "Calderdale Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Princess Buildings, Princess Street, Halifax, HX1 1TS",
+    "city": "Halifax",
+    "postcode": "HX1 1TS",
+    "start_date": "2026-06-22",
+    "end_date": "2026-07-31",
+    "pay_from": "20.31",
+    "pay_to": "20.31",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Level 3 social worker in a front line duty assessment team.  As a social worker within the team you will be responsible for providing a quality service to our children in need of support and protection. The team undertakes child and family single assessments, risk assessments,  strategy discussions, section 47 enquiries, child impact reports for Private Law, and Public Law court reports and court attendance.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1440132?backToItem=&initialLoad=&tab=&_xmscs=7c6adcabde5e62a7f3ef0978125c31e03c0ba9344d97421a9dde1d0cb2c7fb0cc9c6e4d882e081a7",
+    "accepted_at": "2026-06-15T10:36:32.050Z",
+    "scraped_at": "2026-06-15T10:36:32.050Z",
+    "attachments": [
+      {
+        "filename": "Social_Worker_Level_3.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137913?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1FB0 _ 1/Social_Worker_Level_3.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137914?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1FB0 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 1108 / 1",
     "source": "xms",
     "source_ref": "000B 1108 / 1",
