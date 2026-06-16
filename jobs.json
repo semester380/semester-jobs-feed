@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 1FE4 / 1",
+    "source": "xms",
+    "source_ref": "000B 1FE4 / 1",
+    "job_id": "000B 1FE4 / 1",
+    "job_title": "Designated Social Care Officer {Rochdale}",
+    "client": "Rochdale Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Smith Street, Rochdale, OL16 1XU, United Kingdom",
+    "city": "Rochdale",
+    "postcode": "OL16 1XU",
+    "start_date": "2026-07-27",
+    "end_date": "2026-09-30",
+    "pay_from": "46",
+    "pay_to": "46",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We have an exciting opportunity to cover maternity leave\n\nThe role is the Designated Social Care Officer (DSCO) will assist the Rochdale Local Authority in meeting the statutory duties and responsibilities in relation to Special Educational Needs and Disabilities (SEND). An expert in this field the post holder will support the wider Children’s Social Care Directorate in contributing and quality assuring support and Education, Health and Care Planning (EHCP) assessment and quality assurance. The post holder will act as an advisor to Assistant Directors and Heads of Service in relation to SEND. They will identify gaps within service knowledge and expertise and support the improvement and delivery of training and service design. The post holder will contribute to de-escalation processes and key projects in relation to children with complex needs.\n\nMust be SW qualified\n\nWill not hold cases,and Must have knowledge of SEND and legislation\n\n\n\n\n\nPlease see job description and requirements attached",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1440551?inst=1440551--Distribution--1628091400-false&_csrf=2e5b371e-1d6c-4d75-aecf-3989c5aa02e1&_xmscs=8c3df75ef3a7bbfa9591c65607577d5d8c038c86f69e1678c4538165dbdaf6e253dc67926429910e",
+    "accepted_at": "2026-06-16T08:54:16.513Z",
+    "scraped_at": "2026-06-16T08:54:16.513Z",
+    "attachments": [
+      {
+        "filename": "CSC JD PS Designated Social Care Officer (003).doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137925?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1FE4 _ 1/CSC JD PS Designated Social Care Officer (003).doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5298388",
     "source": "comensura",
     "source_ref": "5298388",
