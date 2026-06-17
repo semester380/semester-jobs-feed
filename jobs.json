@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 2254 / 1",
+    "source": "xms",
+    "source_ref": "000B 2254 / 1",
+    "job_id": "000B 2254 / 1",
+    "job_title": "Children's Advanced Practitioner [Bury]",
+    "client": "Bury Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Bradley Fold Road, Bolton, BL2 6RS, United Kingdom",
+    "city": "Bolton",
+    "postcode": "BL2 6RS",
+    "start_date": "2026-07-27",
+    "end_date": "2026-09-30",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.\n\n£40 per hour\n\nMonday to Friday - 16:30 - 01:00\n\nEDT",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1441576?backToItem=&initialLoad=&tab=&_xmscs=95088ed3f52f244abadfc8f76ed9ecbe241c2378887cff65e914211f9fec4c405435bbeb2e3ac85e",
+    "accepted_at": "2026-06-17T13:38:20.292Z",
+    "scraped_at": "2026-06-17T13:38:20.292Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138056?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2254 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 224C / 1",
     "source": "xms",
     "source_ref": "000B 224C / 1",
