@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5298853",
+    "source": "comensura",
+    "source_ref": "5298853",
+    "job_id": "5298853",
+    "job_title": "Home Care Support Worker - Grade 4 (Social Care Unqualified)",
+    "client": "Durham County Council",
+    "procurer": null,
+    "working_address": "Floor Harbour lodge, Seaham Harbour Lodge Extra Care Scheme, SR7 7BF",
+    "city": "Seaham Harbour Lodge Extra Care Scheme",
+    "postcode": "SR7 7BF",
+    "start_date": "2026-06-13",
+    "end_date": "",
+    "pay_from": "16.67",
+    "pay_to": "16.67",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Cover required urgently due to agency worker unable to cover.\nMust have medication administration and Moving and handling training and correct DBS clearance.",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-06-17T15:06:32.206Z",
+    "scraped_at": "2026-06-17T15:06:32.206Z",
+    "attachments": [
+      {
+        "filename": "JOB DESCRIPTION Home care and Support worker Extra Care gr4.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5298853/File/222174",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 1C72 / 1",
     "source": "xms",
     "source_ref": "000B 1C72 / 1",
@@ -17673,6 +17704,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR105743",
+    "source": "prism",
+    "source_ref": "OR105743",
+    "job_id": "OR105743",
+    "job_title": "Consultant Social worker - Social Care Qualified",
+    "client": "Home + Future Limited",
+    "procurer": "Diana Griffiths",
+    "working_address": "Cawley Priory, South Pallant, Chichester, West Sussex, PO19 1TH, United Kingdom",
+    "city": "Chichester",
+    "postcode": "PO19 1TH",
+    "start_date": "2026-07-03",
+    "end_date": "",
+    "pay_from": "47.00",
+    "pay_to": "61.76",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Leading on standardising practice guidance � creating regional practice guidance for Fostering.\n\nLeading on creating regional standardised training for fostering recruitment, assessment and approval.\n\nMust have worked within a Principle social worker role or above.\n\nExperience on fostering\n\nA self-starter and willing to work at pace.\n\nRole will involve working from home but also attending and facilitating training and workshops in person.\n\nSupport the implementation of Regional Fostering",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=12d0cbc0-4505-45fb-a8b2-d21e60ca099b",
+    "accepted_at": null,
+    "scraped_at": "2026-06-17T15:51:02.925Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR105715",
