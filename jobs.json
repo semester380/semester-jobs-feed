@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 224F / 1",
+    "source": "xms",
+    "source_ref": "000B 224F / 1",
+    "job_id": "000B 224F / 1",
+    "job_title": "Senior Social Worker (Childrens)",
+    "client": "Wakefield Hiring, Yorkshire Collaboration",
+    "procurer": "Yorkshire Collaboration",
+    "working_address": "Stanley Street , Wakefield , WF1 4NB",
+    "city": "Wakefield",
+    "postcode": "WF1 4NB",
+    "start_date": "2026-06-29",
+    "end_date": "2026-09-26",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Job title: Senior Social Worker (Childrens)\nClient: Wakefield Hiring, Yorkshire Collaboration\nProcurement: Yorkshire Collaboration\nLocation: Stanley Street , Wakefield , WF1 4NB\nStart date: Mon 29/06/2026\nEnd date: Sat 26/09/2026\nPay: 35-35 per per hour\nIR35: Yes\nFollowing the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.\n\n(Description not provided in the portal listing — fields above are the only available context for this role.)",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1441449?backToItem=&initialLoad=&tab=&_xmscs=dbe21eb47381b5f0ec6e4c7b18475755cd4752a2387d64bf8cf8b20cc69f5a93e04bb55b6c33e678",
+    "accepted_at": "2026-06-17T11:37:03.400Z",
+    "scraped_at": "2026-06-17T11:37:03.400Z",
+    "attachments": [
+      {
+        "filename": "Senior Social Worker (Children).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138052?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 224F _ 1/Senior Social Worker (Children).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138053?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 224F _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      },
+      {
+        "filename": "Wakefield Your Temp Experience.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138054?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 224F _ 1/Wakefield Your Temp Experience.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 222E / 1",
     "source": "xms",
     "source_ref": "000B 222E / 1",
