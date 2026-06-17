@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 1C72 / 1",
+    "source": "xms",
+    "source_ref": "000B 1C72 / 1",
+    "job_id": "000B 1C72 / 1",
+    "job_title": "Social Worker - Children's",
+    "client": "Children, Young People and Families, City of Doncaster Council",
+    "procurer": null,
+    "working_address": "The Vermuyden Centre, Fieldside, Thorne, Doncaster, DN8 4BQ",
+    "city": "Doncaster",
+    "postcode": "DN8 4BQ",
+    "start_date": "2026-06-29",
+    "end_date": "2027-06-29",
+    "pay_from": "32",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Help and Protection East Team 3 based at the Vermuyden Centre",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1441707?backToItem=&initialLoad=&tab=&_xmscs=76cbe6caa66093b7bc4baa40ec51826770c405ddc4890186ad160e5c6e38eebe98107cd38ed6a7a1",
+    "accepted_at": "2026-06-17T15:01:07.789Z",
+    "scraped_at": "2026-06-17T15:01:07.789Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137754?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1C72 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      },
+      {
+        "filename": "Social Worker All Services JDPS Sept 2022.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137755?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1C72 _ 1/Social Worker All Services JDPS Sept 2022.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 1FBC / 1",
     "source": "xms",
     "source_ref": "000B 1FBC / 1",
