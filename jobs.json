@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 21E3 / 1",
+    "source": "xms",
+    "source_ref": "000B 21E3 / 1",
+    "job_id": "000B 21E3 / 1",
+    "job_title": "Registered Manager [Stockport MBC]",
+    "client": "Stockport Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "72 Dial Park Road, Offerton, Stockport, SK2 7LT, United Kingdom",
+    "city": "Stockport",
+    "postcode": "SK2 7LT",
+    "start_date": "2026-06-22",
+    "end_date": "2026-09-30",
+    "pay_from": "40",
+    "pay_to": "45",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Your Role\n\nThis is an exciting opportunity to lead one of Stockport Council’s children’s homes as part of a growing, ambitious and genuinely child-centred residential service. We are looking for someone who can create a warm, nurturing and stable home where children and young people feel safe, cared for, listened to and able to thrive. Alongside leading the day-to-day running of the home, you will help develop a reflective and supportive staff team that keeps relationships, safeguarding and positive outcomes at the heart of practice.\n\nYou may already be an experienced Registered Manager, or perhaps a Deputy Manager or Senior Residential Worker ready for the next step in your career. We would also warmly welcome applications from colleagues currently working within the private sector who are looking to move into a stable, supportive and values-led local authority service where the focus is firmly on children rather than profit.\n\nIn return, you will be part of a strong and supportive wider team of Registered Managers, Deputies and residential colleagues who are helping to shape and develop high-quality children’s homes across Stockport. We are passionate about creating homes where children experience warmth, stability, good memories and the kind of care that genuinely changes lives.\n\nAbout You\n\nWe are looking for someone who brings warmth, resilience, creativity and strong leadership to residential childcare. You will care deeply about children and young people and understand the importance of relationships, stability and thoughtful, trauma-informed care.\n\nYou may already be a Registered Manager or an experienced Deputy or Senior Residential Worker ready for the next step. Most importantly, we want someone who is reflective, emotionally intelligent and able to build positive relationships with children, families, colleagues and partner agencies.\n\nWe are looking for people who share Stockport’s values, work well as part of a team and want to help shape a high-quality, ambitious and caring local authority residential service where children genuinely come first.\n\nAbout Us\n\nStockport Council is continuing to grow and invest in its children’s residential services with a clear ambition to care for more of our children and young people within the borough, close to their communities, schools, relationships and support networks.\n\nWe are proud to be developing high-quality local authority homes that are warm, stable and rooted in thoughtful, trauma-informed care. Our focus is firmly on children, relationships and long-term outcomes rather than profit, with a strong commitment to creating homes where children feel safe, valued and able to thrive.\n\nAs part of our residential services, you will join a supportive and ambitious wider team that is committed to developing remarkable homes and achieving the very best for children and young people across Stockport.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1441862?backToItem=&initialLoad=&tab=&_xmscs=1365082b7212a81792106736cf8295e4676639de09c5d7cbbb18ee1af853feb92d2be060dda5dcf2",
+    "accepted_at": "2026-06-18T08:06:04.181Z",
+    "scraped_at": "2026-06-18T08:06:04.181Z",
+    "attachments": [
+      {
+        "filename": "Registered Managers Job Profile (1).docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138034?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 21E3 _ 1/Registered Managers Job Profile (1).docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5298766",
     "source": "comensura",
     "source_ref": "5298766",
