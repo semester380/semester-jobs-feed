@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 23B1 / 1",
+    "source": "xms",
+    "source_ref": "000B 23B1 / 1",
+    "job_id": "000B 23B1 / 1",
+    "job_title": "Childrens - Advanced Practitioner",
+    "client": "Hiring - Leeds City Council, Leeds City Council",
+    "procurer": null,
+    "working_address": "Deacon House,, Seacroft Avenue, Leeds, LS14",
+    "city": "LS14",
+    "postcode": null,
+    "start_date": "2026-06-29",
+    "end_date": "2026-07-12",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are looking for an experienced social worker who is able to manage a complex caseload comprising of Child and Family Assessments, Child in Need, Child Protection, Child Care Proceedings until permanence. This caseload will have a level of complexity and lead worker responsibilities working alongside other social workers, it will not have supervisory / line manager responsibilities. Social workers should be able to practice restoratively with child and families and promote family led decisions to manage risk and meet support needs.\n\nApplicants must demonstrate excellent relational work with children and families and be able to engage children through direct work and child centred practice.\n\nOrganisation skills and ability to meet competing demands are required to ensure practice standards, good quality and practice and performance.\n\nThe post requires workers to have good analytical assessment skills and with high quality written work.\n\nSocial workers will need to work as part of a busy but supportive team and share their knowledge and skills to promote the learning culture.\n\nApplicants must be able to drive and have use of a car.\n\n37 hours per week 8.30 – 5pm.\n\nMust be office based for duty but hybrid working is negotiable dependant on the needs of the team (due to the relational approach of the organisation, it is envisaged this will be office based on duty weeks and one WFH home day/compressed hours on non-duty) based in LS14.\n\nMust have a clean DBS",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1442248?backToItem=&initialLoad=&tab=&_xmscs=297b21dd610ac109c35fc384a37135273ba9956ea0e9b4b68cee576643a353e87de4bedfbab80dc7",
+    "accepted_at": "2026-06-18T14:14:26.240Z",
+    "scraped_at": "2026-06-18T14:14:26.240Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138131?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 23B1 _ 1/DfE Recommendation Attribute.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "Childrens - Advanced Practitioner LCC Profile v1.0.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138132?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 23B1 _ 1/Childrens - Advanced Practitioner LCC Profile v1.0.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 2382 / 1",
     "source": "xms",
     "source_ref": "000B 2382 / 1",
