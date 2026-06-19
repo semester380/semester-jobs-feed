@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 2542 / 1",
+    "source": "xms",
+    "source_ref": "000B 2542 / 1",
+    "job_id": "000B 2542 / 1",
+    "job_title": "Children's Social Worker [Oldham]",
+    "client": "Oldham Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Rochdale Road, Royton, Oldham, Lancashire, OL2 6QJ, United Kingdom",
+    "city": "Oldham",
+    "postcode": "OL2 6QJ",
+    "start_date": "2026-07-27",
+    "end_date": "2026-09-01",
+    "pay_from": "39",
+    "pay_to": "39",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.\n\n\n\nReporting To: Team Manager - Lisa Westoby\n\nAssessment and Intervention Team\n\nLocation - Royton Town Hall\n\nCore Purpose: To manage a caseload of vulnerable children and young people, assessing risks and delivering interventions that ensure their safety and well-being.\n\nKey Responsibilities\n\nAssessments & Planning: Conduct single assessments, risk and needs assessments to co-produce actionable, whole-family care plans.\n\nSafeguarding & Case Management: Intervene directly to protect children at risk, manage electronic case files, and write professional reports for decision-making forums.\n\nPartnership & Mentorship: Collaborate with schools, police, and health partners, while providing guidance to less experienced staff and students.\n\nRequirements\n\nCredentials: Degree in Social Work, active Social Work England registration, and completed ASYE.\n\nExperience: Proven track record of managing child in need and child protection cases and conducting detailed assessments.\n\nSkills: Strong crisis-resolution skills, sound analytical judgment, and IT proficiency.\n\nOther: Enhanced DBS check, valid driver's license (or independent mobility), and flexibility for occasional unsocial hours.\n\n\n\nFriendly and supportive team.  Free parking available.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1442856?backToItem=&initialLoad=&tab=&_xmscs=3a0938692bcf68f270c7d4b7db73773f059b312fe9219dde3210b758a2d4650e668590914dd02f34",
+    "accepted_at": "2026-06-19T14:38:32.248Z",
+    "scraped_at": "2026-06-19T14:38:32.248Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138216?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2542 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 2486 / 1",
     "source": "xms",
     "source_ref": "000B 2486 / 1",
