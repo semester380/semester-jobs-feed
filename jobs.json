@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 2434 / 1",
+    "source": "xms",
+    "source_ref": "000B 2434 / 1",
+    "job_id": "000B 2434 / 1",
+    "job_title": "Social Care Occupational Therapist",
+    "client": "Kirklees Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Civic Centre 1, High Street, Huddersfield, West Yorkshire, HD1 2NF, United Kingdom",
+    "city": "Huddersfield",
+    "postcode": "HD1 2NF",
+    "start_date": "2026-06-29",
+    "end_date": "2026-11-29",
+    "pay_from": "35",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Rate: £35-40/hour dependant on qualifications/experience\n\nWe are looking for someone with the following qualifications/accreditation to be able to deliver the required project work:\n\nHCPC registered and holds a recognised qualification in Occupational Therapy.\nExperienced OT with experience in Learning Disabilities and mental health\nUnderstanding of neurodiversity and dysregulation required\n\nCandidates must have Enhanced & Barred list DBS check\n\nHybrid - in office twice/week but need to be available to conduct visits",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1442898?backToItem=&initialLoad=&tab=&_xmscs=359effca32d9157cb9e9720bd5cee4bbdf059351cdf4099bdc1616d432abdc92fb35e55d69acf065",
+    "accepted_at": "2026-06-19T14:42:14.492Z",
+    "scraped_at": "2026-06-19T14:42:14.492Z",
+    "attachments": [
+      {
+        "filename": "Social Care Occupational Therapist.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138158?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2434 _ 1/Social Care Occupational Therapist.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 2542 / 1",
     "source": "xms",
     "source_ref": "000B 2542 / 1",
