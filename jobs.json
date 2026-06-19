@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5299114",
+    "source": "comensura",
+    "source_ref": "5299114",
+    "job_id": "5299114",
+    "job_title": "Mou - Childrens Social Care - Social Worker (Social Care Qualified)",
+    "client": null,
+    "procurer": null,
+    "working_address": "Floor Ground, Sandhill Centre, SR3 4EN",
+    "city": "Sandhill Centre",
+    "postcode": "SR3 4EN",
+    "start_date": "2026-06-29",
+    "end_date": "",
+    "pay_from": "27.56",
+    "pay_to": "27.56",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Qualified SW with experiences in preferably fostering field, alternatively kinship or adoption.\nCandidates will be responsible for the implementation of the regional pathfinder Hub, ensuring that sound advice and guidance is shared with prospective foster carers.\nCandidates will need to have sound knowledge of the Children Act 1989 and be able to demonstrate excellent communication and negotiation skills. Experience of working with children, foster carers, parents and other professionals is highly desirable. Knowledge of family finding and matching children with carers would also be an advantage.",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-06-19T20:11:51.846Z",
+    "scraped_at": "2026-06-19T20:11:51.846Z",
+    "attachments": [
+      {
+        "filename": "Fostering Hub SW-JDPS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5299114/File/222348",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 0DC2 / 1",
     "source": "xms",
     "source_ref": "000B 0DC2 / 1",
