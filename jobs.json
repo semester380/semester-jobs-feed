@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 233F / 1",
+    "source": "xms",
+    "source_ref": "000B 233F / 1",
+    "job_id": "000B 233F / 1",
+    "job_title": "Senior Social Worker Children's",
+    "client": "Barnsley Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Westgate Plaza One, 1 Westgate, Western Street, Barnsley, South Yorkshire, S70 2DR",
+    "city": "Barnsley",
+    "postcode": "S70 2DR",
+    "start_date": "2026-07-17",
+    "end_date": "2026-09-30",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are seeking 2 fulltime senior social workers for our Children's Integrated Front Door. This is for an initial 3 month period, however there may be an opportunity for this to be extended beyond that. period. The successful candidates will have worked previously within a MASH/Screening Team and will be able to work at pace. The candidates will have a clear understanding of thresholds, be able to undertake risk assessments, complete safety plans and analyse information from multiple sources to inform plans and ensure children receive the level of service/help they require at the right time. Previous experience of working within a signs of safety framework and using Mosaic is preferred.\n\nHybrid working arrangements are in place - currently 3 days in the office and 2 days WFH each week.\n\nAs the post will be based in a police building, the postholder will need to consent to vetting checks being completed by South Yorkshire Police. WFH arrangements will be in place until the vetting process is completed.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1442497?backToItem=&initialLoad=&tab=&_xmscs=0d8cb36810fc28f632d1f3c0f5ff6f5239055559038a64c9a5f81fc28ccff3f03cc7c0558345c6a8",
+    "accepted_at": "2026-06-19T09:35:08.360Z",
+    "scraped_at": "2026-06-19T09:35:08.360Z",
+    "attachments": [
+      {
+        "filename": "92690 Senior Social Worker Profile 20150120.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138105?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 233F _ 1/92690 Senior Social Worker Profile 20150120.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138106?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 233F _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5298926",
     "source": "comensura",
     "source_ref": "5298926",
