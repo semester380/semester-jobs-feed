@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 2486 / 1",
+    "source": "xms",
+    "source_ref": "000B 2486 / 1",
+    "job_id": "000B 2486 / 1",
+    "job_title": "Occupational Therapist [Wigan]",
+    "client": "Wigan Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Cross Street, Hindley, Wigan, Greater Manchester, WN2 3AX, United Kingdom",
+    "city": "Wigan",
+    "postcode": "WN2 3AX",
+    "start_date": "2026-07-27",
+    "end_date": "2026-09-30",
+    "pay_from": "30",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Experience of assessment and provision of equipment and adaptations for adults and children. Full time post desirable however will consider part time hours.\n\nAs an Occupational Therapist within Early Intervention Integrated services, including Reablement, Equipment and Adaptations and Assistive Technology, you will work with service users who are experiencing difficulties with their ability to complete activities of daily living and experiencing reduced levels of independence.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1442815?inst=1442815--Distribution--1630100019-false&_csrf=dff8b5c9-8bb7-496a-b1a5-2733bae0b258&_xmscs=3cca1532be065fa1058805ad422b1b385cfbabc72dc145666eb4a88d0b2d0d64b8f720963a922ce3",
+    "accepted_at": "2026-06-19T14:35:21.332Z",
+    "scraped_at": "2026-06-19T14:35:21.332Z",
+    "attachments": [
+      {
+        "filename": "Job-specification- OT adults and paeds.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138176?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2486 _ 1/Job-specification- OT adults and paeds.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 1C46 / 1",
     "source": "xms",
     "source_ref": "000B 1C46 / 1",
