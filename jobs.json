@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 1C46 / 1",
+    "source": "xms",
+    "source_ref": "000B 1C46 / 1",
+    "job_id": "000B 1C46 / 1",
+    "job_title": "Childrens Social Worker [Tameside MBC]",
+    "client": "Tameside Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Tameside, One, Market Place, Ashton-Under-Lyne, M34 2BW, United Kingdom",
+    "city": "Ashton-Under-Lyne",
+    "postcode": "M34 2BW",
+    "start_date": "2026-07-20",
+    "end_date": "2026-09-30",
+    "pay_from": "20.58",
+    "pay_to": "39",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Tameside Neighbourhood social work services are looking for experienced social workers who have a keen interest in court work and child protection planning for our children and families.\n\nThe role includes both public and private law proceedings, alongside child protection planning. We are looking for enthusiastic, relational and motivated practitioners who are able to work in a restorative way working within our practice model keeping children at the heart of Tameside through support, compassion and a real commitment to achieving better outcomes for our children and young people.\n\nIf you have experience of court proceedings and child protection planning where you have been able to work towards and achieve better outcomes for children and young people then we would love to hear from you.\n\nYou will have an experienced team manager who is able to offer support and guidance alongside a permanent senior leadership team who are committed to the improvement plan and ensuring social workers are listened to and supported throughout their time at Tameside. All of our workforce has our children and young people at the centre and are working within the 'heart of support' practice approach.\n\nIf you would like an informal discussion then please do let your agency know and we can provide you with the opportunity to speak to a manager prior to any interview.\n\nWe look forward to hearing from you!\n\nThe social work role is office-based, with some flexibility around working from home arrangements where agreed by the Team Manager. There is a preference that any successful candidate will work their contracted hours over 5 days.\n\n\n\n\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the GM Pledge Compliance Attributes Questions Attachment on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1442770?backToItem=&initialLoad=&tab=&_xmscs=204c1fdc7ff7cc57a40e97817a15b47601bb7ff3380bfe2c450bafc23d4930d47adac2f139756ca0",
+    "accepted_at": "2026-06-19T14:22:23.307Z",
+    "scraped_at": "2026-06-19T14:22:23.307Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137737?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1C46 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "SW (Duty Assessment Safeguarding) JD PS.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138143?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1C46 _ 1/SW (Duty Assessment Safeguarding) JD PS.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5299084",
     "source": "comensura",
     "source_ref": "5299084",
