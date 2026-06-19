@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 2566 / 1",
+    "source": "xms",
+    "source_ref": "000B 2566 / 1",
+    "job_id": "000B 2566 / 1",
+    "job_title": "Childrens Advanced Practitioner (Senior Practitioner) [Tameside]",
+    "client": "Tameside Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Fairfield Children's Centre , Fairfield Road, Ashton Under Lyne, M43 6AF",
+    "city": "Ashton Under Lyne",
+    "postcode": "M43 6AF",
+    "start_date": "2026-07-20",
+    "end_date": "2026-10-31",
+    "pay_from": "23.82",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Senior Practitioner required for the Out of Hours Service.\n\nThe service operates outside of normal working hours providing vital support to children and families outside of normal working hours.\n\nThe service operates on a 2 week rota system meaning that workers have every other weekend off work. There is some daytime work to support relationships with day staff. The team will consist of 4 Senior Practitioners supported on each shift by alternatively qualified support workers and a dedicated Team Manager.\n\nOffice based until 22:00 in a warm and friendly office space.\n\n\n\nPlease reach out for further information\n\n\n\n\n\n\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the GM Pledge Compliance Attributes Questions Attachment on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1443022?inst=1443022--Distribution--1630187302-false&_csrf=dff8b5c9-8bb7-496a-b1a5-2733bae0b258&_xmscs=6ed7959bedbbf8ec0e30376293cc928df096fce8e6698957eba0ef5c31e352afe775aaa168802079",
+    "accepted_at": "2026-06-19T15:26:05.873Z",
+    "scraped_at": "2026-06-19T15:26:05.873Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138220?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2566 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "Out of Hours Senior Social Workers.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138224?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2566 _ 1/Out of Hours Senior Social Workers.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 2498 / 1",
     "source": "xms",
     "source_ref": "000B 2498 / 1",
@@ -18160,6 +18197,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR106024",
+    "source": "prism",
+    "source_ref": "OR106024",
+    "job_id": "OR106024",
+    "job_title": "Senior Social Worker - Social Care Qualified",
+    "client": "Powys County Council",
+    "procurer": "Becky Higginson",
+    "working_address": "County Hall, Llandrindod Wells, Llandrindod Wells, Powys, LD1 5LG, United Kingdom",
+    "city": "Powys",
+    "postcode": "LD1 5LG",
+    "start_date": "2026-07-06",
+    "end_date": "",
+    "pay_from": "29.22",
+    "pay_to": "38.28",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "This position is in the Care and Support Team in the South of Powys. Candidates must hold a driving license and have access to a vehicle as Powys is remote and does not have regular public transport.",
+    "description": "All distances in minutes using Google maps  \tBrecon \tBuilth Wells \tCrickhowell \tHay-on-Wye \tKnighton \tLlandrindod \tLlanfyllin \tLlanidloes \tMachynlleth \tNewtown \tRhayader \tWelshpool \tYstradgynlais\nBrecon \tX \t30 \t24 \t25 \t61 \t42 \t123 \t69 \t102 \t82 \t48 \t104 \t40\nBuilth Wells \t30 \tX \t45 \t32 \t42 \t15 \t96 \t42 \t75 \t55 \t21 \t77 \t65\nCrickhowell \t24 \t45 \tX \t34 \t69 \t55 \t139 \t83 \t115 \t96 \t62 \t118 \t56\nHay-on-Wye \t25 \t32 \t34 \tX \t40 \t43 \t112 \t70 \t103 \t80 \t50 \t93 \t59\nKnighton \t61 \t42 \t69 \t40 \tX \t30 \t72 \t57 \t84 \t43 \t36 \t52 \t96\nLlandrindod \t42 \t15 \t55 \t43 \t30 \tX \t81 \t37 \t70 \t40 \t30 \t62 \t77\nLlanfyllin \t123 \t96 \t139 \t112 \t72 \t81 \tX \t65 \t56 \t43 \t83 \t20 \t158\nLlanidloes \t69 \t42 \t83 \t70 \t57 \t37 \t65 \tX \t36 \t25 \t22 \t66 \t84\nMachynlleth \t102 \t75 \t115 \t103 \t84 \t70 \t56 \t36 \tX \t50 \t56 \t59 \t140\nNewtown \t82 \t55 \t96 \t80 \t43 \t40 \t43 \t25 \t50 \tX \t45 \t24 \t119\nRhayader \t48 \t21 \t62 \t50 \t36 \t30 \t83 \t22 \t56 \t45 \tX \t65 \t84\nWelshpool \t104 \t77 \t118 \t93 \t52 \t62 \t20 \t66 \t59 \t24 \t65 \tX \t139\nYstradgynlais \t40 \t65 \t56 \t59 \t96 \t77 \t158 \t84 \t140 \t119 \t84 \t139 \tX",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=bd5e3666-fd75-4471-a2e6-55de4b22f4ab",
+    "accepted_at": null,
+    "scraped_at": "2026-06-19T15:26:33.530Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR106020",
