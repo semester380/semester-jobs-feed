@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 246E / 1",
+    "source": "xms",
+    "source_ref": "000B 246E / 1",
+    "job_id": "000B 246E / 1",
+    "job_title": "Children's Social Worker [Oldham]",
+    "client": "Oldham Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "George Street, Oldham, OL1 1HD",
+    "city": "Oldham",
+    "postcode": "OL1 1HD",
+    "start_date": "2026-07-27",
+    "end_date": "2027-01-29",
+    "pay_from": "39",
+    "pay_to": "39",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.\n\nOFFICE BASED\n\nYou will work as part of a co-located multi-agency team, which includes representatives from Greater Manchester Police, Health, Community Safety, Adult Social Care, IDVA and the Prevention Hub, this co-location enables more effective communication between partner agencies.  As a Duty and Advice social worker you will be required to respond to contacts made to the MASH in a timely way to identify and secure the most appropriate service to support and safeguard children and families.  As a Duty and Advice social worker you will communicate with families, partner agencies and members of the public members of the public and partner agencies to enable you to gain details and enable strong evidenced based decision making in line with our practice standards and statutory duties. You will have a good understanding of statutory social worker functions and be confident in making informed threshold decisions.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1442541?backToItem=&initialLoad=&tab=&_xmscs=738ae483a3cfe18c79fbe721d28627965629ae1aa967ec170aade0a886e4814f16feebe8cae37037",
+    "accepted_at": "2026-06-19T09:48:22.994Z",
+    "scraped_at": "2026-06-19T09:48:22.994Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138167?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 246E _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 233F / 1",
     "source": "xms",
     "source_ref": "000B 233F / 1",
