@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5299123",
+    "source": "comensura",
+    "source_ref": "5299123",
+    "job_id": "5299123",
+    "job_title": "Mou - Childrens Social Care - Senior Social Worker (Social Care Qualified)",
+    "client": "Stockton on Tees Borough Council",
+    "procurer": null,
+    "working_address": "Floor 2, Head Office, TS17 6BJ",
+    "city": "Head Office",
+    "postcode": "TS17 6BJ",
+    "start_date": "2026-07-20",
+    "end_date": "",
+    "pay_from": "31.74",
+    "pay_to": "31.74",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "This is a role in a Fostering Recruitment and Assessment Team. Applicants will need experience in fostering assessments, particularly in respect of kinship foster carers as well as special guardianship and developing robust support plans\nUndertaking comprehensive fostering assessments of mainstream fostering applicants.\nUndertaking comprehensive fostering and special guardianship assessments of kinship carers\nPreparation of Court reports and attendance at Court\nAttendance at Fostering Panel\nRecruitment and Marketing activities linked to sufficiency of foster carers\nFacilitation of training for fostering applicants and approved foster carers/kinship carers\nSupervision of approved foster carers\nAbility to travel to complete assessments as some families live out of area.\nAbility to complete work within tight and legislative timescales",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-06-20T02:28:48.162Z",
+    "scraped_at": "2026-06-20T02:28:48.162Z",
+    "attachments": [
+      {
+        "filename": "JD_Social Worker - Family Placement FINAL - 2025.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5299123/File/222354",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5299114",
     "source": "comensura",
     "source_ref": "5299114",
