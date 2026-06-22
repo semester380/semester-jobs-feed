@@ -1,5 +1,29 @@
 [
   {
+    "item_id": "comensura:5299249",
+    "source": "comensura",
+    "source_ref": "5299249",
+    "job_id": "5299249",
+    "job_title": "Adults Social Worker (Qualified) (Social Care Qualified)",
+    "client": "Middlesbrough Borough Council",
+    "procurer": null,
+    "working_address": "Fountain Court, TS1 9FT",
+    "city": "Fountain Court",
+    "postcode": "TS1 9FT",
+    "start_date": "2026-06-28",
+    "end_date": "",
+    "pay_from": "203.90",
+    "pay_to": "203.90",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Adults Social Worker (Qualified) (Social Care Qualified)\nTemporary",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-06-22T18:43:33.196Z",
+    "scraped_at": "2026-06-22T18:43:33.196Z",
+    "attachments": []
+  },
+  {
     "item_id": "comensura:5299212",
     "source": "comensura",
     "source_ref": "5299212",
@@ -18576,6 +18600,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR106164",
+    "source": "prism",
+    "source_ref": "OR106164",
+    "job_id": "OR106164",
+    "job_title": "Lead Practitioner - Grade J - Social Care Qualified",
+    "client": "Barnet Council",
+    "procurer": "Ben Okae",
+    "working_address": "Finchley Mem Hosp -Soc Wrkrs, Finchley Memorial Hospital, London, London, N12 0JE, United Kingdom",
+    "city": "Finchley Memorial Hospital",
+    "postcode": "N12 0JE",
+    "start_date": "2026-06-29",
+    "end_date": "",
+    "pay_from": "24.24",
+    "pay_to": "33.22",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Please Add JD",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=f1ff96e0-25ae-4374-8243-ff61ad9992a3",
+    "accepted_at": null,
+    "scraped_at": "2026-06-22T17:21:20.685Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR106133",
