@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 2600 / 1",
+    "source": "xms",
+    "source_ref": "000B 2600 / 1",
+    "job_id": "000B 2600 / 1",
+    "job_title": "Children's Senior Social Worker [Oldham]",
+    "client": "Oldham Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "George Street, Oldham, Greater Manchester, OL1 1HD, United Kingdom",
+    "city": "Oldham",
+    "postcode": "OL1 1HD",
+    "start_date": "2026-08-03",
+    "end_date": "2027-07-31",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "The role is for a full time (5 days) qualified and experienced social Worker to join one of our 4 Teams within the Children in Our Care Service here in Oldham.\n\nTeams are made up of 1 TM, 1 AP & up to 6 SW's.\n\nYou would hold a case load on average of up to 18 children and Young People in LA care aged between 1 and 18 years old and to the expectations would be to review progress and develop their care plans to best meet their individual needs and all that this entails.\n\nThe hybrid model is usually 3 days office based and 2 days WFH.\n\nThe role is to cover maternity leave so will be for between 9 mths to 12 month period.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1443308?backToItem=&initialLoad=&tab=&_xmscs=f032e4b1c516e8ddc1496c8713d7e9c526a52b67504392783564169252f721cf07f1b73141ff7fc3",
+    "accepted_at": "2026-06-22T10:49:45.805Z",
+    "scraped_at": "2026-06-22T10:49:45.805Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138259?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2600 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "Profile D Grade 8 Social Worker JDPS Childrens - reviewed Oct 2024.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138261?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2600 _ 1/Profile D Grade 8 Social Worker JDPS Childrens - reviewed Oct 2024.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 1E2E / 1",
     "source": "xms",
     "source_ref": "000B 1E2E / 1",
