@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 1E2E / 1",
+    "source": "xms",
+    "source_ref": "000B 1E2E / 1",
+    "job_id": "000B 1E2E / 1",
+    "job_title": "Children's Team Manager [MCC]",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Longsight District Office, Manchester, M12 4LL, United Kingdom",
+    "city": "Manchester",
+    "postcode": "M12 4LL",
+    "start_date": "2026-07-20",
+    "end_date": "2026-08-28",
+    "pay_from": "46",
+    "pay_to": "46",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1443264?backToItem=&initialLoad=&tab=&_xmscs=69fb77361e08d24668ea2555e50f108f4955a8a8d221927e6042d14424b5b00deaa23b33a1a8fc55",
+    "accepted_at": "2026-06-22T10:43:14.316Z",
+    "scraped_at": "2026-06-22T10:43:14.316Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137838?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1E2E _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5299144",
     "source": "comensura",
     "source_ref": "5299144",
