@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000A 8784 / 1",
+    "source": "xms",
+    "source_ref": "000A 8784 / 1",
+    "job_id": "000A 8784 / 1",
+    "job_title": "Adoption Mailbox and Contact Coordinator [Bolton]",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Howell Croft North, Bolton, BL1 1QY, United Kingdom",
+    "city": "Bolton",
+    "postcode": "BL1 1QY",
+    "start_date": "2026-06-20",
+    "end_date": "2026-09-30",
+    "pay_from": "14.91",
+    "pay_to": "16.07",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Umbrella rate - £18.94 - £20.38\n\n\n\nIdeally fulltime cover but for the right candidate alternative hours would be considered.  Supporting the exchange of letters between adoptive families and birth families.  Role requires some sensitivity and support to those involved in exchanges as well as a significantly high degree of accuracy in terms of processes to ensure no data breaches.  For the right candidate role can involve face to face support to support with the writing of exchanges (to birth parents) and/or facilitating face to face meetings between adoptive families and birth families on occasion.  The skill set of any applicant would be considered and tasks allocated accordingly.  Full management support is provided as well as peer support from others within this role.\n\nThe office base is Adoption Now, First Floor, Howell Croft House, Howell Croft North, Bolton.  (share building with YOT thus listing below).\n\nDBS is not essentially but DBS check can enable the candidate to be used more creatively within the role in terms of more front facing work.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1443616?inst=1443616--Distribution--1631424337-false&_csrf=bdeba895-2ae3-4a56-a149-8c6a61511f31&_xmscs=458a1e95a84576cf6c9546b389befae6b5f189ee2d648cec3ec5a14ae0c5806dcc7ab81a5ea1866c",
+    "accepted_at": "2026-06-22T14:39:38.217Z",
+    "scraped_at": "2026-06-22T14:39:38.217Z",
+    "attachments": [
+      {
+        "filename": "159-CH21 Adoption Mailbox and Contact Coordinator.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/129902?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000A 8784 _ 1/159-CH21 Adoption Mailbox and Contact Coordinator.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5299098",
     "source": "comensura",
     "source_ref": "5299098",
