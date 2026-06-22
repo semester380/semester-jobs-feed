@@ -1,5 +1,29 @@
 [
   {
+    "item_id": "000B 1C1F / 1",
+    "source": "xms",
+    "source_ref": "000B 1C1F / 1",
+    "job_id": "000B 1C1F / 1",
+    "job_title": "Social Worker - Children's",
+    "client": "Children, Young People and Families, City of Doncaster Council",
+    "procurer": "City of Doncaster Council",
+    "working_address": "Civic Office, Waterdale, Doncaster, South Yorkshire, DN1 3BU, United Kingdom",
+    "city": "Doncaster",
+    "postcode": "DN1 3BU",
+    "start_date": "2026-06-29",
+    "end_date": "2026-11-30",
+    "pay_from": "32",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "This is a 30 hour post, days and times to be discussed in interview\n\nThis post is for the central team in Doncaster",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1443133?_xmscs=2503522b42798636829f7f31dc1faaa9abbebe9b67b3e844049b3c1b361ac03425334892783865e4",
+    "accepted_at": "2026-06-22T09:15:16.148Z",
+    "scraped_at": "2026-06-22T09:15:16.148Z",
+    "attachments": []
+  },
+  {
     "item_id": "comensura:5299123",
     "source": "comensura",
     "source_ref": "5299123",
@@ -18307,6 +18331,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR106062",
+    "source": "prism",
+    "source_ref": "OR106062",
+    "job_id": "OR106062",
+    "job_title": "Qualified Practitioner Level 2 - Adults (G9) - Social Care Qualified",
+    "client": "Lincolnshire County Council",
+    "procurer": "Christina Collinson",
+    "working_address": "Gresley Road, Off Stewton Lane, Louth, Lincolnshire, LN118FG, United Kingdom",
+    "city": "Louth",
+    "postcode": "LN11 8FG",
+    "start_date": "2026-07-13",
+    "end_date": "",
+    "pay_from": "450.00",
+    "pay_to": "612.90",
+    "pay_type": "per day",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Qualified Social worker or LD nurse needed within a high performing supportive team based in the beautiful town of Louth covering both rural and urban area's.\n\nYou must have at least 2 years post qualifying experience to cover a period secondment in our Learning Disabilities team. You will work to achieve best outcomes in a strength based way, considering TEC support and non statutory services as to meet needs or form part of care plans.\n\nLincolnshire County Council prides itself on supporting people in innovative ways to live as independently as possible in our communities. We expect our practitioner to be excellent at recording and completing assessments that comply with all relevant social care legislation. You must have  have experience of complex case work and  and good legal literacy in this field.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=879cd564-5bb1-4387-85d2-0f4eafd926f3",
+    "accepted_at": null,
+    "scraped_at": "2026-06-22T09:40:12.403Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR106059",
