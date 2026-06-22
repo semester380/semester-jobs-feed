@@ -12314,7 +12314,7 @@
     "working_address": "County Hall, PR1 8RE",
     "city": "County Hall",
     "postcode": "PR1 8RE",
-    "start_date": "2026-06-08",
+    "start_date": "2026-06-29",
     "end_date": "",
     "pay_from": "37.00",
     "pay_to": "37.00",
@@ -12324,7 +12324,7 @@
     "description": "Role Information/Duties:\nDuty and Assessment Team\nInterviews - 7/4\nSee attached JD for full details\nLocation - Central\nALL CANDIDATES MUST\n• have at least three years' experience in a permanent post within a local authority\n• not have held a permanent or fixed-term position with an LA within the last 12 weeks",
     "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
     "accepted_at": "2026-04-01T21:58:40.733Z",
-    "scraped_at": "2026-05-27T14:36:27.176Z",
+    "scraped_at": "2026-06-22T11:14:14.803Z",
     "attachments": [
       {
         "filename": "Social Worker - CSC - Job Description & Person Specification (1).docx",
@@ -18423,6 +18423,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR106050",
+    "source": "prism",
+    "source_ref": "OR106050",
+    "job_id": "OR106050",
+    "job_title": "Special Projects Fire Safety Advisor (Project) - Interims",
+    "client": "Southwark Council",
+    "procurer": "Dominic Johnson",
+    "working_address": "160 Tooley Street, London, SE1 2QH, United Kingdom",
+    "city": "160 Tooley Street",
+    "postcode": "SE1 2QH",
+    "start_date": "2026-07-13",
+    "end_date": "",
+    "pay_from": "358.91",
+    "pay_to": "500.00",
+    "pay_type": "per day",
+    "ir35": "Inside",
+    "ir35_note": null,
+    "description": "Role Purpose:\nThe Special Projects Fire Safety Advisor will provide expert technical leadership on fire safety matters relating to external wall systems and associated building safety risks across a large residential portfolio. The role will support the delivery of investigative works, ensure compliance with fire safety regulations, and inform remediation strategies, while acting as a key advisor across contracts, legal matters, and funding applications.\n\nPotentially a one-year contract\n\nKey Responsibilities\nTechnical Fire Safety Leadership\n\nProvide professional fire safety advice across a portfolio of high-risk residential buildings.\nAct as subject matter expert on external wall systems (EWS) and fire risk in line with PAS 9980 and current guidance.\nReview and interpret fire safety reports and surveys, including:\n\nFull FRAEWs\nFire Risk Assessments (FRAs)\nFacade and cladding investigations\nSpandrel panel and cavity barrier assessments\n\nProvide clear recommendations to inform risk mitigation and remediation strategies.\n\nProgramme Support & Oversight\n\nSupport the delivery of large-scale investigative programmes across multiple buildings.\nWork closely with Contract Managers to ensure surveys and investigations are technically robust and fit for purpose.\nEnsure consistency, quality, and compliance in fire risk assessments and reporting.\n\nCompliance & Assurance\n\nEnsure all activities align with current legislation and guidance, including:\n\nBuilding Safety Act\nRegulatory Reform (Fire Safety) Order\nPAS 9980 methodology\n\nProvide assurance that fire safety risks are accurately identified, recorded, and prioritised.\nSupport audit and regulatory engagement processes.\n\nLegal & Risk Support\n\nWork with legal teams to support claims relating to defective external wall systems.\nReview technical evidence and provide expert input into liability cases.\nAssist in determining extent of non-compliance and associated fire risk.\n\nFunding Applications\n\nProvide technical input into applications for the Cladding Safety Scheme (CSS) and other funding streams.\nReview and validate technical submissions, ensuring alignment with funding criteria.\nSupport responses to technical queries raised during application assessments.\n\nStakeholder Engagement\n\nAdvise internal stakeholders, including senior management and project teams, on fire safety risks and mitigation measures.\nSupport communication with residents and elected members where required.\nLiaise with consultants, fire engineers, and regulatory bodies.\n\nSkills & Experience\n\nStrong background in fire safety within housing, construction, or building safety.\nIn-depth knowledge of external wall systems and fire risk assessment methodologies.\nExperience reviewing FRAEWs and complex technical reports.\nFamiliarity with remediation programmes and funding schemes.\nAbility to translate complex technical issues into clear, actionable advice.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=5f11f9e0-f283-49ff-963e-7a84e2617083",
+    "accepted_at": null,
+    "scraped_at": "2026-06-22T11:13:29.644Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR106062",
