@@ -1,5 +1,67 @@
 [
   {
+    "item_id": "000B 25D8 / 1",
+    "source": "xms",
+    "source_ref": "000B 25D8 / 1",
+    "job_id": "000B 25D8 / 1",
+    "job_title": "Occupational Therapist [Wigan]",
+    "client": "Wigan Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Leigh Town Hall, Market Street, Leigh, WN7 1DY",
+    "city": "Leigh",
+    "postcode": "WN7 1DY",
+    "start_date": "2026-07-27",
+    "end_date": "2027-01-29",
+    "pay_from": "30",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Please see job description for details - experience with adults and children required for equipment and adaptations",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1444058?backToItem=&initialLoad=&tab=&_xmscs=3d117d0101654591756fcd360eacf5d496f41e2bce468688f47592802e7fdc367263e2c6cf30c2ac",
+    "accepted_at": "2026-06-23T12:39:53.139Z",
+    "scraped_at": "2026-06-23T12:39:53.139Z",
+    "attachments": [
+      {
+        "filename": "Job-specification- OT adults and paeds.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138246?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 25D8 _ 1/Job-specification- OT adults and paeds.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
+    "item_id": "000B 1B58 / 1",
+    "source": "xms",
+    "source_ref": "000B 1B58 / 1",
+    "job_id": "000B 1B58 / 1",
+    "job_title": "Personal Advisor [Bury]",
+    "client": "Bury Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "3 Knowsley Place, Duke Street, Bury, BL9 0EJ, United Kingdom",
+    "city": "Bury",
+    "postcode": "BL9 0EJ",
+    "start_date": "2026-06-22",
+    "end_date": "2026-08-28",
+    "pay_from": "16.35",
+    "pay_to": "17.84",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Umbrella rate £20.73 - £22.62",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1444137?backToItem=&initialLoad=&tab=&_xmscs=cf8f3778d1ab5c338d6b72fe4d9c03e9bc19314c8fb617ceef26bc841c04c3e545f1b97bb143d767",
+    "accepted_at": "2026-06-23T12:38:36.608Z",
+    "scraped_at": "2026-06-23T12:38:36.608Z",
+    "attachments": [
+      {
+        "filename": "Personal advisor JD - AGMA.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137695?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1B58 _ 1/Personal advisor JD - AGMA.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 2610 / 1",
     "source": "xms",
     "source_ref": "000B 2610 / 1",
@@ -18655,6 +18717,54 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR106046",
+    "source": "prism",
+    "source_ref": "OR106046",
+    "job_id": "OR106046",
+    "job_title": "Independent Reviewing Officer – BEXLEYTM1 - Social Care Qualified",
+    "client": "London Borough of Bexley",
+    "procurer": "Allette Pryce",
+    "working_address": "Civic Offices, 2 Watling Street, Bexleyheath, Kent, DA6 7AT, United Kingdom",
+    "city": "Bexleyheath",
+    "postcode": "DA6 7AT",
+    "start_date": "2026-07-06",
+    "end_date": "",
+    "pay_from": "25.93",
+    "pay_to": "35.26",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "Meetings with children and families will be in-person. Candidates must have 5 years references, enhanced DBS, relevant experience, and other essential criteria.",
+    "description": "Management group: Children�s Social Care and Education Department: Professional Standards & Quality Assurance / Safeguarding Service Job title: Conference Chair / Independent Reviewing Officer Main Purpose of Job � The role of the IRO is to chair statutory review meetings for children who become Looked After in accordance with the IRO Handbook Regulations (2010). � The post-holder will hold a caseload of children as the named IRO in line with the statutory regulations, they will be expected to attend meetings for their allocated children when possible. � Constructively challenge actions and interventions that are not delivering the required outcomes for children and young people. � Contribute to the auditing of care plans and other themed audits relating to looked after children; facilitate training and provide advice and consultation both internally or with our external colleagues in health and education\n\nPrincipal Accountabilities Direction � To provide consistent standards in the chairing of Looked After Reviews and the monitoring of Looked After Children�s Care Plans, ensuring the voice of the child is the focus of the review process. � To develop effective liaison with Children's Social Work Teams. Implementation � To promote the participation of children and their family in care planning and service development. � To develop consistency of practice and interpretation in the implementation of childcare and safeguarding procedures. � To provide specialised professional support and advice to departmental staff and other agencies in work relating looked after children. � Support the continual development of children�s social care services by actively contributing to quality assurance activity and the implementation of new statutory requirements and guidance, as well as sharing learning from evidence-based practice and reviews in relation to looked after children issues. � To act as a point of liaison in relation to other agencies to ensure that a multi-disciplinary approach is maintained in respect of children�s welfare involved in the looked after children�s journey through care. � Chair, and manage looked after reviews and held under looked after children procedures as directed by the Service Manager.\n\nTo ensure good practice arises from reviews in respect of childcare planning. � Produce written records of the decision or recommendations made, within 5 working days of the completion of the review and a full record of the review within 15 working days of the completion of the review. � Ensure that all midpoint reviews are completed within time scale on all allocated cases. � Quality assure the care planning and review process for each allocated child and ensure that their wishes and feelings are given full consideration. � Meet with the child in private prior to the first meeting and before every subsequent review. � Meet with or observe children in their placement so that full consideration is given to the suitability of the placement to meet the child�s needs(IRO Handbook, page 19,3.33-3.36) � Establish links with all relevant social work staff/ teams and effective lines of communication. � Contribute to the auditing of care plans and other themed audits relating to looked after children; facilitate training sessions, presentations and provide advice and consultation both internally or with our external colleagues in health and education. � Undertake audit activity on a service by service basis to monitor process and identify opportunities for improvement. � Provide input and contribute to the decision making on platforms such as the resource, permanency and the 16 plus panels. � Liaise with other agencies as necessary to facilitate the development of standards and practice in work relating to child care planning. � Keep abreast of research and developments in work relating to safeguarding children and looked after children to inform relevant professionals. � Assist the Service Manager (CSC) in identifying trends in looked after children in Bexley. To identify service strengths and weaknesses and contribute to the Service Improvement Plan. � To ensure compliance with statutory obligations towards looked after children, safeguarding children and children in need arising from DfE regulations and guidance.\n\nOrganisational control and development � Contribute towards the development of good practice guide for social workers, in relation to looked after children. � Undertake specific investigations where there is such a need for the independent reviewing officer as determined by senior managers. � Identify training needs and contribute to multi- disciplinary training. � Assist the Service Manager (CSC) in co-ordination, and monitoring of children looked after by the authority. � Assist the Service Manager (CSC) in ensuring looked after reviews are held within timescales Personal effectiveness � To deal promptly with all matters requiring the post holder�s personal attention. � To be fully conversant with relevant statutory provisions and the council�s constitution, processes and procedures: to develop the full range of managerial and professional skills and knowledge to satisfy the requirements of the post. � To establish and develop effective working relationships and productive partnerships with all the relevant partners and stakeholders as required to facilitate the development of standards and practice in work relating to looked after children. � All staff working in the department have a responsibility for promoting and supporting the council�s policies and procedures for safeguarding. You should ensure that you carry out your duties in a way that ensures the safeguarding and welfare of service users.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=a511d9a1-d6d6-4cd5-9a23-bd12de306dd7",
+    "accepted_at": null,
+    "scraped_at": "2026-06-23T12:40:20.644Z",
+    "attachments": []
+  },
+  {
+    "item_id": "prism:OR106224",
+    "source": "prism",
+    "source_ref": "OR106224",
+    "job_id": "OR106224",
+    "job_title": "Social Worker - Level 2 - Children (G9) - Social Care Qualified",
+    "client": "Lincolnshire County Council",
+    "procurer": "Nikki Burgess",
+    "working_address": "Holmeleigh, Foundry Street, Horncastle, Lincolnshire, LN96AQ, United Kingdom",
+    "city": "Horncastle",
+    "postcode": "LN9 6AQ",
+    "start_date": "2026-07-06",
+    "end_date": "",
+    "pay_from": "22.20",
+    "pay_to": "29.98",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "This role is for an experienced Social Worker within the East Lindsey FAST team, responsible for delivering high‑quality statutory social work across Child in Need, Child Protection and Children in Care. The candidate must have experience completing Section 47 enquiries, undertaking comprehensive Child and Family Assessments, and managing risk using evidence‑based approaches such as Signs of Safety. They will be expected to lead safeguarding processes, contribute to multi‑agency planning, produce clear analytical reports, including for court, and ensure timely, accurate recording. The role requires skilled relationship‑based practice, confident decision-making, effective multi‑agency collaboration, and a clear commitment to improving outcomes and safety for children and families.\n\nThere is an expectation for the candidate to be on site for 5 days during their duty week, which is every fourth week. For non duty weeks there is flexibility for hybrid working.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=63befcde-e627-441a-97d3-186cf5051b8e",
+    "accepted_at": null,
+    "scraped_at": "2026-06-23T12:40:15.986Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR106164",
