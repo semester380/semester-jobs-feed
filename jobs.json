@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 1CBC / 1",
+    "source": "xms",
+    "source_ref": "000B 1CBC / 1",
+    "job_id": "000B 1CBC / 1",
+    "job_title": "Children's Independent Reviewing Officer [Manchester City Council]",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Safeguarding & Review service, Moss Side District Office, 27 Bold Street, Manchester, Lancashire, M16 7AD, United Kingdom",
+    "city": "Manchester",
+    "postcode": "M16 7AD",
+    "start_date": "2026-07-06",
+    "end_date": "2026-07-10",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are looking for someone to join Children’s Safeguarding & Review Service as a Safeguarding Reviewing Officer - overseeing planning in Manchester for children who are on child protection plans.\nInterested in joining a large and dynamic team?\nChildren are at the heart of everything we do, we achieve this by:\n-   working in collaboration with children and their families to drive and influence their future plans.\n-   oversee children’s plans to deliver better outcomes.\n-   Working in partnership to advocate best practice in children’s plannings.\nWhat people say about working within the service:\n-  Flexibility – ability to work flexibly\n-  Supportive management team\n-  Being part of the solution for improving outcomes for children\n-  High morale and team spirit - friendly and supportive\n-  Opportunity to be involved in strategic work that interests you.\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.\n\nJob spec supplied below\n\n5 yrs SW experience in statutory setting with leadership experience.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1444213?inst=1444213--Distribution--1632026902-false&_csrf=0234fa20-5d45-4465-b061-c27ebee8cf62&_xmscs=9ca385ea085534a9cd3f01af951c1eeaebc7d0d5cc3609ff78873653bc7837d68adfb6e7aeae21fa",
+    "accepted_at": "2026-06-23T13:10:52.348Z",
+    "scraped_at": "2026-06-23T13:10:52.348Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025 (1).xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137774?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1CBC _ 1/DfE Attributes 2025 (1).xls",
+        "downloaded": true
+      },
+      {
+        "filename": "SQAO G9 RP.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137775?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 1CBC _ 1/SQAO G9 RP.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 25D8 / 1",
     "source": "xms",
     "source_ref": "000B 25D8 / 1",
