@@ -1,5 +1,60 @@
 [
   {
+    "item_id": "comensura:5299106",
+    "source": "comensura",
+    "source_ref": "5299106",
+    "job_id": "5299106",
+    "job_title": "Mou - Childrens Social Care - Advanced Practitioner (Social Care Qualified)",
+    "client": "Redcar and Cleveland Borough Council",
+    "procurer": null,
+    "working_address": "THE MACH, TS7 9LF",
+    "city": "THE MACH",
+    "postcode": "TS7 9LF",
+    "start_date": "2026-06-28",
+    "end_date": "",
+    "pay_from": "34.45",
+    "pay_to": "34.45",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Mou - Childrens Social Care - Advanced Practitioner (Social Care Qualified)\nTemporary",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-06-23T15:39:14.479Z",
+    "scraped_at": "2026-06-23T15:39:14.479Z",
+    "attachments": []
+  },
+  {
+    "item_id": "000B 2836 / 1",
+    "source": "xms",
+    "source_ref": "000B 2836 / 1",
+    "job_id": "000B 2836 / 1",
+    "job_title": "Advanced Social Work Practitioner Children's",
+    "client": "Barnsley Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Westgate Plaza One, 1 Westgate, Western Street, Barnsley, South Yorkshire, S70 2DR",
+    "city": "Barnsley",
+    "postcode": "S70 2DR",
+    "start_date": "2026-07-20",
+    "end_date": "2026-10-20",
+    "pay_from": "37",
+    "pay_to": "37",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Children in Care AP post, must have prior experience and able to commit t full time, 3 days onsite.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1444558?inst=1444558--Distribution--1632192746-false&_csrf=054f294e-6de0-43bd-bb08-a7a9019a1cfe&_xmscs=1f7dbd6cfa97b0986056707bc64f7777ef77b6a9d9b4a95ec3ee1627761749998bce334cc7b4f4b5",
+    "accepted_at": "2026-06-23T15:37:56.997Z",
+    "scraped_at": "2026-06-23T15:37:56.997Z",
+    "attachments": [
+      {
+        "filename": "77282 Advanced Social Work Practitioner Profile 20170712(1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138373?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2836 _ 1/77282 Advanced Social Work Practitioner Profile 20170712(1).pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 2488 / 1",
     "source": "xms",
     "source_ref": "000B 2488 / 1",
@@ -18785,6 +18840,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR106279",
+    "source": "prism",
+    "source_ref": "OR106279",
+    "job_id": "OR106279",
+    "job_title": "Qualified Social Worker - Children's - Social Care Qualified",
+    "client": "Knowsley Borough Council",
+    "procurer": "Lyndsey Lyndsey",
+    "working_address": "2nd Floor, Nutgrove Villa, Westmorland Road, Huyton, Merseyside, L36 6GA, United Kingdom",
+    "city": "Huyton",
+    "postcode": "L36 6GA",
+    "start_date": "2026-06-29",
+    "end_date": "",
+    "pay_from": "23.75",
+    "pay_to": "31.15",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Please Add JD",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=047f631e-5353-4355-876c-29680f74615e",
+    "accepted_at": null,
+    "scraped_at": "2026-06-23T15:38:22.196Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR106184",
