@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 2488 / 1",
+    "source": "xms",
+    "source_ref": "000B 2488 / 1",
+    "job_id": "000B 2488 / 1",
+    "job_title": "Assistant Team Manager [Stockport MBC]",
+    "client": "Stockport Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Baker Street office, Stockport, sk41qq, United Kingdom",
+    "city": "Stockport",
+    "postcode": "SK4 1QQ",
+    "start_date": "2026-07-27",
+    "end_date": "2026-09-26",
+    "pay_from": "43",
+    "pay_to": "43",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "These are focused on mental health and autism team and will need to be a social worker with management experience, proven experience of skills and working with adults with mental health and Autism in a social work team in adult social care.\n\nNeed to be a driver",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1444259?inst=1444259--Distribution--1632042080-false&_csrf=90c84a8f-7d76-47de-bbec-9f0dc43a2d35&_xmscs=1fc713b6c6725bc5bfc6a5390665dfb86cb4f6ffbb0e20848eb4889e6ff7f55c203660cd7637c648",
+    "accepted_at": "2026-06-23T13:46:09.158Z",
+    "scraped_at": "2026-06-23T13:46:09.158Z",
+    "attachments": [
+      {
+        "filename": "Senior Social Worker and Specialist Community Assistant Team Lead Job Profile (002).docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138178?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2488 _ 1/Senior Social Worker and Specialist Community Assistant Team Lead Job Profile (002).docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 1CBC / 1",
     "source": "xms",
     "source_ref": "000B 1CBC / 1",
