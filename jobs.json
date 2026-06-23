@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 27C8 / 1",
+    "source": "xms",
+    "source_ref": "000B 27C8 / 1",
+    "job_id": "000B 27C8 / 1",
+    "job_title": "Adults Social Worker [Warrington]",
+    "client": "Warrington Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Warrington Hospital, Warrington, WA5 1QG, United Kingdom",
+    "city": "Warrington",
+    "postcode": "WA5 1QG",
+    "start_date": "2026-07-27",
+    "end_date": "2026-11-02",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are seeking 2 experienced agency Social Workers to join the Transfer of Care Hub at Warrington hospital. This is a fast-paced, hybrid role, supporting safe and timely discharges from hospital. You will work collaboratively with health and multidisciplinary partners to assess needs and reduce delayed transfers.\n\nThe post is full time, 37 hours per week, with a requirement to base in the office around 3 days per week. Recent experience in hospital or Transfer of Care setting is essential, along with strong assessment, communication and decision-making skills. Knowledge of social care system Mosaic is desirable.\n\n 3 years reference, gaps in employment history checked, any relevant quals as per JDPS",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1444608?backToItem=&initialLoad=&tab=&_xmscs=484ad2a0e49b45e85e3314a8172160ef500bdbef532e51ce05aeeb6b0d9a8c9f15a281752207cd73",
+    "accepted_at": "2026-06-23T15:58:56.053Z",
+    "scraped_at": "2026-06-23T15:58:56.053Z",
+    "attachments": [
+      {
+        "filename": "Agency JD ToCH ESW 7-8 June 2026.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138355?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 27C8 _ 1/Agency JD ToCH ESW 7-8 June 2026.docx",
+        "downloaded": true
+      },
+      {
+        "filename": "Agency Person Spec ESW TOCH June 2026.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138356?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 27C8 _ 1/Agency Person Spec ESW TOCH June 2026.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5299106",
     "source": "comensura",
     "source_ref": "5299106",
