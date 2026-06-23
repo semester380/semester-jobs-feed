@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5298749",
+    "source": "comensura",
+    "source_ref": "5298749",
+    "job_id": "5298749",
+    "job_title": "Mou - Childrens Social Care - Senior Social Worker (Social Care Qualified)",
+    "client": "Stockton on Tees Borough Council",
+    "procurer": null,
+    "working_address": "Floor 1st, Dunedin House, TS17 6BJ",
+    "city": "Dunedin House",
+    "postcode": "TS17 6BJ",
+    "start_date": "2026-07-06",
+    "end_date": "",
+    "pay_from": "31.74",
+    "pay_to": "31.74",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Mou - Childrens Social Care - Senior Social Worker (Social Care Qualified)\nTemporary\nJob Description and Personal Specification C&F Social Worker (1).docx",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-06-23T16:08:23.069Z",
+    "scraped_at": "2026-06-23T16:08:23.069Z",
+    "attachments": [
+      {
+        "filename": "Job Description and Personal Specification C&F Social Worker (1).docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5298749/File/222100",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 27C8 / 1",
     "source": "xms",
     "source_ref": "000B 27C8 / 1",
