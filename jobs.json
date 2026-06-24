@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 299B / 1",
+    "source": "xms",
+    "source_ref": "000B 299B / 1",
+    "job_id": "000B 299B / 1",
+    "job_title": "Adults Social Worker [Blackpool]",
+    "client": "Blackpool Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Talbot Gateway, Blackpool, Lancashire, FY1 3AH, United Kingdom",
+    "city": "Blackpool",
+    "postcode": "FY1 3AH",
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-23",
+    "pay_from": "30.66",
+    "pay_to": "30.66",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "3 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\n1 x Learning Disability Social Worker required for 4 weeks\n\nOpportunity for a qualified, experienced social worker to work in the learning disability team.\n\nWe operate a flexible working policy which allows up to two days working from home and three days office based.\n\nThis role may be required to cover duty which is an office based task.\n\nExperience of working as a safeguarding lead and coordinating and carrying out safeguarding enquiries.\n\nExperience also required of carrying out assessments and reviews under the Care Act 2014.\n\nWe have a variety of parking options available for staff and good links to public transport.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1445252?backToItem=&initialLoad=&tab=&_xmscs=882b95766cc9190be33d96a8ca6951e7c26f423dac5c5760f736b98e7103ac64da653f0a4f98dd92",
+    "accepted_at": "2026-06-24T14:43:20.012Z",
+    "scraped_at": "2026-06-24T14:43:20.012Z",
+    "attachments": [
+      {
+        "filename": "JD - 656 - Advert.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138441?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 299B _ 1/JD - 656 - Advert.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 2976 / 1",
     "source": "xms",
     "source_ref": "000B 2976 / 1",
