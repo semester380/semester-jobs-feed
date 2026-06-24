@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 28D1 / 1",
+    "source": "xms",
+    "source_ref": "000B 28D1 / 1",
+    "job_id": "000B 28D1 / 1",
+    "job_title": "Children's Social Worker [Blackpool]",
+    "client": "Blackpool Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Talbot Gateway, Blackpool, Lancashire, FY1 3AH, United Kingdom",
+    "city": "Blackpool",
+    "postcode": "FY1 3AH",
+    "start_date": "2026-07-27",
+    "end_date": "2026-09-30",
+    "pay_from": "39",
+    "pay_to": "39",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\n5 x 37 Social Workers required in BFS Teams until 30/09/2026\n\nOur families, children and young people are at the heart of everything we do in Children’s Services.\n\nIn Blackpool we believe Children can achieve better outcomes when they are supported by their families and community and as a result we:\n\nWork ‘with’ families, not ‘do things to them’.\nAre child focussed, but support the whole family via our strengths based approach.\nBuild and nurture trusted relationships with children and families.\nBe consistent and do what we say we will do.\nEnsure that when formal intervention is required, we manage it at the lowest possible level.\nSupport our workforce and challenge them to deliver a great service.\nEncourage our families and communities to be aspirational for themselves and each other.\nRespect difference in families and communities and ensure we are inclusive.\nBe transparent and objective in our decision making.\nLearn from what works and what does not work and keep developing our services to build on the things that deliver the right outcomes.\n\nIf you like the sound of this and are passionate, dedicated to making a change and ready for a challenge – you could be the candidate we are looking for.\n\nWith excellent transport links between Blackpool and major cities, a growing housing market and a developing economy, there’s never been a better time to work in Blackpool. With a direct route along the M55/M6 your journey could be less than you think, along with Blackpool North rail station and secure, modern parking directly opposite our town centre offices, commuting is straightforward (no need to park and ride).\n\nYou will have knowledge and experience of undertaking pre-birth assessments, child protection, complex child in need and PLO/Pre proceedings.  You will be able to demonstrate a good quality of work including court statements, assessments etc. and will be able to support the team manager with mentoring and coaching those less experienced members of your team.   You will be enthusiastic, passionate and committed to improving the lived experience of our children.  You will be a role model for the less experienced staff members demonstrating true professionalism in all you do.  This will include providing learning opportunities, reflection and modelling.  We are striving to improve our quality and performance and you will lead by example.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1444911?inst=1444911--Distribution--1632424566-false&_csrf=054f294e-6de0-43bd-bb08-a7a9019a1cfe&_xmscs=b7ab1a36d5a412748b3728c6a9556dea49528ad99870e00af7e190920aef9491aa7522da622b641a",
+    "accepted_at": "2026-06-24T09:59:38.061Z",
+    "scraped_at": "2026-06-24T09:59:38.061Z",
+    "attachments": [
+      {
+        "filename": "Blackpool Childrens EVP 23 (004).docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138395?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 28D1 _ 1/Blackpool Childrens EVP 23 (004).docx",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138396?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 28D1 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 0355 / 1",
     "source": "xms",
     "source_ref": "000B 0355 / 1",
