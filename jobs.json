@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 0355 / 1",
+    "source": "xms",
+    "source_ref": "000B 0355 / 1",
+    "job_id": "000B 0355 / 1",
+    "job_title": "Family Time Worker [Bolton]",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Castleton Street, Tonge Moor, Bolton, Lancashire, BL2 2JW, United Kingdom",
+    "city": "Bolton",
+    "postcode": "BL2 2JW",
+    "start_date": "2026-06-22",
+    "end_date": "2026-10-02",
+    "pay_from": "16.43",
+    "pay_to": "16.43",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Replacement candidate on 000A CBE6\n\nAn exciting opportunity has arisen: We are currently recruiting for a full-time (37hrs per week) Family Support Workers to join our Referral and Assessment team in Bolton Council.\n\nAs part of this role, you will work alongside Referral and Assessment Social Workers in delivering high-quality intervention with children and families to support in achieving positive outcomes.\n\nThe role includes (although not an exhaustive list),\n\nsupporting with family time,\nsupporting in completing home visits,\ndirect work with children,\ncompleting work with families around behaviour management strategies and routines and boundaries,\nbudgeting and supporting in referring families to support services available.\n\nThis work will involve working with families subject to Child in Need, Child Protection and those involved within court proceedings.\n\nCandidate will be expected to be office based for part of the week and be able to travel to Bolton at short notice to meet service needs.\n\nFree on site parking, must be a driver\n\nPAYE - £16.43\nUmbrella - £20.83\n\nRefs will be requested for any candidate offered and interview and DBS on offer",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1444785?backToItem=&initialLoad=&tab=&_xmscs=03f4d37a7aff3058e43a9d747bb3f6af762ab4321e8577a05d334c9cf0538faf1651942669b1999f",
+    "accepted_at": "2026-06-24T09:31:30.346Z",
+    "scraped_at": "2026-06-24T09:31:30.346Z",
+    "attachments": [
+      {
+        "filename": "Family Time Worker JDPS April 2023 bolton.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/136479?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 0355 _ 1/Family Time Worker JDPS April 2023 bolton.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5299188",
     "source": "comensura",
     "source_ref": "5299188",
