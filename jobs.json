@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 2B54 / 1",
+    "source": "xms",
+    "source_ref": "000B 2B54 / 1",
+    "job_id": "000B 2B54 / 1",
+    "job_title": "Children's Social Worker [Bury]",
+    "client": "Bury Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "3 Knowsley Place, Duke Street, Bury, BL9 0EJ, United Kingdom",
+    "city": "Bury",
+    "postcode": "BL9 0EJ",
+    "start_date": "2026-07-27",
+    "end_date": "2026-09-25",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "These are initially for 3 months however these could be extended past this 12 week timescale.\n\nYou will be joining a dynamic and fast-paced Children Looked After team in Bury, where most children are placed locally within Bury or the wider Greater Manchester area, with only limited out-of-borough travel required. Experience of working with looked after children and care leavers up to the age of 18 is preferable, alongside a strong understanding of robust care planning and safety planning.\n\nThis is a lively and supportive environment where you can make a real difference while working with a dedicated team of professionals.\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1446136?inst=1446136--Distribution--1633023909-false&_csrf=30bb7072-f454-4144-8ba3-209014258ede&_xmscs=9dce487b14cb05776f82c21c991e72c31440713636c6ee61aee322176d74ae67f9a7de7c9500e537",
+    "accepted_at": "2026-06-25T14:41:14.327Z",
+    "scraped_at": "2026-06-25T14:41:14.327Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138538?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2B54 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 2B7D / 1",
     "source": "xms",
     "source_ref": "000B 2B7D / 1",
@@ -19277,6 +19308,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR106077",
+    "source": "prism",
+    "source_ref": "OR106077",
+    "job_id": "OR106077",
+    "job_title": "SEND Caseworker - Social Care Qualified",
+    "client": "Liverpool City Council",
+    "procurer": "Harriet Cadman",
+    "working_address": "Conleach Road, Liverpool, Merseyside, L24 0TY, United Kingdom",
+    "city": "Liverpool",
+    "postcode": "L24 0TY",
+    "start_date": "2026-07-06",
+    "end_date": "",
+    "pay_from": "212.66",
+    "pay_to": "285.82",
+    "pay_type": "per day",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "SEND Casework Officer - £300 per day ltd status / 7hr working day / 35hrs per week / 2 days per week on site\n\nJob Description  - main duties and responsibilities\nTo support settings, schools, services and families in applying the graduated approach to meeting the needs of pupils with SEND.\nTo co-ordinate the statutory assessment process for pupils with special educational needs and disabilities and review and monitor pupils progress against outcomes.\nTo support schools and settings in meeting the needs of pupils with SEND by following the graduated approach to meeting needs, developing close working relationships and offering advice and support to SENCos and head teachers\nTo work closely with internal colleagues in SENISS, Occupational Therapy, Educational Psychology and other services including Childrens and Adult Social Care, Health etc. in order to ensure a multi-agency approach to identifying and meeting need\nTo co-ordinate the statutory assessment process for children and young people with SEND and their families for a specific group of schools and settings including managing the Education, Health and Care planning process from assessment through to placement and review\nTo ensure that all statutory timescales are met in relation to the drawing up of the EHC plan\nTo ensure that parents/carers and children and young people are at the centre of all planning and review\nTo attend all annual reviews for particularly vulnerable pupils, e.g. Looked After Children, Continuing Care, pupils at risk of exclusion as appropriate\nTo ensure that children and young people attend maintained settings in Liverpool wherever possible and that every possible effort is made to support them within the city\n\nPerson Specification\nRecent experience of working within an educational/ Children's Services environment ideally as a SEND Caseworker officer\nWorking experience and in-depth knowledge of all aspects of the Children and Families Act 2014 and all associated legislation including SENDIST regulations\nExperience of effectively facilitating review meetings\nExperience of working in partnership with other agencies to achieve positive outcomes for children and young people\nExperience of working as part of a team, or teams, including multi agency teams\nExperience of working with parents and carers\nHigh level of interpersonal and communication skills, both verbal and written\nExtensive experience in the use of all aspects of IT including Microsoft Office Suite, including the ability to create complex spreadsheets and presentations using power point\n\n£300 per day ltd status\n\nImmediate start\n\nMinimum 2 days per week on site",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=bc58d0e4-d1b7-4cf3-aa5d-599058f249ec",
+    "accepted_at": null,
+    "scraped_at": "2026-06-25T14:41:39.694Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR106497",
