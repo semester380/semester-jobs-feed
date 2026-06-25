@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 2B7D / 1",
+    "source": "xms",
+    "source_ref": "000B 2B7D / 1",
+    "job_id": "000B 2B7D / 1",
+    "job_title": "Adults Social Worker [Blackpool]",
+    "client": "Blackpool Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Talbot Gateway, Blackpool, Lancashire, FY1 3AH, United Kingdom",
+    "city": "Blackpool",
+    "postcode": "FY1 3AH",
+    "start_date": "2026-07-12",
+    "end_date": "2026-07-13",
+    "pay_from": "30.66",
+    "pay_to": "30.66",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "3 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\n1 x 37 Qualified Social Worker (Adults) - current end date 13/07/2026 - extension requested\n\nWe have an exciting opportunity for an enthusiastic and experienced social worker to join our community social work team. Your role will involve working with adults to identify and understand their support requirements and to meet these in a way that both maximises independence and helps prevent future need.\n\nUsing strength approaches including working with community and voluntary groups as well as utilising reablement and commissioned services. You will need to be confident and experienced in all Legislative Frameworks associated with Adult Social Care, linked to your social work practice. You will be able to work autonomously and bring with you excellent problem solving and decision making skills. Be confident in all areas of communication and have proven negotiation skills.\n\nWe would value applications from those who are keen to support and strengthen our community. In turn through training and support we will offer you help in developing your social work role ensuring you have protected CPD time and offering access to regular formal and informal supervision and diverse training packages.\n\nYou will need to be passionate about supporting our community in Blackpool, be committed to your role as a social worker and keen to grow and develop in line with SWE protocols. In turn we can offer you access to a visible management team who will collectively offer an Induction to support your transition into a new role.\n\nHybrid working expectation of at least 3 days working in the office. Agency workers will have access to a parking pass for restricted parking areas for visits and reduced rate office car parking.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1446093?backToItem=&initialLoad=&tab=&_xmscs=4e71f3086845d5a8bca223e155c09cd8051f05de374738d4b159f9ea8b7af4b26d1b9ae66a38196c",
+    "accepted_at": "2026-06-25T14:34:31.103Z",
+    "scraped_at": "2026-06-25T14:34:31.103Z",
+    "attachments": [
+      {
+        "filename": "JD - 4993 - advert.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138561?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2B7D _ 1/JD - 4993 - advert.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 2B5A / 1",
     "source": "xms",
     "source_ref": "000B 2B5A / 1",
