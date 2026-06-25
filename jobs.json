@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 2A3E / 1",
+    "source": "xms",
+    "source_ref": "000B 2A3E / 1",
+    "job_id": "000B 2A3E / 1",
+    "job_title": "Childrens Team Manager - Childrens Services [Tameside]",
+    "client": "Tameside Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Market Place, Ashton Under Lyne, OL6 6DL, United Kingdom",
+    "city": "Ashton Under Lyne",
+    "postcode": "OL6 6DL",
+    "start_date": "2026-07-27",
+    "end_date": "2026-10-30",
+    "pay_from": "26.51",
+    "pay_to": "46",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are looking to recruit an experienced Team Manager to join our fast paced front door (MASH) in Tameside. If you have 3 years team manager experience in a front door or child protection service, and are motivated, creative and passionate about achieving positive outcomes for children then this role could be for you.\n\nWhilst we do operate a hybrid model there is an expectation of a MINIMUM of 3 days based in the office.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1445681?inst=1445681--Distribution--1632814842-false&_csrf=054f294e-6de0-43bd-bb08-a7a9019a1cfe&_xmscs=1693eec03aa7348a12e23f1fb16dcd7007f9573216b028a4c400acdc8b1e2c5d79b48a1ff1669ad5",
+    "accepted_at": "2026-06-25T09:29:35.145Z",
+    "scraped_at": "2026-06-25T09:29:35.145Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138466?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2A3E _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "DH26-P JD PS - TM MASH March '26.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138467?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2A3E _ 1/DH26-P JD PS - TM MASH March '26.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5299384",
     "source": "comensura",
     "source_ref": "5299384",
