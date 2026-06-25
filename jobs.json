@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 2A2C / 1",
+    "source": "xms",
+    "source_ref": "000B 2A2C / 1",
+    "job_id": "000B 2A2C / 1",
+    "job_title": "Childrens - Senior Social Worker",
+    "client": "Hiring - Leeds City Council, Leeds City Council",
+    "procurer": null,
+    "working_address": "Technorth, 9 Harrogate Road, Leeds, LS7 3NB, United Kingdom",
+    "city": "Leeds",
+    "postcode": "LS7 3NB",
+    "start_date": "2026-06-29",
+    "end_date": "Leeds City Council policy limits Orders to a maximum duration of 2 weeks. However, to aid the recruitment process, please indicate the actual overall anticipated end date for the Order, including any currently expected extensions.",
+    "pay_from": "30.74",
+    "pay_to": "30.74",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Experience Social Worker required for Area Social Work Team in West Leeds. Must have experience of:\n\nChild in Need\n\nChild Protection\n\nChildren Looked After\n\nPLO/Care Proceedings\n\nFull time role, immediate start.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1446208?backToItem=&initialLoad=&tab=&_xmscs=6fe7bd03f4fe9563bbc26e3fe287ee00788c9840dd084b93b6d5073543f602eda1e9595cba7a0219",
+    "accepted_at": "2026-06-25T15:10:37.484Z",
+    "scraped_at": "2026-06-25T15:10:37.484Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138464?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2A2C _ 1/DfE Recommendation Attribute.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 2B54 / 1",
     "source": "xms",
     "source_ref": "000B 2B54 / 1",
