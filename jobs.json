@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 2B5A / 1",
+    "source": "xms",
+    "source_ref": "000B 2B5A / 1",
+    "job_id": "000B 2B5A / 1",
+    "job_title": "Children's Independent Reviewing Officer [Rochdale]",
+    "client": "Rochdale Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Smith Street, Rochdale, OL16 1XU, United Kingdom",
+    "city": "Rochdale",
+    "postcode": "OL16 1XU",
+    "start_date": "2026-07-27",
+    "end_date": "2026-10-31",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "The Role\n\nWe have an excellent opportunity to join our team as either an Independent Reviewing Officer (IRO) for our children and young people in care or as a Child Protection Conference Facilitator for our children and young people subject to Child Protection Plans.\n\nWithin the role of IRO / CP Conference Facilitator you will be responsible for:\n\nAnalysing, reviewing and supporting children and young people who are either subject to Care Plans or Child Protection Plans.\n\nTo act as consultant for social workers, managers and other agencies on child protection matters and thresholds for conferencing.\n\nTo facilitate the involvement of parents and children in making and reviewing childcare plans and child protection plans ensuring that the “voice of the child” is reflected in the outcome of the process and explore opportunities to ensure that this is heard.\n\nAbout You\n\nWe are looking for individuals who are highly motivated, pro-active, driven, and committed to improving the lives of children and young people.\n\nYou will be experienced and confident in working in a multi-agency environment, have excellent communication skills and emotional intelligence to work with children, young people and their families. Along with the skills to chair complex meetings in a relational manner.\n\nCandidates for this role should have a minimum of 5 years post qualified in social work that includes in-depth knowledge and practice experience in child protection and children in care.\n\n£40.00 per hour\n\nWe reward you with great benefits:\n\nHybrid and flexible working – discussion with manager\n\nStaff recognition awards and celebration events\n\nVisible and supportive leadership\n\nStaff discount at popular retail and leisure sites\n\n\n\nOther benefits\n\nWork in a modern, award-winning building\n\nBe conveniently located next to the Metrolink, bus exchange and a short walk from Rochdale train station\n\nYou’re also a 10-minute drive from the M62 corridor\n\n\n\nWhat our colleagues say…\n\nOur social workers say Rochdale Council is a great place to work, and their managers are supportive, approachable and listen to their ideas. Here are some further comments from our social workers...\n\n\n\n‘We work in friendly, supportive, multidisciplinary teams’\n\n'There are lots of easy to access training opportunities to learn and aid career development’\n\n‘We have lots of community resources available to support families'\n\n‘We are based right in the town centre office, next to M&S and close to local services’\n\n\n\nWe are making positive progress in terms of our ways to work with children, young people and families as work to deliver better outcomes for all.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1446000?backToItem=&initialLoad=&tab=&_xmscs=fb371d5aec41c3c7beffc22f3843563e504da1d54437c23df33f346f7567bb46cebd958abb3a97a8",
+    "accepted_at": "2026-06-25T14:00:40.847Z",
+    "scraped_at": "2026-06-25T14:00:40.847Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025 (1).xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138542?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2B5A _ 1/DfE Attributes 2025 (1).xls",
+        "downloaded": true
+      },
+      {
+        "filename": "Independent Reviewing Officer job discription 7.12.2023 (AutoRecovered) (2).doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138543?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2B5A _ 1/Independent Reviewing Officer job discription 7.12.2023 (AutoRecovered) (2).doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5299438",
     "source": "comensura",
     "source_ref": "5299438",
