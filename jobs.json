@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 2697 / 1",
+    "source": "xms",
+    "source_ref": "000B 2697 / 1",
+    "job_id": "000B 2697 / 1",
+    "job_title": "Intervention worker [Tameside]",
+    "client": "Tameside Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Gardenfold Way, Droylsden, Tameside, Greater Manchester, M43 7XU, United Kingdom",
+    "city": "Tameside",
+    "postcode": "M43 7XU",
+    "start_date": "2026-07-06",
+    "end_date": "2026-11-30",
+    "pay_from": "13.01",
+    "pay_to": "13.01",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "the role is to carry out assessment of need for disabled children, work with the fmaily at intervention level and arrange and monitor reviews\n\nUmbrella rate £16.41",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1446730?backToItem=&initialLoad=&tab=&_xmscs=1054364cd295534ed1c014b0484e2066d8b92354f121cf44729f6dcc63be3694f63932a818142c7b",
+    "accepted_at": "2026-06-26T15:18:44.438Z",
+    "scraped_at": "2026-06-26T15:18:44.438Z",
+    "attachments": [
+      {
+        "filename": "Job-Profile-May2024.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138286?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2697 _ 1/Job-Profile-May2024.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5299154",
     "source": "comensura",
     "source_ref": "5299154",
