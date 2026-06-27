@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5299299",
+    "source": "comensura",
+    "source_ref": "5299299",
+    "job_id": "5299299",
+    "job_title": "Basic Grade Occupational Therapist (Jajf4046 - G9) (Social and Healthcare Qualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Floor First floor, Macclesfield Town Hall, SK10 1EA",
+    "city": "Macclesfield Town Hall",
+    "postcode": "SK10 1EA",
+    "start_date": "2026-07-06",
+    "end_date": "",
+    "pay_from": "35.00",
+    "pay_to": "35.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A Recruitment Request number is required for all Orders, please state here: 18398\nCommunity Occupational Therapist, experience in Moving and Handling, DFG and Blue Badges, experience working with both children and adults. OT will be required to complete regular visits and attend the office for meetings. OT Must have up to date moving and handling training. Flexibility is acceptable. Team worker is essential for this role. The role will cover the East of Cheshire East and will include Macclesfield, Wilmslow, Disley, High Legh, Knutsford.\nPlease confirm which DBS is required for this role.\n(Delete the lines which are not applicable and leave the option that is required)\n5. Enhanced – including barred:\nc. Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-06-27T09:37:20.012Z",
+    "scraped_at": "2026-06-27T09:37:20.012Z",
+    "attachments": [
+      {
+        "filename": "JAJF4046 - Basic Grade Occ Ther - JD and PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5299299/File/222427",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5299602",
     "source": "comensura",
     "source_ref": "5299602",
