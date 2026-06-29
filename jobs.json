@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 2BFC / 1",
+    "source": "xms",
+    "source_ref": "000B 2BFC / 1",
+    "job_id": "000B 2BFC / 1",
+    "job_title": "Social Worker - Adults",
+    "client": "Adults Wellbeing & Culture, City of Doncaster Council",
+    "procurer": "City of Doncaster Council",
+    "working_address": "Bentley Training Centre, High Street, Doncaster, South Yorkshire, DN5 0AA, United Kingdom",
+    "city": "Doncaster",
+    "postcode": "DN5 0AA",
+    "start_date": "2026-07-06",
+    "end_date": "2026-09-28",
+    "pay_from": "28",
+    "pay_to": "28",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Note to Suppliers: the following compliance requirements apply to this role:\n\nStandard with Enhanced DBS Check/Adults Barred List and HCPC\n- 2 years referencing, all gaps verified\n- Photographic ID\n- Confidentiality Agreement signed\n- Eligibility to work in the UK confirmed\n\n\n\n\n\n\n- Full work history (CV gaps checked)\n- Enhanced DBS Check\n- DBS Adults Barred list check\n- HCPC Registration\n\nPlease refer to your Supplier Audit Guide or User Guide for further information on compliance for this contract\n\nThis free text box is to be used for Worker Value Proposition and additional key role details not covered in the summary attached below:\n\nWorking in a small team in the North of Doncaster, completing Care Act assessments, reviews, CHC checklists, DSTs and COP work where required.\n\nYou will be part of a duty rota and on this day work in the office from 8:30 until 5pm. Hybrid working is a feature of the role and there is a request for a minimum of 2 days office based.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1446937?inst=1446937--Distribution--1634614949-false&_csrf=b0e40031-f6a5-4dba-9ca1-c73a0ae70af9&_xmscs=f28380ab8a7e1eed3fabfeeffc5810b93ba06aa36d3b6cce99c41dd6116e0a1a5b9d40f8adede4e2",
+    "accepted_at": "2026-06-29T09:03:21.670Z",
+    "scraped_at": "2026-06-29T09:03:21.670Z",
+    "attachments": [
+      {
+        "filename": "Social Worker (Adults).doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138582?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2BFC _ 1/Social Worker (Adults).doc",
+        "downloaded": true
+      },
+      {
+        "filename": "Job Role Summary.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138585?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2BFC _ 1/Job Role Summary.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "Statement of Purpose Adult north Team.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138586?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2BFC _ 1/Statement of Purpose Adult north Team.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5299299",
     "source": "comensura",
     "source_ref": "5299299",
