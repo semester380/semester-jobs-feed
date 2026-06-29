@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 2482 / 1",
+    "source": "xms",
+    "source_ref": "000B 2482 / 1",
+    "job_id": "000B 2482 / 1",
+    "job_title": "Senior Assessment Officer L1 (Blue Badge Assessor) [MCC]",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Philips Park Road, Manchester, M11 3FU, United Kingdom",
+    "city": "Manchester",
+    "postcode": "M11 3FU",
+    "start_date": "2026-07-27",
+    "end_date": "2026-08-31",
+    "pay_from": "32",
+    "pay_to": "32",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "MCC require an OT for the Blue Badge Team",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1447307?backToItem=&initialLoad=&tab=&_xmscs=9d7bfbfd50776df96182cd7d7e15e3e18a32023bec98ee0a248ec90c04d1769fb91ed218d6ae3808",
+    "accepted_at": "2026-06-29T15:56:12.903Z",
+    "scraped_at": "2026-06-29T15:56:12.903Z",
+    "attachments": [
+      {
+        "filename": "Senior Assessment Officer L1 (Blue Badge Assessor) Gr7.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138174?attachmentClass=ItemAttachment",
+        "localPath": null,
+        "downloaded": false
+      },
+      {
+        "filename": "Blue Badge Assessor Role Profile 1.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138175?attachmentClass=ItemAttachment",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 1B51 / 1",
     "source": "xms",
     "source_ref": "000B 1B51 / 1",
