@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 2DEC / 1",
+    "source": "xms",
+    "source_ref": "000B 2DEC / 1",
+    "job_id": "000B 2DEC / 1",
+    "job_title": "Youth Justice Serice Officer G8",
+    "client": "Rochdale Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "57-59 drake street, Floor 1, Rochdale, OL16 1XL, United Kingdom",
+    "city": "Rochdale",
+    "postcode": "OL16 1XL",
+    "start_date": "2026-07-27",
+    "end_date": "2026-10-09",
+    "pay_from": "21.14",
+    "pay_to": "21.14",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are seeking to engage experienced Youth Justice Case Managers through agency provision to support delivery within our Youth Justice Service. You will work directly with children, young people, and their families, delivering high-quality interventions across the full Youth Justice pathway, including:\n\nPrevention and Early Intervention\nDiversion from the Criminal Justice System\nCourt Orders and Statutory Supervision\nCustody and Resettlement Planning\n\nYour Key Responsibilities will include:\n\nAsset plus and prevention/ diversion assessments\nDevelop and deliver tailored intervention plans to reduce offending and safeguard young people and victims.\nManage children with complex needs caseloads in line with legislation and Youth Justice standards\nPrepare high-quality reports for court, panels, and multi-agency forums\nWork collaboratively with partner agencies (e.g. social care, education, police, health)\nEngage effectively with families to support positive outcomes\nContribute to safeguarding planning and risk management processes\n\nEssential Requirements\n\nProven experience working within a Youth Justice Service or similar setting\nStrong understanding of child development, trauma-informed practice, and safeguarding\nExperience managing cases across prevention, diversion, and statutory court/custody interventions\nAbility to complete assessments such as AssetPlus (or equivalent frameworks)\nExcellent report writing and communication skills\nEnhanced DBS clearance\n\nDuration and Arrangements\n\nInitial placement 3 months\nFull-time & hybrid working arrangement subject to service need\n\n\nOur agency workers are seen as an important resource for us and as such are given the same level of support and opportunities as our permanent staff.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1447898?backToItem=&initialLoad=&tab=&_xmscs=bfa4f8d3a5a6981c1373c8ce900fa6e35ee782cd8f820cc2f2f99ed9195e0135a65a45a8e9171469",
+    "accepted_at": "2026-06-30T15:11:44.810Z",
+    "scraped_at": "2026-06-30T15:11:44.810Z",
+    "attachments": [
+      {
+        "filename": "Youth Justice Service Officer G8 jdperspec (1).doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138687?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2DEC _ 1/Youth Justice Service Officer G8 jdperspec (1).doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5299839",
     "source": "comensura",
     "source_ref": "5299839",
