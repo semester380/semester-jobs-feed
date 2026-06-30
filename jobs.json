@@ -1,5 +1,67 @@
 [
   {
+    "item_id": "000B 2D0A / 1",
+    "source": "xms",
+    "source_ref": "000B 2D0A / 1",
+    "job_id": "000B 2D0A / 1",
+    "job_title": "Adults Social Worker [Stockport MBC]",
+    "client": "Stockport Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Baker Street office, Stockport, sk41qq, United Kingdom",
+    "city": "Stockport",
+    "postcode": "SK4 1QQ",
+    "start_date": "2026-07-27",
+    "end_date": "Sun 01/11/2026",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Social Worker - Mental Health & Autism Team (Autism Focused) Need to be a car driver and also need to be able to be office based on certain days for mandatory things, duty and have a good office presence\n\n3 years reference, gaps in employment history checked, any relevant quals as per JDPS",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1447415?backToItem=&initialLoad=&tab=&_xmscs=14e2b40f5d08f2835c96372c7d3bb9328a910673367bb0e087d99a4d02f63076f1666de37fe60488",
+    "accepted_at": "2026-06-30T08:33:13.997Z",
+    "scraped_at": "2026-06-30T08:33:13.997Z",
+    "attachments": [
+      {
+        "filename": "Job Profile Mental health and Autism social worker .docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138654?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2D0A _ 1/Job Profile Mental health and Autism social worker .docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
+    "item_id": "000B 2CF9 / 1",
+    "source": "xms",
+    "source_ref": "000B 2CF9 / 1",
+    "job_id": "000B 2CF9 / 1",
+    "job_title": "Children's Social Worker [Stockport MBC]",
+    "client": "Stockport Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Piccadilly, Stockport, Stockport, SK1 3XE, United Kingdom",
+    "city": "Stockport",
+    "postcode": "SK1 3XE",
+    "start_date": "2026-07-27",
+    "end_date": "2026-11-06",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "SSW Kinship Care Team\n\nFull time\n\nHybrid Working (office base Stopford House Stockport)\n\nMain task of the role is the support and supervision of Kinship Foster Carers. Other tasks include duty tasks on a rota basis, undertaking viability assessments and regulation 24 assessments.\n\n 5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1447462?backToItem=&initialLoad=&tab=&_xmscs=ee5cf48fcd26239fd87a825c861aa25bb2b9da2f7e8570437a7de2b9f0f7996b10414fd9787cadf2",
+    "accepted_at": "2026-06-30T08:31:56.742Z",
+    "scraped_at": "2026-06-30T08:31:56.742Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138649?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2CF9 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 2482 / 1",
     "source": "xms",
     "source_ref": "000B 2482 / 1",
