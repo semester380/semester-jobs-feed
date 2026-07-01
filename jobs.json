@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5299752",
+    "source": "comensura",
+    "source_ref": "5299752",
+    "job_id": "5299752",
+    "job_title": "Social Worker (Childrens) (Jajb4097 - G10) (Social and Healthcare Qualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Floor 1st Floor, Delamere House, CW1 2JZ",
+    "city": "Delamere House",
+    "postcode": "CW1 2JZ",
+    "start_date": "2026-07-06",
+    "end_date": "",
+    "pay_from": "39.00",
+    "pay_to": "39.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A Recruitment Request number is required for all Orders, please state here: 18387\nPlease note this is for booking 6054075, however the worker has now left so new worker is required.\nKinship assessment history, fostering and support and supervision experience required.\nPlease confirm which DBS is required for this role.\n(Delete the lines which are not applicable and leave the option that is required)\n5. Enhanced – including barred:\na. Children’s barred list\nb. Adults barred list\nc. Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-01T10:22:26.665Z",
+    "scraped_at": "2026-07-01T10:22:26.665Z",
+    "attachments": [
+      {
+        "filename": "JAJB4097 - Social Worker - JD and PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5299752/File/222712",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5297209",
     "source": "comensura",
     "source_ref": "5297209",
