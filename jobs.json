@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5299575",
+    "source": "comensura",
+    "source_ref": "5299575",
+    "job_id": "5299575",
+    "job_title": "Send Key Worker (Jajb4473 - G9) (Social and Healthcare Qualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Macclesfield Town Hall, SK10 1EA",
+    "city": "Macclesfield Town Hall",
+    "postcode": "SK10 1EA",
+    "start_date": "2026-06-29",
+    "end_date": "",
+    "pay_from": "25.18",
+    "pay_to": "25.18",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A Recruitment Request number is required for all Orders, please state here:\nPost 16 experience wanted\nRemote working accepted\n18509\n18501\nPlease confirm which DBS is required for this role.\n(\n5. Enhanced – including barred:\nc. Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-01T08:11:29.907Z",
+    "scraped_at": "2026-07-01T08:11:29.907Z",
+    "attachments": [
+      {
+        "filename": "JAJB4473 - SEND Keyworker - JD&PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5299575/File/222613",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 2DEC / 1",
     "source": "xms",
     "source_ref": "000B 2DEC / 1",
