@@ -9410,7 +9410,7 @@
     "working_address": "Sir Henry Mitchell House, BD5 0QL",
     "city": "Sir Henry Mitchell House",
     "postcode": "BD5 0QL",
-    "start_date": "2026-06-22",
+    "start_date": "2026-07-06",
     "end_date": "",
     "pay_from": "35.00",
     "pay_to": "35.00",
@@ -9420,11 +9420,17 @@
     "description": "Early Help & Prevention\nYJS Service- Youth Justice experience is essential.\nBradford Children and Families Trust operate hybrid working - However, there will be instances where employees are expected to be in the office for specific tasks or team days, as defined by the needs of the service.\nAG560 - 08.05.26",
     "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
     "accepted_at": "2026-05-11T10:49:41.271Z",
-    "scraped_at": "2026-06-16T16:23:09.871Z",
+    "scraped_at": "2026-07-01T11:09:02.229Z",
     "attachments": [
       {
         "filename": "Senior Social Worker CFT.pdf",
         "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5296477/File/220811",
+        "localPath": null,
+        "downloaded": false
+      },
+      {
+        "filename": "SW job profile Jan 25.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5296477/File/222538",
         "localPath": null,
         "downloaded": false
       }
