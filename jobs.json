@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 2E35 / 1",
+    "source": "xms",
+    "source_ref": "000B 2E35 / 1",
+    "job_id": "000B 2E35 / 1",
+    "job_title": "Personal Adviser [Tameside MBC]",
+    "client": "Tameside Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Old Street, Ashton-u-Lyne, Tameside, OL6 7SG",
+    "city": "Tameside",
+    "postcode": "OL6 7SG",
+    "start_date": "2026-07-20",
+    "end_date": "2026-10-26",
+    "pay_from": "18.34",
+    "pay_to": "20.86",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Leaving Care Person Advisor\n\nPlease note, candidates must hold a UK driving license, the role does include travelling.\n\n36 hours/ week Monday- Friday including flexibility where needed when young people live at a distance/ to meet service needs\n\nUmbrella - £23.33 - £26.53",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1448153?inst=1448153--Distribution--1636264555-false&_csrf=1ae10a0f-a34e-4ff5-9714-83bb45e7df92&_xmscs=ded24fe6cdac86b50629a131309eddd10114d31b7db3361e4319bec9641583ea1d877ccd536bca2e",
+    "accepted_at": "2026-07-01T12:04:38.494Z",
+    "scraped_at": "2026-07-01T12:04:38.494Z",
+    "attachments": [
+      {
+        "filename": "Personal Adviser (Leaving Care) JD PS.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138702?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2E35 _ 1/Personal Adviser (Leaving Care) JD PS.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5299752",
     "source": "comensura",
     "source_ref": "5299752",
@@ -20050,6 +20081,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR106846",
+    "source": "prism",
+    "source_ref": "OR106846",
+    "job_id": "OR106846",
+    "job_title": "ASC - Adult Social Worker (Mental Health) - Social Care Qualified",
+    "client": "Bromley Council",
+    "procurer": "Claire SYMONS",
+    "working_address": "Churchill Court, 2 Westmoreland Road, Bromley, Kent, BR1 1AS , United Kingdom",
+    "city": "Bromley",
+    "postcode": "BR1 1AS",
+    "start_date": "2026-07-13",
+    "end_date": "",
+    "pay_from": "24.51",
+    "pay_to": "32.00",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "The previous postholder left end of March 2026 - a locum is now required pending the possible recruitment of an AYSE from end of September, to support new pilot commencing as a \"spoke\" to the Mental Health Hub.",
+    "description": "We are looking for a qualified social worker with both secondary mental health and adult safeguarding experience, who has ideally previously worked as an Enquiry Officer, for a new role in our new “Social Work Pilot”  which is due to commence in the Summer. The pilot will act as a satellite team to the Mental Health Hub, and the successful applicant would be an intrinsic part of the pilot's successful delivery and development as we seek to imbed improved Care Act compliance, quality and assurance within our primary care mental health offer. The majority of service users will be new to mental health, and as such we need someone who is able to evaluate needs, risks and circumstances quickly, undertaking comprehensive Sec 9 assessments in the person's home and confident in determining if a Sec 42 enquiry should be considered.\n\nHere in Bromley, London's largest borough, we deliver an integrated mental health between health and social care and in partnership with the 3rd sector. Whilst this does result in organisational challenges it also offers provides the opportunity to deliver the best and most joined up MDT approach to our residents. Based between the Civic Centre opposite Bromley South station and Rachel Notley House in Beckenham (to be co-located with colleagues from Mind and NHS psychology) you will be supported by an exceptionally experienced and passionate senior social worker.  Working from home may be possible, but only 1 day a week. The role is liable to an extension as we expect the pilot to become \"business as usual\".\n\nBromley is well served by public transport, however parking is also available.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=6a972f50-0825-4141-af21-9c0f1b7d7f70",
+    "accepted_at": null,
+    "scraped_at": "2026-07-01T12:05:02.329Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR106614",
