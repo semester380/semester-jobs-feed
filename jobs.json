@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5299931",
+    "source": "comensura",
+    "source_ref": "5299931",
+    "job_id": "5299931",
+    "job_title": "Mou - Childrens Social Care - Iro (Social Care Qualified)",
+    "client": "Darlington Borough Council",
+    "procurer": null,
+    "working_address": "Town Hall, DL1 5QT",
+    "city": "Town Hall",
+    "postcode": "DL1 5QT",
+    "start_date": "2026-07-13",
+    "end_date": "",
+    "pay_from": "34.45",
+    "pay_to": "34.45",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "This is to cover a permanent member of the team who is seconded for 6 months. The position is Independent Reviewing Officer. The office base is in Darlington, some home working is possible.\nWe are am looking for a Social Work Practitioner, with a minimum of 5 years post qualification experience to chair a range of statutory meetings; primarily Child Protection Conferences and Child in our Care Reviews. These meetings are face to face meetings. The CP Conference are all held in Darlington.",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-01T21:45:12.251Z",
+    "scraped_at": "2026-07-01T21:45:12.251Z",
+    "attachments": [
+      {
+        "filename": "Independent Reviewing Officer JD and PS- Oct 2022.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5299931/File/222812",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5299927",
     "source": "comensura",
     "source_ref": "5299927",
