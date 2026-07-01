@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5299803",
+    "source": "comensura",
+    "source_ref": "5299803",
+    "job_id": "5299803",
+    "job_title": "Children'S Continuing Care Nurse (Social Care - Qualified)",
+    "client": "Lancashire County Council",
+    "procurer": null,
+    "working_address": "County Hall, PR1 8RE",
+    "city": "County Hall",
+    "postcode": "PR1 8RE",
+    "start_date": "2026-07-27",
+    "end_date": "",
+    "pay_from": "27.65",
+    "pay_to": "27.65",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "See attached JD for full details\nDept - PC&CH Policy Information and Commissioning (Start Well)\nLocation - Remote. Desktop work with virtual meetings. Potential for occasional meeting in County Hall, Preston\nThe postholder will need to collect a laptop and have an introduction day with the the team at County Hall at the start of the assignment but is likely to work from home throughout the term of the assignment.\nThe start date can be as soon as possible after the interviews. The end date is a review at 4 weeks, and there is possibility that the term will be extended.",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-01T15:39:48.146Z",
+    "scraped_at": "2026-07-01T15:39:48.146Z",
+    "attachments": [
+      {
+        "filename": "JD Children’s Continuing Care Nurse (Checklist & Referral).pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5299803/File/222731",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 2FA7 / 1",
     "source": "xms",
     "source_ref": "000B 2FA7 / 1",
