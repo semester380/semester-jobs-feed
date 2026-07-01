@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5298835",
+    "source": "comensura",
+    "source_ref": "5298835",
+    "job_id": "5298835",
+    "job_title": "Send Customer Services & Complaints Officer (Jajb4510 - G9) (Social and Healthcare Qualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Floor E221020, Delamere House, CW1 2JZ",
+    "city": "Delamere House",
+    "postcode": "CW1 2JZ",
+    "start_date": "2026-06-28",
+    "end_date": "",
+    "pay_from": "25.18",
+    "pay_to": "25.18",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A Recruitment Request number is required for all Orders, please state here:\n18527\nPREVIOUS POST HOLDER LEFT LA.\nPlease confirm which DBS is required for this role.\n5. Enhanced – including barred:\nc. Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-01T08:12:46.054Z",
+    "scraped_at": "2026-07-01T08:12:46.054Z",
+    "attachments": [
+      {
+        "filename": "JAJB4510 - SEND Cust. Serv & Com Off JD&PS Appendix 4.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5298835/File/222156",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5299575",
     "source": "comensura",
     "source_ref": "5299575",
