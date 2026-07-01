@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 2EAC / 1",
+    "source": "xms",
+    "source_ref": "000B 2EAC / 1",
+    "job_id": "000B 2EAC / 1",
+    "job_title": "Occupational Therapist Tameside",
+    "client": "Tameside Metropolitan Borough Council, GM Collaboration",
+    "procurer": "GM Collaboration",
+    "working_address": "Gardenfold Way, Droylsden, Tameside, Greater Manchester, M43 7XU, United Kingdom",
+    "city": "Tameside",
+    "postcode": "M43 7XU",
+    "start_date": "2026-08-03",
+    "end_date": "2026-11-30",
+    "pay_from": "21.24",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Tameside Require an OT with experience of Disabled Facilities Grant applications and Children.\n\nThis role sits within a dynamic Children with Disabilities (CWD) Team, supporting children and young people with complex needs to maximise their independence, safety and participation within their home environments and wider community. The postholder will deliver high quality occupational therapy assessments and interventions, with a strong focus on functional independence, safety, and improving outcomes for children and their families.\n\n\n\nA key aspect of the role is undertaking specialist housing and environmental assessments, identifying the need for adaptations to enable children to access essential facilities within their homes. This includes working with families to understand their individual circumstances and ensuring that recommendations are person-centred, proportionate and aligned with best practice.\n\n\n\nThe Occupational Therapist will work in close partnership with the Home Improvement Agency (HIA) to facilitate Disabled Facilities Grants (DFG), supporting families through what can often be a complex process. This includes providing professional recommendations to inform DFG applications, collaborating with HIA caseworkers and surveyors to design appropriate adaptations, and ensuring that proposed works meet the assessed needs of the child. The postholder will remain involved throughout the adaptation journey, from initial assessment through to completion, ensuring that outcomes are safe, effective and sustainable.\n\nThe role requires strong multi-agency working, with regular collaboration with social workers, health professionals, education settings and housing partners to ensure a coordinated and holistic approach to care planning. The successful candidate will need to demonstrate excellent communication skills, the ability to manage a varied caseload, and confidence in making clinical decisions in complex situations.\n\nThis is an excellent opportunity to contribute to meaningful and impactful work that directly improves the lives of children with disabilities and their families, while gaining valuable experience in specialist areas such as housing adaptations, accessibility, and partnership working across services.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1448193?backToItem=&initialLoad=&tab=&_xmscs=3757e1f86e905add20105261690c11b2629458728df1e1d5eccb872bce8b6797b69391da4820fb7c",
+    "accepted_at": "2026-07-01T12:19:15.964Z",
+    "scraped_at": "2026-07-01T12:19:15.964Z",
+    "attachments": [
+      {
+        "filename": "G:XMSAGMAJObsAugustOccupational Therapist JD &PS.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138729?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2EAC _ 1/G_XMSAGMAJObsAugustOccupational Therapist JD &PS.doc",
+        "downloaded": true
+      },
+      {
+        "filename": "705 OT advert.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138770?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2EAC _ 1/705 OT advert.docx",
+        "downloaded": true
+      },
+      {
+        "filename": "705 OT CWD.docx 28.4.2026.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138771?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2EAC _ 1/705 OT CWD.docx 28.4.2026.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 2E35 / 1",
     "source": "xms",
     "source_ref": "000B 2E35 / 1",
