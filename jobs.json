@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5299877",
+    "source": "comensura",
+    "source_ref": "5299877",
+    "job_id": "5299877",
+    "job_title": "Family Support Worker (Social Care - Qualified)",
+    "client": "Lancashire County Council",
+    "procurer": null,
+    "working_address": "Lancaster Central Library, LA1 1HY",
+    "city": "Lancaster Central Library",
+    "postcode": "LA1 1HY",
+    "start_date": "2026-08-01",
+    "end_date": "",
+    "pay_from": "18.81",
+    "pay_to": "18.81",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Dept - Children Families wellbeing service - Family Intensive support team\nLocations - Lancaster Lune Park and Morecambe Poulton Centre\nInterviews - 21/7\nKnowledge and experience of safeguarding children and families.\nKnowledge of undertaking an assessment of need and implementation of a multi agency plan\nSee attached JD for full details\nPlease attach expected pay rate when submitting candidate.",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-01T19:57:15.188Z",
+    "scraped_at": "2026-07-01T19:57:15.188Z",
+    "attachments": [
+      {
+        "filename": "New JDPS Family Support Worker - updated.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5299877/File/222776",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5299778",
     "source": "comensura",
     "source_ref": "5299778",
