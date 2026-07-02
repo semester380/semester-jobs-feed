@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 3015 / 1",
+    "source": "xms",
+    "source_ref": "000B 3015 / 1",
+    "job_id": "000B 3015 / 1",
+    "job_title": "Children's Senior Social Worker [Rochdale ]",
+    "client": "Rochdale Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Smith Street, Rochdale, OL16 1XU, United Kingdom",
+    "city": "Rochdale",
+    "postcode": "OL16 1XU",
+    "start_date": "2026-07-27",
+    "end_date": "2026-10-31",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Suppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.\n\n£40 per hour\n\nRochdale Family Support and Protection Service are looking for Advanced Practitioners.\n\nRochdale Family Support and Protection Service need enthusiastic and committed Advanced Practitioners to come and work with us!\n\nAdvanced Practitioners are vital in our service and support our Social Workers and the Team Managers in the operational management of the team.  Advanced Practitioners support us with the performance and quality of the service and this is a great opportunity to enhance and build management skills while continuing to work with children and families with a reduced caseload.\n\nRochdale is currently in an exciting transition into the families first model. This is a really exciting time for Rochdale and we need Advanced Practitioners to support us in implementing this transformation to ensure children receive the right help, at the right time, so they can safely remain within their families wherever possible.\n\n\nIn return for your commitment we can offer you the following:\n- A manageable caseload - to support you in engaging in real direct work with children and families\n- TOIL to fit around your family and personal life\n- Regular reflective supervision with experienced managers\n- Access to our new and existing training opportunities which includes motivational interviewing\n- A friendly modern and award winning working environment\n- Excellent agile working arrangements\n- A supportive and friendly team of Social Workers and Managers who love what they do!\n\n\nOur agency workers are seen as an important resource for us and as such are given the same level of support and opportunities as our permanent staff.\n\nWe are looking for 2 agency workers who have significant experience in child protection work, including family safeguarding and completing care proceedings.\nSignificant experience to good compliance, recording and timely completion of work.\nSignificant experience in support ASYE’s in the work place.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1448487?backToItem=&initialLoad=&tab=&_xmscs=11c34e9cba2002badd392746fe5aa0fc03ab099128f6edbf8183bfca1b9ca92c5e6f9128b02bc312",
+    "accepted_at": "2026-07-02T09:11:30.275Z",
+    "scraped_at": "2026-07-02T09:11:30.275Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138801?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3015 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "JD Grade 9 Advanced Practitioner (attachments updated Oct17).doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138802?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3015 _ 1/JD Grade 9 Advanced Practitioner (attachments updated Oct17).doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5299871",
     "source": "comensura",
     "source_ref": "5299871",
