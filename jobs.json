@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5299944",
+    "source": "comensura",
+    "source_ref": "5299944",
+    "job_id": "5299944",
+    "job_title": "Social Worker - Childrens Services (Social Care - Qualified)",
+    "client": "Lancashire County Council",
+    "procurer": null,
+    "working_address": "County Hall, PR1 8RE",
+    "city": "County Hall",
+    "postcode": "PR1 8RE",
+    "start_date": "2026-08-03",
+    "end_date": "",
+    "pay_from": "36.00",
+    "pay_to": "36.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Social Worker, Kinship Assessment Team\nChildren's Services - Fostering\nLooking for a candidate with experience in completing assessments of Kinship Carers / Foster Carers and with knowledge of Fostering legislation and policy.\nInterviews - ASAP\nSee attached JD for full details",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-02T19:16:25.820Z",
+    "scraped_at": "2026-07-02T19:16:25.820Z",
+    "attachments": [
+      {
+        "filename": "Social Worker.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5299944/File/222822",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5299930",
     "source": "comensura",
     "source_ref": "5299930",
