@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5300020",
+    "source": "comensura",
+    "source_ref": "5300020",
+    "job_id": "5300020",
+    "job_title": "Residential Night Care Officer - Band 3 (Social Care Unqualified)",
+    "client": "Northumberland County Council",
+    "procurer": null,
+    "working_address": "Phoenix House, NE22 6ED",
+    "city": "Phoenix House",
+    "postcode": "NE22 6ED",
+    "start_date": "2026-07-16",
+    "end_date": "",
+    "pay_from": "16.72",
+    "pay_to": "16.72",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "We require night shift cover for a period of around 3 months, due to vacancies in the team.",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-03T14:50:40.703Z",
+    "scraped_at": "2026-07-03T14:50:40.703Z",
+    "attachments": [
+      {
+        "filename": "NEW Residential Night Care Worker 1986.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5300020/File/222876",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5300036",
     "source": "comensura",
     "source_ref": "5300036",
