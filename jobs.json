@@ -1,5 +1,79 @@
 [
   {
+    "item_id": "000B 30BA / 1",
+    "source": "xms",
+    "source_ref": "000B 30BA / 1",
+    "job_id": "000B 30BA / 1",
+    "job_title": "Children's Social Worker [Salford]",
+    "client": "Salford City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Chorley Road, Swinton, Greater Manchester, M27 5DA, United Kingdom",
+    "city": "Swinton",
+    "postcode": "M27 5DA",
+    "start_date": "2026-07-27",
+    "end_date": "2026-10-17",
+    "pay_from": "39",
+    "pay_to": "39",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.\n\nAll candidates for this post need to be qualified for at least 5yrs and at level 3 status.\n\nMASH SOCIAL WORKER Hybrid arrangements of at least 2 office days",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1449060?backToItem=&initialLoad=&tab=&_xmscs=2b37096be7d0eeee64242dd7c5bcd286d1336b7dd9b0cd61bcdf358b85a54eb402b517f33a848caa",
+    "accepted_at": "2026-07-03T10:29:48.509Z",
+    "scraped_at": "2026-07-03T10:29:48.509Z",
+    "attachments": [
+      {
+        "filename": "6173_Why work for TeamSalford_v7 (1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138828?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 30BA _ 1/6173_Why work for TeamSalford_v7 (1).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138829?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 30BA _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "6171_ThisIsSalford_Feb2023_v3 (1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138830?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 30BA _ 1/6171_ThisIsSalford_Feb2023_v3 (1).pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
+    "item_id": "000B 30D1 / 1",
+    "source": "xms",
+    "source_ref": "000B 30D1 / 1",
+    "job_id": "000B 30D1 / 1",
+    "job_title": "Social Worker / Best Interest Assessor [Trafford]",
+    "client": "Trafford Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "TALBOT ROAD, MANCHESTER, GREATER MANCHESTER, M32 0TH, United Kingdom",
+    "city": "MANCHESTER",
+    "postcode": "M32 0TH",
+    "start_date": "2026-08-03",
+    "end_date": "2026-10-04",
+    "pay_from": "36",
+    "pay_to": "36",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Senior Best Interest Assessor\n\nLocation: Trafford Town Hall\n\nWorking Arrangements:  Hybrid            Working Hours: Full Time\n\nStart Date: 13/07/2026  End Date:30/09/2026\n\nWe are seeking an experienced 2 x senior Best Interests Assessor (BIA) to provide short-term capacity within our service due to maternity leave and temporary workforce gaps. This role is essential to ensure continuity of service, maintain assessment throughput, and support statutory responsibilities during a period of reduced staffing.\n\nKey Responsibilities - Undertake timely Best Interests Assessments in line with the Mental Capacity Act and DoLS legislation\n\nComplete high-quality, evidence-based assessments and reports\n\nManage a varied caseload, ensuring all work is prioritised effectively\n\nWork collaboratively with multi-disciplinary professionals and care providers\n\nContribute to maintaining internal assessment capacity, reducing reliance on external providers\n\nEnsure practice is compliant with legal frameworks, local policy, and best practice guidance\n\nEssential Requirements - Qualified Social Worker, Nurse, OT, or Psychologist with BIA qualification\n\nExperience completing DoLS assessments within a local authority setting\n\nStrong working knowledge of:  Mental Capacity Act (MCA)\n\nDeprivation of Liberty Safeguards (DoLS)\n\nAbility to work autonomously and manage competing priorities\n\nExcellent report-writing and analytical skills\n\nDesirable - Familiarity with Liquid Logic or similar case management systems",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1448953?backToItem=&initialLoad=&tab=&_xmscs=b489fbe905c07297c43ba466b99831c7325e577dd64e0d161ce5c1e6d8cddf9e5bb6f5f25fd1c503",
+    "accepted_at": "2026-07-03T09:26:27.096Z",
+    "scraped_at": "2026-07-03T09:26:27.096Z",
+    "attachments": [
+      {
+        "filename": "Role-Profile Best Interest Assessor B8.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138840?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 30D1 _ 1/Role-Profile Best Interest Assessor B8.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5299944",
     "source": "comensura",
     "source_ref": "5299944",
