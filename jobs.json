@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 32C8 / 1",
+    "source": "xms",
+    "source_ref": "000B 32C8 / 1",
+    "job_id": "000B 32C8 / 1",
+    "job_title": "Childrens Team Manager - Childrens Services [Tameside]",
+    "client": "Tameside Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Old Street, Ashton-u-Lyne, Tameside, , OL6 7SG",
+    "city": "Tameside",
+    "postcode": "OL6 7SG",
+    "start_date": "2026-08-03",
+    "end_date": "2026-10-05",
+    "pay_from": "27.36",
+    "pay_to": "46",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Fostering Team Manager - Supervision and Support.\n\nThe Team Manager for Fostering Support and Supervision is responsible for providing strategic and operational leadership to the Supervising Social Work Team within Children's Services. The postholder will lead and support a team of Supervising Social Workers to deliver high-quality fostering support and supervision services, ensuring that foster carers receive effective guidance and support and that children achieve positive outcomes in safe and stable placements.\n\nThe role focuses on the effective management and development of fostering support and supervision services, ensuring that foster carers receive the guidance, training and support required to meet the needs of children and young people in their care. The Team Manager will ensure that all work is delivered in line with fostering regulations, statutory guidance, council policies and professional standards.\n\nAs a senior leader within the service, the postholder will champion excellence in social work practice, promoting evidence-based approaches, early intervention and effective care planning. They will ensure that work is appropriately allocated, planned, monitored and reviewed, meeting agreed performance targets and quality standards. Through effective management oversight, the Team Manager will drive continuous improvement and ensure that services remain responsive to the needs of children, families and foster carers.\n\nThe Team Manager will contribute to the strategic development of fostering services, supporting service improvement initiatives and helping to shape future practice. Working collaboratively with internal colleagues, partner agencies and external stakeholders, the postholder will play a key role in delivering service objectives and improving outcomes for looked-after children.\n\nA key responsibility of the role is to promote quality assurance and compliance across the service. The postholder will implement and maintain effective audit and performance monitoring systems, ensuring that practice reflects current legislation, regulations, guidance and professional standards. They will identify areas for development, implement improvement plans and support a culture of reflective practice and learning.\n\nThe Team Manager will be responsible for the recruitment, supervision, performance management and professional development of staff within the team. Through effective leadership, coaching and support, the postholder will foster a positive culture of accountability, collaboration and continuous improvement, ensuring that staff are equipped to deliver high-quality services.\n\nThe postholder will manage financial, physical and human resources effectively, ensuring services are delivered efficiently and represent good value for money. They will contribute to service planning, provide information to support decision-making and ensure resources are deployed to achieve the best possible outcomes for children and families.\n\nThe Team Manager will uphold and promote safeguarding principles at all times, ensuring that the welfare and protection of children and young people remain central to all aspects of practice. They will demonstrate strong professional leadership, sound judgement and a commitment to equality, diversity, inclusion and anti-discriminatory practice.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1450305?backToItem=&initialLoad=&tab=&_xmscs=81aed1eb339930267c162df712c5418b745103ab89b5115460789cf15b0f725bfca4d85fde234615",
+    "accepted_at": "2026-07-07T09:51:37.417Z",
+    "scraped_at": "2026-07-07T09:51:37.417Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138928?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 32C8 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 32A9 / 1",
     "source": "xms",
     "source_ref": "000B 32A9 / 1",
