@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5300337",
+    "source": "comensura",
+    "source_ref": "5300337",
+    "job_id": "5300337",
+    "job_title": "Social Worker (Childrens) (Jajb4097 - G10) (Social and Healthcare Qualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Floor 2nd Floor, Macclesfield Town Hall, SK10 1EA",
+    "city": "Macclesfield Town Hall",
+    "postcode": "SK10 1EA",
+    "start_date": "2026-07-07",
+    "end_date": "",
+    "pay_from": "39.00",
+    "pay_to": "39.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A Recruitment Request number is required for all Orders, please state here: RW Numbers 20033 and 20114, these cover the two posts both for 6mths.\nPlease note one post is to cover maternity leave up to Feb 2027\nPlease confirm which DBS is required for this role.\n5. Enhanced – including barred:\nc. Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-07T16:34:04.452Z",
+    "scraped_at": "2026-07-07T16:34:04.452Z",
+    "attachments": [
+      {
+        "filename": "JAJB4097 - Social Worker - JD and PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5300337/File/223078",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 2F79 / 1",
     "source": "xms",
     "source_ref": "000B 2F79 / 1",
