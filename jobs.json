@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 2F79 / 1",
+    "source": "xms",
+    "source_ref": "000B 2F79 / 1",
+    "job_id": "000B 2F79 / 1",
+    "job_title": "Social Worker Level 3 - Childrens & Families",
+    "client": "Calderdale Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Princess Buildings, Princess Street, Halifax, , HX1 1TS",
+    "city": "Halifax",
+    "postcode": "HX1 1TS",
+    "start_date": "2026-07-20",
+    "end_date": "2026-09-30",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Level 3 experienced social worker required for a busy but friendly MAST Team in Calderdale - covering dealing with enquiries from the public, professionals, screening to determine level of risk and strategy meetings where required.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1450904?backToItem=&initialLoad=&tab=&_xmscs=33894d23774a7bff53cd3151a6ebd8deee96bf41e283914d52be957f119709cc2812f6e2f2cb666f",
+    "accepted_at": "2026-07-07T15:37:04.537Z",
+    "scraped_at": "2026-07-07T15:37:04.537Z",
+    "attachments": [
+      {
+        "filename": "Social_Worker_Level_3.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138767?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2F79 _ 1/Social_Worker_Level_3.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138768?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2F79 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000A E65A / 1",
     "source": "xms",
     "source_ref": "000A E65A / 1",
