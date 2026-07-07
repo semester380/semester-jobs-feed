@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000A E65A / 1",
+    "source": "xms",
+    "source_ref": "000A E65A / 1",
+    "job_id": "000A E65A / 1",
+    "job_title": "Personal Advisor [Oldham]",
+    "client": "Oldham Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "George Street, , Oldham, Greater Manchester, OL1 1HD, United Kingdom",
+    "city": "Oldham",
+    "postcode": "OL1 1HD",
+    "start_date": "2026-08-01",
+    "end_date": "2026-09-30",
+    "pay_from": "16.5",
+    "pay_to": "16.5",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Umbrella rate £20.92\n\n\n\n1. NVQ III in a related subject such as Child Care or Health & Social Care, or equivalent\n2. Recent experience of working with young people preferably within a Post 16/leaving Care setting.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1450739?backToItem=&initialLoad=&tab=&_xmscs=2dbbd3c3e6570f3ee99cd478513506f91dfe614316ae183cd3ee0397af24c3ee3f5c94183afcb5ed",
+    "accepted_at": "2026-07-07T13:58:00.181Z",
+    "scraped_at": "2026-07-07T13:58:00.181Z",
+    "attachments": [
+      {
+        "filename": "Personal Advisor JD V3.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/134997?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000A E65A _ 1/Personal Advisor JD V3.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 2947 / 1",
     "source": "xms",
     "source_ref": "000B 2947 / 1",
