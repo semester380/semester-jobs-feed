@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 3393 / 1",
+    "source": "xms",
+    "source_ref": "000B 3393 / 1",
+    "job_id": "000B 3393 / 1",
+    "job_title": "ADHOC RCO Sleep In Acorn Lodge",
+    "client": "Children, Young People and Families, City of Doncaster Council",
+    "procurer": null,
+    "working_address": "17 Oaklands Avenue, Hatfield, Doncaster, , DN7 6JL",
+    "city": "Doncaster",
+    "postcode": "DN7 6JL",
+    "start_date": "2026-07-20",
+    "end_date": "2026-08-29",
+    "pay_from": "12.71",
+    "pay_to": "12.71",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Adhoc sleep in shifts",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1450544?backToItem=&initialLoad=&tab=&_xmscs=07ef61aa2b8d599d1241947e1d1d462302bbd65977b4e78e39d25dc6a9cdcbd50c02cd2667afd5a5",
+    "accepted_at": "2026-07-07T11:24:37.298Z",
+    "scraped_at": "2026-07-07T11:24:37.298Z",
+    "attachments": [
+      {
+        "filename": "Residential Care Officer JD (2).doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138974",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3393 _ 1/Residential Care Officer JD (2).doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 295D / 1",
     "source": "xms",
     "source_ref": "000B 295D / 1",
