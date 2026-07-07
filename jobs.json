@@ -1,5 +1,79 @@
 [
   {
+    "item_id": "000B 32C5 / 1",
+    "source": "xms",
+    "source_ref": "000B 32C5 / 1",
+    "job_id": "000B 32C5 / 1",
+    "job_title": "Social Worker Team Manager (Children)",
+    "client": "Wakefield Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Normanton office, , Wakefield, , WF6 2DZ",
+    "city": "Wakefield",
+    "postcode": "WF6 2DZ",
+    "start_date": "2026-07-27",
+    "end_date": "2026-10-26",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "To manager a locality team of 8 social workers undertaking assessments, cin, CP and PLO/court work. Must have experience of managing one of the fieldwork team previously- some hybrid ie 2 days a week at home on non duty week- duty is 1 in 4 weeks. Post is to cover maternity so could be extended",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1450560?backToItem=&initialLoad=&tab=&_xmscs=97996674a795750606416c79a43f2a1f93ec04a073b67ce791afb2f2fc83c3b60822f20f198ec1b8",
+    "accepted_at": "2026-07-07T12:41:33.135Z",
+    "scraped_at": "2026-07-07T12:41:33.135Z",
+    "attachments": [
+      {
+        "filename": "Social Worker Team Manager (Children).doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138926?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 32C5 _ 1/Social Worker Team Manager (Children).doc",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138927?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 32C5 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
+    "item_id": "000B 2EA3 / 1",
+    "source": "xms",
+    "source_ref": "000B 2EA3 / 1",
+    "job_id": "000B 2EA3 / 1",
+    "job_title": "Social Worker Team Manager (Children)",
+    "client": "Wakefield Hiring, Yorkshire Collaboration",
+    "procurer": "Yorkshire Collaboration",
+    "working_address": "Headquarters, Havertop Lane, Normanton, West Yorkshire, WF6 1FD",
+    "city": "Normanton",
+    "postcode": "WF6 1FD",
+    "start_date": "2026-07-20",
+    "end_date": "2026-09-28",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "A fantastic opportunity has arisen to join our exceptional Management Team within Wakefield’s Child Exploitation and Missing Service.\n\nAbout the Role:\n\nAs Team Manager, you will lead a team of skilled practitioners working with children and young people who are at risk of, or experiencing, exploitation and missing episodes.\n\nYou will:\n\nProvide leadership, supervision and support to practitioners, including oversight of complex casework\nDrive high-quality practice in risk assessment, safety planning and intervention delivery\nLead and coordinate multi-agency responses to exploitation and missing children\nChair meetings and contribute to complex decision-making forums\nEnsure practice is informed by contextual safeguarding and trauma-informed approaches\nSupport the identification of emerging risks, themes and community hotspots\nWork with partners to disrupt exploitation, reduce missing episodes and improve outcomes\nPromote continuous learning, reflective practice and service improvement\n\nWhat will be expected from me?\n\nManaging a team of Child & Family Workers, you’ll help us achieve our aim of delivering outcomes for the children, young people, and families of Wakefield. It’s about showing strong leadership, driving continuous improvement, and putting the needs of children first, always.\n\nHere we’re looking for only the best – those with the skills, motivation, and passion to help us move forwards. You will also:\n\nBe a qualified and experienced Social Worker with a strong track record in complex casework\nBe able to evidence strong management and leadership experience\nBuild and maintain highly effective professional relationships\nProvide both support and constructive challenge to practitioners\nBe passionate about delivering high-quality services and positive change\nSupport the Service Manager and contribute to continuous service improvement\nStrong experience of Multi-Agency Exploitation / MACE / exploitation hubs\nThe successful applicant will be required to undergo Police vetting\nHybrid working will be considered and discussed at interview.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1450590?backToItem=&initialLoad=&tab=&_xmscs=91adc17151988eabf5976cc2c9861ed7d849ea74ea819ecc9d9895440bb9a7775cf001ec1629c999",
+    "accepted_at": "2026-07-07T12:40:18.889Z",
+    "scraped_at": "2026-07-07T12:40:18.889Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138724?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2EA3 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      },
+      {
+        "filename": "Social Worker Team Manager (Children).doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138725?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2EA3 _ 1/Social Worker Team Manager (Children).doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 3393 / 1",
     "source": "xms",
     "source_ref": "000B 3393 / 1",
