@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 2947 / 1",
+    "source": "xms",
+    "source_ref": "000B 2947 / 1",
+    "job_id": "000B 2947 / 1",
+    "job_title": "Personal Advisor - Leaving Care",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Etrop Court, Rowlandsway, Manchester, Lancashire, M22 5RG, United Kingdom",
+    "city": "Manchester",
+    "postcode": "M22 5RG",
+    "start_date": "2026-06-29",
+    "end_date": "2026-09-30",
+    "pay_from": "18.16",
+    "pay_to": "18.16",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Umbrella rate £23.10",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1450700?backToItem=&initialLoad=&tab=&_xmscs=cf144d4272bdfa03bcf40051c105b8aa439c7c0e68fdacbc38ee75e756713b29d6db7e0bafc8dddb",
+    "accepted_at": "2026-07-07T13:53:54.547Z",
+    "scraped_at": "2026-07-07T13:53:54.547Z",
+    "attachments": [
+      {
+        "filename": "Personal Advisor, Leaving Care.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138418?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2947 _ 1/Personal Advisor, Leaving Care.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 2ED6 / 1",
     "source": "xms",
     "source_ref": "000B 2ED6 / 1",
