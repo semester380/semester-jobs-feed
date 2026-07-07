@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 32EE / 1",
+    "source": "xms",
+    "source_ref": "000B 32EE / 1",
+    "job_id": "000B 32EE / 1",
+    "job_title": "Children's Social Worker [Bolton]",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Castleton Street, Tonge Moor, Bolton, Lancashire, BL2 2JW, United Kingdom",
+    "city": "Bolton",
+    "postcode": "BL2 2JW",
+    "start_date": "2026-08-10",
+    "end_date": "2026-10-30",
+    "pay_from": "37",
+    "pay_to": "37",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Based at Castle Hill working across the borough the role is to provide purposeful, professional social work duty service to children and families and partner agencies within the Integrated Front Door in accordance with statutory requirements and Departmental Policies.\n\nArrange services and screen referrals which require further assessment\nContribute to ‘front door’ duty provision\nGather information to decide if Section 47 (Child Protection) enquiries are required or if a children and family needs assessment is needed.\nProvide a duty service to all office visitors\n\n\n\nCandidates must be able to meet the needs of the service and be able to be office based in Bolton.\n\nFor full duties see the attached JD/PS\n\nFree on-site parking\n\n37 hours per week – full-time post\n\nReferences will be requested for any candidates offered an interview and DBS requested for any candidate offered a post\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1450407?backToItem=&initialLoad=&tab=&_xmscs=a52504ee7e94dfab1f68b003b0e222f52fd14632f86d995c1e3d87fb275096f2f910906112b04ed6",
+    "accepted_at": "2026-07-07T10:25:04.161Z",
+    "scraped_at": "2026-07-07T10:25:04.161Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138939?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 32EE _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "Bolton Childrens EVP 23 (004).docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138940?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 32EE _ 1/Bolton Childrens EVP 23 (004).docx",
+        "downloaded": true
+      },
+      {
+        "filename": "IFD Job Description and Person Specification November 2023.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138941?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 32EE _ 1/IFD Job Description and Person Specification November 2023.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 252D / 1",
     "source": "xms",
     "source_ref": "000B 252D / 1",
