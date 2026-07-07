@@ -1,5 +1,66 @@
 [
   {
+    "item_id": "000B 295D / 1",
+    "source": "xms",
+    "source_ref": "000B 295D / 1",
+    "job_id": "000B 295D / 1",
+    "job_title": "Approved Mental Health Professional (AMHP) Emergency Duty Service [Manchester City Council]",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Philips Park Road, Beswick, Manchester, Lancashire, M11 3FU, United Kingdom",
+    "city": "Manchester",
+    "postcode": "M11 3FU",
+    "start_date": "2026-08-10",
+    "end_date": "Mon 11/01/2027",
+    "pay_from": "45",
+    "pay_to": "45",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Manchester is an up and coming authority with the dissolving of the S75 agreement. It offers variety within a large geographical area.\n\nThe emergency duty team are a small team who cover the whole of Manchester out of hours for Mental Health Act assessments and all emergency adult social care.\n\nEDS are looking for an agency AMHP for at least 6 months to join our friendly team.\n\nEDS work shifts over a rolling 7 week rota. You are employed for 35 hours per week however some weeks you will work less and some more to balance out at 35 hours per week.\n\nThe AMHPs will need to have a current warrant.\n\nIf you would like an informal discussion please contact Sam Walker 07932 643 865.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1450465?backToItem=&initialLoad=&tab=&_xmscs=6a347e76d58f8a600133129732c423e134e44fd1fcc8990827fd1838fb012ac6590c94e8ec42d332",
+    "accepted_at": "2026-07-07T10:33:00.730Z",
+    "scraped_at": "2026-07-07T10:33:00.730Z",
+    "attachments": [
+      {
+        "filename": "Social Worker. Children's Social Care.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138426?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 295D _ 1/Social Worker. Children's Social Care.doc",
+        "downloaded": true
+      },
+      {
+        "filename": "Adults Social Worker G7 Role Profile.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138427?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 295D _ 1/Adults Social Worker G7 Role Profile.doc",
+        "downloaded": true
+      },
+      {
+        "filename": "Social Worker. Learning Disability.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138428?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 295D _ 1/Social Worker. Learning Disability.doc",
+        "downloaded": true
+      },
+      {
+        "filename": "Approved Mental Health Professional (AMHP) Emergency Duty Service Role Profile (1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138429?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 295D _ 1/Approved Mental Health Professional (AMHP) Emergency Duty Service Role Profile (1).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "Social Worker. Families MASH.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138430?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 295D _ 1/Social Worker. Families MASH.doc",
+        "downloaded": true
+      },
+      {
+        "filename": "Social Worker Level 2 EDS.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138431?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 295D _ 1/Social Worker Level 2 EDS.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 32EE / 1",
     "source": "xms",
     "source_ref": "000B 32EE / 1",
