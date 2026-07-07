@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 2ED6 / 1",
+    "source": "xms",
+    "source_ref": "000B 2ED6 / 1",
+    "job_id": "000B 2ED6 / 1",
+    "job_title": "Family Help D P Manager [Wigan]",
+    "client": "Wigan Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "The Meadows family hub Ridyard Street, , Wigan, Greater Manchester, WN5 9RQ, United Kingdom",
+    "city": "Wigan",
+    "postcode": "WN5 9RQ",
+    "start_date": "2026-07-13",
+    "end_date": "2026-10-05",
+    "pay_from": "22.64",
+    "pay_to": "24.75",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Umbrella rate - £28.86 - £31.54\n\n\n\nDeputy practise manager in busy family help team based at the Family Hub at the Meadows.  There will be two deputy managers supervising around 6 family help workers each, supervised by a practise manager.\n\n\n\nSupport the Practice Manager in leading and developing Family Help services.\nProvide whole family supervision, coaching, and guidance to Family Help Practitioners.\nOversee complex cases and support effective decision-making to improve outcomes for children and families.\nEnsure safeguarding concerns are identified, assessed, and managed appropriately.\nMonitor the quality of assessments, plans, and interventions to ensure high standards of practice.\nPromote strengths-based, relationship-focused, and child-centred approaches.\nWork collaboratively with partner agencies, including schools, health services, police, and voluntary organisations.\nSupport workload management, case allocation, and performance monitoring.\nContribute to quality assurance activities, audits, and service improvement initiatives.\nAssist with staff development, recruitment, and performance management.\nEnsure compliance with legislation, policies, and safeguarding procedures.\nDeputise for the Practice Manager and provide operational leadership when required.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1450662?backToItem=&initialLoad=&tab=&_xmscs=c6eb0277fddca7fe267ef50443132c1ddefed91a4f8f0393ee69badfaaede1aa03fee9b18a73ec6d",
+    "accepted_at": "2026-07-07T13:48:28.668Z",
+    "scraped_at": "2026-07-07T13:48:28.668Z",
+    "attachments": [
+      {
+        "filename": "Job spec Family Help Deputy Practice Manager .docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138738?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2ED6 _ 1/Job spec Family Help Deputy Practice Manager .docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 32C5 / 1",
     "source": "xms",
     "source_ref": "000B 32C5 / 1",
