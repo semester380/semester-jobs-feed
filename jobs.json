@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 2F1F / 1",
+    "source": "xms",
+    "source_ref": "000B 2F1F / 1",
+    "job_id": "000B 2F1F / 1",
+    "job_title": "Children's Advanced Social Work Practitioner",
+    "client": "SCC_Authorising, Sheffield City Council",
+    "procurer": null,
+    "working_address": "Howden House, Union Street, Sheffield, South Yorkshire, S1 2SH, United Kingdom",
+    "city": "Sheffield",
+    "postcode": "S1 2SH",
+    "start_date": "2026-07-13",
+    "end_date": "2026-09-30",
+    "pay_from": "37",
+    "pay_to": "37",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are looking for an experienced, social work qualified professional who brings sound judgement, curiosity and confidence to complex safeguarding work. You will be comfortable offering challenge where needed, while maintaining respectful and constructive relationships with senior leaders, employers and partners.\n\nYou will be part of a team of three full‑time equivalent LADOs, working collaboratively to ensure consistent, proportionate and timely responses to concerns and allegations about adults in positions of trust. The team is well‑regarded by partners and offers a strong peer network for reflection, consultation and shared learning.\n\nAs a LADO, you will hold a central leadership role within the safeguarding partnership, ensuring that allegations and concerns about adults who work with children are managed in line with statutory guidance and local procedures.\n\nYou will bring substantial post-qualifying experience in children’s safeguarding, alongside a strong working knowledge of statutory guidance, legislation and best practice. You will be confident in analysing complex information and making clear, defensible decisions, and have experience of chairing or contributing to multi-agency safeguarding forums. You will communicate calmly, clearly and professionally, even in highly sensitive situations, and value reflective practice, collaboration and continuous learning as essential to high-quality safeguarding work.   The post is for 6 weeks to cover additional work and is full time 37 hours per week.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1451375?backToItem=&initialLoad=&tab=&_xmscs=fd96bdec84462caf5b091035011df571bae18b87821131534c066bba269b0b089b7a2dc00259e0ec",
+    "accepted_at": "2026-07-08T13:29:27.910Z",
+    "scraped_at": "2026-07-08T13:29:27.910Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138754?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2F1F _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      },
+      {
+        "filename": "LADO JD March 2026.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138756?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2F1F _ 1/LADO JD March 2026.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 24AE / 1",
     "source": "xms",
     "source_ref": "000B 24AE / 1",
