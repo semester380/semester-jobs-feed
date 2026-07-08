@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 32E0 / 1",
+    "source": "xms",
+    "source_ref": "000B 32E0 / 1",
+    "job_id": "000B 32E0 / 1",
+    "job_title": "Children's Team Manager [Bolton]",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Castleton Street, Tonge Moor, Bolton, Lancashire, BL2 2JW, United Kingdom",
+    "city": "Bolton",
+    "postcode": "BL2 2JW",
+    "start_date": "2026-08-10",
+    "end_date": "2026-10-02",
+    "pay_from": "40",
+    "pay_to": "45",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.\n\nRate up to £45ph depending on experience\n\nMust have experience of managing Leaving Care team\n\nAble to lead, participate, facilitate and take part in meetings\nExtensive knowledge an understanding of child care law and practice especially in key areas such as Children (Leaving Care) Act 2000, Children and Families Act 2014, and other relevant statutory child care guidance and legislation\nAbility to manage, develop and enhance the performance of teams and individuals and to delegate work to others and respond to poor performances.\nEnsure the service is focused upon and maintains the young persons needs and best interests at the centre of service and pathway planning with a range of cases from Eligible, Relevant, Former Relevant and Qualifying Young People.\nAble to maintain oversight of financial resources and costs linked to activity and  provide analysis as part of accountability in the use of resources.\n\nFor full duties see the attached JD/PS\n\nFree on-site parking\n\nFull-time role-37 hours per week -Flexible working in place- balance between working from home/office to meet the needs of the service\n\nReferences will be requested for any candidates offered an interview and DBS requested for any candidate offered a post",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1451460?backToItem=&initialLoad=&tab=&_xmscs=786a232d620ea18c7280d13cd33801f945d1e75c58be997886ad64e6f403f94348bdfb3292fdfed4",
+    "accepted_at": "2026-07-08T14:33:46.926Z",
+    "scraped_at": "2026-07-08T14:33:46.926Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138935?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 32E0 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "JDPS Leaving Care Team Manager March 2026.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138936?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 32E0 _ 1/JDPS Leaving Care Team Manager March 2026.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 2F1F / 1",
     "source": "xms",
     "source_ref": "000B 2F1F / 1",
