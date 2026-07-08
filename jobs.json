@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 323A / 1",
+    "source": "xms",
+    "source_ref": "000B 323A / 1",
+    "job_id": "000B 323A / 1",
+    "job_title": "Team Coordinator",
+    "client": "Kirklees Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Doctor Lane, Mirfield, Mirfield, , WF14 8DP",
+    "city": "Mirfield",
+    "postcode": "WF14 8DP",
+    "start_date": "2026-07-20",
+    "end_date": "2026-10-05",
+    "pay_from": "15.31",
+    "pay_to": "15.31",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Working across a rota covering 07:00 to 21:45, the Team Coordinator provides consistent operational leadership throughout the day, ensuring safe, effective, and person-centred care delivery.\n\nThe role has a strong focus on medication support and administration, including overseeing safe practices in line with policy, completing audits, addressing discrepancies, and supporting staff competency. The Team Coordinator ensures that all medication processes are followed correctly and that any concerns are escalated promptly.\n\nKey responsibilities include the completion, review, and ongoing monitoring of care plans and risk assessments, ensuring they are accurate, up to date, and reflective of individuals’ current needs. This includes responding to changing risks, supporting best practice, and maintaining compliance with regulatory standards.\n\nAs the first line manager for front-line staff, the Team Coordinator provides day-to-day supervision, guidance, and support. This includes allocating workload, overseeing rota delivery within the shift, responding to incidents, and ensuring staff adhere to policies and procedures. The role also involves mentoring staff, addressing performance issues, and promoting a positive, supportive working environment.\n\nThe Team Coordinator acts as a key point of contact for communication within the team and with wider professionals, ensuring effective coordination of care and maintaining high standards of service delivery at all times.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1451543?backToItem=&initialLoad=&tab=&_xmscs=b1de96a2291de01cba78289b2ce692a1be015acde789b12c15b3712924f4b42bb91c1294720d5048",
+    "accepted_at": "2026-07-08T15:41:49.927Z",
+    "scraped_at": "2026-07-08T15:41:49.927Z",
+    "attachments": [
+      {
+        "filename": "Team Co-ordinator (1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138911?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 323A _ 1/Team Co-ordinator (1).pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 32E0 / 1",
     "source": "xms",
     "source_ref": "000B 32E0 / 1",
