@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 24AE / 1",
+    "source": "xms",
+    "source_ref": "000B 24AE / 1",
+    "job_id": "000B 24AE / 1",
+    "job_title": "Resourcing Advisor",
+    "client": "Transport for GM HR, GM Collaboration",
+    "procurer": null,
+    "working_address": "2 Piccadilly Place, Manchester, M1 3BG, United Kingdom",
+    "city": "Manchester",
+    "postcode": "M1 3BG",
+    "start_date": "2026-07-29",
+    "end_date": "2026-09-30",
+    "pay_from": "17.05",
+    "pay_to": "19.38",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "A short-term Resourcing Advisor is required to provide additional operational support during this period of increased demand. This will enable the team to effectively manage higher vacancy volumes, maintain a timely and high-quality recruitment service, and continue to deliver a responsive and positive experience for hiring managers.\n\nThe Resourcing Advisor will support end-to-end recruitment activity, including coordinating campaigns, managing candidate pipelines, liaising with hiring managers, and supporting interview and onboarding processes.\n\nThe requirement is time-limited (3 months), reflecting a defined peak in workload while supporting continued service delivery and team resilience.\n\n37 hours per week Monday to Friday working.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1451296?backToItem=&initialLoad=&tab=&_xmscs=6346eca90359c4d7eecb9f982769f78427223b964c691b0f0b940e81ed05248aa47ca2baa3761e92",
+    "accepted_at": "2026-07-08T12:35:49.134Z",
+    "scraped_at": "2026-07-08T12:35:49.134Z",
+    "attachments": [
+      {
+        "filename": "CEO 29 Resourcing Advisor Career Grade.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138184?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 24AE _ 1/CEO 29 Resourcing Advisor Career Grade.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 057B / 1",
     "source": "xms",
     "source_ref": "000B 057B / 1",
