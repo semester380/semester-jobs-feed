@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5300457",
+    "source": "comensura",
+    "source_ref": "5300457",
+    "job_id": "5300457",
+    "job_title": "Supported/Independent Living Brokerage Officer (Secretarial and Administration)",
+    "client": "Lancashire County Council",
+    "procurer": null,
+    "working_address": "County Hall, PR1 8RE",
+    "city": "County Hall",
+    "postcode": "PR1 8RE",
+    "start_date": "2026-07-27",
+    "end_date": "",
+    "pay_from": "18.81",
+    "pay_to": "18.81",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Supported Accommodation and Independent Living Brokerage Officer\nChildren and Families Commissioning Service\nLocation - County Hall, Preston\nNumber of days per week in the Office (County Hall) – 2 days\nInitial 3 months but may be extended\nEssential - Communication Skills, IT skills, punctual, reliable, initiative.\nInterviews - ASAP\nSee attached JD for full details",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-09T16:58:08.762Z",
+    "scraped_at": "2026-07-09T16:58:08.762Z",
+    "attachments": [
+      {
+        "filename": "SAIL Grade 6 Brokerage Post - Advert .docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5300457/File/223139",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5300445",
     "source": "comensura",
     "source_ref": "5300445",
