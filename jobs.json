@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5299952",
+    "source": "comensura",
+    "source_ref": "5299952",
+    "job_id": "5299952",
+    "job_title": "Contact Service Manager (Jajb4443 - G10) (Social and Healthcare Qualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Knutsford Childrens Centre, WA16 8DB",
+    "city": "Knutsford Childrens Centre",
+    "postcode": "WA16 8DB",
+    "start_date": "2026-07-06",
+    "end_date": "",
+    "pay_from": "27.72",
+    "pay_to": "27.72",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A recruitment request is required for all Orders, please state here:\n20082\nAre you replacing a worker within an approved period - No\nPlease confirm which DBS is required for this role.\n5. Enhanced – including barred:\nc. Both children’s and adults\nThis information is required for all Orders. If you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-09T09:30:16.703Z",
+    "scraped_at": "2026-07-09T09:30:16.703Z",
+    "attachments": [
+      {
+        "filename": "Contact Service Manager Job Description and Specification.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5299952/File/222834",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5300404",
     "source": "comensura",
     "source_ref": "5300404",
