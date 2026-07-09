@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5300404",
+    "source": "comensura",
+    "source_ref": "5300404",
+    "job_id": "5300404",
+    "job_title": "Residential Practitioner (Bcft) (Social Care Qualified)",
+    "client": "Bradford Metropolitan District Council",
+    "procurer": null,
+    "working_address": "Floor 0, 45 Meadowlea Community Childrens Home, LS29 6HP",
+    "city": null,
+    "postcode": "LS29 6HP",
+    "start_date": "2026-06-29",
+    "end_date": "",
+    "pay_from": "20.58",
+    "pay_to": "20.58",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Cover for waking night staff on training through the day",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-09T09:13:05.603Z",
+    "scraped_at": "2026-07-09T09:13:05.603Z",
+    "attachments": [
+      {
+        "filename": "Residential Practitioner - BRD.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5300404/File/223106",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 3525 / 1",
     "source": "xms",
     "source_ref": "000B 3525 / 1",
