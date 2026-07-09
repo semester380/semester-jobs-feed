@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5300532",
+    "source": "comensura",
+    "source_ref": "5300532",
+    "job_id": "5300532",
+    "job_title": "Mou - Childrens Social Care - Social Worker (Social Care Qualified)",
+    "client": "Gateshead Council",
+    "procurer": null,
+    "working_address": "Gateshead Council Civic Centre, NE8 1HH",
+    "city": "Gateshead Council Civic Centre",
+    "postcode": "NE8 1HH",
+    "start_date": "2026-07-20",
+    "end_date": "",
+    "pay_from": "27.56",
+    "pay_to": "27.56",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "The primary role of this position is to support with fostering duty and family finding for our children and young people. Additional information about the role/duties are outlined in the files.",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-09T18:21:31.633Z",
+    "scraped_at": "2026-07-09T18:21:31.633Z",
+    "attachments": [
+      {
+        "filename": "Fostering Duty Social Worker.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5300532/File/223186",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5300457",
     "source": "comensura",
     "source_ref": "5300457",
