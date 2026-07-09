@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 3525 / 1",
+    "source": "xms",
+    "source_ref": "000B 3525 / 1",
+    "job_id": "000B 3525 / 1",
+    "job_title": "Safeguarding and Reviewing Officer",
+    "client": "Hiring - Leeds City Council, Leeds City Council",
+    "procurer": "Leeds City Council",
+    "working_address": "Belle Isle Centre, Enterprise Way, Middleton Road, Leeds, , LS10 3DZ, United Kingdom",
+    "city": "Leeds",
+    "postcode": "LS10 3DZ",
+    "start_date": "2026-07-13",
+    "end_date": "2026-07-26",
+    "pay_from": "25.54",
+    "pay_to": "25.54",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are looking for 1 Safeguarding and Reviewing Officer, to undertake child protection conference chairing.\n\nThe responsibilities of the role include:\n\nChairing:\n\nTo chair Initial and Review Child Protection Conferences on behalf of the safeguarding children’s board, and liaise appropriately with operational staff.\nTo ensure that the child’s wishes and feelings are represented in conferences even if they are not attending\nTo facilitate parental and, where appropriate extended family attendance at conferences\n\nQuality Assurance and Performance Monitoring\n\nTo participate in a monitoring system that establishes if attendance is appropriate and if child protection plans are being implemented.\nTo collate information arising from reviews and conferences relating to policy, practice, resources and inter-agency participation as requested by the co-ordinator.\nTo contribute to monitoring reports submitted to senior management.\n\nAll initial child protection conferences are held in person across Leeds in council offices, RCPCs can be held virtually and there is hybrid working when not in conference. The role therefore is in person with some virtual/remote working.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1451873?backToItem=&initialLoad=&tab=&_xmscs=f39ea3c99d5a067f357f3646d5c3ff22b969fe723d5e90a612b7806c694be291819eecdf10b6bf92",
+    "accepted_at": "2026-07-09T08:49:15.959Z",
+    "scraped_at": "2026-07-09T08:49:15.959Z",
+    "attachments": [
+      {
+        "filename": "Safeguarding and Reviewing Officer - LCC Profile v1.0.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139048?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3525 _ 1/Safeguarding and Reviewing Officer - LCC Profile v1.0.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 2AD6 / 1",
     "source": "xms",
     "source_ref": "000B 2AD6 / 1",
