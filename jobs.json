@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 3680 / 1",
+    "source": "xms",
+    "source_ref": "000B 3680 / 1",
+    "job_id": "000B 3680 / 1",
+    "job_title": "Adults Social Worker [Blackpool]",
+    "client": "Blackpool Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Talbot Gateway, , Blackpool, Lancashire, FY1 3AH, United Kingdom",
+    "city": "Blackpool",
+    "postcode": "FY1 3AH",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-24",
+    "pay_from": "30.66",
+    "pay_to": "30.66",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "3 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nWe have an exciting opportunity for a Social Worker to become a part of our Neighbourhood Health and Social Care Team. (Health Team)\n\nThe successful candidate will join our community based multi- disciplinary teams located within health centres in Blackpool.\n\nYou will work collaboratively to ensure effective and strength led health, care and support assessments and services are implemented for people and carers to remain well in the community.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1452676?backToItem=&initialLoad=&tab=&_xmscs=dd819f63c58408faf75e588e1bee2601a1922d66bb9a1d033781fc11cebd327443addde2aeebdb2b",
+    "accepted_at": "2026-07-10T13:35:22.724Z",
+    "scraped_at": "2026-07-10T13:35:22.724Z",
+    "attachments": [
+      {
+        "filename": "JD - 8033.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139122?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3680 _ 1/JD - 8033.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 3358 / 1",
     "source": "xms",
     "source_ref": "000B 3358 / 1",
