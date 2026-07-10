@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 36C6 / 1",
+    "source": "xms",
+    "source_ref": "000B 36C6 / 1",
+    "job_id": "000B 36C6 / 1",
+    "job_title": "Children's Social Worker [Rochdale]",
+    "client": "Rochdale Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Smith Street, , Rochdale, , OL16 1XU, United Kingdom",
+    "city": "Rochdale",
+    "postcode": "OL16 1XU",
+    "start_date": "2026-08-03",
+    "end_date": "2026-10-31",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "2 years reference , gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.\n\nExperienced Social Worker required for a Duty and Assessment Team:\n\n\n\nWe are currently seeking an experienced social worker to support a busy Duty and Assessment team.  This social worker will support the team to complete the Child and Family assessments that are open to the team and to either step them down or to step across to our Family Support and Protection teams.\n\n\n\nAdditional Benefits:\n\n\n\nWithin Rochdale we are committed to all our social workers both agency and permanent, we pride ourselves on having a supportive management team and we like to offer a good work life balance. There are flexible working conditions in place where workers will be able to work from the office and from home.\n\n\n\n• Located in modern open plan office within Rochdale town centre\n• Induction and training opportunities will mirror that of the permanent workforce\n• Regular supervisions and peer supervisions\n• Flexible working\n• Ideal candidate will be a driver,\n• Evidence of agency progression within Teams\n• The rate of pay is up to £39 PH\n\n\n\nTestimonial \n\n\n\nI started as an agency social worker for Rochdale and after twelve months made the decision to go permanent. The reason I decided to stay is due to the staff being friendly and supportive, the office is a nice environment to work in and the team I am on all get along really well together.  The managers are readily available for support as are senior managers who are friendly and supportive.\n\nThe most important thing to me about my workplace is the team I work with, we have extremely supportive, approachable and knowledgeable management team. The office is a friendly environment and there are always opportunities for formal and informal supervision with management as well as peers.'",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1452765?backToItem=&initialLoad=&tab=&_xmscs=db2e16c3e8d5aa6abd363acf2f62b076eff138a2ecf629bf0c797ba7caefe8f286cb510b946d3939",
+    "accepted_at": "2026-07-10T13:44:55.198Z",
+    "scraped_at": "2026-07-10T13:44:55.198Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139136?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 36C6 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "JOB DESCRIPTION PERSON SPEC - Experienced.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139139?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 36C6 _ 1/JOB DESCRIPTION PERSON SPEC - Experienced.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 361E / 1",
     "source": "xms",
     "source_ref": "000B 361E / 1",
