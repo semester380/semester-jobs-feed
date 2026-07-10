@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 361E / 1",
+    "source": "xms",
+    "source_ref": "000B 361E / 1",
+    "job_id": "000B 361E / 1",
+    "job_title": "Children's Senior Social Worker [Rochdale ]",
+    "client": "Rochdale Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Smith Street, , Rochdale, , OL16 1XU, United Kingdom",
+    "city": "Rochdale",
+    "postcode": "OL16 1XU",
+    "start_date": "2026-08-03",
+    "end_date": "2027-01-29",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "£40 per hour\n\n\n\nRochdale Child With Disabilities Service are looking for a senior social worker.\n\nWe need an enthusiastic and committed senior social worker to come and work with us!\n\n\n\nAs a senior social worker, you will be vital in the service to support the social workers and advanced practitioner. You will be responsible for undertaking statutory assessments in accordance with the Children Act 1989 and the Care Act 2014. This includes identifying and assessing a child's needs, strengths, and risks, and developing person-centred care and support plans in partnership with children, families, and multidisciplinary professionals. You will manage the more complex case work alongside supporting lesser experienced social worker where needed. You will also have opportunity to deputise for the advanced practitioner.\n\n\nIn return for your commitment we can offer you the following:\n- A manageable caseload - to support you in engaging in real direct work with children and families\n- TOIL to fit around your family and personal life\n- Regular reflective supervision with an experienced manager\n- Access to our new and existing training opportunities which includes motivational interviewing\n- A friendly modern and award winning working environment\n- Excellent agile working arrangements\n- A supportive and friendly team who love what they do!\n\n\nOur agency workers are seen as an important resource for us and as such are given the same level of support and opportunities as our permanent staff.\n\nWe are looking for one agency worker who have significant experience in working within a children with disabilities team including experience of child protection work, including family safeguarding and completing care proceedings.\nSignificant experience to good compliance, recording and timely completion of work.\nSignificant experience in support ASYE’s in the work place.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1452719?inst=1452719--Distribution--1641257032-false&_csrf=5a15e715-0452-46a1-9cfd-1de47a97c785&_xmscs=bf15d181638f1f69941b5c6128fc9cfff7ae079ccbc8f8087038cb24effcaf514bbdfa393bfb9a14",
+    "accepted_at": "2026-07-10T13:39:20.128Z",
+    "scraped_at": "2026-07-10T13:39:20.128Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139104?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 361E _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "senior CWD SW.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139125?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 361E _ 1/senior CWD SW.docx",
+        "downloaded": true
+      },
+      {
+        "filename": "senior CWD SW.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139126?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 361E _ 1/senior CWD SW-1.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 3680 / 1",
     "source": "xms",
     "source_ref": "000B 3680 / 1",
