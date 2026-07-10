@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5300659",
+    "source": "comensura",
+    "source_ref": "5300659",
+    "job_id": "5300659",
+    "job_title": "Care Worker (Social Care Unqualified)",
+    "client": "South Tyneside Council",
+    "procurer": null,
+    "working_address": "Clasper Court, NE33 1LN",
+    "city": "Clasper Court",
+    "postcode": "NE33 1LN",
+    "start_date": "2026-07-24",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Shifts required will be:\n24/7/26 - 7am - 3pm\n25/7/26 - 2.30pm - 10.30pm\nStrong communication and interpersonal skills\nAbility to work independently and as part of a team\nCommitment to dignity, respect, and safeguarding\nFlexibility to work across a rota including nights and weekends.\nQualifications Required\nMinimum NVQ Level 2 in Health and Social Care (or equivalent)\nCare Certificate (if new to care)\nFirst Aid and Manual Handling certificates\nAny specialist training (e.g. dementia care, safeguarding)\nTwo references Clear enhanced DBS for adults and children\nLevel 2 or 3 Diploma in health and social care.\nMedication Training",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-10T20:58:29.473Z",
+    "scraped_at": "2026-07-10T20:58:29.473Z",
+    "attachments": [
+      {
+        "filename": "jod discription and job spec.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5300659/File/223266",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5300593",
     "source": "comensura",
     "source_ref": "5300593",
