@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 3707 / 1",
+    "source": "xms",
+    "source_ref": "000B 3707 / 1",
+    "job_id": "000B 3707 / 1",
+    "job_title": "Children's Team Manager [Bury]",
+    "client": "Bury Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "3 Knowsley Place, Duke Street, Bury, , BL9 0EJ, United Kingdom",
+    "city": "Bury",
+    "postcode": "BL9 0EJ",
+    "start_date": "2026-07-27",
+    "end_date": "2026-10-12",
+    "pay_from": "46",
+    "pay_to": "46",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Cared for Children Team Manager\n\nMake a difference where it matters most.\n\nWe are seeking an experienced and passionate Team Manager to lead a dedicated Cared for Children Team, providing effective leadership, management oversight, and professional support to social workers working with some of our most vulnerable children and young people.\n\nKey Responsibilities\n\nProvide robust supervision, coaching, and development support to a team of social workers and practitioners.\nOversee and quality assure care planning, pathway planning, risk assessments, and safety planning to ensure children achieve positive outcomes.\nLead practice with children and young people who present with complex needs, trauma, exploitation risks, placement instability, and challenging behaviours.\nEnsure effective safeguarding responses with a strong understanding of Child Criminal Exploitation (CCE), Child Sexual Exploitation (CSE), and Contextual Safeguarding.\nDrive high-quality, child-centred practice that promotes permanence, stability, and positive life chances for children in care.\nWork collaboratively with partner agencies, carers, education providers, and health professionals to deliver coordinated support.\nMonitor performance, statutory compliance, and service standards across the team.\n\nAbout You\n\nYou will be a qualified and experienced social work leader with a strong track record in children's social care, excellent decision-making skills, and the ability to support staff working with complex young people and families.\n\nYou will have sound knowledge of:\n\nChildren's legislation, safeguarding, and statutory guidance.\nCCE, CSE, and Contextual Safeguarding approaches.\nRisk assessment, safety planning, and care planning for children in care.\nPerformance management and workforce development.\n\nSupport Available\n\nYou will be supported by an Assistant Practitioner (AP) within the team, helping to coordinate interventions, support young people, and contribute to achieving positive outcomes for children and families.\n\nIf you are a confident and compassionate leader who is committed to delivering outstanding services for children in care, we'd love to hear from you.\n\nCQSW, DIPSW, BA HONS SW or equivalent.\n3 years post qualifying experience in a field social work setting including substantial child protection experience\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1453169?backToItem=&initialLoad=&tab=&_xmscs=6029cbe6d637c54dc1486f5c4f7c2598d8c15dd53bedd78085bd3dcd941a60e2ad69ab11049e3e3c",
+    "accepted_at": "2026-07-13T10:06:49.700Z",
+    "scraped_at": "2026-07-13T10:06:49.700Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139146?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3707 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5300571",
     "source": "comensura",
     "source_ref": "5300571",
