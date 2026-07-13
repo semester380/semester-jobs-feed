@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5300571",
+    "source": "comensura",
+    "source_ref": "5300571",
+    "job_id": "5300571",
+    "job_title": "Social Worker (Childrens) (Jajb4097 - G10) (Social and Healthcare Qualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Floor 7, Delamere House, CW1 2JZ",
+    "city": "Delamere House",
+    "postcode": "CW1 2JZ",
+    "start_date": "2026-07-20",
+    "end_date": "",
+    "pay_from": "39.00",
+    "pay_to": "39.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A Recruitment Request number is required for all Orders, please state here:20143\nWe are seeking a skilled and motivated Social Worker to join our Integrated Front Door (IFD) team. This is an exciting opportunity to work in a fast-paced environment where you will play a pivotal role in safeguarding children and supporting families by ensuring the right services respond at the right time.\nAs part of our Integrated Front Door service, you will be responsible for receiving, screening, and triaging referrals relating to children and families, assessing risk and need, and determining appropriate next steps in line with statutory guidance and local procedures. Hybrid working arrangement with 3 days per week office-based and 2 days remote working.\nPlease confirm which DBS is required for this role.\n5. Enhanced – including barred:\na. Children’s barred list\nb. Adults barred list\nc. Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-13T09:47:18.720Z",
+    "scraped_at": "2026-07-13T09:47:18.720Z",
+    "attachments": [
+      {
+        "filename": "JAJB4097 - Social Worker - JD and PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5300571/File/223214",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5300659",
     "source": "comensura",
     "source_ref": "5300659",
