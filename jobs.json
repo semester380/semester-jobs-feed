@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5300604",
+    "source": "comensura",
+    "source_ref": "5300604",
+    "job_id": "5300604",
+    "job_title": "Social Worker - Childrens Services (Social Care - Qualified)",
+    "client": "Lancashire County Council",
+    "procurer": null,
+    "working_address": "Fleetwood Library, FY7 6AJ",
+    "city": "Fleetwood Library",
+    "postcode": "FY7 6AJ",
+    "start_date": "2026-07-22",
+    "end_date": "",
+    "pay_from": "36.00",
+    "pay_to": "36.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Dept - Children's Social Care - Duty and Assessment\nLocation - Covers Fylde and Wyre Duty and Assessment Team\nOffice bases in Fleetwood, Lytham St Annes and Kirkham\nInterviews - ASAP\nPlease see attached JD for full details",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-13T15:44:15.058Z",
+    "scraped_at": "2026-07-13T15:44:15.058Z",
+    "attachments": [
+      {
+        "filename": "duty-and-assessment-jdps-1 (2).pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5300604/File/223234",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5300676",
     "source": "comensura",
     "source_ref": "5300676",
