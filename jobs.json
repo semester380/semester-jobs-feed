@@ -1943,8 +1943,15 @@
     "description": "ROLE OF IRO - SEE JOB PROFILE ADDED",
     "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
     "accepted_at": "2026-07-01T20:06:34.506Z",
-    "scraped_at": "2026-07-01T20:06:34.506Z",
-    "attachments": []
+    "scraped_at": "2026-07-13T17:23:56.603Z",
+    "attachments": [
+      {
+        "filename": "JOB PROFILE - IRO Grade L (1).pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5299927/File/223349",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
   },
   {
     "item_id": "comensura:5299877",
