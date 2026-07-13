@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 363E / 1",
+    "source": "xms",
+    "source_ref": "000B 363E / 1",
+    "job_id": "000B 363E / 1",
+    "job_title": "Adults - Social Worker - Advanced",
+    "client": "Hiring - Leeds City Council, Leeds City Council",
+    "procurer": null,
+    "working_address": "Tribeca House, 71 Roundhay Road, Leeds, , LS7 3BE, United Kingdom",
+    "city": "Leeds",
+    "postcode": "LS7 3BE",
+    "start_date": "2026-07-27",
+    "end_date": "2026-08-09",
+    "pay_from": "22.2",
+    "pay_to": "22.2",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are a busy social work team carrying out statutory work with adults with learning disabilities in the South Leeds area.  We need an experienced worker to join us and work under the Care Act and the Mental Capacity Act, to help us to fulfill our responsibilities to complete assessments and reviews, to commission services, to enquire into safeguarding concerns, and to manage risk.  We seek to enable people with learning disabilities to have a good quality of life as they see that to be, to have their rights upheld, and to achieve the outcomes they aspire to.  We work with a diverse range of adults of all ages, and from all the communities of Leeds, including those with complex health needs with Continuing Healthcare funding.  We also support carers.  We need someone who is motivated and proactive, who is able to work well independently, in the context of a supportive service in which there is always someone available to speak with if needed.  We prefer a worker with experience of working on cases under the oversight of the Court of Protection.  We need someone who can get around a large segment of Leeds in their own vehicle or on public transport.  The role involves visiting people in their homes, and at other locations in the community.  We do hybrid working, and team members work from the office base on Thursdays and Fridays, as well as other days if people wish to.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1453361?backToItem=&initialLoad=&tab=&_xmscs=2c7c51a0a11e22ff607321ab59ea7c2985435127720347056854b1c98e05db3f6010c4412d830601",
+    "accepted_at": "2026-07-13T15:45:29.938Z",
+    "scraped_at": "2026-07-13T15:45:29.938Z",
+    "attachments": [
+      {
+        "filename": "Social Worker - Avanced LCC Profile v2.2 UDATED 08.11.18.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139110?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 363E _ 1/Social Worker - Avanced LCC Profile v2.2 UDATED 08.11.18.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5300604",
     "source": "comensura",
     "source_ref": "5300604",
