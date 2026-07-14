@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 37B8 / 1",
+    "source": "xms",
+    "source_ref": "000B 37B8 / 1",
+    "job_id": "000B 37B8 / 1",
+    "job_title": "Children's Advanced Practitioner [Wigan]",
+    "client": "Wigan Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "College Avenue, , Wigan, Greater Manchester, WN1 1NJ, United Kingdom",
+    "city": "Wigan",
+    "postcode": "WN1 1NJ",
+    "start_date": "2026-07-27",
+    "end_date": "2026-10-02",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "An Advanced Practitioner is a critical role within the team as they offer mentoring, coaching, support, and practice expertise to other less experienced team members. The role has acknowledged depth of expertise, including the assessment and appropriate management of risk.\nThis role will help to deliver and lead good quality, child-centred practice across the service. You will ensure that the Family Safeguarding model is embedded in all our work with children and families. You will demonstrate effective leadership and management to support staff and work alongside Team Managers to ensure that the service meets all statutory requirements and practice standards.\n\nThe Duty Service is a fast paced service consisting of 5 duty teams. Each team has a Team Manager, Advanced Practitioner, Senior Social worker and 6 Social Workers.  You will be on duty once every 5 weeks.\n\n\nYou will be key in developing the whole workforce, fostering a culture of continued learning, encouraging reflection and through leading by example. You will help enable learning circles, group discussions and reflective supervision and have great analytical and decision-making skills. You will ensure that supervision is reflective, challenging, and explorative with the child’s voice at the heart of plans to support children and families.\nThrough the implementation of the workforce strategy and new era principles, you will demonstrate and encourage others to be creative, innovative and improve service delivery, demonstrating improved outcomes and value for money. Ensuring team members understand and adhere to the quality assurance framework, (including case audits) and practice standards as well as continuing to improve evidence-based practice, learning from SCRs and the latest research that informs practice and decision making will be critical.\n\n\n\nYou will hold a small but complex case load, which includes opportunities for co-working in order to support the development of less experienced social workers. This role will include undertaking assessments, visiting children and their families, carrying out interventions, reviewing the work undertaken, and direct work with children, young people and families and any other work identified, as necessary.\n\n\nYou will ensure that practice is underpinned by the Team Wigan behaviours and our practice standards, and that the motivational interviewing is embedded in our work with children and families.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1454029?backToItem=&initialLoad=&tab=&_xmscs=634d772d413c34c9ca118fa9649fa17e5c8f2f7dc5884ba31e328b2fbd1c17e5195de5d44c6224a5",
+    "accepted_at": "2026-07-14T15:20:49.192Z",
+    "scraped_at": "2026-07-14T15:20:49.192Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025 (1).xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139182?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 37B8 _ 1/DfE Attributes 2025 (1).xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 35A2 / 1",
     "source": "xms",
     "source_ref": "000B 35A2 / 1",
