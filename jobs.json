@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5300832",
+    "source": "comensura",
+    "source_ref": "5300832",
+    "job_id": "5300832",
+    "job_title": "Team Manager (Bcft Dfe) (Social Care Qualified)",
+    "client": "Bradford Metropolitan District Council",
+    "procurer": null,
+    "working_address": "Sir Henry Mitchell House, BD5 0QL",
+    "city": "Sir Henry Mitchell House",
+    "postcode": "BD5 0QL",
+    "start_date": "2026-07-20",
+    "end_date": "",
+    "pay_from": "40.00",
+    "pay_to": "40.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Bradford Children and Families Trust operate hybrid working - However, there will be instances where employees are expected to be in the office for specific tasks or team days, as defined by the needs of the service.\nEMP Case Reference No: AG622",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-14T14:12:36.355Z",
+    "scraped_at": "2026-07-14T14:12:36.355Z",
+    "attachments": [
+      {
+        "filename": "Team Manager CFT.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5300832/File/223365",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5300784",
     "source": "comensura",
     "source_ref": "5300784",
