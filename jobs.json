@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 33DE / 1",
+    "source": "xms",
+    "source_ref": "000B 33DE / 1",
+    "job_id": "000B 33DE / 1",
+    "job_title": "Children's Team Manager [Stockport MBC]",
+    "client": "Stockport Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Piccadilly, Stockport, Stockport, , SK1 3XE, United Kingdom",
+    "city": "Stockport",
+    "postcode": "SK1 3XE",
+    "start_date": "2026-07-27",
+    "end_date": "2026-10-13",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Children with Disabilities Team Leader\n\nWe are seeking an interim experienced CWD team leader to support one of our CWD teams until our permanent team leader joins the team in the autumn. You will be responsible for 6 social workers and 2 short breaks co-ordinators. You will be relational in your leadership and ambitious for disabled children. You will be confident in decision making around safeguarding for children with complex disabilities and able to learn new processes quickly.\n\nWe would expect 3/4 days in the office in Stockport and 1/2 days based at home.\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1453778?backToItem=&initialLoad=&tab=&_xmscs=508069d6c4d134916712c38e1098ce1a998b02d684c7312d391742dd8a31a4e4e5f9900d52d3be3d",
+    "accepted_at": "2026-07-14T13:06:48.556Z",
+    "scraped_at": "2026-07-14T13:06:48.556Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138991?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 33DE _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5300819",
     "source": "comensura",
     "source_ref": "5300819",
