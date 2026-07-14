@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 37E3 / 1",
+    "source": "xms",
+    "source_ref": "000B 37E3 / 1",
+    "job_id": "000B 37E3 / 1",
+    "job_title": "Childrens Senior Social Worker [Tameside MBC]",
+    "client": "Tameside Metropolitan Borough Council, GM Collaboration",
+    "procurer": "GM Collaboration",
+    "working_address": "Old Street, Ashton-u-Lyne, Tameside, , OL6 7SG",
+    "city": "Tameside",
+    "postcode": "OL6 7SG",
+    "start_date": "2026-08-31",
+    "end_date": "2026-10-30",
+    "pay_from": "35",
+    "pay_to": "39",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Senior Assessing Social Worker - Kinship Team\n\n\n\nWe're looking for a passionate and experienced Senior Assessing Social Worker to join our Kinship Team, playing a vital role in helping children remain connected to their family networks and achieve safe, stable, and nurturing care arrangements. In this rewarding role, you'll undertake comprehensive assessments of kinship carers and special guardians, providing high-quality analysis and recommendations that support positive outcomes for children. You'll build strong, meaningful relationships with children, family members and carers, offering guidance and support throughout the assessment process while ensuring children's voices remain at the heart of all decision-making.\n\nWorking closely with Team Managers and Service Managers, you'll contribute to the ongoing development of the service, support best practice, and help drive high standards across the team. You'll collaborate with multi-agency partners, prepare robust reports for court and decision-making panels, and ensure all statutory responsibilities are met. As a senior practitioner, you'll bring expertise, professional curiosity and a commitment to relationship-based practice, helping families identify and build on their strengths to create lasting support networks for children. If you're passionate about kinship care, enjoy working collaboratively with management and colleagues, and are committed to achieving the very best outcomes for children and families.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1453716?backToItem=&initialLoad=&tab=&_xmscs=26467bb146f52adf7239b80c6922b81609063ba88ac883cb728fac67453e6317a6479e3cff593374",
+    "accepted_at": "2026-07-14T12:21:34.045Z",
+    "scraped_at": "2026-07-14T12:21:34.045Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139194?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 37E3 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 37E1 / 1",
     "source": "xms",
     "source_ref": "000B 37E1 / 1",
