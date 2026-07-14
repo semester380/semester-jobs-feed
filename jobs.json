@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 37E1 / 1",
+    "source": "xms",
+    "source_ref": "000B 37E1 / 1",
+    "job_id": "000B 37E1 / 1",
+    "job_title": "Childrens Social Worker [Tameside MBC]",
+    "client": "Tameside Metropolitan Borough Council, GM Collaboration",
+    "procurer": "GM Collaboration",
+    "working_address": "Old Street, Ashton-u-Lyne, Tameside, , OL6 7SG",
+    "city": "Tameside",
+    "postcode": "OL6 7SG",
+    "start_date": "2026-08-24",
+    "end_date": "2026-10-30",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "🌟 Make a Difference for Children and Families Through Kinship Care! 🌟\n\nWe're looking for a passionate and dedicated Assessing Social Worker to join our Kinship Team, playing a vital role in helping children remain connected to their families and support networks. In this rewarding role, you'll undertake comprehensive assessments of kinship carers and special guardians, ensuring children can achieve safe, stable, and nurturing family-based care arrangements. You'll build strong, meaningful relationships with children, family members, and carers, carrying out direct work and contributing to care planning that reflects each child's unique needs and circumstances. Working collaboratively with multi-agency partners, you'll support families through the assessment process, provide advice and guidance, prepare high-quality reports for court and decision-making panels, and ensure all statutory responsibilities are met. Alongside maintaining excellent records and professional standards, you'll contribute to the ongoing development of the service and help achieve the best possible outcomes for children. If you're committed to relationship-based practice, passionate about keeping children within their family networks wherever possible, and thrive in a supportive and collaborative environment, we'd love to hear from you.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1453675?backToItem=&initialLoad=&tab=&_xmscs=4ada5bdf52a106defdad8333e0123adf4ca9268b361de53d090077b6f2b6c44173f419f07c44eb95",
+    "accepted_at": "2026-07-14T12:15:21.723Z",
+    "scraped_at": "2026-07-14T12:15:21.723Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139192?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 37E1 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5300777",
     "source": "comensura",
     "source_ref": "5300777",
