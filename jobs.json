@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 39DD / 1",
+    "source": "xms",
+    "source_ref": "000B 39DD / 1",
+    "job_id": "000B 39DD / 1",
+    "job_title": "Childrens Social Worker [Trafford]",
+    "client": "Trafford Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "TALBOT ROAD, , MANCHESTER, GREATER MANCHESTER, M32 0TH, United Kingdom",
+    "city": "MANCHESTER",
+    "postcode": "M32 0TH",
+    "start_date": "2026-08-17",
+    "end_date": "2026-10-31",
+    "pay_from": "35",
+    "pay_to": "39",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Trafford Council require experienced childrens social workers for the following teams:-\n\nFamilies First x 4\n\nSupport and Protect x 4\n\nFirst Response x 1\n\nflexibility to pay up to £39 capped rate\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1454547?backToItem=&initialLoad=&tab=&_xmscs=a5069a371fe5eb43db8714ffc5c76ef89a5a34a4689c29c6afc64d844baef31eac356b590568e398",
+    "accepted_at": "2026-07-15T15:29:53.712Z",
+    "scraped_at": "2026-07-15T15:29:53.712Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139264?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 39DD _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5300889",
     "source": "comensura",
     "source_ref": "5300889",
