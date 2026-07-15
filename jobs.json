@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 2C4D / 1",
+    "source": "xms",
+    "source_ref": "000B 2C4D / 1",
+    "job_id": "000B 2C4D / 1",
+    "job_title": "Social Worker - Advanced (Adults) (G10)",
+    "client": "Wakefield Authorising, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Waterton House, 6 Waterton Rd, Lupset, Wakefield, WF2 8HT",
+    "city": "Wakefield",
+    "postcode": "WF2 8HT",
+    "start_date": "2026-07-20",
+    "end_date": "2026-09-30",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "2x Senior Social Workers to work in the Adult Safeguarding Team",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1454198?inst=1454198--Distribution--1643489953-false&_csrf=d0b714fe-f3ac-4b8c-ab46-5247b8d18bea&_xmscs=fd77be55f6af1c83ebcab4d8f8f329dd260b56a18aed41b627fb5c8b0c27d0ce897d8a1b0f7ada27",
+    "accepted_at": "2026-07-15T08:25:59.316Z",
+    "scraped_at": "2026-07-15T08:25:59.316Z",
+    "attachments": [
+      {
+        "filename": "Social Worker - Advanced (Adults) (G10).doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138613?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2C4D _ 1/Social Worker - Advanced (Adults) (G10).doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 36CB / 1",
     "source": "xms",
     "source_ref": "000B 36CB / 1",
