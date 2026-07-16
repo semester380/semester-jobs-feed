@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 36B2 / 1",
+    "source": "xms",
+    "source_ref": "000B 36B2 / 1",
+    "job_id": "000B 36B2 / 1",
+    "job_title": "Principal Development Officer Planning Control",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Bolton Town Hall , , Bolton, , BL1 1RU, United Kingdom",
+    "city": "Bolton",
+    "postcode": "BL1 1RU",
+    "start_date": "2026-07-27",
+    "end_date": "2026-11-02",
+    "pay_from": "22.13",
+    "pay_to": "22.13",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "2 years reference , gaps in employment history checked, any relevant quals as per JDPS",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1454825?inst=1454825--Distribution--1643861436-false&_csrf=28a5bc9a-f44b-48a4-a887-a1e160b632d1&_xmscs=e416e2ca9cbeea2baeeb48cda16651bbbe5fe88907793c3b3e845d90f63c442adb54f89cfbf08493",
+    "accepted_at": "2026-07-16T08:48:41.940Z",
+    "scraped_at": "2026-07-16T08:48:41.940Z",
+    "attachments": [
+      {
+        "filename": "Principal Development Officer (Planning Control) Grade 9 JD & PS Jan 19.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139133?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 36B2 _ 1/Principal Development Officer (Planning Control) Grade 9 JD & PS Jan 19.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 2EEA / 1",
     "source": "xms",
     "source_ref": "000B 2EEA / 1",
