@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 39E3 / 1",
+    "source": "xms",
+    "source_ref": "000B 39E3 / 1",
+    "job_id": "000B 39E3 / 1",
+    "job_title": "Senior Social Worker Children's",
+    "client": "Barnsley Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Cudworth Lift Building, Carlton Street, Cudworth, Barnsley, South Yorkshire, S72 8SU",
+    "city": "Barnsley",
+    "postcode": "S72 8SU",
+    "start_date": "2026-08-03",
+    "end_date": "2026-10-26",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Barnsley's children and young people's service are looking for an experienced social worker who is passionate about children and their families and achieving good outcomes. The candidate should have experience of supporting children and families who are children in need, children in need of protection and children who are subject to public and private law proceedings.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1455205?inst=1455205--Distribution--1644101068-false&_csrf=28a5bc9a-f44b-48a4-a887-a1e160b632d1&_xmscs=b45cdeb14d5ea41cba5a0c1f35b1f9c4737944336f6a027db63866ce4ccd6cfb47f1e769118e3fb1",
+    "accepted_at": "2026-07-16T14:47:43.109Z",
+    "scraped_at": "2026-07-16T14:47:43.109Z",
+    "attachments": [
+      {
+        "filename": "92690 Senior Social Worker Profile 20150120.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139268?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 39E3 _ 1/92690 Senior Social Worker Profile 20150120.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139269?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 39E3 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 3A7F / 1",
     "source": "xms",
     "source_ref": "000B 3A7F / 1",
