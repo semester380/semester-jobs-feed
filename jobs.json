@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5301015",
+    "source": "comensura",
+    "source_ref": "5301015",
+    "job_id": "5301015",
+    "job_title": "Senior Social Worker (Bcft Dfe) (Social Care Qualified)",
+    "client": "Bradford Metropolitan District Council",
+    "procurer": null,
+    "working_address": "Farcliffe and Lilycroft Children and Family Centre, BD8 8QH",
+    "city": "Farcliffe and Lilycroft Children and Family Centre",
+    "postcode": "BD8 8QH",
+    "start_date": "2026-08-10",
+    "end_date": "",
+    "pay_from": "35.00",
+    "pay_to": "35.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "West Duty & Assessment\nHybrid working with an expectation to attend office 3 days a week.\nTeam 1 x 1 Sap Position no 50225172 AG623\nTeam 2 x 1 Sap Position no 50216963 AG623\nTeam 3 x 2 Sap position 50216181 & 50215960 AG486",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-16T15:09:23.475Z",
+    "scraped_at": "2026-07-16T15:09:23.475Z",
+    "attachments": [
+      {
+        "filename": "Senior Social Worker CFT.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5301015/File/223449",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 3AE7 / 1",
     "source": "xms",
     "source_ref": "000B 3AE7 / 1",
