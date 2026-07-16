@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 3AE7 / 1",
+    "source": "xms",
+    "source_ref": "000B 3AE7 / 1",
+    "job_id": "000B 3AE7 / 1",
+    "job_title": "QSW [Salford CC]",
+    "client": "Salford City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Chorley Road, , Swinton, Greater Manchester, M27 5DA, United Kingdom",
+    "city": "Swinton",
+    "postcode": "M27 5DA",
+    "start_date": "2026-08-24",
+    "end_date": "2026-09-16",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We require one Mental Health Social worker working at Salford Civic. Will be working at the Front Door team conducting visits and assessments in support of the contact team. Hybrid working is available, up to two days a week from home.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1455243?inst=1455243--Distribution--1644109175-false&_csrf=28a5bc9a-f44b-48a4-a887-a1e160b632d1&_xmscs=2edc229e636126061265c3199c30e6eb927ef62df25b91ea1739b7cc7b8a984774de1be30eed14f1",
+    "accepted_at": "2026-07-16T14:58:22.422Z",
+    "scraped_at": "2026-07-16T14:58:22.422Z",
+    "attachments": [
+      {
+        "filename": "6171_ThisIsSalford_Feb2023_v3 (1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139320?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3AE7 _ 1/6171_ThisIsSalford_Feb2023_v3 (1).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "6173_Why work for TeamSalford_v7 (1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139321?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3AE7 _ 1/6173_Why work for TeamSalford_v7 (1).pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 39E3 / 1",
     "source": "xms",
     "source_ref": "000B 39E3 / 1",
