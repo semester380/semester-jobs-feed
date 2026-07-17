@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 32E5 / 1",
+    "source": "xms",
+    "source_ref": "000B 32E5 / 1",
+    "job_id": "000B 32E5 / 1",
+    "job_title": "Children's Advanced Practitioner [Bolton]",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Castleton Street, Tonge Moor, Bolton, Lancashire, BL2 2JW, United Kingdom",
+    "city": "Bolton",
+    "postcode": "BL2 2JW",
+    "start_date": "2026-08-24",
+    "end_date": "2026-10-02",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.\n\nPay £40\n\nAdvanced Practitioner with at least 3 years experience required for Safeguarding Childrens team.\n\nThe role is case holding and mentoring/supporting NQSW’s\n\nMust have knowledge of\n• Child Protection and CIN\n• Court\n• Reports\n• Working within statutory deadlines, etc within a Safeguarding Team\nFlexible working in place- balance between working from home/office and statutory visits to meet the needs of the service.  Must be able to travel to Bolton be office based at short notice if demands require.\nCandidates need to be able to undertake duty and home visits. Caseload will be across Bolton with office base at Castle Hill. Depending on experience successful candidates will be allocated across the SG teams and service\n\nFree on-site parking\n37 hours per week – full-time post\nReferences will be requested for any candidates offered an interview and DBS requested for any candidate offered a post",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1455657?backToItem=&initialLoad=&tab=&_xmscs=f22b8e3ea8ea51353692fbe89a81b4ce0ad589e18fda257a274eb8be868dbb2aada1c4f4c2dcbf8e",
+    "accepted_at": "2026-07-17T15:32:14.579Z",
+    "scraped_at": "2026-07-17T15:32:14.579Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138937?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 32E5 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 3ABD / 1",
     "source": "xms",
     "source_ref": "000B 3ABD / 1",
