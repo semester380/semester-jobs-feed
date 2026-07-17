@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5300584",
+    "source": "comensura",
+    "source_ref": "5300584",
+    "job_id": "5300584",
+    "job_title": "Family Partner (Social Care Unqualified)",
+    "client": "North Tyneside Council",
+    "procurer": null,
+    "working_address": "Quadrant East, NE27 0BY",
+    "city": "Quadrant East",
+    "postcode": "NE27 0BY",
+    "start_date": "2026-07-27",
+    "end_date": "",
+    "pay_from": "21.02",
+    "pay_to": "21.02",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Candidates must have the below experience\n* Experienced and skilled in working with children, young people and families taking a whole family approach\n* Effective practice in relation to engagement and working with children, young people and families\n* Experience of working in a multi-disciplinary environment. Able to support while confidently challenging professionals and families where required\n* Highly organised and able to meet deadlines\n* Able to use IT systems effectively to input data for recording, tracking and monitoring purposes\nThis post will be providing duty cover and pre-allocation support to families on the allocation list. This will include, for example, home visits, safety planning, support, guidance and signposting.",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-17T16:03:45.161Z",
+    "scraped_at": "2026-07-17T16:03:45.161Z",
+    "attachments": [
+      {
+        "filename": "Family Partner Job Description and Person Specification (new template) (1).doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5300584/File/223222",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 32E5 / 1",
     "source": "xms",
     "source_ref": "000B 32E5 / 1",
