@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 3A5A / 1",
+    "source": "xms",
+    "source_ref": "000B 3A5A / 1",
+    "job_id": "000B 3A5A / 1",
+    "job_title": "Children's Team Manager [MCC]",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Etrop Court, Rowlandsway, Manchester, Lancashire, M22 5RG, United Kingdom",
+    "city": "Manchester",
+    "postcode": "M22 5RG",
+    "start_date": "2026-08-17",
+    "end_date": "2027-03-08",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "A Team Manager is needed for the Children's social work team in South Manchester based in Wythenshawe.   The service is currently a test & learn site for the Family First Reforms and a new Family Help model of working.  This means that the service operates a throughput service covering duty and longer term work including CIN, CP, PLO and care proceedings.  The Team Manager will be responsible for a team of 2 Advanced Practitioners and 4 Social Workers.  The team will be part of a 10 week allocation rota when they will be allocated new referrals via AGS (MASH team).  The team are responsible for all initial assessments and intervention and continuing to work with families throughout involvement.  The team manager will have oversight of children who are subject to child in need, child protection, pre-proceedings, care proceedings and awaiting adoption.  You will be a strong, experienced leader who will support and develop a team of social workers.   You will be office based with occasional home working (discretion of manager) but we want managers to be visible and accessible to support their teams during this time of change.  You will join an experienced management team and have access to regular supervision and training.\n\nWe want someone to start week beginning 3rd August 2026.\n\nThere is free car parking available near to the office.\n\n\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1455531?inst=1455531--Distribution--1644742707-false&_csrf=28a5bc9a-f44b-48a4-a887-a1e160b632d1&_xmscs=5f9d45f10b4c1ba781c1a4da8f6097018dfbde65dc6b31ded63a5d757f201b566dc0a04c84be61b0",
+    "accepted_at": "2026-07-17T13:48:01.750Z",
+    "scraped_at": "2026-07-17T13:48:01.750Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139295?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3A5A _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 3B7B / 1",
     "source": "xms",
     "source_ref": "000B 3B7B / 1",
