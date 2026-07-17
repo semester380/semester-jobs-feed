@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 3ABD / 1",
+    "source": "xms",
+    "source_ref": "000B 3ABD / 1",
+    "job_id": "000B 3ABD / 1",
+    "job_title": "Children's Social Worker [Bolton]",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Castleton Street, Tonge Moor, Bolton, Lancashire, BL2 2JW, United Kingdom",
+    "city": "Bolton",
+    "postcode": "BL2 2JW",
+    "start_date": "2026-08-24",
+    "end_date": "2026-10-30",
+    "pay_from": "37",
+    "pay_to": "37",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "The candidate will have post qualifying experience in working with and supporting kinship carers and Special Guardians and have experience of the following\n\nUndertake assessments of Kinship Carers and Special Guardians\nUndertake annual reviews and other reviews as required to evaluate and monitor the care of looked after children provided by Kinship carers\nProvide ongoing supervision and support to ensure the care of looked after children is of the highest quality\nIdentify any support, training, and preparation to develop the skills of carers further\nAdvising and assisting colleagues to place individual children with Kinship carers and substitute families\nAttend reviews, case conferences, strategy meetings and network meetings as and when required and to provide the appropriate advice, information, and support for such forums\nOrganise Kinship fostering information and advisory service for both colleagues and members of the public.\n\nWe operate a hybrid working arrangement, however candidates must be able to be office based in Bolton or undertake visits to meet service needs.\n\nThe core hours of this position are from 9am -5pm (Monday to Friday).\n\nFree on-site parking\n\nReferences will be requested for any candidates offered an interview and DBS requested for any candidate offered a post.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1455614?backToItem=&initialLoad=&tab=&_xmscs=9bee3ba3709280f90aca2a12cf0a0ba83f5ea12939fddd7555aed1f88f7b09bf15ca8f4e26c63767",
+    "accepted_at": "2026-07-17T15:28:40.673Z",
+    "scraped_at": "2026-07-17T15:28:40.673Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139311?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3ABD _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "Bolton Childrens EVP 23 (004).docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139312?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3ABD _ 1/Bolton Childrens EVP 23 (004).docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5300933",
     "source": "comensura",
     "source_ref": "5300933",
