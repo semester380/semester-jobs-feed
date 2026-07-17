@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 3B7B / 1",
+    "source": "xms",
+    "source_ref": "000B 3B7B / 1",
+    "job_id": "000B 3B7B / 1",
+    "job_title": "Duty Team Manager - Wigan",
+    "client": "Wigan Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "College Avenue, , Wigan, Greater Manchester, WN1 1NJ, United Kingdom",
+    "city": "Wigan",
+    "postcode": "WN1 1NJ",
+    "start_date": "2026-08-17",
+    "end_date": "2026-10-26",
+    "pay_from": "42",
+    "pay_to": "42",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are looking for an experienced, innovative, and creative team manager to manage one of our Duty Teams.\n\nThe nature of the work within the Duty and Assessment Service is fast-paced and dynamic. As a manager of one of the Duty Teams, you will work closely with the five existing Duty Teams to ensure effective service delivery. You will be responsible for driving good practice across the service, supporting a team of social workers in managing complex and high-risk cases, and ensuring that safeguarding standards are consistently met.\n\nWithin the Duty Service we complete the initial Children and Family assessments in a timely manner.  You are responsible for ensuring children and families receive the right support at the right time. The Duty Service hold a varying complexity of cases, families transfer points include the initial child protection case conference, the first CLA review, the first PLO meeting and the 3rd Child In Need meeting.\n\nAs one of our Team Managers you will have excellent knowledge of underpinning legislative frameworks and legal proceedings. You will ensure the delivery of a high quality and effective social work practice to support, empower and promote independence, strengths and assets of both children and families within their local communities.\n\nYou will work in partnership with children, young people and parents to help them engage with the process and aspire to good outcomes for all.\n\nHere at Wigan Council, we believe our workforce is our greatest asset and we will ensure you have the right support and a positive working environment to deliver outstanding social care to children, young people and families.  We value our social workers and want you to be part of the team where your voice matters, you are listened to and we thrive and challenge to ‘think out of the box’, by being positive, accountable, courageous and kind.\n\nWe believe that looking out for our young people and supporting families is a key priority for the future. Our children and young people have told us how important it is for them to feel safe, to have access to things that interest them and be proud of their local area. We want our young people to thrive, be proud to call the borough of Wigan home and see it as a safe and vibrant place to grow up in.\n\nWe want them to be happy and to continue to feel connected with the borough as they grow into adults, with opportunities to live, work and raise their own families here. We want you to help us to achieve our goals.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1455470?backToItem=&initialLoad=&tab=&_xmscs=dff61baddff3fbf3ce1863a84c341a11d16588cae701dd7bfbadd7bf80127bf68c475879071b9795",
+    "accepted_at": "2026-07-17T13:08:32.742Z",
+    "scraped_at": "2026-07-17T13:08:32.742Z",
+    "attachments": [
+      {
+        "filename": "Job spec - TM Duty post.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139346?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3B7B _ 1/Job spec - TM Duty post.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5300921",
     "source": "comensura",
     "source_ref": "5300921",
