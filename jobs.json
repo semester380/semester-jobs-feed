@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5301187",
+    "source": "comensura",
+    "source_ref": "5301187",
+    "job_id": "5301187",
+    "job_title": "Care Worker (Social Care Unqualified)",
+    "client": "South Tyneside Council",
+    "procurer": null,
+    "working_address": "Hagan Hall, NE32 4QX",
+    "city": "Hagan Hall",
+    "postcode": "NE32 4QX",
+    "start_date": "2026-07-23",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Shifts required as follows:\nThursday 23/7/26 - 4pm - 10pm\nFriday 24/7/26 - 2.30pm - 10pm\nSunday 26/7/26 - 7am - 2.30pm\nPreferably someone with a medication qualification if possible.\nStrong communication and interpersonal skills\nAbility to work independently and as part of a team\nCommitment to dignity, respect, and safeguarding\nFlexibility to work across a rota including nights and weekends.\nQualifications Required\nMinimum NVQ Level 2 in Health and Social Care (or equivalent)\nCare Certificate (if new to care)\nFirst Aid and Manual Handling certificates\nAny specialist training (e.g. dementia care, safeguarding)\nTwo references Clear enhanced DBS for adults and children\nLevel 2 or 3 Diploma in health and social care.\nMedication Training",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-20T12:19:20.451Z",
+    "scraped_at": "2026-07-20T12:19:20.451Z",
+    "attachments": [
+      {
+        "filename": "jod discription and job spec.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5301187/File/223548",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 3C58 / 1",
     "source": "xms",
     "source_ref": "000B 3C58 / 1",
