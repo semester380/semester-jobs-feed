@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 3C58 / 1",
+    "source": "xms",
+    "source_ref": "000B 3C58 / 1",
+    "job_id": "000B 3C58 / 1",
+    "job_title": "Senior Social Worker Children's",
+    "client": "Barnsley Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Westgate Plaza One, 1 Westgate, Western Street, Barnsley, South Yorkshire, S70 2DR",
+    "city": "Barnsley",
+    "postcode": "S70 2DR",
+    "start_date": "2026-08-10",
+    "end_date": "2026-10-19",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are aspirational for our children and as a Social Worker in our Children In Care service, you will play a crucial role in advocating for the well-being and development of the looked after children and young people you support\n\nYour responsibilities will include:\n\nDeveloping meaningful relationships with children and young people and ensuring that they are at the centre of everything we do.\nEnsuring that plans for children and young people are creative, individualised and reflect the child’s voice, their hopes and aspirations and drive progress\nCollaborating with family, carers and professionals to achieve best outcomes for children and young people and drive plans to robustly address physical, identity, emotional, and educational needs.\nSupporting children to retain meaningful relationships with their families and wider networks\nMaintaining accurate and detailed records of all interactions, assessments, and interventions. Prepare high-quality assessments and reports for looked after reviews, court proceedings, and other relevant purposes.\n\n\n\n\n\nWe are deeply committed to achieving the very best outcomes for looked after children and young people in Barnsley. Children and their families are at the centre of all that we do, and our practice is underpinned by our strength based and relational model. This means supporting our social workers to develop relationships and to really know and understand children; to; apply evidence-based interventions and meaningful direct work to make timely decisions and plans for children that will achieve positive and sustainable outcomes for their future.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1455964?backToItem=&initialLoad=&tab=&_xmscs=3230383180b8d4f311f01fee0b39b0e81088d896b51a61dab0e3241177e2464045d4a8ee734c11d9",
+    "accepted_at": "2026-07-20T10:30:02.416Z",
+    "scraped_at": "2026-07-20T10:30:02.416Z",
+    "attachments": [
+      {
+        "filename": "92690 Senior Social Worker Profile 20150120.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139400?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3C58 _ 1/92690 Senior Social Worker Profile 20150120.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139401?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3C58 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 39DF / 1",
     "source": "xms",
     "source_ref": "000B 39DF / 1",
