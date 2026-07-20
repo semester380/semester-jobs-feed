@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 3A03 / 1",
+    "source": "xms",
+    "source_ref": "000B 3A03 / 1",
+    "job_id": "000B 3A03 / 1",
+    "job_title": "Childrens - Senior Social Worker",
+    "client": "Hiring - Leeds City Council, Leeds City Council",
+    "procurer": null,
+    "working_address": "Technorth, 9 Harrogate Road, Leeds, , LS7 3NB, United Kingdom",
+    "city": "Leeds",
+    "postcode": "LS7 3NB",
+    "start_date": "2026-07-20",
+    "end_date": "Sun 02/08/2026",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Qualified social workers are needed to support teams who are area social work children's teams, undertaking duty, receiving new referrals and completing assessments. Also will be required to hold a caseload of child in need, child protection as well as potentially working with children in care within proceedings. Office base will be at Tech North, in Chapel Allerton in Leeds. This office base works with families that are living within the west of Leeds. Positions are full time, Monday-Friday 8.30-5pm.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1455792?backToItem=&initialLoad=&tab=&_xmscs=fb67fa52c69448eec259ac0ca9cee86213ad425d0b65f7589ecf895bda24ff817710e62f4dc04fe4",
+    "accepted_at": "2026-07-20T08:00:07.767Z",
+    "scraped_at": "2026-07-20T08:00:07.767Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139273?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3A03 _ 1/DfE Recommendation Attribute.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "Senior Social Worker PO3 Children Families.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139278?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3A03 _ 1/Senior Social Worker PO3 Children Families.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5301081",
     "source": "comensura",
     "source_ref": "5301081",
@@ -23504,6 +23541,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR109097",
+    "source": "prism",
+    "source_ref": "OR109097",
+    "job_id": "OR109097",
+    "job_title": "Streetworks Inspector (Grade 12) - Admin & Clerical",
+    "client": "Somerset Council",
+    "procurer": "Jonathan Weeks",
+    "working_address": "Remote",
+    "city": "Remote",
+    "postcode": null,
+    "start_date": "2026-08-17",
+    "end_date": "",
+    "pay_from": "23.00",
+    "pay_to": "31.10",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "As a Street Works Inspector, you will inspect live street works and completed reinstatements across Somerset to ensure compliance with NRSWA, permit conditions, the Specification for the Reinstatement of Openings in Highways (SROH), and the Safety at Street Works & Road Works Code of Practice. You will record inspection outcomes using electronic devices and be comfortable working largely unsupervised while travelling across the county, covering a large number of sites daily.\n\nYou must ideally be Street Works Supervisor qualified and you must have good geographic knowledge of Somerset and have good navigation skills. You must confident dealing with live on‑site situations, and comfortable engaging directly with statutory undertakers and members of the public.\n\nYour role will include:\n\nMeeting with statutory undertakers to discuss compliance, performance and upcoming works, while inspecting live work sites and completed reinstatements to ensure they meet required standards.\nIdentifying defective works, issuing instructions for remedial action, and following up to ensure compliance.\nRecording inspections using handheld devices and systems such as Confirm and Street Manager, including accurate mapping and photo evidence.\nChecking diversion routes and temporary traffic management to ensure signage and alternative routes are compliant.\nCarrying out post‑closure inspections to identify damage caused by diverted traffic and directing undertakers to remedy issues.\nSupporting coordinators and statutory undertakers by providing site‑based advice, local knowledge and practical insight.\nEngaging professionally with the public and partners, addressing complaints, enquiries and site issues.\nProviding evidence for enforcement processes, including overrunning works (s.74) and non‑compliance inspections.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=897c72a7-fdc5-46b8-93d8-942d4f0629b5",
+    "accepted_at": null,
+    "scraped_at": "2026-07-20T08:03:21.748Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR109055",
