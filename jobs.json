@@ -1,5 +1,79 @@
 [
   {
+    "item_id": "comensura:5300916",
+    "source": "comensura",
+    "source_ref": "5300916",
+    "job_id": "5300916",
+    "job_title": "Team Manager (Jajb4033-G11) (Social and Healthcare Qualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Delamere House, CW1 2JZ",
+    "city": "Delamere House",
+    "postcode": "CW1 2JZ",
+    "start_date": "2026-08-10",
+    "end_date": "",
+    "pay_from": "45.00",
+    "pay_to": "45.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A Recruitment Request number is required for all Orders, please state here: 17945\nTeam the role is for: Care Leavers Team Manager, managing 8 Personal Advisors supporting 16-25 transition into adulthood. 3 days in the office per week, Crewe.\nPlease confirm which DBS is required for\nEnhanced – including barred: Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-20T15:27:36.751Z",
+    "scraped_at": "2026-07-20T15:27:36.751Z",
+    "attachments": [
+      {
+        "filename": "JAJB4033 - Team Manager - JD and PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5300916/File/223409",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
+    "item_id": "000B 3CB8 / 1",
+    "source": "xms",
+    "source_ref": "000B 3CB8 / 1",
+    "job_id": "000B 3CB8 / 1",
+    "job_title": "Children's Social Worker [Bolton]",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Castleton Street, Tonge Moor, Bolton, Lancashire, BL2 2JW, United Kingdom",
+    "city": "Bolton",
+    "postcode": "BL2 2JW",
+    "start_date": "2026-08-24",
+    "end_date": "2026-11-27",
+    "pay_from": "37",
+    "pay_to": "37",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.\n\nReplacement for ON 000A D7B3 / 1\n\nThis is a busy and dynamic team offering a statutory service to Looked After Children, Care Leavers and Homeless Young People; some of whom will have very complex needs. We work with Young People from the age of 16 potentially up to 25 helping them to develop their Pathway into independence.\n\nWith outstanding communication skills and the ability to engage with resistant Young People you will be committed to improving life chances and outcomes for Care Leavers. You must have excellent skills in assessment, analysis and planning as well as being comfortable in managing complex and challenging needs, risks and behaviours. You should understand the disadvantage faced by Care Leavers and be able to work creatively and collaboratively to redress this balance.\n\nThis can be demanding but rewarding work. We have a strong teamwork ethos with frequent team meetings.\n\nReferences will be requested for any candidates considered for interview\n\nF/T post 37 hours per week\nFree on site parking\nHybrid working",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1456250?backToItem=&initialLoad=&tab=&_xmscs=b7098ae5d24935461dfd7d3d6cb4a9f9088f8bbca3d1838d2a0f714097b408bc3e8932039f6ecb7b",
+    "accepted_at": "2026-07-20T15:26:44.403Z",
+    "scraped_at": "2026-07-20T15:26:44.403Z",
+    "attachments": [
+      {
+        "filename": "Bolton Childrens EVP 23 (004).docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139417?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3CB8 _ 1/Bolton Childrens EVP 23 (004).docx",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139418?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3CB8 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "57748.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139420?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3CB8 _ 1/57748.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 30C8 / 1",
     "source": "xms",
     "source_ref": "000B 30C8 / 1",
