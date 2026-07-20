@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 39DF / 1",
+    "source": "xms",
+    "source_ref": "000B 39DF / 1",
+    "job_id": "000B 39DF / 1",
+    "job_title": "Team Manager Children's",
+    "client": "Barnsley Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Cudworth Lift Building, Carlton Street, Cudworth, Barnsley, South Yorkshire, S72 8SU",
+    "city": "Barnsley",
+    "postcode": "S72 8SU",
+    "start_date": "2026-08-03",
+    "end_date": "2026-10-26",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Barnsley are looking for an experienced team manager to manage a safeguarding team. The team manager will have relevant experience in managing child in need, children in need of protection and children subject to private and public law proceedings. The team manager will be responsible for 7 social workers and will need to provide support and supervision.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1455908?backToItem=&initialLoad=&tab=&_xmscs=9f479dc1341df0ab59c4b04dbe4709cbedb28a5aebc71fbe17fe6c5569a37abc21b6d157de63f583",
+    "accepted_at": "2026-07-20T09:46:04.102Z",
+    "scraped_at": "2026-07-20T09:46:04.102Z",
+    "attachments": [
+      {
+        "filename": "77281 Team Manager Profile 20170711.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139265?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 39DF _ 1/77281 Team Manager Profile 20170711.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139266?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 39DF _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 3A03 / 1",
     "source": "xms",
     "source_ref": "000B 3A03 / 1",
