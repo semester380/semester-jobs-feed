@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5301345",
+    "source": "comensura",
+    "source_ref": "5301345",
+    "job_id": "5301345",
+    "job_title": "Mou - Childrens Social Care - Advanced Practitioner (Social Care Qualified)",
+    "client": "Gateshead Council",
+    "procurer": null,
+    "working_address": "Gateshead Council Civic Centre, NE8 1HH",
+    "city": "Gateshead Council Civic Centre",
+    "postcode": "NE8 1HH",
+    "start_date": "2026-07-27",
+    "end_date": "",
+    "pay_from": "34.45",
+    "pay_to": "34.45",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Post: Children in Our Care Consultant Social Worker Role\nPlease see job spec attached - case holding and supervisory/support TM role",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-21T17:08:26.048Z",
+    "scraped_at": "2026-07-21T17:08:26.048Z",
+    "attachments": [
+      {
+        "filename": "Consultant Social Worker job profile.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5301345/File/223639",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5301338",
     "source": "comensura",
     "source_ref": "5301338",
