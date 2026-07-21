@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 221B / 1",
+    "source": "xms",
+    "source_ref": "000B 221B / 1",
+    "job_id": "000B 221B / 1",
+    "job_title": "Childrens - Independent Reviewing Officer",
+    "client": "Hiring - Leeds City Council, Leeds City Council",
+    "procurer": "Leeds City Council",
+    "working_address": "Integrated Safeguarding Unit, Woodhouse Health Centre, Leeds, LS62SF, United Kingdom",
+    "city": "Leeds",
+    "postcode": "LS6 2SF",
+    "start_date": "2026-07-13",
+    "end_date": "2026-07-27",
+    "pay_from": "35.13",
+    "pay_to": "35.13",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "As an Independent Reviewing Officers (IRO) you make an important contribution to the goal of improving outcomes for looked-after children. Their primary focus is to quality assure the care planning process for each child or young person and to ensure that his/her current wishes and feelings are given full consideration.\n\n\n\nAs part of this role, IROs chair the review meetings of children who are looked after. These reviews take place at different intervals depending on how long the child has been in care but are held at least every six months.\n\n\n\nIn between reviews, IROs have a responsibility to monitor the progress of the care plan, ensuring there is no drift or delay in achieving permanence and further that the key recommendations from the previous Child Looked After Review are being appropriately progressed in a timely fashion.\n\n\n\nIROs are qualified social workers with at least five years’ experience and who have acquired the skills, knowledge and experience to carry out this role.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1456485?inst=1456485--Distribution--1646707085-false&_csrf=7f9f457b-0be7-4770-ae47-f7f39ddf4a5f&_xmscs=f577d6017c93c832e25926cca0384ed2e15cc24d8ae2fa5dde51fc659970e68c3a694ef51d2bf83c",
+    "accepted_at": "2026-07-21T13:08:24.450Z",
+    "scraped_at": "2026-07-21T13:08:24.450Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138048?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 221B _ 1/DfE Recommendation Attribute.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5301328",
     "source": "comensura",
     "source_ref": "5301328",
@@ -23916,6 +23947,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR109404",
+    "source": "prism",
+    "source_ref": "OR109404",
+    "job_id": "OR109404",
+    "job_title": "Assistant Team Manager - Social Care Qualified",
+    "client": "Wrexham County Borough Council",
+    "procurer": "Paige Woolrich",
+    "working_address": "31 Chester Street, Wrexham, Wrexham Principal Area, LL13 8BG, United Kingdom",
+    "city": "Wrexham Principal Area",
+    "postcode": "LL13 8BG",
+    "start_date": "2026-08-03",
+    "end_date": "",
+    "pay_from": "19.81",
+    "pay_to": "26.38",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Please Add JD",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=bee6c2c2-8d8a-4e9d-ae7e-9f7955ef54d9",
+    "accepted_at": null,
+    "scraped_at": "2026-07-21T13:08:48.183Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR109388",
