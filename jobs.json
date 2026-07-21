@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5301331",
+    "source": "comensura",
+    "source_ref": "5301331",
+    "job_id": "5301331",
+    "job_title": "Approved Mental Health Professional (Social Care Qualified)",
+    "client": "Gateshead Council",
+    "procurer": null,
+    "working_address": "Floor First Floor, Gateshead Council Civic Centre, NE8 1HH",
+    "city": "Gateshead Council Civic Centre",
+    "postcode": "NE8 1HH",
+    "start_date": "2026-07-21",
+    "end_date": "",
+    "pay_from": "39.34",
+    "pay_to": "39.34",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "EDT response and out of hours work to provide assistance to the EDT SW twilight hours response.\nHours of the post are 1.00 pm to 9.30 pm Monday to Friday AMHP\nHourly rate £50 per hour",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-21T12:51:22.675Z",
+    "scraped_at": "2026-07-21T12:51:22.675Z",
+    "attachments": [
+      {
+        "filename": "AMHP JOB 2025.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5301331/File/223634",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5301269",
     "source": "comensura",
     "source_ref": "5301269",
