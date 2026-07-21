@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5301338",
+    "source": "comensura",
+    "source_ref": "5301338",
+    "job_id": "5301338",
+    "job_title": "Residential Practitioner (Bcft) (Social Care Qualified)",
+    "client": "Bradford Metropolitan District Council",
+    "procurer": null,
+    "working_address": "21 Owlet Road Day Centre, BD18 2LU",
+    "city": null,
+    "postcode": "BD18 2LU",
+    "start_date": "2026-07-27",
+    "end_date": "",
+    "pay_from": "20.58",
+    "pay_to": "20.58",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "EMP: AG633\nOrder for Charley Bryan-Boyd",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-21T13:35:34.576Z",
+    "scraped_at": "2026-07-21T13:35:34.576Z",
+    "attachments": [
+      {
+        "filename": "Residential Practitioner - BRD.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5301338/File/223636",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 221B / 1",
     "source": "xms",
     "source_ref": "000B 221B / 1",
