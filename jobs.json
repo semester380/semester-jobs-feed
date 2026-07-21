@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 213A / 1",
+    "source": "xms",
+    "source_ref": "000B 213A / 1",
+    "job_id": "000B 213A / 1",
+    "job_title": "ADHOC RCO Morrison Drive",
+    "client": "Children, Young People and Families, City of Doncaster Council",
+    "procurer": "City of Doncaster Council",
+    "working_address": "Civic Office, Waterdale, Doncaster, DN1 3BU",
+    "city": "Doncaster",
+    "postcode": "DN1 3BU",
+    "start_date": "2026-07-13",
+    "end_date": "2026-08-28",
+    "pay_from": "14.13",
+    "pay_to": "14.13",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Adhoc shifts for Morrison Drive",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1456293?backToItem=&initialLoad=&tab=&_xmscs=3efd82ba27a7d86a85f8eb144faac7649d9550a3d38290eb035e32d750af871e1af116baacb5a066",
+    "accepted_at": "2026-07-21T06:57:46.423Z",
+    "scraped_at": "2026-07-21T06:57:46.423Z",
+    "attachments": [
+      {
+        "filename": "Residential Care Officer JD.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/137994?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 213A _ 1/Residential Care Officer JD.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5300918",
     "source": "comensura",
     "source_ref": "5300918",
