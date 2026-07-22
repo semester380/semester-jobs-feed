@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 34E8 / 1",
+    "source": "xms",
+    "source_ref": "000B 34E8 / 1",
+    "job_id": "000B 34E8 / 1",
+    "job_title": "Social Worker - Children's",
+    "client": "Children, Young People and Families, City of Doncaster Council",
+    "procurer": null,
+    "working_address": "Adwick Leisure Centre, 1  Welfare Road, Doncaster, South Yorkshire, DN6 7QF, United Kingdom",
+    "city": "Doncaster",
+    "postcode": "DN6 7QF",
+    "start_date": "2026-07-13",
+    "end_date": "2027-07-13",
+    "pay_from": "32",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Job title: Social Worker - Children's\nClient: Children, Young People and Families, City of Doncaster Council\nLocation: Adwick Leisure Centre, 1  Welfare Road, Doncaster, South Yorkshire, DN6 7QF, United Kingdom\nStart date: Mon 13/07/2026\nEnd date: Tue 13/07/2027\nPay: 32-35 per per hour\nIR35: Yes\nFollowing the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.\n\n(Description not provided in the portal listing — fields above are the only available context for this role.)",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1456997?backToItem=&initialLoad=&tab=&_xmscs=1707a460360f5889ed0bf0a512d75f5e0b5eeff62e8bd8a94955ec08d9bbfacc6d079eb4a466cbf5",
+    "accepted_at": "2026-07-22T10:09:58.742Z",
+    "scraped_at": "2026-07-22T10:09:58.742Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139029?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 34E8 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      },
+      {
+        "filename": "Social Worker All Services JDPS Sept 2022.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139030?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 34E8 _ 1/Social Worker All Services JDPS Sept 2022.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 3B78 / 1",
     "source": "xms",
     "source_ref": "000B 3B78 / 1",
