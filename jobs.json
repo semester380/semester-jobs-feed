@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 3E60 / 1",
+    "source": "xms",
+    "source_ref": "000B 3E60 / 1",
+    "job_id": "000B 3E60 / 1",
+    "job_title": "Adults Social Worker [Blackpool]",
+    "client": "Blackpool Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Talbot Gateway, , Blackpool, Lancashire, FY1 3AH, United Kingdom",
+    "city": "Blackpool",
+    "postcode": "FY1 3AH",
+    "start_date": "2026-08-24",
+    "end_date": "2026-10-29",
+    "pay_from": "30.66",
+    "pay_to": "30.66",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "3 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\n1 x 37 Older Adult Mental Health Social Worker required for a period of 14 weeks\n\nBlackpool Council is a progressive organisation committed to building on and improving our mental health services.\n\nWe are proud of the high quality of service-user focused care across the Blackpool Coast and constantly endeavour to help our staff deliver the kinds of innovative and effective services our service users and carers deserve.\n\nIf you would like to work within a challenging and supportive environment, Blackpool Council is pleased to be able to offer a social work vacancy within the Community Mental Health Team for Older Adults.\n\nWe are a co-located team working with older adults with various mental health issues and their carers. Working alongside our health colleagues in an integrated way of working that is well established within the team.\n\nWe are committed to a joint approach to service planning, delivery and development.\n\nFor Older Adults, you will provide multi-disciplinary needs and risk assessments, care planning and provide long term social work support within the framework of the Care Act 2014 and in line with the national agenda driving the provision of care to older adults with a mental health problem.\n\nYou will work within the framework of the Care Act 2014 and undertake timely assessments and reviews.\n\nThis will be a short term position of 14 weeks and Mental Health experience with older adults or an understanding of mental health legislation is preferable\n\nFor an informal discussion regarding this opportunity please contact Nick Ashton, Social Work Team Manager, on 01253 657350.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1457198?inst=1457198--Distribution--1647186612-false&_csrf=f159130b-dd29-4586-832a-cfa788b7010d&_xmscs=66b61e771729d7a5f808a18548c5cb5003a4a5010f137308f7c331daeef137b42b46670b1b8e5977",
+    "accepted_at": "2026-07-22T13:01:18.010Z",
+    "scraped_at": "2026-07-22T13:01:18.010Z",
+    "attachments": [
+      {
+        "filename": "JD - 1472 - Advert.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139551?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3E60 _ 1/JD - 1472 - Advert.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 3E5F / 1",
     "source": "xms",
     "source_ref": "000B 3E5F / 1",
