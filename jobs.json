@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 3CA5 / 1",
+    "source": "xms",
+    "source_ref": "000B 3CA5 / 1",
+    "job_id": "000B 3CA5 / 1",
+    "job_title": "Childrens Social Worker [Manchester City Council]",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Etrop Court, Rowlandsway, Manchester, Lancashire, M22 5RG, United Kingdom",
+    "city": "Manchester",
+    "postcode": "M22 5RG",
+    "start_date": "2026-08-24",
+    "end_date": "2026-11-28",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are looking for an experienced, enthusiastic, and skilled Social Worker to join our Advice and Guidance Service. This is a pivotal role at the front door of Children's Services, ensuring that children, young people, and families receive the right help, at the right time, from the right service.\nAs part of a supportive and collaborative team, you will undertake timely and robust screening of contacts, using your strong analytical, assessment, and safeguarding expertise to identify levels of need, assess risk, and make informed decisions about the most appropriate interventions. You will thrive in a fast paced environment, confidently managing competing priorities while maintaining high standards of professional practice and decision making.\nUsing David Thorpe’s Conversational Model, you will engage directly with children, families, and professionals to gather information, explore presenting needs, and build a clear understanding of risk and protective factors. Your ability to communicate effectively, navigate complex situations, and make sound safeguarding decisions will be central to achieving positive outcomes for children and families.\nYou will work closely with our co-located Family Help Social Work Teams and Early Help Services, playing a key role in effective multi-agency collaboration and ensuring a seamless and responsive journey for families accessing support.\nThis is an exciting opportunity for a committed practitioner who is passionate about safeguarding, strengths based practice, and delivering high quality services that make a lasting difference. You will join a service that values professional curiousity, collaborative working, and continual learning, where your expertise will help shape positive outcomes and improve the lives of children and families across Manchester.\n\nSocial Work qualification,  and experience of statutory social work (three years). Experience in Advice and Guidance/ MASH\nGood communication skills\nGood analytical skills\nGood planning skills\nGood multi-agency working skills.\n\n\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1456814?inst=1456814--Distribution--1647036891-false&_csrf=f159130b-dd29-4586-832a-cfa788b7010d&_xmscs=e8997a77687c30d9c1f8074b5bb08bf4d976925196f1cb474a1bcabf84f3dd898b2d1a5af642ee34",
+    "accepted_at": "2026-07-22T09:30:36.269Z",
+    "scraped_at": "2026-07-22T09:30:36.269Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139411?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3CA5 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 2A92 / 1",
     "source": "xms",
     "source_ref": "000B 2A92 / 1",
