@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 3E5F / 1",
+    "source": "xms",
+    "source_ref": "000B 3E5F / 1",
+    "job_id": "000B 3E5F / 1",
+    "job_title": "Children's Advanced Practitioner [Bury]",
+    "client": "Bury Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "3 Knowsley Place, , Bury, , BL9 OEJ",
+    "city": "BL9 OEJ",
+    "postcode": null,
+    "start_date": "2026-08-24",
+    "end_date": "2026-09-30",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "AP role on Duty and Assessment team. - 37 hours per week\n\nFull time position with workers expected to be in the office at least 3 days per week.\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1457155?backToItem=&initialLoad=&tab=&_xmscs=bb00da9f76a2932815d3186bf68b9d897b297ce912eb74a2fecdc73cd47658b55697950bc7412545",
+    "accepted_at": "2026-07-22T12:50:43.497Z",
+    "scraped_at": "2026-07-22T12:50:43.497Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139549?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3E5F _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 34E8 / 1",
     "source": "xms",
     "source_ref": "000B 34E8 / 1",
