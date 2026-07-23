@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 3EF6 / 1",
+    "source": "xms",
+    "source_ref": "000B 3EF6 / 1",
+    "job_id": "000B 3EF6 / 1",
+    "job_title": "Senior Social Worker Children's",
+    "client": "Barnsley Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Westgate Plaza, , Barnsley, , S70 2DR",
+    "city": "Barnsley",
+    "postcode": "S70 2DR",
+    "start_date": "2026-08-17",
+    "end_date": "2026-11-09",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "A social worker is required within the Support and Supervision team in Fostering Barnsley. The post is dedicated to the supervision and support of main stream foster carers therefore fostering experience is essential.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1457528?inst=1457528--Distribution--1647511721-false&_csrf=ed8f3e88-4140-4fbf-855a-cf4ef391b64e&_xmscs=eca1ee2c9bb87fbe69afe00cc32cd77fd98165fcda85a3baebbc0123f02ce4b505776a4a87dd9e2c",
+    "accepted_at": "2026-07-23T10:47:21.349Z",
+    "scraped_at": "2026-07-23T10:47:21.349Z",
+    "attachments": [
+      {
+        "filename": "92690 Senior Social Worker Profile 20150120.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139573?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3EF6 _ 1/92690 Senior Social Worker Profile 20150120.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Attributes 2026.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139574?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3EF6 _ 1/DfE Attributes 2026.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 3E60 / 1",
     "source": "xms",
     "source_ref": "000B 3E60 / 1",
