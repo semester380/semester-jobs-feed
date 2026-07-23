@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 3E0E / 1",
+    "source": "xms",
+    "source_ref": "000B 3E0E / 1",
+    "job_id": "000B 3E0E / 1",
+    "job_title": "Children's Social Worker [Stockport MBC]",
+    "client": "Stockport Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Piccadilly, Stockport, Stockport, , SK1 3XE, United Kingdom",
+    "city": "Stockport",
+    "postcode": "SK1 3XE",
+    "start_date": "2026-08-24",
+    "end_date": "2027-07-22",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Job opportunity in Children with Disabilities Team 5 days per week 37 hours",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1457710?backToItem=&initialLoad=&tab=&_xmscs=d4160e999de91672c3743d9c4d8f2a5c1d38348443a75c9a3380457af258778f6a351b021b4bee61",
+    "accepted_at": "2026-07-23T13:54:26.617Z",
+    "scraped_at": "2026-07-23T13:54:26.617Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139528?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3E0E _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 3EAA / 1",
     "source": "xms",
     "source_ref": "000B 3EAA / 1",
