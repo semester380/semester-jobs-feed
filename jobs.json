@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5301528",
+    "source": "comensura",
+    "source_ref": "5301528",
+    "job_id": "5301528",
+    "job_title": "Team Manager (Jajb4033-G11) (Social and Healthcare Qualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Floor 1, Delamere House, CW1 2JZ",
+    "city": "Delamere House",
+    "postcode": "CW1 2JZ",
+    "start_date": "2026-08-03",
+    "end_date": "",
+    "pay_from": "45.00",
+    "pay_to": "45.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A Recruitment Request number is required for all Orders, please state here: 20170\nTeam the role is for: Crewe Child In Need/ Child Protection Team\nPlease confirm which DBS is required for this role.\n5. Enhanced – including barred:\na. Children’s barred list\nb. Adults barred list\nc. Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-24T18:29:22.484Z",
+    "scraped_at": "2026-07-24T18:29:22.484Z",
+    "attachments": [
+      {
+        "filename": "JAJB4033 - Team Manager - JD and PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5301528/File/223754",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5301352",
     "source": "comensura",
     "source_ref": "5301352",
