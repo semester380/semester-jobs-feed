@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5301352",
+    "source": "comensura",
+    "source_ref": "5301352",
+    "job_id": "5301352",
+    "job_title": "Community Support Worker (Jajf4145 - G4) (Social and Healthcare Unqualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Delamere House, CW1 2JZ",
+    "city": "Delamere House",
+    "postcode": "CW1 2JZ",
+    "start_date": "2026-07-21",
+    "end_date": "",
+    "pay_from": "17.22",
+    "pay_to": "17.22",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A Recruitment Request number is required for all Orders, please state here: RW18310\nPlease confirm which DBS is required for this role.\n5. Enhanced – including barred:\nb. Adults barred list",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-24T16:29:40.363Z",
+    "scraped_at": "2026-07-24T16:29:40.363Z",
+    "attachments": [
+      {
+        "filename": "JAJF4145 - Comm Sup Wkr (Comm) - JD and PS (002).pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5301352/File/223643",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 4064 / 1",
     "source": "xms",
     "source_ref": "000B 4064 / 1",
