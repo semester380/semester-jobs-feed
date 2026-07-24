@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5301623",
+    "source": "comensura",
+    "source_ref": "5301623",
+    "job_id": "5301623",
+    "job_title": "Residential Support Worker - Grade 5 (Social Care Unqualified)",
+    "client": "Durham County Council",
+    "procurer": null,
+    "working_address": "Coxhoe Satellite Home, DH6 4AL",
+    "city": "Coxhoe Satellite Home",
+    "postcode": "DH6 4AL",
+    "start_date": "2026-07-25",
+    "end_date": "",
+    "pay_from": "16.97",
+    "pay_to": "16.97",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "This is for a sleep in shift the candidate will start at 10.30 on Saturday morning then finish shift at 22.30 Saturday night, sleep at the home then back on shift 7am till 11 am.",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-24T12:40:26.323Z",
+    "scraped_at": "2026-07-24T12:40:26.323Z",
+    "attachments": [
+      {
+        "filename": "Residential Support Worker, Children's Homes G5 JDPS.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5301623/File/223801",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5276254",
     "source": "comensura",
     "source_ref": "5276254",
