@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 3FCA / 1",
+    "source": "xms",
+    "source_ref": "000B 3FCA / 1",
+    "job_id": "000B 3FCA / 1",
+    "job_title": "Children's Social Worker [Stockport MBC]",
+    "client": "Stockport Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Piccadilly, Stockport, Stockport, , SK1 3XE, United Kingdom",
+    "city": "Stockport",
+    "postcode": "SK1 3XE",
+    "start_date": "2026-08-24",
+    "end_date": "2026-10-30",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.\n\nKinship Care Team SSW. 18.5 hours. Agency post while we are in the process of recruiting to this post permanently.\n\nMain duties include support and supervision of kinship foster carers. Other duties include Kinship Duty (reg 24s and VA's) on a rota basis.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1458193?inst=1458193--Distribution--1648345370-false&_csrf=fb549817-236a-4d9e-8ed4-767196f3e251&_xmscs=2a5726a78865295a5b34e7cf3f8ae3a66a9c356dfbc60fb31cfbb62469b31706eaa92a422d2b7d0f",
+    "accepted_at": "2026-07-24T14:04:45.568Z",
+    "scraped_at": "2026-07-24T14:04:45.568Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139629?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3FCA _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5301623",
     "source": "comensura",
     "source_ref": "5301623",
