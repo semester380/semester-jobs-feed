@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 4064 / 1",
+    "source": "xms",
+    "source_ref": "000B 4064 / 1",
+    "job_id": "000B 4064 / 1",
+    "job_title": "Children's Team Manager [Oldham]",
+    "client": "Oldham Council, GM Collaboration",
+    "procurer": "GM Collaboration",
+    "working_address": "George Street, , Oldham, Greater Manchester, OL1 1HD, United Kingdom",
+    "city": "Oldham",
+    "postcode": "OL1 1HD",
+    "start_date": "2026-08-24",
+    "end_date": "2027-01-31",
+    "pay_from": "46",
+    "pay_to": "46",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "As a Team Manager in Oldham, you will manage a busy team of social workers to deliver effective services within the Complex Safeguarding Hub. You will be responsible for the management, supervision, and professional development of the members of your team and ensuring that children and young people’s needs are met through quality interventions. In this role you will be dedicated to supporting children and young people who are experiencing exploitation or who are at risk of exploitation. You will work closely with colleagues from GMP and Health.\n\nIn Oldham we are committed to systemic practice, with a focus on building relationships with children and families and reflective learning, both within families and as a Service. We will support you with training in this model.\n\n\n\n\n\n\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1458239?inst=1458239--Distribution--1648355872-false&_csrf=fb549817-236a-4d9e-8ed4-767196f3e251&_xmscs=20820db9c6a9fee5eeea10bf11b3707135abb0b98719605528766919f2f795bfc8a020e31f642ba5",
+    "accepted_at": "2026-07-24T14:13:01.572Z",
+    "scraped_at": "2026-07-24T14:13:01.572Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139662?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4064 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 3FCA / 1",
     "source": "xms",
     "source_ref": "000B 3FCA / 1",
