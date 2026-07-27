@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5301615",
+    "source": "comensura",
+    "source_ref": "5301615",
+    "job_id": "5301615",
+    "job_title": "Care Brokerage Officer (Social Care - Qualified)",
+    "client": "Lancashire County Council",
+    "procurer": null,
+    "working_address": "County Hall, PR1 8RE",
+    "city": "County Hall",
+    "postcode": "PR1 8RE",
+    "start_date": "2026-08-03",
+    "end_date": "",
+    "pay_from": "18.81",
+    "pay_to": "18.81",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Dept - Care Navigation Team\n2 Office days (County Hall, Preston) per week expected but we can be flexible on hybrid working arrangements.\nInterviews - ASAP\nSee attached JD for full details",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-27T21:21:06.699Z",
+    "scraped_at": "2026-07-27T21:21:06.699Z",
+    "attachments": [
+      {
+        "filename": "Brokerage Officer Job Description.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5301615/File/223799",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5301759",
     "source": "comensura",
     "source_ref": "5301759",
