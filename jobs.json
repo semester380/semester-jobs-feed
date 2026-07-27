@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 3DCA / 1",
+    "source": "xms",
+    "source_ref": "000B 3DCA / 1",
+    "job_id": "000B 3DCA / 1",
+    "job_title": "Children's Social Worker - Fostering",
+    "client": "Wigan Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Wigan Life Centre South, College Avenue , Wigan, Lancashire, WN1 INJ, United Kingdom",
+    "city": "WN1 INJ",
+    "postcode": null,
+    "start_date": "2026-08-24",
+    "end_date": "2026-10-19",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "To have the necessary skills ad experience as a supervising social worker in fostering, to complete full assessments and supervise foster carers. To see assessments through to panel for recruited carers as well as newly approved carers following their first annual review. To support recruited fostering duty team and be prepared to be officed based a few days each week. To attend all relevant training and meetings, work within timescales and ensure data is compliant. The teams are quite busy so the role may be used across the recruited teams to support but the main focus will be assessment and duty support. Additional tasks may be requested in relation to recruitment, retention and training",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1458711?backToItem=&initialLoad=&tab=&_xmscs=6310939d341ec9313280f9738554d658a54b2d06be91c8d8770afe0f66bbdd0f2780a12bb488d297",
+    "accepted_at": "2026-07-27T15:02:37.194Z",
+    "scraped_at": "2026-07-27T15:02:37.194Z",
+    "attachments": [
+      {
+        "filename": "Children’s Social Worker – Fostering.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139507?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3DCA _ 1/Children’s Social Worker – Fostering.docx",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139508?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3DCA _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5301459",
     "source": "comensura",
     "source_ref": "5301459",
