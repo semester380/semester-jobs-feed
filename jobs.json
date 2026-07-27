@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5301759",
+    "source": "comensura",
+    "source_ref": "5301759",
+    "job_id": "5301759",
+    "job_title": "Missing Support Worker (Bcft) (Social Care Unqualified)",
+    "client": "Bradford Metropolitan District Council",
+    "procurer": null,
+    "working_address": "Sir Henry Mitchell House, BD5 0QL",
+    "city": "Sir Henry Mitchell House",
+    "postcode": "BD5 0QL",
+    "start_date": "2026-08-10",
+    "end_date": "",
+    "pay_from": "20.24",
+    "pay_to": "20.24",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role: Missing Support Worker",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-27T17:58:43.456Z",
+    "scraped_at": "2026-07-27T17:58:43.456Z",
+    "attachments": [
+      {
+        "filename": "BCFT Missing Support Worker - Integrated Front Door (MSW1710).pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5301759/File/223896",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 3FF2 / 1",
     "source": "xms",
     "source_ref": "000B 3FF2 / 1",
