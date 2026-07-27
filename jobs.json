@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5301796",
+    "source": "comensura",
+    "source_ref": "5301796",
+    "job_id": "5301796",
+    "job_title": "Senior Social Worker (Bcft Dfe) (Social Care Qualified)",
+    "client": "Bradford Metropolitan District Council",
+    "procurer": null,
+    "working_address": "Sir Henry Mitchell House, BD5 0QL",
+    "city": "Sir Henry Mitchell House",
+    "postcode": "BD5 0QL",
+    "start_date": "2026-08-24",
+    "end_date": "",
+    "pay_from": "35.00",
+    "pay_to": "35.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "This is a Collective order for Children in Care across multiple teams - your candidate will be interviewed and placed in a suitable team as decided by the Service Managers.\n**DO NOT SUBMIT PREVIOUSLY REJECTED CANDIDATES**\nMust be Level 3 qualified Senior Social Worker with 3 years experience POST AYSE.\nMust have experience dealing with complex children\nBradford Children and Families Trust operate hybrid working - However, there will be instances where employees are expected to be in the office for specific tasks or team days, as defined by the needs of the service.\n2x AG516 - Team 9 - 50227738/50216651\n1 x AG616 50216931 Team 3\n2 x AG621 Team 7 50221683, 50231343\n1 x AG494 Team 9 50227744",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-27T21:31:25.676Z",
+    "scraped_at": "2026-07-27T21:31:25.676Z",
+    "attachments": [
+      {
+        "filename": "Senior Social Worker CFT.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5301796/File/223916",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5301615",
     "source": "comensura",
     "source_ref": "5301615",
