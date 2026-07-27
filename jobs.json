@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 392C / 1",
+    "source": "xms",
+    "source_ref": "000B 392C / 1",
+    "job_id": "000B 392C / 1",
+    "job_title": "Homelessness Prevention Officer G6 [Rochdale BC]",
+    "client": "Rochdale Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Smith Street, , Rochdale, , OL16 1XU, United Kingdom",
+    "city": "Rochdale",
+    "postcode": "OL16 1XU",
+    "start_date": "2026-07-29",
+    "end_date": "2027-01-29",
+    "pay_from": "16.62",
+    "pay_to": "16.62",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Help prevent homelessness and change lives across Rochdale.\n\nAre you an experienced housing professional who is passionate about helping people find safe and sustainable homes? Rochdale Borough Council is seeking a motivated Homelessness Prevention Officer to join our dedicated Homelessness & Prevention Service.\n\nThis is a rewarding opportunity to work at the forefront of homelessness prevention, supporting residents facing housing crises and helping them secure positive outcomes. You'll manage your own caseload, undertake homelessness assessments, develop Personalised Housing Plans, and work closely with partners across housing, health, social care and the voluntary sector.\n\nNo two days are the same. You'll be working with a diverse range of customers, including young people, families, survivors of domestic abuse, people leaving institutions, and those with complex support needs.\n\nWe're looking for someone with:\n\nExperience of homelessness prevention and housing casework.\nKnowledge of the Housing Act 1996 and Homelessness Reduction Act 2017.\nStrong assessment, decision-making and case management skills.\nA customer-focused, solution-driven approach.\nThe ability to build effective relationships with customers and partner agencies.\n\nAt Rochdale, we're proud of the difference we make, passionate about supporting our communities and committed to delivering outstanding services. If you're looking for a role where you can have a genuine impact on people's lives from day one, we'd love to hear from you.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1458451?backToItem=&initialLoad=&tab=&_xmscs=62f6fb50174a282b69941c11a9e4dc728e7d065c42eeb97a35832f0bd8388e9d1141dc7c1976da73",
+    "accepted_at": "2026-07-27T09:43:13.492Z",
+    "scraped_at": "2026-07-27T09:43:13.492Z",
+    "attachments": [
+      {
+        "filename": "G6 Homelessness Prevention Officer Homelessness jd (1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139238?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 392C _ 1/G6 Homelessness Prevention Officer Homelessness jd (1).pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5301684",
     "source": "comensura",
     "source_ref": "5301684",
