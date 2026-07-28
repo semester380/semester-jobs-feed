@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 2F9F / 1",
+    "source": "xms",
+    "source_ref": "000B 2F9F / 1",
+    "job_id": "000B 2F9F / 1",
+    "job_title": "Senior Social Worker (Childrens)",
+    "client": "Wakefield Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Stanely Street, Wakefield Families Together Office, , Wakefield, , WF1 4NB",
+    "city": "Wakefield",
+    "postcode": "WF1 4NB",
+    "start_date": "2026-07-13",
+    "end_date": "2026-10-30",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Senior Social Worker – Locality Child Protection Team (Agency)\n\nThe Senior Social Worker will be responsible for managing a complex caseload within a Locality Child Protection Team, undertaking statutory social work interventions from referral through to permanence planning where required. Duties include completing Child and Family Assessments, managing Child in Need (CIN) and Child Protection (CP) plans, undertaking Pre-Birth Assessments, and working effectively with children, families, and partner agencies to safeguard and promote the welfare of children.\n\nThe post holder will be expected to progress cases through the Public Law Outline (PLO) process where necessary, prepare high-quality assessments and reports, and undertake court work, including the initiation and management of care proceedings. The role requires strong risk assessment and analytical skills, effective case management, and the ability to make timely decisions in line with statutory guidance, legislation, and local safeguarding procedures.\n\nKey responsibilities include:\n\nManaging cases from referral to closure, ensuring timely and effective interventions.\nCompleting Child and Family Assessments to identify needs, risks, and appropriate support plans.\nManaging and reviewing Child in Need and Child Protection plans.\nUndertaking comprehensive Pre-Birth Assessments and planning interventions to safeguard unborn children.\nProgressing cases through the Public Law Outline (PLO) process where threshold is met.\nPreparing evidence-based assessments, court statements, and reports for legal proceedings.\nInitiating and managing care proceedings in partnership with legal services and multi-agency professionals.\nChairing and participating in professional meetings, strategy discussions, and legal planning meetings as required.\nMaintaining accurate and up-to-date case recordings in accordance with statutory requirements and organisational standards.\nWorking collaboratively with families and partner agencies to achieve positive outcomes for children and young people.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1459098?backToItem=&initialLoad=&tab=&_xmscs=b097fa788c8b675b173187d3ca1317e617205e6176554f722c9ec8faf5a50db1c989ce529bd8b8ed",
+    "accepted_at": "2026-07-28T11:57:58.215Z",
+    "scraped_at": "2026-07-28T11:57:58.215Z",
+    "attachments": [
+      {
+        "filename": "Wakefield Your Temp Experience.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138780?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2F9F _ 1/Wakefield Your Temp Experience.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138781?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2F9F _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      },
+      {
+        "filename": "Senior Social Worker (Children).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/138782?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 2F9F _ 1/Senior Social Worker (Children).pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 403A / 1",
     "source": "xms",
     "source_ref": "000B 403A / 1",
