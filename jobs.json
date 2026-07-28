@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 41F7 / 1",
+    "source": "xms",
+    "source_ref": "000B 41F7 / 1",
+    "job_id": "000B 41F7 / 1",
+    "job_title": "Childrens - Senior Social Worker",
+    "client": "Hiring - Leeds City Council, Leeds City Council",
+    "procurer": null,
+    "working_address": "Technorth, 9 Harrogate Road, Leeds, , LS7 3NB, United Kingdom",
+    "city": "Leeds",
+    "postcode": "LS7 3NB",
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-17",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Qualified social workers are needed to support teams who are area social work children's teams, undertaking duty, receiving new referrals and completing assessments. Also will be required to hold a caseload of child in need, child protection as well as potentially working with children in care within proceedings. Office base will be at Tech North, in Chapel Allerton in Leeds; or Albion House on the Leeds/Bradford border. This office base works with families that are living within the west of Leeds. Positions are full time, Monday-Friday 8.30-5pm.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1459309?backToItem=&initialLoad=&tab=&_xmscs=928247dd311692655e351ea689056034c6885a07828b060b35a8212b5b36613a840eef7f8828e904",
+    "accepted_at": "2026-07-28T13:17:43.353Z",
+    "scraped_at": "2026-07-28T13:17:43.353Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139761?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 41F7 _ 1/DfE Recommendation Attribute.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 3E00 / 1",
     "source": "xms",
     "source_ref": "000B 3E00 / 1",
