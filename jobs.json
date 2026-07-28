@@ -1,5 +1,29 @@
 [
   {
+    "item_id": "000B 4193 / 1",
+    "source": "xms",
+    "source_ref": "000B 4193 / 1",
+    "job_id": "000B 4193 / 1",
+    "job_title": "Adults Social Worker [Rochdale]",
+    "client": "Rochdale Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Brook House, Oldham road, Middleton, , M24 1AY, United Kingdom",
+    "city": "Middleton",
+    "postcode": "M24 1AY",
+    "start_date": "2026-08-24",
+    "end_date": "2026-09-26",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "3 years reference , gaps in employment history checked, any relevant quals as per JDPS\n\nRochdale Adult Care are recruiting for an experienced social worker to join the Community Team to cover maternity leave of the current post holders.\n\nWhat are we looking for?\n\nWe are looking to appoint 1 full time social worker Monday - Friday 8.30 am - 4.45 pm\n\nYou will be an experienced positive and enthusiatic social worker who promotes a strength based approach to assessments, support planning and offering advice and guidance to colleagues, service users and carers, as within the objectives of the Care Act 2014. Additionally, social workers are expected to promote the independence and well-being of service users and carers, utilising natural support and the voluntary sector, ensuring creativity with solutions to support planning\n\nYou will be experienced in compleing Mental Capacity Assessments & Section 42 Enquiries\n\nYou will be expected to support the Home First Hospital Discharge Hub when there is social work pressures for discharge.\n\nYou will be expected to be part of the Duty Rota\n\nYou will be an effective multi-tasker with excellent organisational skills and the ability to work flexibly to meet the needs of the service.\n\nYou will be motivated and forward thinking, who can demonstrate professionalism and enthusiasm\n\nYou will be a team player\n\nYou will have excellent interpersonal and communication skills\n\nYou will have excellent ICT skills and be able to use a range of packages including Word, Excel and Outlook.\n\nYou will have a real attention for detail and be able to maintain accurate and detailed records using both manual and electronic systems. Experience in the use of liquid logic is beneficial\n\nThere is an opportunity to work from home but this is as the needs of the service allows.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1458903?inst=1458903--Distribution--1649872188-false&_csrf=fc05835f-e2a6-4d4b-abc4-d1dc06a5d09f&_xmscs=ffc5088ac6c497abb9a6747a4fb7ffa2cb5486c6b491d2b83aa09fca8c7e7ec98d2eef8c0f3dff2c",
+    "accepted_at": "2026-07-28T08:10:38.913Z",
+    "scraped_at": "2026-07-28T08:10:38.913Z",
+    "attachments": []
+  },
+  {
     "item_id": "comensura:5301796",
     "source": "comensura",
     "source_ref": "5301796",
@@ -13643,7 +13667,7 @@
     "description": "We are looking for up to 5 Child & Family Workers for a 6 month period to cover increased workload. They will work across the Bramble Centre / Sandhill Centre and in the Community.\nDesirable experience - family time/contact supervision.\nEssential experience - of working with children/families.\nCurrent driving licence and access to a car or means to mobility support.",
     "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
     "accepted_at": "2026-05-14T11:57:55.740Z",
-    "scraped_at": "2026-05-14T11:57:55.740Z",
+    "scraped_at": "2026-07-28T08:11:33.843Z",
     "attachments": [
       {
         "filename": "Child and Family Worker CWD JDPS 2025.pdf",
