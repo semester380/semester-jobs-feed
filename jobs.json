@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 3E00 / 1",
+    "source": "xms",
+    "source_ref": "000B 3E00 / 1",
+    "job_id": "000B 3E00 / 1",
+    "job_title": "Senior Social Worker - Children's",
+    "client": "Kirklees Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Civic Centre 1, High Street, Huddersfield, , HD1 2NF",
+    "city": "Huddersfield",
+    "postcode": "HD1 2NF",
+    "start_date": "2026-08-10",
+    "end_date": "2026-09-30",
+    "pay_from": "27.3",
+    "pay_to": "27.3",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "This is for the CWD team. Working within relevant legislation, government guidance and the council’s practice standards we are looking for social workers who can carry out assessments and provide social work interventions using a child centred approach.   Someone who can:\n\nBuild relationships with children, young people, families, partner agencies – working to achieve positive outcomes.\nWork collaboratively with appropriate agencies and professionals as part of a multi‑disciplinary service/team.\nDeliver high‑quality assessments and person‑centred plans.\nWork confidently with complex needs and safeguarding situations.\nManage allocated caseload effectively.\n\nAn enhanced DBS and barred list check is required.\n\nIt is essential that you hold a full and valid driving licence.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1459238?backToItem=&initialLoad=&tab=&_xmscs=4a570132a39255cde9a4d925eae22cbc98d15459812e9e47ac0a4757f744f82ce6f0b0c7d31096ed",
+    "accepted_at": "2026-07-28T13:05:43.630Z",
+    "scraped_at": "2026-07-28T13:05:43.630Z",
+    "attachments": [
+      {
+        "filename": "Social Worker - Children's Grade 10-11 Focus Sheet.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139525?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3E00 _ 1/Social Worker - Children's Grade 10-11 Focus Sheet.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Attributes 2026.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139526?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3E00 _ 1/DfE Attributes 2026.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "Social Worker - Children's Grade 10-11.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139527?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3E00 _ 1/Social Worker - Children's Grade 10-11.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 3F2B / 1",
     "source": "xms",
     "source_ref": "000B 3F2B / 1",
