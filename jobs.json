@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 403A / 1",
+    "source": "xms",
+    "source_ref": "000B 403A / 1",
+    "job_id": "000B 403A / 1",
+    "job_title": "Family Support Worker",
+    "client": "Barnsley Authorising, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Cudworth Centre, Carlton Street, Cudworth, Barnsley, South Yorkshire, S72 8SU",
+    "city": "Barnsley",
+    "postcode": "S72 8SU",
+    "start_date": "2026-07-27",
+    "end_date": "2026-10-31",
+    "pay_from": "18.35",
+    "pay_to": "18.35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "This will be mainly supervising Family time (supervised contact) and some pieces of direct work, visiting children in the family home.\n\nFlexibility required to work evenings if required\n\nfully office based, must drive and have own vehicle",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1459051?backToItem=&initialLoad=&tab=&_xmscs=e0c2993cb512da1657a7c9b6096771547b187dc491c53a5e702d153d6cffce6acaabb9451cd57e38",
+    "accepted_at": "2026-07-28T11:13:10.234Z",
+    "scraped_at": "2026-07-28T11:13:10.234Z",
+    "attachments": [
+      {
+        "filename": "59029 Family Support Worker Profile (v 2) 10.11.2015.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139658?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 403A _ 1/59029 Family Support Worker Profile (v 2) 10.11.2015.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 4193 / 1",
     "source": "xms",
     "source_ref": "000B 4193 / 1",
