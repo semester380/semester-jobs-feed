@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 3FAC / 1",
+    "source": "xms",
+    "source_ref": "000B 3FAC / 1",
+    "job_id": "000B 3FAC / 1",
+    "job_title": "Reablement Team Manager (G12)",
+    "client": "Wakefield Authorising, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "6 Waterton Rd, , Lupset, , WF2 8HT",
+    "city": "Lupset",
+    "postcode": "WF2 8HT",
+    "start_date": "2026-07-23",
+    "end_date": "2026-10-31",
+    "pay_from": "26.62",
+    "pay_to": "26.62",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are looking for two Registered Managers to support with service delivery.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1459550?backToItem=&initialLoad=&tab=&_xmscs=945bf38b9978a1e0bc8604fa2edf4611009bd5d2262b2e3fd0099f9f4b0d8c5ca6f4edaee696b0ec",
+    "accepted_at": "2026-07-29T08:34:39.647Z",
+    "scraped_at": "2026-07-29T08:34:39.647Z",
+    "attachments": [
+      {
+        "filename": "Reablement Team Manager G12.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139627?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3FAC _ 1/Reablement Team Manager G12.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5301942",
     "source": "comensura",
     "source_ref": "5301942",
