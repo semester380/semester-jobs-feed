@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 4243 / 1",
+    "source": "xms",
+    "source_ref": "000B 4243 / 1",
+    "job_id": "000B 4243 / 1",
+    "job_title": "Children's Social Worker [Rochdale]",
+    "client": "Rochdale Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Smith Street, , Rochdale, , OL16 1XU, United Kingdom",
+    "city": "Rochdale",
+    "postcode": "OL16 1XU",
+    "start_date": "2026-08-24",
+    "end_date": "2026-10-31",
+    "pay_from": "39",
+    "pay_to": "39",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Hourly Rate - £39\n\nWe are looking to appoint an experienced social worker into the Connected Persons Team (1 x 37 hours) within Rochdale’s Fostering Service. Kinship care is a growing and integral part of achieving permanency for children and young people in a way that promotes their right to a family life, and so we are looking for an enthusiastic, resilient and skilled Social Worker who is able to write robust and relational assessments and have a passion to engage families with curiosity and understanding.\n\n\n\nWithin the Connected Persons Team you will be involved in the completion of full Connected Persons Assessment, regulation 24 and viability assessments, presentation at fostering panel and the support and supervision of Kinship foster carers. You will also be required to attend court as and when required. The role will involve some weekend and evening working, so the successful candidate must be available and prepared to work flexibly when required.\n\n\n\nWithin the Connected Persons Team you will support Kinship Carers on a day to day basis and deliver carer training (Skills to Foster and Secure Base Training). You will be part of a duty rota completing viability and regulation 24 assessments. This will be alongside completing full connected persons’ assessments considering approval as Kinship Foster Carers, and suitability for Special Guardianship Order/Child Arrangement Orders. You will be involved in completing fostering tasks including foster carer supervisions to support Family and Friends caring for children under regulation 24 approval.\n\n\n\nThis is an exciting time to be joining the service as we have established three Mockingbird Hubs, a Supported Lodgings Service and the fostering team are also working closely with the No Wrong Door hub. In addition we are training all our foster carers in the Secure Base model and Therapeutic Parenting with PACE training.\n\n\n\nThe successful candidate will have a sound knowledge of children’s legislation and practice and experience writing assessments. Direct experience of completing Connected Person’ assessments and supervising and supporting foster carers would be an advantage.\n\n\n\nAs an experienced, qualified Social Worker you will be required to work within a framework for induction, supervision and professional development with the support from an experienced line manager. We offer reflective supervision, a commitment to good home/work life balance, comprehensive training and an atmosphere of support from senior managers and Council Members, as well as a host of other staff benefits.\n\n\n\nYou will be welcomed into a friendly, stable and experienced team of social workers within the fostering service. These posts have become available due to the increased volume of work within the Connected Persons Team.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1460001?inst=1460001--Distribution--1650664130-false&_csrf=95869844-b019-47a0-918f-ab0cef87de22&_xmscs=88c455eac6cfee4c0a9e589449e509196085a3c62a24f0f9c5ddc4bd59fb8b55e3419004c0f836ab",
+    "accepted_at": "2026-07-29T13:35:52.641Z",
+    "scraped_at": "2026-07-29T13:35:52.641Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139788?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4243 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "JOB DESCRIPTION PERSON SPEC - Experienced.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139814?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4243 _ 1/JOB DESCRIPTION PERSON SPEC - Experienced.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 4201 / 1",
     "source": "xms",
     "source_ref": "000B 4201 / 1",
