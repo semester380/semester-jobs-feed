@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5301942",
+    "source": "comensura",
+    "source_ref": "5301942",
+    "job_id": "5301942",
+    "job_title": "Senior Social Worker (Bcft Dfe) (Social Care Qualified)",
+    "client": "Bradford Metropolitan District Council",
+    "procurer": null,
+    "working_address": "Sir Henry Mitchell House, BD5 0QL",
+    "city": "Sir Henry Mitchell House",
+    "postcode": "BD5 0QL",
+    "start_date": "2026-09-07",
+    "end_date": "",
+    "pay_from": "35.00",
+    "pay_to": "35.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "*Please do not resubmit previously rejected candidates*\nKeighley and Shipley team 4\nHybrid work\nAG376 SAP 50216849\nLocality social workers required.\nCome and join us at the Trust in the city of culture.\nWe are looking for social workers with experience in working with children in families at CIN, CP, PLO and care proceedings.\nWe offer flexible working arrangements and access to training and support.\nOur teams are small in structure to ensure good management support and supervision.\nWe ensure that the number of children and families you work with is manageable to ensure that our families are able to receive a good quality service from us.",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-29T05:28:36.433Z",
+    "scraped_at": "2026-07-29T05:28:36.433Z",
+    "attachments": [
+      {
+        "filename": "Senior Social Worker CFT.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5301942/File/224006",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5301919",
     "source": "comensura",
     "source_ref": "5301919",
