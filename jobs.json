@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 4201 / 1",
+    "source": "xms",
+    "source_ref": "000B 4201 / 1",
+    "job_id": "000B 4201 / 1",
+    "job_title": "Children's Advanced Practitioner [Oldham]",
+    "client": "Oldham Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "The Spindles, George Street, , Oldham, Greater Manchester, OL1 1HD, United Kingdom",
+    "city": "Oldham",
+    "postcode": "OL1 1HD",
+    "start_date": "2026-08-24",
+    "end_date": "Mon 02/08/2027",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Suppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.\n\nThis role is for a full time, (5 days per week), experienced qualified social Worker who has the knowledge and experience fulfil the role as an Advanced Practitioner and to join one of our 4 Teams within the Children in Our Care service in Oldham.\n\nTeams are made up of 1 TM, 1 AP & up to 6 SW's.\n\nYou would hold a small case load on average of up to 15 children and Young People in LA care and to the expectations would be to review progress and develop their care plans to best meet their individual needs and all that this entails which would leave you with the capacity to undertake the additional responsibilities of the Advanced Practitioner to offer additional support  to the TM and SW's including students and ASYE's. For example this would include, but would not be limited to: organising and facilitating group reflective supervision for member of the Team, holding learning circles, chairing Care planning meetings where appropriate on children and YP not allocated to you but a SW on the team, offering 1:1 advise and support and specific tasks as directed by the TM.\n\nThe hybrid model is normally 3 days office based and 2 days WFH subject to management agreement and needs of the service.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1459960?backToItem=&initialLoad=&tab=&_xmscs=573bfff873a51c33aac7482345b5cc760c98caa575cae00813e794b27259ff187ec88dfe8c10130c",
+    "accepted_at": "2026-07-29T13:31:49.618Z",
+    "scraped_at": "2026-07-29T13:31:49.618Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139764?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4201 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "000940 Advanced Practitioner (Sept).xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139772?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4201 _ 1/000940 Advanced Practitioner (Sept).xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 428A / 1",
     "source": "xms",
     "source_ref": "000B 428A / 1",
