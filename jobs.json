@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 430D / 1",
+    "source": "xms",
+    "source_ref": "000B 430D / 1",
+    "job_id": "000B 430D / 1",
+    "job_title": "Children's Team Manager [Rochdale]",
+    "client": "Rochdale Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Smith Street, , Rochdale, , OL16 1XU, United Kingdom",
+    "city": "Rochdale",
+    "postcode": "OL16 1XU",
+    "start_date": "2026-08-24",
+    "end_date": "2026-10-31",
+    "pay_from": "45",
+    "pay_to": "45",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Hourly Rate - £45\n\nWe are seeking an experienced, motivated and nurturing Team Manager to lead our Connected Persons Team within Rochdale's Fostering Service. Kinship care is a growing and integral part of achieving permanence for children and young people, enabling them to remain connected to their family networks and communities. We are looking for an enthusiastic and resilient leader with a passion for family-led solutions, who can inspire and develop staff, drive high-quality practice and ensure children remain at the centre of all decision-making.\n\n\n\nAs Team Manager, you will provide operational leadership and management oversight for a team of social workers undertaking Connected Persons Assessments, Regulation 24 assessments and viability assessments. You will be responsible for ensuring assessments are robust, analytical, relationship-based and completed within statutory timescales. You will support the team in presenting assessments to fostering panel and provide quality assurance to ensure high standards of practice are consistently achieved.\n\n\n\nThe role will involve managing the team's involvement in court proceedings where required and providing guidance and support regarding complex cases and decision-making. You will oversee the support and supervision provided to Kinship Foster Carers, ensuring carers receive high-quality services that enable children to thrive within their family networks.\n\n\n\nYou will lead a busy and dynamic team, ensuring effective allocation and oversight of work, including participation in duty arrangements relating to viability and Regulation 24 assessments. The successful candidate will promote a culture of reflective practice, learning and continuous improvement, supporting staff to develop their skills and confidence in delivering excellent outcomes for children and families.\n\n\n\nThis is an exciting time to join Rochdale's Fostering Service. We have established two successful Mockingbird Hubs, a Supported Lodgings Service and continue to work closely with the No Wrong Door Hub. We are also committed to developing our carers through Secure Base, Therapeutic Parenting and PACE training, ensuring children and carers receive therapeutic and relationship-focused support.\n\n\n\nThe successful candidate will have substantial experience within children's social care and a strong understanding of fostering, kinship care and permanency planning. You will possess sound knowledge of relevant legislation, fostering regulations, standards and guidance, together with a proven ability to manage performance, support staff development and drive service improvement. Experience of connected persons assessments, carer supervision and fostering practice would be highly advantageous.\n\n\n\nAs a Team Manager, you will receive comprehensive support through regular supervision, professional development opportunities and access to a strong and supportive management team. We are committed to staff wellbeing and offer reflective supervision, flexible working arrangements where possible, excellent training opportunities and a healthy work-life balance.\n\n\n\nYou will join a friendly, stable and highly experienced fostering service that is committed to delivering outstanding support to children, families and carers. This is a fantastic opportunity to lead a dedicated team at a time of continued growth and development within our Connected Persons Service.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1460074?inst=1460074--Distribution--1650705612-false&_csrf=95869844-b019-47a0-918f-ab0cef87de22&_xmscs=a9bf697711cef96303880a55b64c7ac7b073d02b2cd70e608b60e6b1fa77970c99ac2b256cc52965",
+    "accepted_at": "2026-07-29T14:26:26.995Z",
+    "scraped_at": "2026-07-29T14:26:26.995Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139851?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 430D _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "Team Manager jd.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139854?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 430D _ 1/Team Manager jd.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 4243 / 1",
     "source": "xms",
     "source_ref": "000B 4243 / 1",
