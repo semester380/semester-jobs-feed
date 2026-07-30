@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 42FD / 1",
+    "source": "xms",
+    "source_ref": "000B 42FD / 1",
+    "job_id": "000B 42FD / 1",
+    "job_title": "Children's Team Manager [Bury]",
+    "client": "Bury Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "3 Knowsley Place, Duke Street, Bury, , BL9 0EJ, United Kingdom",
+    "city": "Bury",
+    "postcode": "BL9 0EJ",
+    "start_date": "2026-08-24",
+    "end_date": "2027-02-28",
+    "pay_from": "40",
+    "pay_to": "46",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Children with Disabilities Team.\n\nTo manage the provision of field social work services to the local community by a team of social workers, ensuring that statutory requirements and departmental policies are complied with. To provide a social work service to children in need and their families including those in need of protection.\nCQSW, DIPSW, BA HONS SW or equivalent.\n3 years post qualifying experience in a field social work setting including substantial child protection experience\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1460366?backToItem=&initialLoad=&tab=&_xmscs=6d3f584dd1d1e250e6f7de79adf5b6450f410e77c51abe128e199f643798ed8215856d53e028f462",
+    "accepted_at": "2026-07-30T07:57:24.059Z",
+    "scraped_at": "2026-07-30T07:57:24.059Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139848?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 42FD _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 41BD / 1",
     "source": "xms",
     "source_ref": "000B 41BD / 1",
