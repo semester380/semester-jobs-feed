@@ -1,5 +1,97 @@
 [
   {
+    "item_id": "comensura:5302005",
+    "source": "comensura",
+    "source_ref": "5302005",
+    "job_id": "5302005",
+    "job_title": "Basic Grade Occupational Therapist (Jajf4046 - G9) (Social and Healthcare Qualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Floor 5, Delamere House, CW1 2JZ",
+    "city": "Delamere House",
+    "postcode": "CW1 2JZ",
+    "start_date": "2026-08-03",
+    "end_date": "",
+    "pay_from": "35.00",
+    "pay_to": "35.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A Recruitment Request number is required for all Orders, please state here: 17962 and 17964\nPlease confirm which DBS is required for this role.\n(Delete the lines which are not applicable and leave the option that is required)\n1. Not required\n2. Basic\n3. Standard\n4. Enhanced – excluding barred\n5. Enhanced – including barred:\na. Children’s barred list\nb. Adults barred list\nc. Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-31T08:52:45.061Z",
+    "scraped_at": "2026-07-31T08:52:45.061Z",
+    "attachments": [
+      {
+        "filename": "JAJF4046 - Basic Grade Occ Ther - JD and PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5302005/File/224048",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
+    "item_id": "000B 433C / 1",
+    "source": "xms",
+    "source_ref": "000B 433C / 1",
+    "job_id": "000B 433C / 1",
+    "job_title": "Senior Social Worker Children's",
+    "client": "Barnsley Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Westgate Plaza One, 1 Westgate, Western Street, Barnsley, South Yorkshire, S70 2DR",
+    "city": "Barnsley",
+    "postcode": "S70 2DR",
+    "start_date": "2026-08-24",
+    "end_date": "2026-09-30",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are seeking 2 fulltime senior social workers for our Children's Integrated Front Door. These are \"over-establishment\" roles to provide additional capacity for our busy front door. The posts are for an initial 8 week period, however there is likely to be an opportunity for these to be extended beyond this date. The successful candidates will have worked previously within a MASH/Screening Team and will be able to work at pace. The candidates will have a clear understanding of thresholds, be able to undertake risk assessments, complete safety plans and analyse information from multiple sources to inform plans and ensure children receive the level of service/help they require at the right time. Previous experience of working within a signs of safety framework and using Mosaic is preferred.\n\nHybrid working arrangements are in place - currently 3 days in the office and 2 days WFH each week.\n\nAs the post will be based in a police building, the postholder will need to consent to vetting checks being completed by South Yorkshire Police. WFH arrangements will be in place until the vetting process is completed.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1460802?backToItem=&initialLoad=&tab=&_xmscs=0b83e89ac30301372b3903adf4f4dcc162fdc153dda5ef34a1ec3c4d512b18cbe44ddd8b7078641b",
+    "accepted_at": "2026-07-31T08:49:36.716Z",
+    "scraped_at": "2026-07-31T08:49:36.716Z",
+    "attachments": [
+      {
+        "filename": "92690 Senior Social Worker Profile 20150120.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139865?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 433C _ 1/92690 Senior Social Worker Profile 20150120.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Attributes 2026.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139866?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 433C _ 1/DfE Attributes 2026.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
+    "item_id": "000B 441D / 1",
+    "source": "xms",
+    "source_ref": "000B 441D / 1",
+    "job_id": "000B 441D / 1",
+    "job_title": "Adults Social Worker [Trafford]",
+    "client": "Trafford Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "TALBOT ROAD, , MANCHESTER, GREATER MANCHESTER, M32 0TH, United Kingdom",
+    "city": "MANCHESTER",
+    "postcode": "M32 0TH",
+    "start_date": "2026-08-31",
+    "end_date": "2026-10-30",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Trafford Adult Social Care are looking to recruit an agency social worker who will provide social work support, strength-based assessments, tailored support planning and reviews in line with the Care Act 2014 for adults across Trafford.\n\nYou will need to hold a relevant social work qualification and be registered with Social Work England.\n\nWe are looking to appoint enthusiastic individuals to undertake strength-based assessments and deliver appropriate person centered support and outcomes for adults with care and support needs. You must be able to work in ways that promote independence, recognise the potential for change and through excellent practice enable people to maximise their strengths.\n\nYou must possess good communication skills and be able to work proactively with a range of adults applying a clear understanding of the legislative framework for Adult Social Care. In addition you will be required to provide an effective response to safeguarding enquiries in line with both the Care Act 2014 and local policy and procedures.\n\nThe successful candidates will be able to work as part of a team and autonomously and will be familiar working within a Multi-Disciplinary environment especially Continuing Health Care (CHC). Further, they will have knowledge of working within the Mental Capacity Act 2005 and will be able to effectively and professionally challenge to ensure best outcomes for our residents.\n\nIn return we offer flexible working arrangements, provide opportunities to develop skills through a structured development programme, and provide regular support through professional supervision.\n\n\n\n3 years reference, gaps in employment history checked, any relevant quals as per JDPS",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1460934?backToItem=&initialLoad=&tab=&_xmscs=e1ddb7854480ba3fd550a0e5a6582d3df23034dfae2f613a2d96f23d63202c3f7c32b7be7eadc66c",
+    "accepted_at": "2026-07-31T08:48:21.698Z",
+    "scraped_at": "2026-07-31T08:48:21.698Z",
+    "attachments": []
+  },
+  {
     "item_id": "000B 42FD / 1",
     "source": "xms",
     "source_ref": "000B 42FD / 1",
@@ -25860,6 +25952,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR109309",
+    "source": "prism",
+    "source_ref": "OR109309",
+    "job_id": "OR109309",
+    "job_title": "Business Support Officer (BR6) - Admin & Clerical",
+    "client": "Bromley Council",
+    "procurer": "Laura Compton",
+    "working_address": "Churchill Court, 2 Westmoreland Road, Bromley, Kent, BR1 1AS , United Kingdom",
+    "city": "Bromley",
+    "postcode": "BR1 1AS",
+    "start_date": "2026-08-17",
+    "end_date": "",
+    "pay_from": "104.54",
+    "pay_to": "137.48",
+    "pay_type": "per day",
+    "ir35": "Inside",
+    "ir35_note": "0.6FTE (21.6 hours), 3 Aug - 30 Sept. Working with existing 0.4FTE roleholder. Min. 1 day in Civic office.",
+    "description": "MAIN PURPOSE:\n\nTo provide accurate, timely and confidential business support to the SEND Tribunals and Mediation Service, helping the Council meet its statutory duties under the Children and Families Act 2014 and the SEND Code of Practice 2015. The post holder will support case tracking, evidence management, communication with families and professionals, and the preparation of tribunal and mediation documentation.\n\nSUMMARY OF RESPONSIBILITIES AND DUTIES:\n\nThe duties of the post are set out below. The post holder may also be asked to undertake other tasks that are appropriate to the grade and purpose of the role as directed by the Business Support & Finance Manager.\n\nProvide clerical, administrative and IT support to the SEND Tribunals and Mediation Service, responding promptly to business support queries and service requests.\n\nManage incoming telephone calls and emails from the SEND Tribunal, parents, carers, young people and representatives, responding appropriately and signposting to mediation, appeal routes and statutory timescales.\n\nLiaise sensitively and professionally with families, schools, settings, legal representatives, health and social care partners, and internal SEND colleagues throughout the mediation or tribunal process.\n\nMonitor, record and follow up evidence received from parents, representatives, schools, health, social care and other partners to support timely case progression.\n\nCollate relevant papers, record decisions accurately, and communicate outcomes through the Council’s agreed IT systems and processes.\n\nMaintain robust document management for statutory tribunal appeals, including electronic bundle preparation, evidence tracking and accurate case records\n.\nEnsure that personal and sensitive information is handled securely and in line with GDPR, Council policies and agreed retention procedures.\n\nLiaise with SEN Finance to provide accurate updates on tribunal and mediation costs, outcomes and related financial information.\n\nPrepare accurate and timely responses for appeals, evidence requests and tribunal bundles, ensuring information is complete and submitted within required timescales.\n\nMaintain diary management and tracking arrangements for appeals, mediations, key deadlines and follow-up actions.\nCoordinate data for Freedom of Information requests and support the preparation of SEND Governance Board information where required.\n\nUndertake any other duties commensurate with the grade of the post to support the efficient and effective running of the service.\n\nCONTACTS AND RELATIONSHIPS:\n\nProvide a high-quality, responsive and professional service to children, young people, families, schools, settings, partners, providers and stakeholders.\nEstablish and maintain effective working relationships with internal colleagues across education, health, social care, finance, legal services and SEND teams to support coordinated case progression.\nCommunicate clearly and sensitively with parents, carers, young people and representatives, recognising that tribunal and mediation matters can be complex and stressful for families.\n\nMANAGEMENT AND LEADERSHIP:\n\nParticipate positively in the Council’s performance appraisal, performance development and service improvement arrangements to support personal development and effective service delivery.\n\nContribute to an organisational culture that values equality, diversity, inclusion, respectful communication and continuous improvement.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=9fdab313-cd51-41b0-a9c1-a375320202ff",
+    "accepted_at": null,
+    "scraped_at": "2026-07-31T08:50:04.195Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR108502",
