@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5301985",
+    "source": "comensura",
+    "source_ref": "5301985",
+    "job_id": "5301985",
+    "job_title": "Social Worker Pq1 (Jajb4073 - G9) (Social and Healthcare Qualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Floor Floor 1, Delamere House, CW1 2JZ",
+    "city": "Delamere House",
+    "postcode": "CW1 2JZ",
+    "start_date": "2026-08-03",
+    "end_date": "",
+    "pay_from": "25.97",
+    "pay_to": "25.97",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A recruitment request is required for all Orders, please state here: 8344\nPlacement experience in fostering essential\nAre you replacing a worker within an approved period No (delete as appropriate)\nPlease confirm which DBS is required for this role.\n(Delete the lines which are not applicable and leave the option that is required) not required\n5. Enhanced – including barred:\na. Children’s barred list\nb. Adults barred list\nc. Both children’s and adults\nThis information is required for all Orders. If you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-07-31T17:58:39.960Z",
+    "scraped_at": "2026-07-31T17:58:39.960Z",
+    "attachments": [
+      {
+        "filename": "Social Worker PQ1 Job Description and Person Specification.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5301985/File/224036",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5301986",
     "source": "comensura",
     "source_ref": "5301986",
