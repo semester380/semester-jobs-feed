@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5301668",
+    "source": "comensura",
+    "source_ref": "5301668",
+    "job_id": "5301668",
+    "job_title": "Family Group Conference And Lifelong Links Coordinator (Social Care Unqualified)",
+    "client": "Durham County Council",
+    "procurer": null,
+    "working_address": "23 The Green Nettlesworth, DH2 3PQ",
+    "city": null,
+    "postcode": "DH2 3PQ",
+    "start_date": "2026-08-03",
+    "end_date": "",
+    "pay_from": "20.29",
+    "pay_to": "20.29",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "** must have driving licence and access to car with Business insurance\nThe Family Group Conference Service offers a 7 day service to families, however, workers predominantly manage their own diaries. There is the expectation that family members will be seen outside of normal working hours where this is needed.\nThe role of the Family Group Conference worker is to support families to establish safe plans for children to remain in the care of their parents or wider network. The Family Group Conference worker has an independent role in supporting the family but this process works alongside social worker assessments.\nFurther information on FGC can be found on the Family Rights Group websitr",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-08-03T09:57:02.707Z",
+    "scraped_at": "2026-08-03T09:57:02.707Z",
+    "attachments": [
+      {
+        "filename": "LLL FGC Coordinator JD June 25.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5301668/File/223834",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 43DC / 1",
     "source": "xms",
     "source_ref": "000B 43DC / 1",
