@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 4531 / 1",
+    "source": "xms",
+    "source_ref": "000B 4531 / 1",
+    "job_id": "000B 4531 / 1",
+    "job_title": "Senior Social Worker (Childrens)",
+    "client": "Wakefield Hiring, Yorkshire Collaboration",
+    "procurer": "Yorkshire Collaboration",
+    "working_address": "Market Place, , Wakefield, West Yorkshire, WF1 1DF",
+    "city": "Wakefield",
+    "postcode": "WF1 1DF",
+    "start_date": "2026-08-10",
+    "end_date": "2026-10-12",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Wakefield Children in Care Service is seeking an experienced and passionate Senior Social Worker to join our dedicated team. This is an exciting opportunity to make a real difference in the lives of children and young people who are looked after or subject to care proceedings.\n\nAs a Senior Social Worker, you will play a key role in ensuring that children in care receive the highest standard of support and safeguarding.\n\nKey Responsibilities\n\nHold responsibility for a caseload of looked after children and some children subject to care proceedings.\nUndertake statutory duties in line with the Children Act 1989 and related legislation.\nDevelop and implement care plans that promote stability, permanency, and positive outcomes for children.\nWork closely with families, carers, and multi-agency partners to ensure holistic support.\nPrepare high-quality reports for court and attend hearings as required.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1461537?backToItem=&initialLoad=&tab=&_xmscs=5ce8a94090c434b73260eb7404b09323a6254623565179f49af1770d22c529a2ee92ae5a5be9166d",
+    "accepted_at": "2026-08-03T10:59:04.209Z",
+    "scraped_at": "2026-08-03T10:59:04.209Z",
+    "attachments": [
+      {
+        "filename": "Wakefield Your Temp Experience.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139986?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4531 _ 1/Wakefield Your Temp Experience.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Attributes 2026.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139987?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4531 _ 1/DfE Attributes 2026.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "Senior Social Worker (Children).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139988?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4531 _ 1/Senior Social Worker (Children).pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5301668",
     "source": "comensura",
     "source_ref": "5301668",
