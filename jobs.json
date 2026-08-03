@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 3FAB / 1",
+    "source": "xms",
+    "source_ref": "000B 3FAB / 1",
+    "job_id": "000B 3FAB / 1",
+    "job_title": "Adults Social Worker [Blackburn with Darwen]",
+    "client": "Blackburn with Darwen Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "10 Duke Street, , Blackburn, Lancashire, BB2 1DH, United Kingdom",
+    "city": "Blackburn",
+    "postcode": "BB2 1DH",
+    "start_date": "2026-08-31",
+    "end_date": "2026-11-06",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "About the Role\n\nWe are seeking an experienced and motivated Hospital Social Worker to join a busy Discharge to Assess (D2A) team, supporting BwD residents within  assessment beds across the local area. This is an excellent opportunity for a skilled practitioner who is passionate about promoting patient independence and ensuring safe, timely discharges from hospital settings.\n\nYou will work collaboratively with health professionals, patients, families, and community services to assess ongoing care and support needs following discharge from acute hospital care.\n\nKey Responsibilities\nComplete strengths-based social care assessments within D2A bed settings.\nFacilitate safe and effective discharge planning in line with relevant legislation and best practice.\nUndertake Care Act assessments and reviews.\nCoordinate support packages and community-based services to maximise independence.\nWork closely with multidisciplinary teams including nurses, therapists, and discharge coordinators.\nSupport safeguarding enquiries and risk assessments where appropriate.\nMaintain accurate, timely case records and reports.\nEnsure person-centred outcomes are achieved for individuals and their families.\nRequirements\nQualified Social Worker with a recognised Social Work qualification.\nCurrent registration with Social Work England.\nPrevious experience within a hospital discharge, intermediate care, or adult social care setting.\nStrong knowledge of the Care Act 2014, Mental Capacity Act, and safeguarding procedures.\nExcellent assessment, communication, and organisational skills.\nAbility to work effectively within a fast-paced multidisciplinary environment.\nCar User\nBenefits\nMonday to Friday working pattern (9am–5pm).\nCompetitive agency pay rates.\nSupportive team environment.\nOpportunity for contract extension.\nValuable experience within a dynamic hospital discharge service.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1461830?backToItem=&initialLoad=&tab=&_xmscs=d6e193f119f93f9bca11e008cfc73f7a031d7d0c625e0b238e624b6fce3efe3801f949d4075cdecb",
+    "accepted_at": "2026-08-03T13:59:17.384Z",
+    "scraped_at": "2026-08-03T13:59:17.384Z",
+    "attachments": [
+      {
+        "filename": "Appendix 2 Person Specification- Generic Social Worker.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139713?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3FAB _ 1/Appendix 2 Person Specification- Generic Social Worker.docx",
+        "downloaded": true
+      },
+      {
+        "filename": "Appendix 1 Job Description- Generic Social Worker.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139714?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3FAB _ 1/Appendix 1 Job Description- Generic Social Worker.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 451A / 1",
     "source": "xms",
     "source_ref": "000B 451A / 1",
