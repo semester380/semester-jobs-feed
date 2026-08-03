@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 451A / 1",
+    "source": "xms",
+    "source_ref": "000B 451A / 1",
+    "job_id": "000B 451A / 1",
+    "job_title": "Senior Social Worker (Childrens)",
+    "client": "Wakefield Hiring, Yorkshire Collaboration",
+    "procurer": "Yorkshire Collaboration",
+    "working_address": "The Airedale Centre, , The Square, Castleford, , Wakefield, , WF10 3JJ, United Kingdom",
+    "city": "Wakefield",
+    "postcode": "WF10 3JJ",
+    "start_date": "2026-08-03",
+    "end_date": "2026-10-25",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are looking for an experienced child protection social worker to join the Castleford & Pontefract locality team.\n\nWe are based in a family centre with nice office environment, good facilities and free parking.\n\nYou will be joining a friendly and stable team with a supportive permanent manager, manageable caseload and regular supervision.\n\nExcellent support for social workers and services to support families.\n\nStart date ASAP.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1461591?backToItem=&initialLoad=&tab=&_xmscs=d6138c2fdc502e9e8c67d961768a97d3ab2af5eca2aec827493324ae64051c9653f1236ae909f392",
+    "accepted_at": "2026-08-03T11:13:34.490Z",
+    "scraped_at": "2026-08-03T11:13:34.490Z",
+    "attachments": [
+      {
+        "filename": "Senior Social Worker (Children).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139981?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 451A _ 1/Senior Social Worker (Children).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "Wakefield Your Temp Experience.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139982?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 451A _ 1/Wakefield Your Temp Experience.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Attributes 2026.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139983?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 451A _ 1/DfE Attributes 2026.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 4531 / 1",
     "source": "xms",
     "source_ref": "000B 4531 / 1",
