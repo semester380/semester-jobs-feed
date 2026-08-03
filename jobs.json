@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5302238",
+    "source": "comensura",
+    "source_ref": "5302238",
+    "job_id": "5302238",
+    "job_title": "Care Worker (Social Care Unqualified)",
+    "client": "South Tyneside Council",
+    "procurer": null,
+    "working_address": "Town Hall, NE33 2RL",
+    "city": "Town Hall",
+    "postcode": "NE33 2RL",
+    "start_date": "2026-08-03",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "3 family Workers required and 2 Family Time workers required to work within CSC",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-08-03T14:24:40.679Z",
+    "scraped_at": "2026-08-03T14:24:40.679Z",
+    "attachments": [
+      {
+        "filename": "jod discription and job spec.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5302238/File/224185",
+        "localPath": null,
+        "downloaded": false
+      },
+      {
+        "filename": "Family Worker - ISIT SSF JD - 9.07.21.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5302238/File/224192",
+        "localPath": null,
+        "downloaded": false
+      },
+      {
+        "filename": "Contact Officer (Supervised Contact Service) JD - 28.09.23.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5302238/File/224193",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 455E / 1",
     "source": "xms",
     "source_ref": "000B 455E / 1",
