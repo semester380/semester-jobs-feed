@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 43DC / 1",
+    "source": "xms",
+    "source_ref": "000B 43DC / 1",
+    "job_id": "000B 43DC / 1",
+    "job_title": "Children's Advanced Practitioner [Wigan]",
+    "client": "Wigan Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "College Avenue, , Wigan, Greater Manchester, WN1 1NJ, United Kingdom",
+    "city": "Wigan",
+    "postcode": "WN1 1NJ",
+    "start_date": "2026-08-24",
+    "end_date": "2026-09-04",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "RECRUITED FOSTERING ADVANCED PRACTITIONER\n\nTo guide, advise, support and supervise foster carers who are supporting complex placements\n\nTo support the supervision of staff as per allocation of the Team Manager\n\nTo participate in duty manager day duty rota one week at a time and cover in staff abscense\n\nTo QA annual foster carer reviews, supervisory visits and unannounced visits of staff within you supervisory group\n\nTo support the team manager as per requests\n\nTo ensure that the teams compliance remains of a consistently high level using the database to support this.\n\nThis is not a full lists of tasks.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1461288?inst=1461288--Distribution--1652604142-false&_csrf=a3c15a47-6e8e-4cbb-9547-9e1bcc7c1e47&_xmscs=8e87ddff69e687c49ffebd169f5e33c209dfbf76c9cc2f9b46206ea5bc330c7642c94faa370957b1",
+    "accepted_at": "2026-08-03T08:39:38.489Z",
+    "scraped_at": "2026-08-03T08:39:38.489Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025 (1).xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139907?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 43DC _ 1/DfE Attributes 2025 (1).xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 4511 / 1",
     "source": "xms",
     "source_ref": "000B 4511 / 1",
