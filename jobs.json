@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 4484 / 1",
+    "source": "xms",
+    "source_ref": "000B 4484 / 1",
+    "job_id": "000B 4484 / 1",
+    "job_title": "Family Support Worker",
+    "client": "Barnsley Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Westgate Plaza One, 1 Westgate, Western Street, Barnsley, South Yorkshire, S70 2DR",
+    "city": "Barnsley",
+    "postcode": "S70 2DR",
+    "start_date": "2026-08-07",
+    "end_date": "2026-10-30",
+    "pay_from": "18.35",
+    "pay_to": "18.35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "The role is for two family support workers to work in a children in care team.\n\nDuties include: complete direct work with children/young people, supporting with family time, admin tasks, supporting getting ID documents (passports), supporting Social Worker’s during visits, holding family network meetings.\n\nMust drive and have own vehicle",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1462061?backToItem=&initialLoad=&tab=&_xmscs=9cc8d31ac666a2186992406792952c55cab3214a428ea6fee24035375ed6623d2cf2ceb5ca90aa95",
+    "accepted_at": "2026-08-04T08:39:36.828Z",
+    "scraped_at": "2026-08-04T08:39:36.828Z",
+    "attachments": [
+      {
+        "filename": "59029 Family Support Worker Profile (v 2) 10.11.2015.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139945?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4484 _ 1/59029 Family Support Worker Profile (v 2) 10.11.2015.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5302219",
     "source": "comensura",
     "source_ref": "5302219",
