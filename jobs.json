@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 3F59 / 1",
+    "source": "xms",
+    "source_ref": "000B 3F59 / 1",
+    "job_id": "000B 3F59 / 1",
+    "job_title": "Childrens - Advanced Practitioner",
+    "client": "Hiring - Leeds City Council, Leeds City Council",
+    "procurer": null,
+    "working_address": "Dewbury Road One Stop Centre, 190 Dewsbury Road, Leeds, , LS11 6PF, United Kingdom",
+    "city": "Leeds",
+    "postcode": "LS11 6PF",
+    "start_date": "2026-07-27",
+    "end_date": "2026-08-09",
+    "pay_from": "32.5",
+    "pay_to": "32.5",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Based in South Leeds LS10 or LS11 - free parking available.\n\nWe are looking for an experienced social worker who is able to manage a caseload comprising of Child and Family Assessments, Child in Need, Child Protection, Child Care Proceedings until permanence. This caseload will have a level of complexity and lead worker responsibilities working alongside other social workers, it will not have supervisory / line manager responsibilities. Social workers should be able to practice restoratively with child and families and promote family led decisions to manage risk and meet support needs.\n\nApplicants must demonstrate excellent relational work with children and families and be able to engage children through direct work and child centred practice.\n\nOrganisation skills and ability to meet competing demands are required to ensure practice standards, good quality and practice and performance.\n\nThe post requires workers to have good analytical assessment skills and with high quality written work.\n\nSocial workers will need to work as part of a busy but supportive team and share their knowledge and skills to promote the learning culture.\n\nApplicants must be able to drive and have use of a car.\n\n37 hours per week 8.30 – 5pm.\n\nMust be office based for duty but hybrid working is negotiable dependant on the needs of the team (due to the relational approach of the organisation, it is envisaged this will be office based on duty weeks and one WFH home day/compressed hours on non-duty).\n\nMust have a clean DBS",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1462663?backToItem=&initialLoad=&tab=&_xmscs=2048ec79594bd3ae549c7876bcce3fef6f89af29beaa8c2c8b89d82514ef3a44c0da0ea353b23760",
+    "accepted_at": "2026-08-04T15:59:36.116Z",
+    "scraped_at": "2026-08-04T15:59:36.116Z",
+    "attachments": [
+      {
+        "filename": "Childrens - Advanced Practitioner LCC Profile v1.0.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139593?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3F59 _ 1/Childrens - Advanced Practitioner LCC Profile v1.0.docx",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139594?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3F59 _ 1/DfE Recommendation Attribute.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 4698 / 1",
     "source": "xms",
     "source_ref": "000B 4698 / 1",
