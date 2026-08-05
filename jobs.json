@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 3585 / 1",
+    "source": "xms",
+    "source_ref": "000B 3585 / 1",
+    "job_id": "000B 3585 / 1",
+    "job_title": "Administrator - Level 3 With DBS [Bolton]",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Mayor Street Depot, Ellesmere Street, Bolton, Lancashire, BL3 5DT, United Kingdom",
+    "city": "Bolton",
+    "postcode": "BL3 5DT",
+    "start_date": "2026-08-17",
+    "end_date": "2027-01-30",
+    "pay_from": "13.74",
+    "pay_to": "13.74",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Umbrella rate - £17.60\n\nWe are seeking a meticulous and detail-oriented Intelligence Data Administrator to input, manage and maintain intelligence data within the IDB (Intelligence Database) System while performing essential administrative duties. The ideal candidate will have strong data entry skills, an understanding of intelligence handing procedures, and the ability to support operational teams with accurate Information within Regulatory Services\n\nWorking hours: 4 days a week (Mondays plus any other 3 days Tuesday to Friday) working 4 hours per day total of 16 hours per week.\n\nI have attached a copy of the job description below\n\nEnhanced DBS required",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1462894?backToItem=&initialLoad=&tab=&_xmscs=00851602cbb019d497943ba1a0acb309af2a9dab12a41a721505cacf9a20c04c46c833897e0c4f59",
+    "accepted_at": "2026-08-05T09:15:04.485Z",
+    "scraped_at": "2026-08-05T09:15:04.485Z",
+    "attachments": [
+      {
+        "filename": "Admin- Business Support all levels.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139064?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3585 _ 1/Admin- Business Support all levels.docx",
+        "downloaded": true
+      },
+      {
+        "filename": "Job Description and Personnel Specification Apr 25 - Intelligence Data and Admin -Mo Akuji.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139070?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3585 _ 1/Job Description and Personnel Specification Apr 25 - Intelligence Data and Admin -Mo Akuji.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 4646 / 1",
     "source": "xms",
     "source_ref": "000B 4646 / 1",
