@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 4756 / 1",
+    "source": "xms",
+    "source_ref": "000B 4756 / 1",
+    "job_id": "000B 4756 / 1",
+    "job_title": "Children's Team Manager [Bolton]",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Castleton Street, Tonge Moor, Bolton, Lancashire, BL2 2JW, United Kingdom",
+    "city": "Bolton",
+    "postcode": "BL2 2JW",
+    "start_date": "2026-08-31",
+    "end_date": "2026-11-27",
+    "pay_from": "40",
+    "pay_to": "45",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.\n\n\"Our social workers are passionate about working with children and families and are supportive to one another\".\n\nCandidates must have experience of managing Social Workers and demonstrate understanding and evidence of working in childrens Safeguarding  Service. Progressing permanence plans for children, including children subject to child protections plans, children in need, care proceedings and adoption.\n\nExtensive knowledge an understanding of child care law and practice\n\nEvidence based practice in children’s social care\n\nKnowledge and evidence of management\n\nRole is to manage one of the six safeguarding teams of six social workers\n\nFull-time role-37 hours per week\n\nFor full duties see the attached JD/PS\n\nFree on-site parking\n\nReferences will be requested for any candidates\n\nRate up to £45ph depending on experience",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1463473?backToItem=&initialLoad=&tab=&_xmscs=571e9df8a23931d5100bff221e6901bb8b28525c120ed1f96f3952747f8d20d9b6c7a0e8e22664a2",
+    "accepted_at": "2026-08-06T08:19:04.225Z",
+    "scraped_at": "2026-08-06T08:19:04.225Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140113?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4756 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "Safeguarding Team Manager JDPS Sept 22.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140114?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4756 _ 1/Safeguarding Team Manager JDPS Sept 22.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 46C7 / 1",
     "source": "xms",
     "source_ref": "000B 46C7 / 1",
