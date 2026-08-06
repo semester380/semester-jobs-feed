@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 4427 / 1",
+    "source": "xms",
+    "source_ref": "000B 4427 / 1",
+    "job_id": "000B 4427 / 1",
+    "job_title": "Childrens Social Worker [Manchester City Council]",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Etrop Court, Rowlandsway, Manchester, Lancashire, M22 5RG, United Kingdom",
+    "city": "Manchester",
+    "postcode": "M22 5RG",
+    "start_date": "2026-09-07",
+    "end_date": "2027-03-08",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are looking for a qualified social worker to join our children with disability team.  You will join an experienced team of 4 social workers, 2 advanced practitioners and team manager.  The team work with children who have disabilities and complex needs at all stages of intervention: CIN, CP, CLA.  The team assess for appropriate packages of care including short break eligibility.\n\nThe team are based in the South of the City at Etrop Court in Wythenshawe.  There is free parking available nearby.\n\nThe team are office based to support team identity, support and resilience.   Home working can be agreed at the discretion of the team manager.\n\nYou will have access to training and regular, supportive supervision.  You will be joining the team at an exciting time as the service are a test & learn site for the Families First Reforms.\n\n\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1463640?backToItem=&initialLoad=&tab=&_xmscs=7620d6325a7bcefa6778ca0968cf9e77f7f8f0624246e8acad5d2c7847ff80fff8b9e6dfd82e9adf",
+    "accepted_at": "2026-08-06T10:22:19.909Z",
+    "scraped_at": "2026-08-06T10:22:19.909Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139925?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4427 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5302451",
     "source": "comensura",
     "source_ref": "5302451",
