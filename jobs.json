@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5302614",
+    "source": "comensura",
+    "source_ref": "5302614",
+    "job_id": "5302614",
+    "job_title": "Mou - Childrens Social Care - Social Worker (Social Care Qualified)",
+    "client": "Northumberland County Council",
+    "procurer": null,
+    "working_address": "Floor Block 1 - Level 2, County Hall, NE61 2EF",
+    "city": "County Hall",
+    "postcode": "NE61 2EF",
+    "start_date": "2026-08-10",
+    "end_date": "",
+    "pay_from": "27.56",
+    "pay_to": "27.56",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "2 x qualified social worker required as soon as possible. Temporary recruitment only. End date is currently unknown.",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-08-07T14:35:32.540Z",
+    "scraped_at": "2026-08-07T14:35:32.540Z",
+    "attachments": [
+      {
+        "filename": "1770 Qualified Social Worker.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5302614/File/224414",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 48EE / 1",
     "source": "xms",
     "source_ref": "000B 48EE / 1",
