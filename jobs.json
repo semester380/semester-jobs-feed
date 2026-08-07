@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 48EE / 1",
+    "source": "xms",
+    "source_ref": "000B 48EE / 1",
+    "job_id": "000B 48EE / 1",
+    "job_title": "Childrens Advanced Practitioner (Senior Practitioner) [Tameside]",
+    "client": "Tameside Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Fairfield Children's Centre , Fairfield Road, Ashton Under Lyne, , M43 6AF",
+    "city": "Ashton Under Lyne",
+    "postcode": "M43 6AF",
+    "start_date": "2026-09-07",
+    "end_date": "2026-10-30",
+    "pay_from": "23.82",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Refreshed version of order 000B 2566 / 1\n\nSenior Practitioner required for the Out of Hours Service.\n\nThe service operates outside of normal working hours providing vital support to children and families outside of normal working hours.\n\nThe service operates on a 2 week rota system meaning that workers have every other weekend off work. There is some daytime work to support relationships with day staff. The team will consist of 4 Senior Practitioners supported on each shift by alternatively qualified support workers and a dedicated Team Manager.\n\nOffice based until 22:00 in a warm and friendly office space.\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the GM Pledge Compliance Attributes Questions Attachment on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1464085?backToItem=&initialLoad=&tab=&_xmscs=2e4490d642b4e1a12bc1a8688399ed95e2c6de317808cd33661d67d70bcde7d34ba59cf95637b59d",
+    "accepted_at": "2026-08-07T12:21:18.228Z",
+    "scraped_at": "2026-08-07T12:21:18.228Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140244?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 48EE _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "Out of Hours Senior Social Workers.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140247?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 48EE _ 1/Out of Hours Senior Social Workers.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5302447",
     "source": "comensura",
     "source_ref": "5302447",
