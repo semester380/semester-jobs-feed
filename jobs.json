@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 40A1 / 1",
+    "source": "xms",
+    "source_ref": "000B 40A1 / 1",
+    "job_id": "000B 40A1 / 1",
+    "job_title": "Senior Social Worker (Childrens)",
+    "client": "Wakefield Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Headquarters, Havertop Lane, Normanton, West Yorkshire, WF6 1FD",
+    "city": "Normanton",
+    "postcode": "WF6 1FD",
+    "start_date": "2026-08-24",
+    "end_date": "2026-10-19",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are seeking two Full Time Enhanced Senior Social Worker's to join our superb Integrated Front Door (IFD). When you work with us, you'll literally be working with the best practitioners and leaders in the field\n\nWorking Pattern: Monday - Thursday (08:30-17:00) and Friday (08:30 - 16:30). Office based with the option to to work from home up to two days a week following induction period.\n\nRequirements: Minimum of 3 years post qualifying experience in front line Social Worker preferably also with MASH experience.\n\nLocation: Wakefield District Headquarters, Havertop Lane, Normanton, WF6 1FD.\n\nContract length: Minimum 3 months.\n\nRole: Working with partner agencies to screen incoming referrals within the MASH, analysing information and making recommendations on appropriate levels of intervention / service.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1464242?inst=1464242--Distribution--1655739802-false&_csrf=a7b112df-2b4f-4571-94a6-aabbc509b826&_xmscs=bd94ddae1b032f2dac04f7aaf13de35934a6f99880588ad9e977939a0aa5397a63b744a6d0f04d3b",
+    "accepted_at": "2026-08-08T14:12:03.975Z",
+    "scraped_at": "2026-08-08T14:12:03.975Z",
+    "attachments": [
+      {
+        "filename": "Wakefield Your Temp Experience.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139671?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 40A1 _ 1/Wakefield Your Temp Experience.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Attributes 2026.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139672?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 40A1 _ 1/DfE Attributes 2026.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "Senior Social Worker (Children).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139673?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 40A1 _ 1/Senior Social Worker (Children).pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5302620",
     "source": "comensura",
     "source_ref": "5302620",
