@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5302828",
+    "source": "comensura",
+    "source_ref": "5302828",
+    "job_id": "5302828",
+    "job_title": "Residential Practitioner (Bcft) (Social Care Qualified)",
+    "client": "Bradford Metropolitan District Council",
+    "procurer": null,
+    "working_address": "Bradford Metropolitan District Council, Netherlands Square, Low Moor, Bradford, Yorkshire, BD12",
+    "city": "Bradford",
+    "postcode": null,
+    "start_date": "2026-08-09",
+    "end_date": "2026-09-06",
+    "pay_from": "20.58",
+    "pay_to": "20.58",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "AG595 and SAP No 50216157 - approved 12/6/26\nCharlie Bryan Boyd- Semester\n4 weeks",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-08-11T14:23:29.619Z",
+    "scraped_at": "2026-08-11T14:23:29.619Z",
+    "attachments": [
+      {
+        "filename": "Residential Practitioner - BRD.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5302828/File/224532",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5302321",
     "source": "comensura",
     "source_ref": "5302321",
