@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 3870 / 1",
+    "source": "xms",
+    "source_ref": "000B 3870 / 1",
+    "job_id": "000B 3870 / 1",
+    "job_title": "Account Manager - Revenue & Benefits [MCC]",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Alexandra House, Moss Lane East, Manchester, Lancashire, M15 5BA, United Kingdom",
+    "city": "Manchester",
+    "postcode": "M15 5BA",
+    "start_date": "2026-09-07",
+    "end_date": "2027-08-03",
+    "pay_from": "15.11",
+    "pay_to": "16.66",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Essential - previous experience of using MRI system for administration of Council tax, including billing and recovery, input of earnings attachments, etc.\nDesirable - previous experience of using NEC Document Management EDMS system\n\nThe role will involve working within the Council Tax Unit on the Revenues and Benefits Service, You will provide specialist support across the HMRC Data Matching Project that is due to commence this financial year and support the investigation and resolution of complex case work.\n\nThe role involves analysing and validating information received from HMRC and other data sources, identifying discrepancies, conducting detailed account reviews, and ensuring that Council Tax records are accurate and maintained in accordance with relevant legislation, policy, and procedural requirements.\n\nA significant aspect of the role involves handling complex and sensitive case work, including matters escalated through the Council’s formal complaints process. This requires the investigation of account histories, assessment of evidence, interpretation of legislation and policy, and the preparation of detailed written responses that are accurate, robust, and capable of withstanding scrutiny from senior management, Ombudsman investigations, and Valuation Tribunal proceedings where appropriate.\n\nThe position requires extensive use of MRI (Academy) as a proficient user for reviewing and maintaining Council Tax accounts, processing amendments, analysing account activity, and carrying out detailed investigations. In addition, I am a proficient user of NEC Document Management, responsible for retrieving, reviewing, indexing, and managing electronic records to support operational decision-making, complaint investigations, audit requirements, and legal proceedings.\n\nThe role demands a high level of analytical ability, attention to detail, and professional judgement, together with excellent written communication skills when dealing with customers, councillors, MPs, legal representatives, and other stakeholders. It also requires a thorough understanding of Council Tax legislation, data protection requirements, and corporate complaint handling procedures to ensure that decisions are lawful, consistent, and customer-focused.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1465432?backToItem=&initialLoad=&tab=&_xmscs=0319818c1511023fbf5e72a71ffddbb74899ad37e6ba883a685a1a7c98951e711ca945a164b55990",
+    "accepted_at": "2026-08-12T13:59:11.241Z",
+    "scraped_at": "2026-08-12T13:59:11.241Z",
+    "attachments": [
+      {
+        "filename": "Account Manager - Revenue & Benefits Role Profile.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139218?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 3870 _ 1/Account Manager - Revenue & Benefits Role Profile.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5302877",
     "source": "comensura",
     "source_ref": "5302877",
