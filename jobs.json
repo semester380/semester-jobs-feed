@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 4BA0 / 1",
+    "source": "xms",
+    "source_ref": "000B 4BA0 / 1",
+    "job_id": "000B 4BA0 / 1",
+    "job_title": "Occupational Therapist [Bolton]",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Adelaide Street, Daubhill, Bolton, Lancashire, BL3 3NY, United Kingdom",
+    "city": "Bolton",
+    "postcode": "BL3 3NY",
+    "start_date": "2026-09-14",
+    "end_date": "2026-11-28",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Role specifics – Candidates must hold a Diploma/ degree in Occupational Therapy, a full driving licence, Health Professions Council registration and a minimum of three years post qualification experience\n\nThe Role\n\nAn opportunity has arisen for a locum Senior Occupational Therapist (OT) within The Independent Living Service. The Independent Living Service has 32 staff members, comprising Occupational Therapists, Disability Officers, and Community Assessment Officers, and includes the Sensory Team and Telecare Team. The OT role will involve undertaking assessments/reviews of need under the Care Act 2014; assisting with advice, techniques, equipment, and adaptations; providing support as necessary; and linking people to universal and voluntary services. They will also assist colleagues within other areas of the service, as necessary\n\n\n\nThis post offers an opportunity to contribute to the ongoing development of innovative ways of working across health and social care to improve the experience of service users and carers and to promote wellbeing and independence.\n\n\n\nThe ability to develop, maintain and improve relationships with people and carers is essential in this role as well as the attributes required to participate in inter-disciplinary team working.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1465567?backToItem=&initialLoad=&tab=&_xmscs=afb673c625d2ff73eb3c77e375d3066768bbe352c8a6391e1ad7672d9964580ecc99f012bcec7314",
+    "accepted_at": "2026-08-12T15:35:09.963Z",
+    "scraped_at": "2026-08-12T15:35:09.963Z",
+    "attachments": [
+      {
+        "filename": "JOB DESCRIPTION_Senior OT- 18.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140421?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4BA0 _ 1/JOB DESCRIPTION_Senior OT- 18.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 4B7D / 1",
     "source": "xms",
     "source_ref": "000B 4B7D / 1",
