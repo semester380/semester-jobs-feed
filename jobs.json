@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 4C05 / 1",
+    "source": "xms",
+    "source_ref": "000B 4C05 / 1",
+    "job_id": "000B 4C05 / 1",
+    "job_title": "Senior Family Worker [Oldham]",
+    "client": "Oldham Council, GM Collaboration",
+    "procurer": "GM Collaboration",
+    "working_address": "George Street, , Oldham, Greater Manchester, OL1 1HD, United Kingdom",
+    "city": "Oldham",
+    "postcode": "OL1 1HD",
+    "start_date": "2026-08-24",
+    "end_date": "2027-02-28",
+    "pay_from": "18.01",
+    "pay_to": "19.99",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Umbrella rate £23.20",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1466065?backToItem=&initialLoad=&tab=&_xmscs=3aceed507fec43cb2c5882dffb34d0756ec571097ff874223be827e8446d648fd4dc89d9d67237e4",
+    "accepted_at": "2026-08-13T17:06:49.909Z",
+    "scraped_at": "2026-08-13T17:06:49.909Z",
+    "attachments": [
+      {
+        "filename": "9878 Senior Family Worker JDPS.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140454?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4C05 _ 1/9878 Senior Family Worker JDPS.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 462D / 1",
     "source": "xms",
     "source_ref": "000B 462D / 1",
