@@ -12480,8 +12480,8 @@
     "working_address": "Hartlepool Borough Council, Floor:, child, Civic Centre, Victoria Road, Hartlepool, Durham",
     "city": "Hartlepool",
     "postcode": null,
-    "start_date": "2026-06-01",
-    "end_date": "",
+    "start_date": "2026-08-17",
+    "end_date": "2027-02-12",
     "pay_from": "32.87",
     "pay_to": "32.87",
     "pay_type": "per hour",
@@ -12490,7 +12490,7 @@
     "description": "HBC require 2 experienced Social Workers to be part of the SAS Team. This would initially be for 3 months with the potential for this to be extended. The role can be discussed with the Team manager.",
     "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
     "accepted_at": "2026-06-03T10:53:37.092Z",
-    "scraped_at": "2026-06-03T10:53:37.092Z",
+    "scraped_at": "2026-08-13T11:49:37.667Z",
     "attachments": []
   },
   {
