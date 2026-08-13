@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 4082 / 1",
+    "source": "xms",
+    "source_ref": "000B 4082 / 1",
+    "job_id": "000B 4082 / 1",
+    "job_title": "Leaving Care Personal Advisor Officer (G7)",
+    "client": "Wakefield Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Lake Lock Road, Stanley, Wakefield, West Yorkshire, WF3 4HU",
+    "city": "Wakefield",
+    "postcode": "WF3 4HU",
+    "start_date": "2026-08-24",
+    "end_date": "2026-10-25",
+    "pay_from": "16.62",
+    "pay_to": "16.62",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Job title: Leaving Care Personal Advisor Officer (G7)\nClient: Wakefield Hiring, Yorkshire Collaboration\nLocation: Lake Lock Road, Stanley, Wakefield, West Yorkshire, WF3 4HU\nStart date: Mon 24/08/2026\nEnd date: Sun 25/10/2026\nPay: 16.62-16.62 per per hour\nIR35: Yes\nFollowing the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.\n\n(Description not provided in the portal listing — fields above are the only available context for this role.)",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1465695?backToItem=&initialLoad=&tab=&_xmscs=1f1e205a55fedc631afd4ea820ad2eff038052ffb1fd3e3921093831963da5d62990442dfb127996",
+    "accepted_at": "2026-08-13T07:21:34.229Z",
+    "scraped_at": "2026-08-13T07:21:34.229Z",
+    "attachments": [
+      {
+        "filename": "HR JobSpecification Form Personal Advisor .doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/139666?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4082 _ 1/HR JobSpecification Form Personal Advisor .doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5302652",
     "source": "comensura",
     "source_ref": "5302652",
