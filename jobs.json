@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5285810",
+    "source": "comensura",
+    "source_ref": "5285810",
+    "job_id": "5285810",
+    "job_title": "Mou - Childrens Social Care - Advanced Practitioner (Social Care Qualified)",
+    "client": "South Tyneside Council",
+    "procurer": null,
+    "working_address": "Town Hall, NE33 2RL",
+    "city": "Town Hall",
+    "postcode": "NE33 2RL",
+    "start_date": "2026-07-22",
+    "end_date": "2026-12-31",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Current average number of children allocated to practitioners across the service area is 17.\nAs a practitioner worker you will be responsible for undertaking actions agreed by the Practice Manager as set out in the established plan and in line with local procedures. This will include all stages of the child in need process, all stages of the child protection process, implementing, reviewing/updating the care plans of Cared For children, children being assessed in Public Law Outline and children subject to Care Proceedings. The team will maintain responsibility for each individual child until until plan is ready to close or when a permanency decision has been approved.",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-08-13T14:57:37.422Z",
+    "scraped_at": "2026-08-13T14:57:37.422Z",
+    "attachments": [
+      {
+        "filename": "Social Worker (Supporting & Strengthening Families) JD - 25.09.25.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5285810/File/216413",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5302830",
     "source": "comensura",
     "source_ref": "5302830",
