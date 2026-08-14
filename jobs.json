@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 4B87 / 1",
+    "source": "xms",
+    "source_ref": "000B 4B87 / 1",
+    "job_id": "000B 4B87 / 1",
+    "job_title": "Adults Social Worker [Salford]",
+    "client": "Salford City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Salford Royal, Stott Lane, Salford, , M6 8HD",
+    "city": "Salford",
+    "postcode": "M6 8HD",
+    "start_date": "2026-10-05",
+    "end_date": "2027-10-04",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "2 x Experienced Social Workers needed to support a Hospital Services and Intermediate Care Service at Salford Royal.\n\nThese post are office based due to the nature of the business.\n\nWorking pattern Monday to Friday 08:00 to 16:00",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1466430?backToItem=&initialLoad=&tab=&_xmscs=cc26fe41985a5b0989f71afe2650b32e8c9ee3a8c12dabaa57debbe4176c4b65fb2a0b9f3843292e",
+    "accepted_at": "2026-08-14T13:04:48.996Z",
+    "scraped_at": "2026-08-14T13:04:48.996Z",
+    "attachments": [
+      {
+        "filename": "6173_Why work for TeamSalford_v7 (1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140404?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4B87 _ 1/6173_Why work for TeamSalford_v7 (1).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "6171_ThisIsSalford_Feb2023_v3 (1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140405?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4B87 _ 1/6171_ThisIsSalford_Feb2023_v3 (1).pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 4C05 / 1",
     "source": "xms",
     "source_ref": "000B 4C05 / 1",
