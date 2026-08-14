@@ -1,5 +1,54 @@
 [
   {
+    "item_id": "000B 4DC4 / 1",
+    "source": "xms",
+    "source_ref": "000B 4DC4 / 1",
+    "job_id": "000B 4DC4 / 1",
+    "job_title": "Children's Social Worker [Blackburn with Darwen]",
+    "client": "Blackburn with Darwen Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "10 Duke Street, , Blackburn, Lancashire, BB2 1DH, United Kingdom",
+    "city": "Blackburn",
+    "postcode": "BB2 1DH",
+    "start_date": "2026-09-14",
+    "end_date": "2026-11-27",
+    "pay_from": "39",
+    "pay_to": "39",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Blackburn with Darwen Children’s Services who were graded ‘good’ in its full ILACS Ofsted inspection, require 1 full time agency social worker to cover in its CIOC service, mainly carrying out all duties in relation to children looked after following care proceedings concluding but there may also be work including discharging of care orders and other ad hoc court work.\n\nThe candidate will have at least 3 years post qualification experience, ideally mainly in longer-term safeguarding/CIOC work.\n\nThe candidate must have a SWE registration and be a car driver, with previous experience of the use of Protocol LCS system an advantage.\n\nYou must have good communication skills and be a team worker with the ability to work independently, manage a caseload and undertake all directions to meet local authority and court timescales..\n\nThere is both office-based working and home working arrangements as per the service requirements so you will be required to work flexibly, with a requirement to be office based 3 to 4 days per week as a minimum.\n\n\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1466520?inst=1466520--Distribution--1658825468-false&_csrf=fa12878d-8240-4468-ba65-0ecb25de0365&_xmscs=251bf613b463a0738fe4d6f5159af80dab7f1a94418c6321f717297d6d4e8b4b44732867cc02fd64",
+    "accepted_at": "2026-08-14T15:08:48.682Z",
+    "scraped_at": "2026-08-14T15:08:48.682Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140572?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4DC4 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "BWD Why work for us.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140573?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4DC4 _ 1/BWD Why work for us.docx",
+        "downloaded": true
+      },
+      {
+        "filename": "Welcome to Blackburn with Darwen Borough Council Social Care.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140574?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4DC4 _ 1/Welcome to Blackburn with Darwen Borough Council Social Care.docx",
+        "downloaded": true
+      },
+      {
+        "filename": "Key Requirements Social Worker CIOC.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140575?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4DC4 _ 1/Key Requirements Social Worker CIOC.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5303051",
     "source": "comensura",
     "source_ref": "5303051",
