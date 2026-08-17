@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 4805 / 1",
+    "source": "xms",
+    "source_ref": "000B 4805 / 1",
+    "job_id": "000B 4805 / 1",
+    "job_title": "Assistant Development Officer -[Bolton]",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Bolton Town Hall, Victoria Square, Bolton, , BL1 1RU, United Kingdom",
+    "city": "Bolton",
+    "postcode": "BL1 1RU",
+    "start_date": "2026-08-17",
+    "end_date": "2026-11-13",
+    "pay_from": "14.91",
+    "pay_to": "14.91",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "The job title has recently changed from Assistant Development Officer to a Household Planning Officer. The role is effectively the same.  Any queries please let me know.\n\nWilling to review candidates at higher rates\n\nHybrid working.  Office location is in Bolton town hall which has a range of facilities together with good access to the motorway network.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1466823?backToItem=&initialLoad=&tab=&_xmscs=09762bdd8186c1535208262df01a79f8ecd4f1a09bf719532802db3914471fbdebc456d794618ea8",
+    "accepted_at": "2026-08-17T10:30:13.971Z",
+    "scraped_at": "2026-08-17T10:30:13.971Z",
+    "attachments": [
+      {
+        "filename": "Household Planning Officer JDPS Grade E.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140177?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4805 _ 1/Household Planning Officer JDPS Grade E.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 4BE0 / 1",
     "source": "xms",
     "source_ref": "000B 4BE0 / 1",
@@ -28096,6 +28127,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR112289",
+    "source": "prism",
+    "source_ref": "OR112289",
+    "job_id": "OR112289",
+    "job_title": "Children & Families - Senior Social Worker - Capped - Social Care Qualified",
+    "client": "Isle of Wight Council",
+    "procurer": "Simon Dennis",
+    "working_address": "County Hall, High Street, Newport, Isle of Wight, PO30 1UD, United Kingdom",
+    "city": "Isle of Wight",
+    "postcode": "PO30 1UD",
+    "start_date": "2026-08-31",
+    "end_date": "",
+    "pay_from": "31.50",
+    "pay_to": "42.00",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Agency Social Worker - Assessment & MASH Experience Required\n\nWe are seeking an experienced and adaptable Agency Social Worker with a strong background in both statutory assessments and MASH/front door work.\n\nThe successful candidate will be able to complete high-quality, child-centred assessments that are analytical, outcome-focused and completed within statutory timescales. They will have sound assessment skills, be confident in identifying risk and need, and make recommendations that lead to the right outcomes for children and families.\n\nIn addition, the social worker must be able to also undertake tasks in MASH triage, including gathering and analysing information from partner agencies, contacting families, determining the appropriate threshold for intervention, and making timely, evidence-based decisions to ensure children receive the right level of support at the right time.\n\nWe are looking for a proactive practitioner with excellent communication skills, strong professional judgement, and the ability to work effectively in a fast-paced environment.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=679cdbb3-e0ee-44d4-bd23-0a7591d0b0cc",
+    "accepted_at": null,
+    "scraped_at": "2026-08-17T11:32:34.602Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR112249",
