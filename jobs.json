@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 4E82 / 1",
+    "source": "xms",
+    "source_ref": "000B 4E82 / 1",
+    "job_id": "000B 4E82 / 1",
+    "job_title": "Children's Team Manager [Rochdale]",
+    "client": "Rochdale Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "57-59 drake street, , Rochdale, , OL16 1XL, United Kingdom",
+    "city": "Rochdale",
+    "postcode": "OL16 1XL",
+    "start_date": "2026-09-28",
+    "end_date": "2026-12-31",
+    "pay_from": "45",
+    "pay_to": "45",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "SALARY - £45 PER HOUR\n\nShape the future of Youth Justice in Rochdale\n\nThis is an exciting time to join Rochdale's Youth Justice Service. As national Youth Justice and Children's Social Care reforms continue to reshape services across the country, we are looking for an ambitious, forward-thinking, and motivated leader who wants to help influence and develop practice, strengthen outcomes for children, and contribute to the future direction of Youth Justice in Rochdale.\n\nFollowing our recent transition from a shared service arrangement to a standalone Youth Justice Service, this role offers a rare opportunity to join a service at a pivotal point in its development. You will be welcomed into an established, experienced, and highly committed team, whilst having the opportunity to help shape and influence how the service evolves.\n\n\n\nAs Team Manager, you will play a key role in driving high-quality practice, supporting and developing practitioners, promoting evidence-based interventions, and ensuring children, young people, families, and victims receive the best possible service. You will be responsible for mentoring and supervising staff, contribute to service development, quality assurance, partnership working, and innovation across the Youth Justice agenda.\n\nWhat we can offer you\n\nYou will join a well-resourced service with committed partners who are passionate about keeping children at the centre of everything we do.\n\nRochdale is proud of its strong partnership arrangements and collaborative approach to supporting children and families. Our Youth Justice Service benefits from well-established relationships with Children's Social Care, Education, Greater Manchester Police, Probation, and Health enabling practitioners and managers to work creatively and effectively to improve outcomes for young people.\n\nWe recognise that excellent services are built on excellent support. As a Team Leader, you will benefit from:\n\n\n\n- Regular reflective supervision and management support.\n\n- A visible, accessible, and supportive leadership team.\n\n- Opportunities to contribute to strategic developments and service design.\n\n- Ongoing professional development and leadership learning.\n\n- Support to develop specialist areas of practice and innovation.\n\n- A culture that values collaboration, learning, and continuous improvement.\n\n- Strong links with the Greater Manchester Youth Justice network, providing opportunities to influence\n\n  practice beyond the borough.\n\n\n\nIf you are passionate about improving the lives of children, developing outstanding practice, and helping shape the next chapter of Youth Justice in Rochdale, we would love to hear from you.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1467024?backToItem=&initialLoad=&tab=&_xmscs=a962db77a228aac502efade3f5b16c8136286c7acd1b4aa3493add3cdb13d442e578aae7ee776192",
+    "accepted_at": "2026-08-17T15:25:32.646Z",
+    "scraped_at": "2026-08-17T15:25:32.646Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140624?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4E82 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "YOS Practice Manager JD final.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140628?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4E82 _ 1/YOS Practice Manager JD final.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 4DDB / 1",
     "source": "xms",
     "source_ref": "000B 4DDB / 1",
