@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 4DF8 / 1",
+    "source": "xms",
+    "source_ref": "000B 4DF8 / 1",
+    "job_id": "000B 4DF8 / 1",
+    "job_title": "Social Worker - Children's",
+    "client": "Children, Young People and Families, City of Doncaster Council",
+    "procurer": null,
+    "working_address": "Martinwells Centre (LIFT Development), Thompson Avenue, Doncaster, South Yorkshire, DN12 1JD, United Kingdom",
+    "city": "Doncaster",
+    "postcode": "DN12 1JD",
+    "start_date": "2026-08-31",
+    "end_date": "2026-12-31",
+    "pay_from": "32",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "South help and protection are looking for an agency social worker to work in a busy locality team. This post allows for hybrid working and access to free car parking, good training opportunities and regular reflective case supervision and personal supervision.\n\nWe are looking for a highly motivated and reliable individual who can work as part of a team aswell as well as use their own initiative. Doncaster has a GOOD OFSTED rating and has a range of support services inhouse to assist in working with a range of needs and difficulties for children and families.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1467149?backToItem=&initialLoad=&tab=&_xmscs=c41196253c62378e884a8469bd04d32d008877d71ff7da985f386d7060e0c1157455f261cca8c460",
+    "accepted_at": "2026-08-18T08:01:05.813Z",
+    "scraped_at": "2026-08-18T08:01:05.813Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140591?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4DF8 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      },
+      {
+        "filename": "Social Worker All Services JDPS Sept 2022.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140592?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4DF8 _ 1/Social Worker All Services JDPS Sept 2022.doc",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 4E82 / 1",
     "source": "xms",
     "source_ref": "000B 4E82 / 1",
