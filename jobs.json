@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5303164",
+    "source": "comensura",
+    "source_ref": "5303164",
+    "job_id": "5303164",
+    "job_title": "Adults Team Manager (Bmdc) (Social Care Qualified)",
+    "client": "Bradford Metropolitan District Council",
+    "procurer": null,
+    "working_address": "Floor 5th floor, Britannia House, BD1 1HX",
+    "city": "Britannia House",
+    "postcode": "BD1 1HX",
+    "start_date": "2026-08-24",
+    "end_date": "2026-09-30",
+    "pay_from": "51.41",
+    "pay_to": "51.41",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "This is an exciting opportunity to play a key leadership role in safeguarding adults across the Bradford District. Working closely with the Safeguarding Adults Board (SAB) and a wide range of partner agencies, the Deputy Manager will lead quality assurance, performance monitoring, audit and improvement activity that helps ensure vulnerable adults are protected and receive effective support. The post holder will provide strategic challenge, coordinate partnership activity and deputise for the Business Unit Manager when required.",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-08-18T16:47:37.375Z",
+    "scraped_at": "2026-08-18T16:47:37.375Z",
+    "attachments": [
+      {
+        "filename": "Safeguarding Partnership Business Unit - Deputy Manager Opportunities.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5303164/File/224738",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5303138",
     "source": "comensura",
     "source_ref": "5303138",
