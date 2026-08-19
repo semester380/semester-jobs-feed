@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 4C32 / 1",
+    "source": "xms",
+    "source_ref": "000B 4C32 / 1",
+    "job_id": "000B 4C32 / 1",
+    "job_title": "Childrens - Social Work Team Manager",
+    "client": "Hiring - Leeds City Council, Leeds City Council",
+    "procurer": null,
+    "working_address": "Children's Social Work Service, Farnley Hall, Leeds, West Yorkshire, LS12 5HA, United Kingdom",
+    "city": "Leeds",
+    "postcode": "LS12 5HA",
+    "start_date": "2026-09-14",
+    "end_date": "2026-09-28",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "An experienced Team Manager is required for a children's area social work team which undertakes duty and assessment, child protection and child in need planning and court proceedings.   The role of the Team Manager is to lead, motivate and direct a team of professional social work staff to deliver a high standard of social work, which places the child at the centre and ensure that statutory duties and responsibilities of the Local Authority are being met. Supervision of Social Workers, an Advanced Practitioner and Social Work Assistant will be required.\n\nAs a Social Work Team Manager, you must hold a formal Social Work qualification (DipSw, bachelor’s degree or master’s degree) and have knowledge and experience of safeguarding good practices including safer recruitment procedures, paramountcy principle, requirements of the Children’s Act 2004 and Working Together to Safeguard Children 2026 and subsequent legal updates.\n\nThe post requires knowledge of legislation and contemporary issues within Children’s Social Care, alongside a clear appreciation of the importance of maintaining confidentiality. Applicants must also demonstrate a basic knowledge of child development, including the stages of adolescence and the transition to adulthood.\n\nThe role is based at Farnley Park Hall and will include mainly office working, with the opportunity for some working at home.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1468205?backToItem=&initialLoad=&tab=&_xmscs=ad1e24e4c6aad17ba966b42225025cba073a5d25ea52e1d4ce6eaeae8a4aea8054cd3892abff93e4",
+    "accepted_at": "2026-08-19T13:17:52.576Z",
+    "scraped_at": "2026-08-19T13:17:52.576Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140467?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4C32 _ 1/DfE Recommendation Attribute.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 4FDB / 1",
     "source": "xms",
     "source_ref": "000B 4FDB / 1",
