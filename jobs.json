@@ -1,5 +1,29 @@
 [
   {
+    "item_id": "000B 4DC0 / 1",
+    "source": "xms",
+    "source_ref": "000B 4DC0 / 1",
+    "job_id": "000B 4DC0 / 1",
+    "job_title": "Occupational Therapist",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": "GM Collaboration",
+    "working_address": "Philips Park Road, , Manchester, , M11 3FU, United Kingdom",
+    "city": "Manchester",
+    "postcode": "M11 3FU",
+    "start_date": "2026-10-05",
+    "end_date": "2027-01-31",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Children's OT to carry out assessments city wide for complex, bespoke equipment and minor/major adaptations. MEAP carry out home assessments for children with both physical and hidden disabilities. These assessments include Moving and Handling risk assessments and training for parents and carers. Specialist seating to support children with complex postural needs 0-18. Complex safety assessments to consider safe spaces, fencing, padded rooms, locks and specialist beds. They will also carry out assessments for major adaptations such as Through Floor Lifts, additional toilets, specialist baths, showers and bathing equipment.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1467994?inst=1467994--Distribution--1660944144-false&_csrf=2a39a8f0-d67a-49e3-81f7-84061b87757f&_xmscs=732736fb6560ab0cb97fe3151f2cdc6526254d589757394ebc4726312950ae0b21bfff81e1327c6a",
+    "accepted_at": "2026-08-19T11:31:37.304Z",
+    "scraped_at": "2026-08-19T11:31:37.304Z",
+    "attachments": []
+  },
+  {
     "item_id": "comensura:5303243",
     "source": "comensura",
     "source_ref": "5303243",
@@ -28380,6 +28404,30 @@
         "downloaded": true
       }
     ]
+  },
+  {
+    "item_id": "prism:OR111150",
+    "source": "prism",
+    "source_ref": "OR111150",
+    "job_id": "OR111150",
+    "job_title": "Admin Assistant (Gr 4) - Admin & Clerical",
+    "client": "London Borough of Sutton",
+    "procurer": "Laura Devereux",
+    "working_address": "London Borough of Sutton Civic Offices, St Nicholas Way, London, Sutton, SM1 1EA, United Kingdom",
+    "city": "Sutton",
+    "postcode": "SM1 1EA",
+    "start_date": "2026-08-10",
+    "end_date": "",
+    "pay_from": "121.18",
+    "pay_to": "159.35",
+    "pay_type": "per day",
+    "ir35": "Inside",
+    "ir35_note": "The job will be based at Sutton Family Hub (Thomas Wall site) (2 minute walk from Civic)",
+    "description": "Family Hubs provide support and advice to families in the community. The role of\nAdministration and Information is crucial in supporting the day to day running of the\nservice. The post holder will often be the first contact with a Children’s Centre or Family\nHub. As well as providing Admin support to the wider team they also provide information\nand advice to families and professional partners as part of the Family Information Service.\nThe role of the Administration and Information officer will be to keep all information on\nfamilies and local services upto date and relevant, to arrange bookings and support the\nplanning of services across the Family Hub area.",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=f4fd5519-23dd-4e24-a16d-b8f15efa9368",
+    "accepted_at": null,
+    "scraped_at": "2026-08-19T11:12:25.336Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR111318",
