@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 490E / 1",
+    "source": "xms",
+    "source_ref": "000B 490E / 1",
+    "job_id": "000B 490E / 1",
+    "job_title": "Adults Social Worker Level 2",
+    "client": "SCC_Hiring, Sheffield City Council",
+    "procurer": "Sheffield City Council",
+    "working_address": "Howden House, Union Street, Sheffield, South Yorkshire, S1 2SH, United Kingdom",
+    "city": "Sheffield",
+    "postcode": "S1 2SH",
+    "start_date": "2026-08-24",
+    "end_date": "2027-02-20",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "2 x Experienced Social Workers required for the Communities Future Options service however open to Social Workers with enough experience – ideally Liquidlogic familiarity too\n\nStart date ASAP for 6 months.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1468093?inst=1468093--Distribution--1660978026-false&_csrf=2a39a8f0-d67a-49e3-81f7-84061b87757f&_xmscs=8ea9da6820ca452dcd82047ccf28a326befd96e0d6d9160cfe064c0cff1ec86d13b8d30b45917748",
+    "accepted_at": "2026-08-19T12:57:03.809Z",
+    "scraped_at": "2026-08-19T12:57:03.809Z",
+    "attachments": [
+      {
+        "filename": "Adult Experienced Social Worker JD.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140255?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 490E _ 1/Adult Experienced Social Worker JD.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "744 - 2026-07-23 - 2026-08-04T10_39_27.4033375Z.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140618?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 490E _ 1/744 - 2026-07-23 - 2026-08-04T10_39_27.4033375Z.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5303297",
     "source": "comensura",
     "source_ref": "5303297",
