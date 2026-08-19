@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5303243",
+    "source": "comensura",
+    "source_ref": "5303243",
+    "job_id": "5303243",
+    "job_title": "Site Manager - Band 10 Scp31 (Housing)",
+    "client": "Darlington Borough Council",
+    "procurer": null,
+    "working_address": "Depot, DL1 4QB",
+    "city": "Depot",
+    "postcode": "DL1 4QB",
+    "start_date": "2026-09-14",
+    "end_date": "2027-01-16",
+    "pay_from": "27.49",
+    "pay_to": "27.49",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Please note the role is based at Allington Way Depot. There will be the occasional need to work Saturdays but not often\nPlease refer to the JD",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-08-19T05:56:13.157Z",
+    "scraped_at": "2026-08-19T05:56:13.157Z",
+    "attachments": [
+      {
+        "filename": "SITEMA_2.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5303243/File/224774",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5303164",
     "source": "comensura",
     "source_ref": "5303164",
