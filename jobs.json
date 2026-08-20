@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 5127 / 1",
+    "source": "xms",
+    "source_ref": "000B 5127 / 1",
+    "job_id": "000B 5127 / 1",
+    "job_title": "Senior Social Worker Children's",
+    "client": "Barnsley Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Westgate Plaza One, 1 Westgate, Western Street, Barnsley, South Yorkshire, S70 2DR",
+    "city": "Barnsley",
+    "postcode": "S70 2DR",
+    "start_date": "2026-09-01",
+    "end_date": "2026-12-01",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We require an experienced supervisory social worker in the fostering service to cover long-term sick leave.\n\nWe need the worker to be able to start as soon as possible to manage a caseload of foster carers.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1468928?backToItem=&initialLoad=&tab=&_xmscs=d5d8f27cc1227881b462e3853e85ba146cc11c7fa965a6c1b27c19f631008a42834efced7c15c0d1",
+    "accepted_at": "2026-08-20T15:56:03.634Z",
+    "scraped_at": "2026-08-20T15:56:03.634Z",
+    "attachments": [
+      {
+        "filename": "92690 Senior Social Worker Profile 20150120.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140769?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 5127 _ 1/92690 Senior Social Worker Profile 20150120.pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Attributes 2026.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140770?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 5127 _ 1/DfE Attributes 2026.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 5043 / 1",
     "source": "xms",
     "source_ref": "000B 5043 / 1",
