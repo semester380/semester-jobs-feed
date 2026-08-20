@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 5015 / 1",
+    "source": "xms",
+    "source_ref": "000B 5015 / 1",
+    "job_id": "000B 5015 / 1",
+    "job_title": "Home to School Passenger Assistant [Wigan]",
+    "client": "Wigan HR, GM Collaboration",
+    "procurer": null,
+    "working_address": "College Avenue, , Wigan, Greater Manchester, WN1 1NJ, United Kingdom",
+    "city": "Wigan",
+    "postcode": "WN1 1NJ",
+    "start_date": "2026-09-01",
+    "end_date": "2026-10-31",
+    "pay_from": "13.26",
+    "pay_to": "13.9",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "As a term time Home to School Passenger Assistant, you will support children and young people with a range of Special Educational Needs & Disabilities (SEND) as they travel to schools and colleges inside and outside the borough. The role is split‑shift, with a taxi collecting you from home or a set pick‑up point for morning and afternoon journeys.\n\nAs part of this statutory service, you will play a vital role in ensuring the safety, comfort and wellbeing of all passengers during transit. Your support will help children and young people arrive at school or college calm, settled and ready to learn",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1468670?backToItem=&initialLoad=&tab=&_xmscs=7d6f99b7864c207944e9f8a25b46a0b89522a1cbdeb1243cd77b870cdc76e542b41ce70e0ea28554",
+    "accepted_at": "2026-08-20T10:53:46.624Z",
+    "scraped_at": "2026-08-20T10:53:46.624Z",
+    "attachments": [
+      {
+        "filename": "20240822-HtS PA-Job Spec.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140707?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 5015 _ 1/20240822-HtS PA-Job Spec.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 485F / 1",
     "source": "xms",
     "source_ref": "000B 485F / 1",
