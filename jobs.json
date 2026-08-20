@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5303439",
+    "source": "comensura",
+    "source_ref": "5303439",
+    "job_id": "5303439",
+    "job_title": "Team Manager (Bcft Dfe) (Social Care Qualified)",
+    "client": "Bradford Metropolitan District Council",
+    "procurer": null,
+    "working_address": "Keighley Town Hall, BD21 3PA",
+    "city": "Keighley Town Hall",
+    "postcode": "BD21 3PA",
+    "start_date": "2026-09-01",
+    "end_date": "2027-03-31",
+    "pay_from": "40.00",
+    "pay_to": "40.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Bradford Children and Families Trust operate hybrid working - However, there will be instances where employees are expected to be in the office for specific tasks or team days, as defined by the needs of the service.\nEMP Case Reference No: AG663\nTeam 3\nDEPARTMENT ; Duty & Assessment",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-08-20T21:43:13.903Z",
+    "scraped_at": "2026-08-20T21:43:13.903Z",
+    "attachments": [
+      {
+        "filename": "Team Manager CFT.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5303439/File/224892",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5303296",
     "source": "comensura",
     "source_ref": "5303296",
