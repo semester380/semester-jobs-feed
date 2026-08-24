@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 518B / 1",
+    "source": "xms",
+    "source_ref": "000B 518B / 1",
+    "job_id": "000B 518B / 1",
+    "job_title": "Children's Social Worker [Bolton]",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Howell Croft North, , Bolton, , BL1 1QY, United Kingdom",
+    "city": "Bolton",
+    "postcode": "BL1 1QY",
+    "start_date": "2026-09-28",
+    "end_date": "2027-02-26",
+    "pay_from": "37",
+    "pay_to": "37",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Adoption Support Social Worker.\nWould consider safeguarding experienced SW.\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1469430?backToItem=&initialLoad=&tab=&_xmscs=f19de60607d18d70796dd8bb51a570aa3df9c285f898c663a12c190922dcd074b3d83363c0f5aa9a",
+    "accepted_at": "2026-08-24T09:33:21.712Z",
+    "scraped_at": "2026-08-24T09:33:21.712Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140783?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 518B _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "Bolton Childrens EVP 23 (004).docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140784?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 518B _ 1/Bolton Childrens EVP 23 (004).docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5303461",
     "source": "comensura",
     "source_ref": "5303461",
