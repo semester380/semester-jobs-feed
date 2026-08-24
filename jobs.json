@@ -15205,7 +15205,7 @@
     "city": "Gateshead Council Civic Centre",
     "postcode": "NE8 1HH",
     "start_date": "2026-06-01",
-    "end_date": "",
+    "end_date": "2026-12-31",
     "pay_from": "27.49",
     "pay_to": "27.49",
     "pay_type": "per hour",
@@ -15214,7 +15214,7 @@
     "description": "This is for 0-25 Adaptations work only",
     "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
     "accepted_at": "2026-05-27T18:37:04.519Z",
-    "scraped_at": "2026-05-27T18:37:04.519Z",
+    "scraped_at": "2026-08-24T15:12:34.893Z",
     "attachments": [
       {
         "filename": "Occupational Therapist Front Door (1).docx",
