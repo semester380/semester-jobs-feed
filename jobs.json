@@ -1,5 +1,72 @@
 [
   {
+    "item_id": "comensura:5303817",
+    "source": "comensura",
+    "source_ref": "5303817",
+    "job_id": "5303817",
+    "job_title": "Resource Worker - Grade E (Social Care Unqualified)",
+    "client": "Middlesbrough Borough Council",
+    "procurer": null,
+    "working_address": "Middlesbrough House, TS1 2RH",
+    "city": "Middlesbrough House",
+    "postcode": "TS1 2RH",
+    "start_date": "2026-03-31",
+    "end_date": "2026-05-28",
+    "pay_from": "16.99",
+    "pay_to": "16.99",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "25/08/26- order set up to pay agency for work that was not put through the system. When Daniel cross comes back from annual leave, we will query this with him-.",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-08-25T14:55:34.721Z",
+    "scraped_at": "2026-08-25T14:55:34.721Z",
+    "attachments": []
+  },
+  {
+    "item_id": "000B 52F0 / 1",
+    "source": "xms",
+    "source_ref": "000B 52F0 / 1",
+    "job_id": "000B 52F0 / 1",
+    "job_title": "Children's Social Worker [Blackburn with Darwen]",
+    "client": "Blackburn with Darwen Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "10 Duke Street, , Blackburn, Lancashire, BB21DH, United Kingdom",
+    "city": "Blackburn",
+    "postcode": "BB2 1DH",
+    "start_date": "2026-09-28",
+    "end_date": "2026-11-30",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "This post is based in our Blackburn with Darwen, Life Long Families Team and includes statutory case responsibility for children on Placement Orders with a care plan of adoption. You will be responsible for working closely with the RAA Adoption Lancashire Blackpool to track children who are on PLO or in the court arena and attend care planning meetings.  From the point of Placement Order you will gain statutory responsibility for the child, completing all LAC functions including visits, PEPs, reviews, etc whilst also working with the RAA to family find and progress with a match to adoption panel.  You will ensure that the child’s voice is central and that all documents including the CPR, panel paperwork and other life story documents are written in a way that will help the child to understand when they are older their identity, journey and the decisions made on their behalf.\n\nThe role includes direct work with the child to help prepare them for adoption and deepen their understanding of why they are unable to live with their birth family or foster carers.  Finally, you will support the child in moving to their adoptive family, support the child and family until an adoption order is made and present the evidence to court which robustly analyses the ongoing need for adoption for that child with that family.\n\nThe role also allows opportunities to develop professional skills by taking on team and service wide roles such as delivering regular training, developing the information given to children, birth families and adopters and being involved in the quality control of elements such as early permanence.\n\nDue to the nature of the role and the Adoption Regulations, the role is suited to a social worker who has three years post qualifying experience within Children’s Statutory Social Work.\n\n\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1469969?backToItem=&initialLoad=&tab=&_xmscs=adc34509ee5da3321ea4c0364d89d5b329a266050f1e3e8028c087db741292a8c8028584a00ff1f5",
+    "accepted_at": "2026-08-25T14:54:27.985Z",
+    "scraped_at": "2026-08-25T14:54:27.985Z",
+    "attachments": [
+      {
+        "filename": "Welcome to Blackburn with Darwen Borough Council Social Care.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140866?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 52F0 _ 1/Welcome to Blackburn with Darwen Borough Council Social Care.docx",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140867?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 52F0 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      },
+      {
+        "filename": "BWD Why work for us.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140868?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 52F0 _ 1/BWD Why work for us.docx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5303707",
     "source": "comensura",
     "source_ref": "5303707",
