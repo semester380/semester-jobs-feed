@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5303828",
+    "source": "comensura",
+    "source_ref": "5303828",
+    "job_id": "5303828",
+    "job_title": "Adults Social Care - Social Worker (Qualified) (Social Care Qualified)",
+    "client": "South Tyneside Council",
+    "procurer": null,
+    "working_address": "Floor South Tyneside District Hosp, Town Hall, NE33 2RL",
+    "city": "Town Hall",
+    "postcode": "NE33 2RL",
+    "start_date": "2026-09-14",
+    "end_date": "2026-12-11",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Temporary roles to support due to long term sickness and support during recruitment process - 3 months\nRole will be based in the Hospital Discharge Team.\nLocation: South Tyneside District Hospital, Harton Lane, South Shields.",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-08-25T23:12:21.424Z",
+    "scraped_at": "2026-08-25T23:12:21.424Z",
+    "attachments": [
+      {
+        "filename": "Social Worker (Adult Social Care) JD.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5303828/File/225057",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5303830",
     "source": "comensura",
     "source_ref": "5303830",
