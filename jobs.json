@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 4D2B / 1",
+    "source": "xms",
+    "source_ref": "000B 4D2B / 1",
+    "job_id": "000B 4D2B / 1",
+    "job_title": "Childrens - Social Work Team Manager",
+    "client": "Hiring - Leeds City Council, Leeds City Council",
+    "procurer": null,
+    "working_address": "Kernel House, Killingbeck House, Leeds, , LS14 6UF, United Kingdom",
+    "city": "Leeds",
+    "postcode": "LS14 6UF",
+    "start_date": "2026-08-14",
+    "end_date": "2026-08-28",
+    "pay_from": "35.13",
+    "pay_to": "35.13",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "2 FT Team Managers required for one 0-12 and one 13+ CLA team. Based at Kernel House in Seacroft with scope for hybrid working.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1470457?backToItem=&initialLoad=&tab=&_xmscs=1d86a91db2a6e8e7c19726353ec61acc8955c8d436b4816fd3bb2fb1af31606c9b6b5e7c61d6cff8",
+    "accepted_at": "2026-08-26T14:38:50.057Z",
+    "scraped_at": "2026-08-26T14:38:50.057Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140534?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 4D2B _ 1/DfE Recommendation Attribute.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 5052 / 1",
     "source": "xms",
     "source_ref": "000B 5052 / 1",
