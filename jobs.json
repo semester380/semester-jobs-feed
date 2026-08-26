@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5303846",
+    "source": "comensura",
+    "source_ref": "5303846",
+    "job_id": "5303846",
+    "job_title": "Ils Occupational Therapy Team Manager (Social Care Qualified)",
+    "client": "Gateshead Council",
+    "procurer": null,
+    "working_address": "Gateshead Council Civic Centre, NE8 1HH",
+    "city": "Gateshead Council Civic Centre",
+    "postcode": "NE8 1HH",
+    "start_date": "2026-09-21",
+    "end_date": "2027-07-12",
+    "pay_from": "26.62",
+    "pay_to": "26.62",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Maternity Leave Cover\nManage the Occupational Therapy team within the Independent Living Service",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-08-26T14:16:09.509Z",
+    "scraped_at": "2026-08-26T14:16:09.509Z",
+    "attachments": [
+      {
+        "filename": "ILS Occupational Therapy Practise Consultant Role Profile.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5303846/File/225067",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 548A / 1",
     "source": "xms",
     "source_ref": "000B 548A / 1",
