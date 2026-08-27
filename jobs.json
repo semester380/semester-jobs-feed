@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "comensura:5299545",
+    "source": "comensura",
+    "source_ref": "5299545",
+    "job_id": "5299545",
+    "job_title": "Adults Social Worker (Qualified) (Social Care Qualified)",
+    "client": "Middlesbrough Borough Council",
+    "procurer": null,
+    "working_address": "Fountain Court, TS1 9FT",
+    "city": "Fountain Court",
+    "postcode": "TS1 9FT",
+    "start_date": "2026-07-05",
+    "end_date": "2026-10-05",
+    "pay_from": "33.00",
+    "pay_to": "33.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "MID1209801\nThe role involves leading and coordinating complex social work interventions for adults with learning disabilities, significant mental health needs, offending histories, or those at risk of coming into contact with the criminal justice system. Managing a varied caseload, you will work collaboratively with multidisciplinary colleagues, including psychiatry, psychology, nursing and criminal justice professionals, to deliver high-quality, person-centred support that promotes recovery, independence, wellbeing and public safety. Responsibilities include undertaking Care Act 2014 assessments, determining eligibility, developing strengths-based support plans, and completing Mental Capacity Act 2005 assessments and best interest decisions where required. You will play a key role in Section 117 aftercare planning and discharge processes, ensuring effective transitions from secure and inpatient settings into the community. The role also requires the assessment and management of risk, responding to crisis situations using a trauma-informed and recovery-focused approach, and contributing specialist social work expertise to safeguarding, care planning and legal frameworks to achieve positive outcomes for vulnerable adults. You will be supported by an experienced and collaborative team environment, with regular supervision, professional guidance, and access to ongoing advice and support to promote reflective practice, professional development, and high-quality decision-making.",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-08-27T13:49:43.830Z",
+    "scraped_at": "2026-08-27T13:49:43.830Z",
+    "attachments": [
+      {
+        "filename": "Social work JD PS revised January 2026.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5299545/File/225162",
+        "localPath": null,
+        "downloaded": false
+      }
+    ]
+  },
+  {
     "item_id": "000B 53AD / 1",
     "source": "xms",
     "source_ref": "000B 53AD / 1",
