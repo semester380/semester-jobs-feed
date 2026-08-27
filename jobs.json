@@ -1,5 +1,67 @@
 [
   {
+    "item_id": "000B 50A0 / 1",
+    "source": "xms",
+    "source_ref": "000B 50A0 / 1",
+    "job_id": "000B 50A0 / 1",
+    "job_title": "Housing Support Worker",
+    "client": "Calderdale Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Ryburn House, Clay Street, Halifax, , HX1 4SG",
+    "city": "Halifax",
+    "postcode": "HX1 4SG",
+    "start_date": "2026-08-31",
+    "end_date": "2026-10-11",
+    "pay_from": "12.85",
+    "pay_to": "12.85",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are looking to recruit a Housing Support Worker that will support clients moving from temporary accommodation into more permanent and suitable accommodation. Options will include supported accommodation, social housing and private sector. Ensuring the right ongoing support is in place is important to ensure tenancies are successful.\n\nYou must have experience of working with vulnerable people including singles and families and the different issues they may face, such as mental and physical health, substance misuse, financial difficulties and domestic abuse. Strong communication skills, welfare benefits knowledge.\n\nNeed to be a car user and to be able around the brough as will be visiting clients on their own and to be able to lone work\n\nTo be able to spot any safeguarding issues\n\nSomone who has done this before as will need to hit the ground running\n\nWill be either in the office or out on a visit, will need to cover a duty rota where they will help support any front line queries\n\nLooking for experience who has dealt with complex needs before\n\nWorking with the client to place them into errancy accommodation and then working with them to move them to privately rented accommodation\n\nNeed to be able to commute to the office everyday and complete visits across the borough\n\nInterviews will be completed face to face, informal interview at Ryburn House, Halifax, HX1 4SG",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1470737?backToItem=&initialLoad=&tab=&_xmscs=2a0d6d9184abfe937f460c55d43952215ed966e5b632cea6654c71ea4582344cf9dcc88ad8a8c739",
+    "accepted_at": "2026-08-27T10:59:04.043Z",
+    "scraped_at": "2026-08-27T10:59:04.043Z",
+    "attachments": [
+      {
+        "filename": "RS966 - RP - Housing Support Worker.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140743?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 50A0 _ 1/RS966 - RP - Housing Support Worker.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
+    "item_id": "000B 515A / 1",
+    "source": "xms",
+    "source_ref": "000B 515A / 1",
+    "job_id": "000B 515A / 1",
+    "job_title": "Homelessness Prevention Officer",
+    "client": "Calderdale Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Customer First , 19 Horton Street, Halifax, West Yorkshire , HX1 1QE, United Kingdom",
+    "city": "Halifax",
+    "postcode": "HX1 1QE",
+    "start_date": "2026-09-07",
+    "end_date": "2026-10-19",
+    "pay_from": "13.59",
+    "pay_to": "13.69",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Main duties and responsibilities\nWork with the Housing Options team in the front line Homelessness Prevention Service to provide support and advice to households to prevent and relieve homelessness and to secure and maintain tenancies.\n\n\nInterview customers who present as homeless or in housing need to the Housing Options Service and give specific advice and information on homelessness prevention, securing accommodation if homeless, and the help that’s available.\n\n\nInterview customers where there is a reason to believe they’re eligible and homeless, complete an assessment of their needs and develop fit for purpose personal housing plans. Produce and issue required written documentation, e.g. plans and decision letters.\n\n\nCarry a caseload of clients and undertake comprehensive and hands on homelessness prevention work. This will include negotiating with landlords, parents and others and advocating with a range of organisations and agencies.\n\n\nSupport households who now find themselves homeless or at risk of homelessness by developing relationships with colleagues, partner agencies, housing providers, voluntary agencies and community groups, etc to broaden knowledge of homelessness services and build effective referral routes, ensuring close liaison, co-operation and information exchange as appropriate to ensure better outcomes.\n\nKnowledge of homelessness legislation is essential, with a particular focus on the duties contained within Part VII of the Housing Act 1996 as amended by the Homelessness Reduction Act 2017. The postholder must have a sound understanding of prevention and relief duties, including assessing housing needs, developing Personalised Housing Plans, and working proactively with households and partner agencies to prevent and relieve homelessness in accordance with statutory requirements and guidance",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1470763?backToItem=&initialLoad=&tab=&_xmscs=c06be6690e80c4826ceb86acc377a0d297a9dd004f68909f07582b337c3a54338081e3e587227e07",
+    "accepted_at": "2026-08-27T10:58:15.543Z",
+    "scraped_at": "2026-08-27T10:58:15.543Z",
+    "attachments": [
+      {
+        "filename": "RP - Homelessness Prevention Officer.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140782?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 515A _ 1/RP - Homelessness Prevention Officer.pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 559A / 1",
     "source": "xms",
     "source_ref": "000B 559A / 1",
