@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 559A / 1",
+    "source": "xms",
+    "source_ref": "000B 559A / 1",
+    "job_id": "000B 559A / 1",
+    "job_title": "Adults Social Worker [Salford]",
+    "client": "Salford City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Chorley Road, , Swinton, Greater Manchester, M27 5DA, United Kingdom",
+    "city": "Swinton",
+    "postcode": "M27 5DA",
+    "start_date": "2026-09-28",
+    "end_date": "2026-11-30",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We require one Mental Health Social worker working at Salford Civic. Will be working at the Front Door team conducting visits and assessments in support of the contact team. Hybrid working is available, up to two days a week from home.\n\n3 years reference, gaps in employment history checked, any relevant quals as per JDPS",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1470700?backToItem=&initialLoad=&tab=&_xmscs=949858808aeda79342c2ea82ecedb2e5cc93ee0a0ca3f7da6fcd90ad73c669634bca81f211931e5a",
+    "accepted_at": "2026-08-27T10:48:22.648Z",
+    "scraped_at": "2026-08-27T10:48:22.648Z",
+    "attachments": [
+      {
+        "filename": "6171_ThisIsSalford_Feb2023_v3 (1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/141018?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 559A _ 1/6171_ThisIsSalford_Feb2023_v3 (1).pdf",
+        "downloaded": true
+      },
+      {
+        "filename": "6173_Why work for TeamSalford_v7 (1).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/141019?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 559A _ 1/6173_Why work for TeamSalford_v7 (1).pdf",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5303880",
     "source": "comensura",
     "source_ref": "5303880",
