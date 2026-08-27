@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 53AD / 1",
+    "source": "xms",
+    "source_ref": "000B 53AD / 1",
+    "job_id": "000B 53AD / 1",
+    "job_title": "Childrens Social Worker [Trafford]",
+    "client": "Trafford Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "TALBOT ROAD, , MANCHESTER, GREATER MANCHESTER, M32 0TH, United Kingdom",
+    "city": "MANCHESTER",
+    "postcode": "M32 0TH",
+    "start_date": "2026-09-28",
+    "end_date": "2026-12-31",
+    "pay_from": "35",
+    "pay_to": "39",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Looking for social workers for a Cared for Children Service.\n\nWe ideally are looking for candidates with UASC and Age Assessment experience but to take on a generic Cared for social work role as well.\n\nWill go up to £39ph for experienced candidate\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1470865?backToItem=&initialLoad=&tab=&_xmscs=a031390b35fc5713644f986138e0a4c32f7c20af49d11b9fe321047385ef2381235a3ce9e837ee79",
+    "accepted_at": "2026-08-27T12:48:30.811Z",
+    "scraped_at": "2026-08-27T12:48:30.811Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140893?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 53AD _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 50A0 / 1",
     "source": "xms",
     "source_ref": "000B 50A0 / 1",
