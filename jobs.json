@@ -1,5 +1,36 @@
 [
   {
+    "item_id": "000B 55F9 / 1",
+    "source": "xms",
+    "source_ref": "000B 55F9 / 1",
+    "job_id": "000B 55F9 / 1",
+    "job_title": "Childrens Team Manager - Childrens Services [Tameside]",
+    "client": "Tameside Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Old Street, Ashton-u-Lyne, Tameside, , OL6 7SG",
+    "city": "Tameside",
+    "postcode": "OL6 7SG",
+    "start_date": "2026-09-14",
+    "end_date": "2026-11-02",
+    "pay_from": "46",
+    "pay_to": "46",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Tameside are seeking a passionate and driven Interim Team Manager to lead the Fostering Support, Supervision and Assessments Service, providing strong leadership to Supervising Social Workers and ensuring the delivery of high-quality support to foster carers and children. The role requires an experienced social work manager who can balance operational oversight with strategic leadership, driving service improvement, quality assurance, and excellent outcomes for children and families.\n\nThe applicant will need to have expertise and confidence in the following areas:\n\nLeadership and management of fostering and children's social care teams.\nFoster carer support, supervision and assessment.\nQuality assurance, auditing and performance management.\nWorkforce development, supervision and coaching.\nSafeguarding, care planning and achieving positive outcomes for children.\nStrategic service development and partnership working.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1471687?backToItem=&initialLoad=&tab=&_xmscs=6f4f06369499f2c3db05d6b03f5865cf1b5bc7f1b2a637aaa200f0ccab4ce5ff6ab008ee1b0d04d0",
+    "accepted_at": "2026-09-01T09:37:37.475Z",
+    "scraped_at": "2026-09-01T09:37:37.475Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/141040?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 55F9 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5304071",
     "source": "comensura",
     "source_ref": "5304071",
