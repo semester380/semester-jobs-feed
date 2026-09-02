@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 5833 / 1",
+    "source": "xms",
+    "source_ref": "000B 5833 / 1",
+    "source_revision": null,
+    "job_id": "000B 5833 / 1",
+    "job_title": "AMHP [Tameside MBC]",
+    "client": "Tameside Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Wilshaw Lane, Ashton-u-Lyne, Tameside, Greater Manchester, OL7 9QG, United Kingdom",
+    "city": "Tameside",
+    "postcode": "OL7 9QG",
+    "start_date": "2026-09-14",
+    "end_date": "2026-12-18",
+    "pay_from": "42",
+    "pay_to": "42",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "3 years current references, gaps in employment history checked, any relevant quals as per JDPS\n\nMust be a qualified AMHP with at least 2 years post AMHP qualifying experience to work on the dedicated AMHP team Monday to Friday  Day time hours\n\nEither 3 x 9 hour shifts from the AMHP Hub based in Ashton under lyne and 9 hrs wfh to complete reports\nMonday to Friday",
+    "raw_portal_description": "3 years current references, gaps in employment history checked, any relevant quals as per JDPS\n\nMust be a qualified AMHP with at least 2 years post AMHP qualifying experience to work on the dedicated AMHP team Monday to Friday  Day time hours\n\nEither 3 x 9 hour shifts from the AMHP Hub based in Ashton under lyne and 9 hrs wfh to complete reports\nMonday to Friday",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1472332?backToItem=&initialLoad=&tab=&_xmscs=25004aa5f1309a89ac2dbb519838ac62416029e50c16dfc4b5bbab44fedf3e2b547791540602df00",
+    "accepted_at": "2026-09-02T13:17:40.492Z",
+    "scraped_at": "2026-09-02T13:17:40.492Z",
+    "attachments": [
+      {
+        "filename": "Dedicated AMHP 36hr agency PSJD.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/141180?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 5833 _ 1/Dedicated AMHP 36hr agency PSJD.doc",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/msword",
+        "declaredMimeType": "application/msword",
+        "detectedMimeType": null,
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "d6b261213fd13d6a5c38356e447f0e8246f6303eef4817a5c099c2c7d7046e78",
+        "contentBytes": 69632,
+        "contentTypeAgreement": "magic-unresolved",
+        "contentProvenanceComplete": false,
+        "contentProvenanceRecordedAt": "2026-09-02T13:17:40.728Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 58D8 / 1",
     "source": "xms",
     "source_ref": "000B 58D8 / 1",
