@@ -1,5 +1,42 @@
 [
   {
+    "item_id": "000B 5457 / 1",
+    "source": "xms",
+    "source_ref": "000B 5457 / 1",
+    "job_id": "000B 5457 / 1",
+    "job_title": "Children's Advanced Social Work Practitioner",
+    "client": "SCC_Authorising, Sheffield City Council",
+    "procurer": "Sheffield City Council",
+    "working_address": "Howden House, Union Street, Sheffield, South Yorkshire, S1 2SH, United Kingdom",
+    "city": "Sheffield",
+    "postcode": "S1 2SH",
+    "start_date": "2026-09-01",
+    "end_date": "2027-03-31",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are looking for an advanced practitioner who has significant experience in frontline fieldwork and who is registered with Social Work England.  The post is full time (37 hours) and funded until end of March 2027.  The postholder will work in the Safeguarding Front door team (aka MASH) and therefore will have worked previously within a MASH/Screening team and will be able to work at pace.  Agency workers will have a clear understanding of thresholds,, be able to undertake risk assessments, complete safety plans and analyse information from multiple sources to inform plans and ensure vulnerable children receive the right service at the right time.  Sheffield children's services use Signs of Safety model and Liquid Logic social care system.  Hybrid working arrangements are in place.",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1472089?backToItem=&initialLoad=&tab=&_xmscs=7c05c8d1da0f77910b5a7c6562331f3c8592ec1be2e0790473d679c48a660077ea49e52d972ffd5f",
+    "accepted_at": "2026-09-02T09:25:21.288Z",
+    "scraped_at": "2026-09-02T09:25:21.288Z",
+    "attachments": [
+      {
+        "filename": "ASWP November 2017.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140940?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 5457 _ 1/ASWP November 2017.docx",
+        "downloaded": true
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xlsx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140941?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 5457 _ 1/DfE Recommendation Attribute.xlsx",
+        "downloaded": true
+      }
+    ]
+  },
+  {
     "item_id": "000B 3416 / 1",
     "source": "xms",
     "source_ref": "000B 3416 / 1",
