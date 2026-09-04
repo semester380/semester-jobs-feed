@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 5940 / 1",
+    "source": "xms",
+    "source_ref": "000B 5940 / 1",
+    "source_revision": null,
+    "job_id": "000B 5940 / 1",
+    "job_title": "Family Contact Worker [Manchester City Council]",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Harpurhey District Office, 6 Moston Lane, Manchester, Lancashire, M9 4DD, United Kingdom",
+    "city": "Manchester",
+    "postcode": "M9 4DD",
+    "start_date": "2026-09-14",
+    "end_date": "2026-11-13",
+    "pay_from": "15",
+    "pay_to": "15",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Umbrella rate - £19.21\n\nTo supervise court direct family time with looked after children and their families.\n\nTo complete observations of family time, give guidance and parenting advice.\n\nTransport children to and from family time.\n\nCar required/business use insurance.\n\nBased on a social work team in North Manchester.",
+    "raw_portal_description": "Umbrella rate - £19.21\n\nTo supervise court direct family time with looked after children and their families.\n\nTo complete observations of family time, give guidance and parenting advice.\n\nTransport children to and from family time.\n\nCar required/business use insurance.\n\nBased on a social work team in North Manchester.",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1473429?backToItem=&initialLoad=&tab=&_xmscs=dd198796d30316ac8c607c46d36a53950fcd4148b4737366bc9e216c9ebe858394ac7c8cc15eb462",
+    "accepted_at": "2026-09-04T14:38:00.411Z",
+    "scraped_at": "2026-09-04T14:38:00.411Z",
+    "attachments": [
+      {
+        "filename": "Family Contact Worker. Family Contact Service.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/141222?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 5940 _ 1/Family Contact Worker. Family Contact Service.doc",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/msword",
+        "declaredMimeType": "application/msword",
+        "detectedMimeType": null,
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "39227e41d0ac21aba9b8e7df31fd60406b8de10ea88f132adf14dead486e529f",
+        "contentBytes": 71680,
+        "contentTypeAgreement": "magic-unresolved",
+        "contentProvenanceComplete": false,
+        "contentProvenanceRecordedAt": "2026-09-04T14:38:00.619Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5304450",
     "source": "comensura",
     "source_ref": "5304450",
