@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5304450",
+    "source": "comensura",
+    "source_ref": "5304450",
+    "source_revision": null,
+    "job_id": "5304450",
+    "job_title": "Residential Practitioner (Bcft) (Social Care Qualified)",
+    "client": "Bradford Metropolitan District Council",
+    "procurer": null,
+    "working_address": "Bradford Metropolitan District Council, Netherlands Square, Low Moor, Bradford, Yorkshire, BD12",
+    "city": "Bradford",
+    "postcode": null,
+    "start_date": "2026-08-22",
+    "end_date": "2026-08-30",
+    "pay_from": "20.58",
+    "pay_to": "20.58",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "EMP Case Reference No: TBC - 2/9/26\nNmande Onyenakazi and Chimeziuem Akalezi- Semester\n1 week",
+    "raw_portal_description": "EMP Case Reference No: TBC - 2/9/26\nNmande Onyenakazi and Chimeziuem Akalezi- Semester\n1 week",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-09-04T09:13:45.940Z",
+    "scraped_at": "2026-09-04T09:13:45.940Z",
+    "attachments": [
+      {
+        "filename": "Residential Practitioner - BRD.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5304450/File/225419",
+        "localPath": null,
+        "downloaded": false,
+        "httpContentTypeRaw": null,
+        "declaredMimeType": null,
+        "detectedMimeType": null,
+        "mimeDetectorVersion": null,
+        "contentSha256": null,
+        "contentBytes": null,
+        "contentTypeAgreement": null,
+        "contentProvenanceComplete": null,
+        "contentProvenanceRecordedAt": null
+      }
+    ]
+  },
+  {
     "item_id": "000B 5964 / 1",
     "source": "xms",
     "source_ref": "000B 5964 / 1",
