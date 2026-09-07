@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5304319",
+    "source": "comensura",
+    "source_ref": "5304319",
+    "source_revision": null,
+    "job_id": "5304319",
+    "job_title": "Family Time Worker - Grade 6 (Social Care Unqualified)",
+    "client": "Durham County Council",
+    "procurer": null,
+    "working_address": "Peterlee Lowhills Centre, SR8 2DW",
+    "city": "Peterlee Lowhills Centre",
+    "postcode": "SR8 2DW",
+    "start_date": "2026-09-13",
+    "end_date": "2026-12-05",
+    "pay_from": "17.24",
+    "pay_to": "17.24",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Must have driving licence and access to vehicle with business insurance\nrecent experience working with children and their parents\nmust be flexible to travel as county wide service\nSupporting family time in safe environment\ncompleting observations and recording\ngood use of ICT essential\nPrefer level 3 childcare qualification",
+    "raw_portal_description": "Must have driving licence and access to vehicle with business insurance\nrecent experience working with children and their parents\nmust be flexible to travel as county wide service\nSupporting family time in safe environment\ncompleting observations and recording\ngood use of ICT essential\nPrefer level 3 childcare qualification",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-09-07T19:11:39.200Z",
+    "scraped_at": "2026-09-07T19:11:39.200Z",
+    "attachments": [
+      {
+        "filename": "Supporting Family Time Worker JDPS.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5304319/File/225338",
+        "localPath": null,
+        "downloaded": false,
+        "httpContentTypeRaw": null,
+        "declaredMimeType": null,
+        "detectedMimeType": null,
+        "mimeDetectorVersion": null,
+        "contentSha256": null,
+        "contentBytes": null,
+        "contentTypeAgreement": null,
+        "contentProvenanceComplete": null,
+        "contentProvenanceRecordedAt": null
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5304521",
     "source": "comensura",
     "source_ref": "5304521",
