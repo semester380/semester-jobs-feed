@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5304521",
+    "source": "comensura",
+    "source_ref": "5304521",
+    "source_revision": null,
+    "job_id": "5304521",
+    "job_title": "Social Worker (Bcft Dfe) (Social Care Qualified)",
+    "client": "Bradford Metropolitan District Council",
+    "procurer": null,
+    "working_address": "Shipley Town Hall, BD18 3EH",
+    "city": "Shipley Town Hall",
+    "postcode": "BD18 3EH",
+    "start_date": "2026-09-26",
+    "end_date": "2026-12-19",
+    "pay_from": "30.00",
+    "pay_to": "30.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Bradford Children and Families Trust operate hybrid working - However, there will be instances where employees are expected to be in the office for specific tasks or team days, as defined by the needs of the service.\nTeam 1 50215684\nTeam 3 50215974\nTeam 4 50217068\n3 Months\nEMP Case Reference No: AG686",
+    "raw_portal_description": "Bradford Children and Families Trust operate hybrid working - However, there will be instances where employees are expected to be in the office for specific tasks or team days, as defined by the needs of the service.\nTeam 1 50215684\nTeam 3 50215974\nTeam 4 50217068\n3 Months\nEMP Case Reference No: AG686",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-09-07T16:25:48.412Z",
+    "scraped_at": "2026-09-07T16:25:48.412Z",
+    "attachments": [
+      {
+        "filename": "Social Worker (L2) - JD.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5304521/File/225456",
+        "localPath": null,
+        "downloaded": false,
+        "httpContentTypeRaw": null,
+        "declaredMimeType": null,
+        "detectedMimeType": null,
+        "mimeDetectorVersion": null,
+        "contentSha256": null,
+        "contentBytes": null,
+        "contentTypeAgreement": null,
+        "contentProvenanceComplete": null,
+        "contentProvenanceRecordedAt": null
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5304596",
     "source": "comensura",
     "source_ref": "5304596",
