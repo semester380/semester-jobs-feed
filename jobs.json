@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5304596",
+    "source": "comensura",
+    "source_ref": "5304596",
+    "source_revision": null,
+    "job_id": "5304596",
+    "job_title": "Mental Health & Behaviour Change Practitioner (Social Care Unqualified)",
+    "client": "Middlesbrough Borough Council",
+    "procurer": null,
+    "working_address": "The Live Well Centre, TS1 2PA",
+    "city": "The Live Well Centre",
+    "postcode": "TS1 2PA",
+    "start_date": "2026-09-13",
+    "end_date": "2027-07-22",
+    "pay_from": "22.12",
+    "pay_to": "22.12",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Purpose of the Post:\nTo deliver structured, evidence-based psychological interventions for service users within the substance use service experiencing low-level emotional and psychological barriers to change. This role also includes mentoring and providing reflective practice oversight for two trainee practitioners and contributing to innovation through the Behaviour Change Toolkit and wider applied research aligned with the national 10-year drug strategy.\nDuties and Responsibilities:\n• Deliver structured 1:1 and group psychological interventions (e.g. CBT-informed, MI, DBT-skills, psychoeducation).\n• Assess and formulate low-intensity mental health/emotional needs of service users and plan appropriate brief interventions.\nIdentify and escalate more complex or higher-risk cases to appropriate services.\n• Mentor and line manage two trainee practitioners, supporting their development and safe delivery of psychosocial interventions.\n• Contribute to the development and implementation of the behavior change interventions across the service\n• Participate in reflective practice, quality assurance, and continuous improvement activities including engaging with monthly clinical supervision aligned to your discipline\n• Collaborate with caseworkers and wider partners to ensure integrated, person-centred care.\n• Contribute to applied research and evaluation activities linked to HDRC and academic partners\n• Record case notes and outcome measures in line with internal case note standards\n• Play an integral role in promoting and supporting a culture of continual professional development and application of evidence based practice across the service which may involve delivering training or coaching to the wider team",
+    "raw_portal_description": "Purpose of the Post:\nTo deliver structured, evidence-based psychological interventions for service users within the substance use service experiencing low-level emotional and psychological barriers to change. This role also includes mentoring and providing reflective practice oversight for two trainee practitioners and contributing to innovation through the Behaviour Change Toolkit and wider applied research aligned with the national 10-year drug strategy.\nDuties and Responsibilities:\n• Deliver structured 1:1 and group psychological interventions (e.g. CBT-informed, MI, DBT-skills, psychoeducation).\n• Assess and formulate low-intensity mental health/emotional needs of service users and plan appropriate brief interventions.\nIdentify and escalate more complex or higher-risk cases to appropriate services.\n• Mentor and line manage two trainee practitioners, supporting their development and safe delivery of psychosocial interventions.\n• Contribute to the development and implementation of the behavior change interventions across the service\n• Participate in reflective practice, quality assurance, and continuous improvement activities including engaging with monthly clinical supervision aligned to your discipline\n• Collaborate with caseworkers and wider partners to ensure integrated, person-centred care.\n• Contribute to applied research and evaluation activities linked to HDRC and academic partners\n• Record case notes and outcome measures in line with internal case note standards\n• Play an integral role in promoting and supporting a culture of continual professional development and application of evidence based practice across the service which may involve delivering training or coaching to the wider team",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-09-07T15:50:00.909Z",
+    "scraped_at": "2026-09-07T15:50:00.909Z",
+    "attachments": [
+      {
+        "filename": "Mental Health Behaviour Change Practitioner grade I JDPS (2)26 (1).doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5304596/File/225482",
+        "localPath": null,
+        "downloaded": false,
+        "httpContentTypeRaw": null,
+        "declaredMimeType": null,
+        "detectedMimeType": null,
+        "mimeDetectorVersion": null,
+        "contentSha256": null,
+        "contentBytes": null,
+        "contentTypeAgreement": null,
+        "contentProvenanceComplete": null,
+        "contentProvenanceRecordedAt": null
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5304602",
     "source": "comensura",
     "source_ref": "5304602",
