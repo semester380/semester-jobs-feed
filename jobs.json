@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5304487",
+    "source": "comensura",
+    "source_ref": "5304487",
+    "source_revision": null,
+    "job_id": "5304487",
+    "job_title": "(scas) Support Worker (Social Care Unqualified)",
+    "client": null,
+    "procurer": null,
+    "working_address": "Bodmin/Brunswick Square, SR5 4HX",
+    "city": "Bodmin/Brunswick Square",
+    "postcode": "SR5 4HX",
+    "start_date": "2026-09-04",
+    "end_date": "2027-05-31",
+    "pay_from": "16.96",
+    "pay_to": "16.96",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "2x 42 hr Support Worker Waking Nights positions available in Brunswick.\nImmediate start available, subject to satisfactory compliance checks and completion of required paperwork",
+    "raw_portal_description": "2x 42 hr Support Worker Waking Nights positions available in Brunswick.\nImmediate start available, subject to satisfactory compliance checks and completion of required paperwork",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-09-07T07:13:55.707Z",
+    "scraped_at": "2026-09-07T07:13:55.707Z",
+    "attachments": [
+      {
+        "filename": "Agency Advert - Support Worker Nights - Sep26.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5304487/File/225441",
+        "localPath": null,
+        "downloaded": false,
+        "httpContentTypeRaw": null,
+        "declaredMimeType": null,
+        "detectedMimeType": null,
+        "mimeDetectorVersion": null,
+        "contentSha256": null,
+        "contentBytes": null,
+        "contentTypeAgreement": null,
+        "contentProvenanceComplete": null,
+        "contentProvenanceRecordedAt": null
+      }
+    ]
+  },
+  {
     "item_id": "000B 5940 / 1",
     "source": "xms",
     "source_ref": "000B 5940 / 1",
