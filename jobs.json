@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5304520",
+    "source": "comensura",
+    "source_ref": "5304520",
+    "source_revision": null,
+    "job_id": "5304520",
+    "job_title": "Senior Social Worker (Bcft Dfe) (Social Care Qualified)",
+    "client": "Bradford Metropolitan District Council",
+    "procurer": null,
+    "working_address": "Sir Henry Mitchell House, BD5 0QL",
+    "city": "Sir Henry Mitchell House",
+    "postcode": "BD5 0QL",
+    "start_date": "2026-09-14",
+    "end_date": "2027-10-31",
+    "pay_from": "35.00",
+    "pay_to": "35.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Bradford Children and Families Trust operate hybrid working - However, there will be instances where employees are expected to be in the office for specific tasks or team days, as defined by the needs of the service.\nEMP Case Reference No: AG684\nSAP POSITION NUMBER 50217070",
+    "raw_portal_description": "Bradford Children and Families Trust operate hybrid working - However, there will be instances where employees are expected to be in the office for specific tasks or team days, as defined by the needs of the service.\nEMP Case Reference No: AG684\nSAP POSITION NUMBER 50217070",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-09-07T13:46:24.047Z",
+    "scraped_at": "2026-09-07T13:46:24.047Z",
+    "attachments": [
+      {
+        "filename": "Senior Social Worker CFT.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5304520/File/225455",
+        "localPath": null,
+        "downloaded": false,
+        "httpContentTypeRaw": null,
+        "declaredMimeType": null,
+        "detectedMimeType": null,
+        "mimeDetectorVersion": null,
+        "contentSha256": null,
+        "contentBytes": null,
+        "contentTypeAgreement": null,
+        "contentProvenanceComplete": null,
+        "contentProvenanceRecordedAt": null
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5304544",
     "source": "comensura",
     "source_ref": "5304544",
