@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5304602",
+    "source": "comensura",
+    "source_ref": "5304602",
+    "source_revision": null,
+    "job_id": "5304602",
+    "job_title": "Residential Child Care Worker - Band 9 (Social Care Qualified)",
+    "client": "Darlington Borough Council",
+    "procurer": null,
+    "working_address": "Harewood Hill Lodge, DL3 7HY",
+    "city": "Harewood Hill Lodge",
+    "postcode": "DL3 7HY",
+    "start_date": "2026-09-07",
+    "end_date": "2026-12-16",
+    "pay_from": "23.25",
+    "pay_to": "23.25",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "The successful person needs the following\nWork in a team\nPersonal care\nSome procedures like peg feeding and catheterizing\nFollow plans\nContribute to plans as necessary\nWork within children's home procedures\nWorking in a short break home for children with additional needs as a corporate parent for the young people",
+    "raw_portal_description": "The successful person needs the following\nWork in a team\nPersonal care\nSome procedures like peg feeding and catheterizing\nFollow plans\nContribute to plans as necessary\nWork within children's home procedures\nWorking in a short break home for children with additional needs as a corporate parent for the young people",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-09-07T14:06:26.584Z",
+    "scraped_at": "2026-09-07T14:06:26.584Z",
+    "attachments": [
+      {
+        "filename": "Residential Child Care Worker Band 9 A505 112021 (1).doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5304602/File/225485",
+        "localPath": null,
+        "downloaded": false,
+        "httpContentTypeRaw": null,
+        "declaredMimeType": null,
+        "detectedMimeType": null,
+        "mimeDetectorVersion": null,
+        "contentSha256": null,
+        "contentBytes": null,
+        "contentTypeAgreement": null,
+        "contentProvenanceComplete": null,
+        "contentProvenanceRecordedAt": null
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5304520",
     "source": "comensura",
     "source_ref": "5304520",
