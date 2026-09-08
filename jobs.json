@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 5542 / 1",
+    "source": "xms",
+    "source_ref": "000B 5542 / 1",
+    "source_revision": null,
+    "job_id": "000B 5542 / 1",
+    "job_title": "Adults Manager [Manchester City Council]",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Alexandra House, Moss Lane East, Manchester, Lancashire, M15 5BA, United Kingdom",
+    "city": "Manchester",
+    "postcode": "M15 5BA",
+    "start_date": "2026-10-12",
+    "end_date": "2027-01-01",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Adult Social Care's Early Help offer is delivered through the Adult Early Support Team (AEST). The team provides effective, strengths-based interventions at the first point of contact to prevent, reduce, or delay the escalation of needs, supporting residents to maintain their independence and achieve the best possible outcomes. This team plays a critical part in Adult Social Care, serving as the initial point of contact for adults facing a variety of situations and we are looking for an experienced Team Manager who thrives in a fast paced environment to support us with delivering high quality service delivery.\n\nNote: 3 years references required, gaps in employment history will be checked and evidence of relevant qualifications as per JDPS attached.",
+    "raw_portal_description": "Adult Social Care's Early Help offer is delivered through the Adult Early Support Team (AEST). The team provides effective, strengths-based interventions at the first point of contact to prevent, reduce, or delay the escalation of needs, supporting residents to maintain their independence and achieve the best possible outcomes. This team plays a critical part in Adult Social Care, serving as the initial point of contact for adults facing a variety of situations and we are looking for an experienced Team Manager who thrives in a fast paced environment to support us with delivering high quality service delivery.\n\nNote: 3 years references required, gaps in employment history will be checked and evidence of relevant qualifications as per JDPS attached.",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1474392?backToItem=&initialLoad=&tab=&_xmscs=43c9010d56848e6bb866d8df2e87428460736f5434ebb0c382eea93d3271057428ff70aebcdeccc6",
+    "accepted_at": "2026-09-08T08:18:45.434Z",
+    "scraped_at": "2026-09-08T08:18:45.434Z",
+    "attachments": [
+      {
+        "filename": "MLCO RP - Social Work Team Manager, AEST, G9.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140990?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 5542 _ 1/MLCO RP - Social Work Team Manager, AEST, G9.pdf",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/pdf",
+        "declaredMimeType": "application/pdf",
+        "detectedMimeType": "application/pdf",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "e61a2897400e9070d6458797fc0be3c186b02cdb8308fb46e9d72267e1da979b",
+        "contentBytes": 296951,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-09-08T08:18:45.539Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 5659 / 1",
     "source": "xms",
     "source_ref": "000B 5659 / 1",
