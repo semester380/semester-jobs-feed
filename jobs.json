@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5303802",
+    "source": "comensura",
+    "source_ref": "5303802",
+    "source_revision": null,
+    "job_id": "5303802",
+    "job_title": "Send Needs Assessment Plan Writer (Jajb4503 - G7) (Social and Healthcare Qualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Delamere House, CW1 2JZ",
+    "city": "Delamere House",
+    "postcode": "CW1 2JZ",
+    "start_date": "2026-09-01",
+    "end_date": "2026-11-30",
+    "pay_from": "20.28",
+    "pay_to": "20.28",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A Recruitment Request number is required for all Orders, please state here:20218\n5. Enhanced – including barred:\na. Children’s barred list\nb. Adults barred list\nc. Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "raw_portal_description": "A Recruitment Request number is required for all Orders, please state here:20218\n5. Enhanced – including barred:\na. Children’s barred list\nb. Adults barred list\nc. Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-09-09T09:06:07.931Z",
+    "scraped_at": "2026-09-09T09:06:07.931Z",
+    "attachments": [
+      {
+        "filename": "JAJB4503 - SEND Needs Assess. Plan Writer - JD&PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5303802/File/225044",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5303802/225044-b4e4a460316c1cf2eec63f891873078cf755fd0405ff09cce9ae45ffd05415a8.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/pdf",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "b4e4a460316c1cf2eec63f891873078cf755fd0405ff09cce9ae45ffd05415a8",
+        "contentBytes": 371269,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-09-09T09:06:08.311Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5304786",
     "source": "comensura",
     "source_ref": "5304786",
