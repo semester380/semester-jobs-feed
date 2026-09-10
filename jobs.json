@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 5B68 / 1",
+    "source": "xms",
+    "source_ref": "000B 5B68 / 1",
+    "source_revision": null,
+    "job_id": "000B 5B68 / 1",
+    "job_title": "Adults Senior Social Worker",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Alexandra House, Moss Lane East, Manchester, Lancashire, M15 5BA, United Kingdom",
+    "city": "Manchester",
+    "postcode": "M15 5BA",
+    "start_date": "2026-10-12",
+    "end_date": "2027-01-01",
+    "pay_from": "32",
+    "pay_to": "32",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Manchester Adult Social Care Mental Health Service\n\nManchester's Adult Social Care Mental Health Service provides specialist social work support to adults with mental health needs across the city. Working alongside health colleagues, housing providers, voluntary, community, faith and social enterprise organisations and wider partners, we are committed to delivering strengths-based, person-centred and trauma-informed practice that promotes independence, wellbeing, recovery and community inclusion.\n\nThis is an exciting time to join Manchester's Adult Social Care Mental Health Service. As the service evolves following the transfer of mental health social work services into Manchester City Council, there is a renewed focus on professional social work leadership, strengths-based practice, prevention, recovery and statutory excellence. This provides an opportunity to be part of the development of new pathways and approaches that improve outcomes for Manchester residents whilst strengthening the role of social work within mental health services.\n\n\n\nThis Role is Subject to:\n\n2 References - Where possible we require 3 years' history\nQualification - Social Work Qualification and registration with Social Work England",
+    "raw_portal_description": "Manchester Adult Social Care Mental Health Service\n\nManchester's Adult Social Care Mental Health Service provides specialist social work support to adults with mental health needs across the city. Working alongside health colleagues, housing providers, voluntary, community, faith and social enterprise organisations and wider partners, we are committed to delivering strengths-based, person-centred and trauma-informed practice that promotes independence, wellbeing, recovery and community inclusion.\n\nThis is an exciting time to join Manchester's Adult Social Care Mental Health Service. As the service evolves following the transfer of mental health social work services into Manchester City Council, there is a renewed focus on professional social work leadership, strengths-based practice, prevention, recovery and statutory excellence. This provides an opportunity to be part of the development of new pathways and approaches that improve outcomes for Manchester residents whilst strengthening the role of social work within mental health services.\n\n\n\nThis Role is Subject to:\n\n2 References - Where possible we require 3 years' history\nQualification - Social Work Qualification and registration with Social Work England",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1475998?backToItem=&initialLoad=&tab=&_xmscs=ad2cb98bec39fbfbd78d6c0665cefe7e494486a450ba55edc238a631a38c2d6f1c8b075e0fe989c0",
+    "accepted_at": "2026-09-10T11:01:46.292Z",
+    "scraped_at": "2026-09-10T11:01:46.292Z",
+    "attachments": [
+      {
+        "filename": "MLCO - Senior Social Worker Mental Health, G8 - RP.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/141377?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 5B68 _ 1/MLCO - Senior Social Worker Mental Health, G8 - RP.pdf",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/pdf",
+        "declaredMimeType": "application/pdf",
+        "detectedMimeType": "application/pdf",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "b13214aaf06fa02540926233ac5076c6fe3c157d8950a7c1d497593379451860",
+        "contentBytes": 257035,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-09-10T11:01:46.547Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 5FB0 / 1",
     "source": "xms",
     "source_ref": "000B 5FB0 / 1",
