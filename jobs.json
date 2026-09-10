@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5304881",
+    "source": "comensura",
+    "source_ref": "5304881",
+    "source_revision": null,
+    "job_id": "5304881",
+    "job_title": "Family Worker - Garde 5 (Social Care Unqualified)",
+    "client": "South Tyneside Council",
+    "procurer": null,
+    "working_address": "Westoe Road, South Shields, Tyne and Wear, NE33 2RL",
+    "city": "South Shields",
+    "postcode": "NE33 2RL",
+    "start_date": "2026-09-11",
+    "end_date": "2026-12-11",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Previous experience of working within a children's setting supporting children with additional needs is desirable",
+    "raw_portal_description": "Previous experience of working within a children's setting supporting children with additional needs is desirable",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-09-10T13:00:43.631Z",
+    "scraped_at": "2026-09-10T13:00:43.631Z",
+    "attachments": [
+      {
+        "filename": "Agency Ad Family Worker.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5304881/File/225612",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5304881/225612-4ec3c2319d8456b99adad6c683938394d429b6e5670e9de6d58d18f0160f2714.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "4ec3c2319d8456b99adad6c683938394d429b6e5670e9de6d58d18f0160f2714",
+        "contentBytes": 18950,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-09-10T13:00:43.941Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5304478",
     "source": "comensura",
     "source_ref": "5304478",
