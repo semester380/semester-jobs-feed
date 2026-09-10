@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5302243",
+    "source": "comensura",
+    "source_ref": "5302243",
+    "source_revision": null,
+    "job_id": "5302243",
+    "job_title": "Social Care Assessor (Jajf4126 - G7) (Social and Healthcare Unqualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Floor 5, Delamere House, CW1 2JZ",
+    "city": "Delamere House",
+    "postcode": "CW1 2JZ",
+    "start_date": "2026-08-23",
+    "end_date": "2027-03-31",
+    "pay_from": "20.28",
+    "pay_to": "20.28",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A Recruitment Request number is required for all Orders, please state here: 17740\nThis order is to replace Booking 6078405, RW 17740 remains active until 31/03/2027.\nPlease confirm which DBS is required for this role.\n(Delete the lines which are not applicable and leave the option that is required)\n5. Enhanced – including barred:\nb. Adults barred list\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "raw_portal_description": "A Recruitment Request number is required for all Orders, please state here: 17740\nThis order is to replace Booking 6078405, RW 17740 remains active until 31/03/2027.\nPlease confirm which DBS is required for this role.\n(Delete the lines which are not applicable and leave the option that is required)\n5. Enhanced – including barred:\nb. Adults barred list\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-09-10T08:15:15.448Z",
+    "scraped_at": "2026-09-10T08:15:15.448Z",
+    "attachments": [
+      {
+        "filename": "Social Care Assessor - Job Description and Specification.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5302243/File/224190",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5302243/224190-aa1de2539aff6a8f74b7248f88cdfe2314343078d2c419cf6c9f6883a74b641e.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/pdf",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "aa1de2539aff6a8f74b7248f88cdfe2314343078d2c419cf6c9f6883a74b641e",
+        "contentBytes": 1510527,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-09-10T08:15:15.892Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 5FAA / 1",
     "source": "xms",
     "source_ref": "000B 5FAA / 1",
