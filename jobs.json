@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 53CE / 1",
+    "source": "xms",
+    "source_ref": "000B 53CE / 1",
+    "source_revision": null,
+    "job_id": "000B 53CE / 1",
+    "job_title": "Social Worker - Adults",
+    "client": "Adults Wellbeing & Culture, City of Doncaster Council",
+    "procurer": null,
+    "working_address": "Fieldside, Thorne, Doncaster, South Yorkshire, DN8 4BQ, United Kingdom",
+    "city": "Doncaster",
+    "postcode": "DN8 4BQ",
+    "start_date": "2026-09-14",
+    "end_date": "2026-11-06",
+    "pay_from": "32",
+    "pay_to": "32",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "2 month cover to support with waiting list - full time required.\n\nHybrid working - to be discussed in the interview - visits/office and home working\n\nTo start in the next 2 weeks\n\nMosaic experience essential\n\nCar driver and access to own vehicle\n\nAdult community social work - 3 years plus experience\n\nNote to Suppliers: the following compliance requirements apply to this role:\n\nStandard with Enhanced DBS Check/Adults Barred List and HCPC\n- 2 years referencing, all gaps verified\n- Photographic ID\n- Confidentiality Agreement signed\n- Eligibility to work in the UK confirmed\n- Full work history (CV gaps checked)\n- Enhanced DBS Check\n- DBS Adults Barred list check\n- HCPC Registration\n\nPlease refer to your Supplier Audit Guide or User Guide for further information on compliance for this contract\n\nThis free text box is to be used for Worker Value Proposition and additional key role details not covered in the summary attached below:",
+    "raw_portal_description": "2 month cover to support with waiting list - full time required.\n\nHybrid working - to be discussed in the interview - visits/office and home working\n\nTo start in the next 2 weeks\n\nMosaic experience essential\n\nCar driver and access to own vehicle\n\nAdult community social work - 3 years plus experience\n\nNote to Suppliers: the following compliance requirements apply to this role:\n\nStandard with Enhanced DBS Check/Adults Barred List and HCPC\n- 2 years referencing, all gaps verified\n- Photographic ID\n- Confidentiality Agreement signed\n- Eligibility to work in the UK confirmed\n- Full work history (CV gaps checked)\n- Enhanced DBS Check\n- DBS Adults Barred list check\n- HCPC Registration\n\nPlease refer to your Supplier Audit Guide or User Guide for further information on compliance for this contract\n\nThis free text box is to be used for Worker Value Proposition and additional key role details not covered in the summary attached below:",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1476853?backToItem=&initialLoad=&tab=&_xmscs=cd76a5771504e04000c2ebe1bd222be1b38c1efe08885f470f98a8a7563a25896b417631ae9725af",
+    "accepted_at": "2026-09-11T13:42:43.225Z",
+    "scraped_at": "2026-09-11T13:42:43.225Z",
+    "attachments": [
+      {
+        "filename": "Social Worker (Adults).doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/140900?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 53CE _ 1/Social Worker (Adults).doc",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/msword",
+        "declaredMimeType": "application/msword",
+        "detectedMimeType": "application/msword",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "9ed018135651d664e35d5b8445f2e078a56f7483be0412ebaec45f5fcaedf54a",
+        "contentBytes": 45056,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-09-11T13:42:43.479Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5304936",
     "source": "comensura",
     "source_ref": "5304936",
