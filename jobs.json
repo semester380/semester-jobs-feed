@@ -638,12 +638,12 @@
     "pay_type": "per hour",
     "ir35": null,
     "ir35_note": null,
-    "description": "See attached JD & PS",
-    "raw_portal_description": "See attached JD & PS",
+    "description": "See attached JD & PS. This is only one shift - must have compliance",
+    "raw_portal_description": "See attached JD & PS. This is only one shift - must have compliance",
     "description_origin": "portal",
     "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
     "accepted_at": "2026-09-10T14:28:19.822Z",
-    "scraped_at": "2026-09-10T14:28:19.822Z",
+    "scraped_at": "2026-09-14T13:16:07.260Z",
     "attachments": [
       {
         "filename": "JD - Housing Support Assistant.pdf",
