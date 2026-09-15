@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 6322 / 1",
+    "source": "xms",
+    "source_ref": "000B 6322 / 1",
+    "source_revision": null,
+    "job_id": "000B 6322 / 1",
+    "job_title": "Children's Social Worker [Rochdale]",
+    "client": "Rochdale Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Smith Street, , Rochdale, , OL16 1XU, United Kingdom",
+    "city": "Rochdale",
+    "postcode": "OL16 1XU",
+    "start_date": "2026-10-19",
+    "end_date": "2026-10-31",
+    "pay_from": "39",
+    "pay_to": "39",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Our social workers in the Early Help and Safeguarding HUB (EHASH in Rochdale)  are the first decision makers for contacts coming into social care.\n\nThey will review information, liaise with partners and offer direction on next steps. Our social workers are key to supporting agencies and working through the concerns they have, signposting them to other services.\n\n\n\nLiaising with locality leads to try to offer support and offering informal advice and supervision to other workers in the EHASH across a number of disciplines.\n\nOur social workers are passionate about trying to meet family’s needs early and avoid escalation to specialist services. They are skilled in conversations and coaching and able to apply sound thresholds on need and risk.\n\n\n\nWe are looking for someone who is committed to finding solutions, is proportionate in approach and thinks creatively about how families might be supported then we want to hear from you.\n\n\n\nJob description and spec attached.\n\n\n\npay rate is agreed at £39.00 per hour\n\n\n\nThe post will require Barring checks\n\n\n\nHCPC registration required for all posts\n\n\n\nAt least 2 years references required\n\n\n\nID check\n\n\n\nEnhanced DBS",
+    "raw_portal_description": "Our social workers in the Early Help and Safeguarding HUB (EHASH in Rochdale)  are the first decision makers for contacts coming into social care.\n\nThey will review information, liaise with partners and offer direction on next steps. Our social workers are key to supporting agencies and working through the concerns they have, signposting them to other services.\n\n\n\nLiaising with locality leads to try to offer support and offering informal advice and supervision to other workers in the EHASH across a number of disciplines.\n\nOur social workers are passionate about trying to meet family’s needs early and avoid escalation to specialist services. They are skilled in conversations and coaching and able to apply sound thresholds on need and risk.\n\n\n\nWe are looking for someone who is committed to finding solutions, is proportionate in approach and thinks creatively about how families might be supported then we want to hear from you.\n\n\n\nJob description and spec attached.\n\n\n\npay rate is agreed at £39.00 per hour\n\n\n\nThe post will require Barring checks\n\n\n\nHCPC registration required for all posts\n\n\n\nAt least 2 years references required\n\n\n\nID check\n\n\n\nEnhanced DBS",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1477662?backToItem=&initialLoad=&tab=&_xmscs=2c59e054a72c93ed9bedceb6bee7b674e7534b4c0dedafba7307d8cf26bbc32d8e249f7f95ceaaae",
+    "accepted_at": "2026-09-15T10:16:46.938Z",
+    "scraped_at": "2026-09-15T10:16:46.938Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/141753?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 6322 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/vnd.ms-excel",
+        "declaredMimeType": "application/vnd.ms-excel",
+        "detectedMimeType": "application/vnd.ms-excel",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "23d6ef54110553d9c31ef0614032734b992da1c7e45d070644f7800ed36333ce",
+        "contentBytes": 67584,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-09-15T10:16:47.017Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 6255 / 1",
     "source": "xms",
     "source_ref": "000B 6255 / 1",
