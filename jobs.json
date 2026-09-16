@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5305354",
+    "source": "comensura",
+    "source_ref": "5305354",
+    "source_revision": null,
+    "job_id": "5305354",
+    "job_title": "Adults Social Worker (Qualified) (Social Care Qualified)",
+    "client": "Middlesbrough Borough Council",
+    "procurer": null,
+    "working_address": "Fountain Court, Po Box 500, Middlesbrough, North Yorkshire, TS1 9FT",
+    "city": "Middlesbrough",
+    "postcode": "TS1 9FT",
+    "start_date": "2026-09-20",
+    "end_date": "2027-03-20",
+    "pay_from": "283.23",
+    "pay_to": "283.23",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "16/0/26- VCF states duration is \"until permanent post is recruited into\". Have set this for an initial period of 6 months.",
+    "raw_portal_description": "16/0/26- VCF states duration is \"until permanent post is recruited into\". Have set this for an initial period of 6 months.",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-09-16T18:26:28.313Z",
+    "scraped_at": "2026-09-16T18:26:28.313Z",
+    "attachments": [
+      {
+        "filename": "Social work JD PS revised January 2026.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5305354/File/225844",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5305354/225844-dbedfe161270fdba1e6dec538f3456cdc182eaba9c6ac4341d4baf3eba9a5508.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/msword",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "dbedfe161270fdba1e6dec538f3456cdc182eaba9c6ac4341d4baf3eba9a5508",
+        "contentBytes": 1130496,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-09-16T18:26:29.067Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5305357",
     "source": "comensura",
     "source_ref": "5305357",
