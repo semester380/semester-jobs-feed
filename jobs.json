@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5305419",
+    "source": "comensura",
+    "source_ref": "5305419",
+    "source_revision": null,
+    "job_id": "5305419",
+    "job_title": "Child And Family Worker (Grade 5) (Social Care Unqualified)",
+    "client": null,
+    "procurer": null,
+    "working_address": "Sandhill Centre, Grindon Lane, Sunderland, Tyne and Wear, SR3 4EN",
+    "city": "Sunderland",
+    "postcode": "SR3 4EN",
+    "start_date": "2026-09-17",
+    "end_date": "2027-03-16",
+    "pay_from": "20.33",
+    "pay_to": "20.33",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Child And Family Worker (Grade 5) (Social Care Unqualified)\nTemporary\nChild and Family Worker CWD JDPS 2025.pdf",
+    "raw_portal_description": "Child And Family Worker (Grade 5) (Social Care Unqualified)\nTemporary\nChild and Family Worker CWD JDPS 2025.pdf",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-09-17T14:09:06.807Z",
+    "scraped_at": "2026-09-17T14:09:06.807Z",
+    "attachments": [
+      {
+        "filename": "Child and Family Worker CWD JDPS 2025.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5305419/File/225877",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5305419/225877-2343160b30d712eb98e24b98d1ba76846b047ea618fb896fefbd66392e8ea921.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/pdf",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "2343160b30d712eb98e24b98d1ba76846b047ea618fb896fefbd66392e8ea921",
+        "contentBytes": 316976,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-09-17T14:09:07.487Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 6011 / 1",
     "source": "xms",
     "source_ref": "000B 6011 / 1",
