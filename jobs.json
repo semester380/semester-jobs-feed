@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 61DA / 1",
+    "source": "xms",
+    "source_ref": "000B 61DA / 1",
+    "source_revision": null,
+    "job_id": "000B 61DA / 1",
+    "job_title": "Adults Senior Social Worker [Oldham]",
+    "client": "Oldham Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "George Street, , Oldham, Greater Manchester, OL1 1HD, United Kingdom",
+    "city": "Oldham",
+    "postcode": "OL1 1HD",
+    "start_date": "2026-09-28",
+    "end_date": "2026-12-31",
+    "pay_from": "20.48",
+    "pay_to": "22.41",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "The position is for a Grade 7 Social Worker within our Adult Social Care (ASC) MASH Team.\n\nThe successful candidate will be expected to work on a hybrid basis, with attendance in the office three days per week.\n\nThe role will include a combination of office-based duties and community-based work, requiring flexibility to work across both settings.\n\nOur standard working hours are 8:40am to 5:00pm, with a one-hour lunch break.",
+    "raw_portal_description": "The position is for a Grade 7 Social Worker within our Adult Social Care (ASC) MASH Team.\n\nThe successful candidate will be expected to work on a hybrid basis, with attendance in the office three days per week.\n\nThe role will include a combination of office-based duties and community-based work, requiring flexibility to work across both settings.\n\nOur standard working hours are 8:40am to 5:00pm, with a one-hour lunch break.",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1478738?backToItem=&initialLoad=&tab=&_xmscs=c01d6243ef0b74eeb4e4cb9def670878f0eb15999b16b0faec3c7a9b386f52b1c83a6f0a7c52c885",
+    "accepted_at": "2026-09-17T09:45:48.510Z",
+    "scraped_at": "2026-09-17T09:45:48.510Z",
+    "attachments": [
+      {
+        "filename": "SOC Profile C Grade 7 Social Worker JDPS (1).doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/141685?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 61DA _ 1/SOC Profile C Grade 7 Social Worker JDPS (1).doc",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/msword",
+        "declaredMimeType": "application/msword",
+        "detectedMimeType": "application/msword",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "40825ea0d1aa3f5b3f04aba578572cbcbf8f3e6716669eae9d9e206e8cc89ae1",
+        "contentBytes": 242176,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-09-17T09:45:48.626Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 60FF / 1",
     "source": "xms",
     "source_ref": "000B 60FF / 1",
