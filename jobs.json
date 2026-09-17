@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5305368",
+    "source": "comensura",
+    "source_ref": "5305368",
+    "source_revision": null,
+    "job_id": "5305368",
+    "job_title": "Adults Social Worker (Qualified) (Social Care Qualified)",
+    "client": "Middlesbrough Borough Council",
+    "procurer": null,
+    "working_address": "Fountain Court, Po Box 500, Middlesbrough, North Yorkshire, TS1 9FT",
+    "city": "Middlesbrough",
+    "postcode": "TS1 9FT",
+    "start_date": "2026-09-28",
+    "end_date": "2027-03-26",
+    "pay_from": "283.23",
+    "pay_to": "283.23",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "We are looking to recruit an agency Social Worker for our Access Team.\nWe are looking for Social Workers with an enhanced DBS and a minimum of 2 years post qualifying experience.\nThe team works with people with all adults and is managed by Claire Nightscales with support from Assistant Tam Manager.\nThe team is a mix of qualified social workers and unqualified Social Care Workers. There are 15 of team members in total. The team is supported by a shared admin team who will take messages for you as required.\nOur working hours are 8.30am to 5pm Mondays to Thursdays and 8.30am to 4.30pm on Fridays. Some flexibility on finishing time may be required as a result of case work demands.\nYou will be working in a blended working contract and will be expected to spend a minimum of two full days at our office base – Fountain Court, 119 Grange Road, Middlesbrough, TS1 2DT (change address if needed). You will also be required to undertake urgent visits from your home base as and when required.\nOur dress code is smart casual.\nParking passes will be provided at no cost to you for local long stay car parks which are a 5-10 minute walk from the office. We have disabled on street parking bays nearby.\nPersonal safety alarms are provided for home visits – we are just in the process of changing our provider.\nThe team has a tea/coffee fund which you can join (change if applicable). We have cooking facilities in our kitchen area – microwave and oven and we have a modern kitchen area where people meet to have lunch together .\nYou will be triaging new referrals and making initial assessments on people referred to Adult Social care.\nThe team operates a duty rota to support with urgent work and you can expect to be on our duty rota When on duty you will be asked to work from the office and to commence work at 8.30am.\nUpon arrival in Middlesbrough, you will be expected to undertake our corporate induction e-learning.\nYou will be assigned a buddy who will take you through team procedures and support your induction.\nMonthly supervision will be provided by the Team Manager/ Assistant Team Manager.",
+    "raw_portal_description": "We are looking to recruit an agency Social Worker for our Access Team.\nWe are looking for Social Workers with an enhanced DBS and a minimum of 2 years post qualifying experience.\nThe team works with people with all adults and is managed by Claire Nightscales with support from Assistant Tam Manager.\nThe team is a mix of qualified social workers and unqualified Social Care Workers. There are 15 of team members in total. The team is supported by a shared admin team who will take messages for you as required.\nOur working hours are 8.30am to 5pm Mondays to Thursdays and 8.30am to 4.30pm on Fridays. Some flexibility on finishing time may be required as a result of case work demands.\nYou will be working in a blended working contract and will be expected to spend a minimum of two full days at our office base – Fountain Court, 119 Grange Road, Middlesbrough, TS1 2DT (change address if needed). You will also be required to undertake urgent visits from your home base as and when required.\nOur dress code is smart casual.\nParking passes will be provided at no cost to you for local long stay car parks which are a 5-10 minute walk from the office. We have disabled on street parking bays nearby.\nPersonal safety alarms are provided for home visits – we are just in the process of changing our provider.\nThe team has a tea/coffee fund which you can join (change if applicable). We have cooking facilities in our kitchen area – microwave and oven and we have a modern kitchen area where people meet to have lunch together .\nYou will be triaging new referrals and making initial assessments on people referred to Adult Social care.\nThe team operates a duty rota to support with urgent work and you can expect to be on our duty rota When on duty you will be asked to work from the office and to commence work at 8.30am.\nUpon arrival in Middlesbrough, you will be expected to undertake our corporate induction e-learning.\nYou will be assigned a buddy who will take you through team procedures and support your induction.\nMonthly supervision will be provided by the Team Manager/ Assistant Team Manager.",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-09-17T14:40:08.405Z",
+    "scraped_at": "2026-09-17T14:40:08.405Z",
+    "attachments": [
+      {
+        "filename": "Social work JD PS revised January 2026.doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5305368/File/225848",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5305368/225848-dbedfe161270fdba1e6dec538f3456cdc182eaba9c6ac4341d4baf3eba9a5508.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/msword",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "dbedfe161270fdba1e6dec538f3456cdc182eaba9c6ac4341d4baf3eba9a5508",
+        "contentBytes": 1130496,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-09-17T14:40:08.992Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5305419",
     "source": "comensura",
     "source_ref": "5305419",
