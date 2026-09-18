@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 6241 / 1",
+    "source": "xms",
+    "source_ref": "000B 6241 / 1",
+    "source_revision": null,
+    "job_id": "000B 6241 / 1",
+    "job_title": "Early Help Support Worker (EHASH)G6[Rochdale BC]",
+    "client": "Rochdale Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Smith Street, , Rochdale, , OL16 1XU, United Kingdom",
+    "city": "Rochdale",
+    "postcode": "OL16 1XU",
+    "start_date": "2026-10-05",
+    "end_date": "2026-10-31",
+    "pay_from": "16.62",
+    "pay_to": "16.62",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Umbrella - £21.34\n\nAn exciting opportunity has to the post of Early Help Worker based in the EHASH team to cover sickness.\n\n\n\nThe team is a multi-agency team which comprises of Social Workers, referral information coordinators, Early Help workers, managers and multiagency partners. The EHASH is the front door for referrals for the children and families of Rochdale and offers a bespoke service for both families and professionals, making referrals in respect of families.\n\n\n\nYou will be required to work as part of the multi-disciplinary EHASH team to ensure that families who are referred into EHASH receive effective and timely responses from a range of services to identify and reduce risk, harm and impact; safeguard children and offer early help support and interventions.\n\n\n\nThe Early Help Worker will have responsibility for completing the triage/screening and information gathering processes within the set timescales. An integral part of this role is contacting parents/carers and significant others; children and young people and professionals,  completing home visits as required using effective communication and engagement skills. The purpose of this is to gather key information alongside providing advice and information on a wide range of identified needs; early help support available and identifying safeguarding matters ensuring timely referrals take place to Children’s Social Care or Early Help services. The Early Help Worker needs a sound knowledge and understanding of services available to support vulnerable children, young people and families, experience of working with families with complex needs and ability to complete assessments i.e. Early Help assessment and risk assessments.\n\n\n\nIt is important that the successful candidate is able to complete and maintain a high standard of record keeping when recording and sharing information in relation to children and families that accurately reflect the situation with an ability to analyse this information and make clear recommendations regarding outcomes relating to the Children’s Needs and Response Framework and relevant legislation and procedures.",
+    "raw_portal_description": "Umbrella - £21.34\n\nAn exciting opportunity has to the post of Early Help Worker based in the EHASH team to cover sickness.\n\n\n\nThe team is a multi-agency team which comprises of Social Workers, referral information coordinators, Early Help workers, managers and multiagency partners. The EHASH is the front door for referrals for the children and families of Rochdale and offers a bespoke service for both families and professionals, making referrals in respect of families.\n\n\n\nYou will be required to work as part of the multi-disciplinary EHASH team to ensure that families who are referred into EHASH receive effective and timely responses from a range of services to identify and reduce risk, harm and impact; safeguard children and offer early help support and interventions.\n\n\n\nThe Early Help Worker will have responsibility for completing the triage/screening and information gathering processes within the set timescales. An integral part of this role is contacting parents/carers and significant others; children and young people and professionals,  completing home visits as required using effective communication and engagement skills. The purpose of this is to gather key information alongside providing advice and information on a wide range of identified needs; early help support available and identifying safeguarding matters ensuring timely referrals take place to Children’s Social Care or Early Help services. The Early Help Worker needs a sound knowledge and understanding of services available to support vulnerable children, young people and families, experience of working with families with complex needs and ability to complete assessments i.e. Early Help assessment and risk assessments.\n\n\n\nIt is important that the successful candidate is able to complete and maintain a high standard of record keeping when recording and sharing information in relation to children and families that accurately reflect the situation with an ability to analyse this information and make clear recommendations regarding outcomes relating to the Children’s Needs and Response Framework and relevant legislation and procedures.",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1479475?backToItem=&initialLoad=&tab=&_xmscs=6f28dc7292abd923ccfb760a35f1401fc4ca029beabde84f62c8cd852c5d92ea0eb201e02cd924d1",
+    "accepted_at": "2026-09-18T09:15:41.338Z",
+    "scraped_at": "2026-09-18T09:15:41.338Z",
+    "attachments": [
+      {
+        "filename": "Early Help Support Worker Job Description July 23.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/141703?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 6241 _ 1/Early Help Support Worker Job Description July 23.doc",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/msword",
+        "declaredMimeType": "application/msword",
+        "detectedMimeType": "application/msword",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "6f578c89488b6d606ed1ecb6663d082c7da8850db63482b1a6e0b251572bfc5f",
+        "contentBytes": 79872,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-09-18T09:15:41.568Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5305399",
     "source": "comensura",
     "source_ref": "5305399",
