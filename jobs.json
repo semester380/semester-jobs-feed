@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5305369",
+    "source": "comensura",
+    "source_ref": "5305369",
+    "source_revision": null,
+    "job_id": "5305369",
+    "job_title": "Adults Social Worker (Qualified) (Social Care Qualified)",
+    "client": "Redcar and Cleveland Borough Council",
+    "procurer": null,
+    "working_address": "Redcar & Cleveland House,, Kirkleatham Street, Redcar, Cleveland, TS10 1RT",
+    "city": "Redcar",
+    "postcode": "TS10 1RT",
+    "start_date": "2026-09-28",
+    "end_date": "2026-12-24",
+    "pay_from": "197.74",
+    "pay_to": "197.74",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "To work within the Adult Access Team, undertaking screening, triage and proportionate assessment of referrals received by Adult Social Care. The post holder will be responsible for gathering information, assessing risk, determining appropriate outcomes, and ensuring individuals receive timely advice, support, safeguarding intervention or onward referral in accordance with statutory duties, local policies and professional standards.\nKey Responsibilities\nScreen and assess new referrals and contacts received by Adult Social Care.\nGather and analyse information from individuals, families, professionals and partner agencies to inform decision-making.\nUndertake strengths-based conversations and proportionate assessments to identify needs, risks and desired outcomes.\nApply relevant legislation, including the Care Act 2014, Mental Capacity Act 2005 and safeguarding adults procedures.\nIdentify and manage safeguarding concerns, applying local threshold guidance and making recommendations regarding Section 42 enquiries where appropriate.\nProvide information, advice and signposting to individuals and carers to promote independence and prevent escalation of need.\nAssess levels of risk and take appropriate action to safeguard adults with care and support needs.\nLiaise effectively with health partners, providers, voluntary sector organisations and other agencies to coordinate timely responses.\nMaintain accurate, timely and defensible records in line with organisational requirements.\nContribute to duty functions and support the effective management of workflow within the Access Team.",
+    "raw_portal_description": "To work within the Adult Access Team, undertaking screening, triage and proportionate assessment of referrals received by Adult Social Care. The post holder will be responsible for gathering information, assessing risk, determining appropriate outcomes, and ensuring individuals receive timely advice, support, safeguarding intervention or onward referral in accordance with statutory duties, local policies and professional standards.\nKey Responsibilities\nScreen and assess new referrals and contacts received by Adult Social Care.\nGather and analyse information from individuals, families, professionals and partner agencies to inform decision-making.\nUndertake strengths-based conversations and proportionate assessments to identify needs, risks and desired outcomes.\nApply relevant legislation, including the Care Act 2014, Mental Capacity Act 2005 and safeguarding adults procedures.\nIdentify and manage safeguarding concerns, applying local threshold guidance and making recommendations regarding Section 42 enquiries where appropriate.\nProvide information, advice and signposting to individuals and carers to promote independence and prevent escalation of need.\nAssess levels of risk and take appropriate action to safeguard adults with care and support needs.\nLiaise effectively with health partners, providers, voluntary sector organisations and other agencies to coordinate timely responses.\nMaintain accurate, timely and defensible records in line with organisational requirements.\nContribute to duty functions and support the effective management of workflow within the Access Team.",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-09-18T17:42:32.768Z",
+    "scraped_at": "2026-09-18T17:42:32.768Z",
+    "attachments": [
+      {
+        "filename": "Agency Social Worker Job description - access.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5305369/File/225922",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5305369/225922-6cd14b2260347811b1d81862acaf94638b297966c3a8b5caa36f76cc84ebe1d4.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "6cd14b2260347811b1d81862acaf94638b297966c3a8b5caa36f76cc84ebe1d4",
+        "contentBytes": 18107,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-09-18T17:42:33.118Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 6619 / 1",
     "source": "xms",
     "source_ref": "000B 6619 / 1",
