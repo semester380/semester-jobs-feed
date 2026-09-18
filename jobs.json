@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 6619 / 1",
+    "source": "xms",
+    "source_ref": "000B 6619 / 1",
+    "source_revision": null,
+    "job_id": "000B 6619 / 1",
+    "job_title": "Adults Social Worker [Blackpool]",
+    "client": "Blackpool Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Talbot Gateway, , Blackpool, Lancashire, FY1 3AH, United Kingdom",
+    "city": "Blackpool",
+    "postcode": "FY1 3AH",
+    "start_date": "2026-10-19",
+    "end_date": "2026-11-30",
+    "pay_from": "30.66",
+    "pay_to": "30.66",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "3 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\n 1 x 37 Adult Social Care Social Worker required until 30/11/2026\n\nWe require an experienced Social Worker to cover 37 hours per week\n\nSocial work post that is part of our Continuing Health Care (CHC) Team. The successful candidate will join a well-established and multi-disciplinary team.\n\nThe Social Work role in this area is varied and supports our health colleagues with a wide range of tasks. From monitoring long term CHC provision, to the completion of joint Reviews, Safeguarding, Undertaking assessments in line with the Care Act 2014, Decision Support Tool Meetings and Court of Protection work.\n\nYou will need to be passionate about supporting our community in Blackpool, be committed to your role as a Social Worker and keen to grow and develop in line with Social Work England protocols.\n\nThis is a hybrid role and you will be required to attend the office 3 days per week - staff parking is available at reduced rates.",
+    "raw_portal_description": "3 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\n 1 x 37 Adult Social Care Social Worker required until 30/11/2026\n\nWe require an experienced Social Worker to cover 37 hours per week\n\nSocial work post that is part of our Continuing Health Care (CHC) Team. The successful candidate will join a well-established and multi-disciplinary team.\n\nThe Social Work role in this area is varied and supports our health colleagues with a wide range of tasks. From monitoring long term CHC provision, to the completion of joint Reviews, Safeguarding, Undertaking assessments in line with the Care Act 2014, Decision Support Tool Meetings and Court of Protection work.\n\nYou will need to be passionate about supporting our community in Blackpool, be committed to your role as a Social Worker and keen to grow and develop in line with Social Work England protocols.\n\nThis is a hybrid role and you will be required to attend the office 3 days per week - staff parking is available at reduced rates.",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1479595?backToItem=&initialLoad=&tab=&_xmscs=1b80d0e36f51625c6cae4ba1f6151c860d7a6231b294a0eeb4f5f1b4206bf201afa8e2ead545b0a2",
+    "accepted_at": "2026-09-18T10:14:09.429Z",
+    "scraped_at": "2026-09-18T10:14:09.429Z",
+    "attachments": [
+      {
+        "filename": "JD - 9418 - Advert.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/141896?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 6619 _ 1/JD - 9418 - Advert.doc",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/msword",
+        "declaredMimeType": "application/msword",
+        "detectedMimeType": "application/msword",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "d9fe0824ad5d2110b55badce2fd73ecd4e39cfd9913a2cce00d5ca62539ce82b",
+        "contentBytes": 308224,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-09-18T10:14:09.589Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 6241 / 1",
     "source": "xms",
     "source_ref": "000B 6241 / 1",
