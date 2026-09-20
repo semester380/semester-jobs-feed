@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 6518 / 1",
+    "source": "xms",
+    "source_ref": "000B 6518 / 1",
+    "source_revision": null,
+    "job_id": "000B 6518 / 1",
+    "job_title": "Occupational Therapist",
+    "client": "SCC_Authorising, Sheffield City Council",
+    "procurer": "Sheffield City Council",
+    "working_address": "Howden House, Union Street, Sheffield, South Yorkshire, S1 2SH, United Kingdom",
+    "city": "Sheffield",
+    "postcode": "S1 2SH",
+    "start_date": "2026-09-21",
+    "end_date": "2027-03-19",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "To work in the Equipment and Adaptations Team",
+    "raw_portal_description": "To work in the Equipment and Adaptations Team",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1479850?backToItem=&initialLoad=&tab=&_xmscs=be76c47e00f85bbecea3e444f283caf305b9b7d4a66a7bf67c080b1e89ca5a48fc5cd07c0b51444f",
+    "accepted_at": "2026-09-20T16:38:18.835Z",
+    "scraped_at": "2026-09-20T16:38:18.835Z",
+    "attachments": [
+      {
+        "filename": "Occ TherapistGrade7 JDPS 03.05.2018.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/141855?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 6518 _ 1/Occ TherapistGrade7 JDPS 03.05.2018.doc",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/msword",
+        "declaredMimeType": "application/msword",
+        "detectedMimeType": "application/msword",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "db0ee2e7fd074116b45651b3ad25354f1e9413ca0af0b4d2f7657b288a2deb0f",
+        "contentBytes": 154112,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-09-20T16:38:19.075Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5305369",
     "source": "comensura",
     "source_ref": "5305369",
