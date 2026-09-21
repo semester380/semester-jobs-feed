@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5305526",
+    "source": "comensura",
+    "source_ref": "5305526",
+    "source_revision": null,
+    "job_id": "5305526",
+    "job_title": "Procurement Information Officer (Secretarial and Administration)",
+    "client": "Lancashire County Council",
+    "procurer": null,
+    "working_address": "Fishergate, Leyland, Preston, Lancashire, PR1 8RE",
+    "city": "Preston",
+    "postcode": "PR1 8RE",
+    "start_date": "2026-10-08",
+    "end_date": "2027-01-08",
+    "pay_from": "17.64",
+    "pay_to": "17.64",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Dept - Procurement\nLocation - County Hall/ home working. Currently we work 4 days from home and come into County Hall, Preston on a Thursday (this can change due to meetings/ requirements etc)\nInterviews - ASAP\nSee attached JD for full details\nAttention to detail, excellent customer service, flexibility, willing to support different teams and functions, taking on a variety of tasks and responsibilities to ensure effective service delivery",
+    "raw_portal_description": "Dept - Procurement\nLocation - County Hall/ home working. Currently we work 4 days from home and come into County Hall, Preston on a Thursday (this can change due to meetings/ requirements etc)\nInterviews - ASAP\nSee attached JD for full details\nAttention to detail, excellent customer service, flexibility, willing to support different teams and functions, taking on a variety of tasks and responsibilities to ensure effective service delivery",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-09-21T19:51:46.898Z",
+    "scraped_at": "2026-09-21T19:51:46.898Z",
+    "attachments": [
+      {
+        "filename": "G4 Procurement Information Officer RP_PS Oct24 (2).docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5305526/File/225935",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5305526/225935-1630e68f240fd60526c3e9c16c84034b729ca9c5873aca990def2b3ee8c287e0.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "1630e68f240fd60526c3e9c16c84034b729ca9c5873aca990def2b3ee8c287e0",
+        "contentBytes": 126617,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-09-21T19:51:47.277Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5305551",
     "source": "comensura",
     "source_ref": "5305551",
