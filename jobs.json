@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5305756",
+    "source": "comensura",
+    "source_ref": "5305756",
+    "source_revision": null,
+    "job_id": "5305756",
+    "job_title": "Mou - Childrens Social Care - Advanced Practitioner (Social Care Qualified)",
+    "client": "Stockton on Tees Borough Council",
+    "procurer": null,
+    "working_address": "Floor 1st, Dunedin House, TS17 6BJ",
+    "city": "Dunedin House",
+    "postcode": "TS17 6BJ",
+    "start_date": "2026-10-12",
+    "end_date": "2027-01-29",
+    "pay_from": "34.45",
+    "pay_to": "34.45",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Job Title: Advanced Practitioner – Specialist Assessments (Children’s Services)\nLocation: Stockton-on-Tees\nContract Type: Agency / Temporary\nHours: Full-time (37 hours per week)\nStart Date: ASAP\nAbout the Role\nStockton-on-Tees Borough Council is seeking an experienced Advanced Practitioner to join our dynamic Children’s Services team. This is a non-caseholding role, focused on delivering high-quality specialist assessments that inform safeguarding and permanency planning.\nYou will work alongside social workers, managers, and multi-agency professionals to provide expert analysis and recommendations in complex cases. This is an exciting opportunity to contribute to the transformation of children’s services in a borough committed to improving outcomes for children and families.\nKey Responsibilities\nUndertake a range of specialist assessments, including:\nParentAssess (including for parents with learning disabilities)\nSibling and Parenting Assessments\nCapacity to Protect\nViability Assessments (including Reg 24 and Connected Persons)\nRegulation 24 Assessments\nAIM Under 12 Assessments\nAIM3 Assessments (for adolescents displaying harmful sexual behaviours)\nProvide clear, evidence-based reports to inform care planning and court proceedings.\nWork collaboratively with social workers and managers to support decision-making.\nAttend relevant meetings, including Legal Planning Meetings and Court Hearings, as required.\nMaintain up-to-date knowledge of legislation, guidance, and best practice in children’s social care.\nRequirements\nQualified Social Worker registered with Social Work England.\nProven experience in completing complex assessments and writing high-quality reports.\nKnowledge of specialist frameworks such as ParentAssess, AIM3, and CASPR is highly desirable .\nStrong analytical, communication, and organisational skills.\nAbility to work autonomously and manage competing priorities.\nWhy Join Us?\nBe part of a forward-thinking local authority with a clear vision for improvement\nAccess to robust professional development and reflective supervision.\nFlexible working arrangements and supportive team culture.\nOpportunity to make a real difference in the lives of children and families.\nHow to Apply\nTo express interest or request further information, please contact the recruitment team at [Insert Agency Contact Info].",
+    "raw_portal_description": "Job Title: Advanced Practitioner – Specialist Assessments (Children’s Services)\nLocation: Stockton-on-Tees\nContract Type: Agency / Temporary\nHours: Full-time (37 hours per week)\nStart Date: ASAP\nAbout the Role\nStockton-on-Tees Borough Council is seeking an experienced Advanced Practitioner to join our dynamic Children’s Services team. This is a non-caseholding role, focused on delivering high-quality specialist assessments that inform safeguarding and permanency planning.\nYou will work alongside social workers, managers, and multi-agency professionals to provide expert analysis and recommendations in complex cases. This is an exciting opportunity to contribute to the transformation of children’s services in a borough committed to improving outcomes for children and families.\nKey Responsibilities\nUndertake a range of specialist assessments, including:\nParentAssess (including for parents with learning disabilities)\nSibling and Parenting Assessments\nCapacity to Protect\nViability Assessments (including Reg 24 and Connected Persons)\nRegulation 24 Assessments\nAIM Under 12 Assessments\nAIM3 Assessments (for adolescents displaying harmful sexual behaviours)\nProvide clear, evidence-based reports to inform care planning and court proceedings.\nWork collaboratively with social workers and managers to support decision-making.\nAttend relevant meetings, including Legal Planning Meetings and Court Hearings, as required.\nMaintain up-to-date knowledge of legislation, guidance, and best practice in children’s social care.\nRequirements\nQualified Social Worker registered with Social Work England.\nProven experience in completing complex assessments and writing high-quality reports.\nKnowledge of specialist frameworks such as ParentAssess, AIM3, and CASPR is highly desirable .\nStrong analytical, communication, and organisational skills.\nAbility to work autonomously and manage competing priorities.\nWhy Join Us?\nBe part of a forward-thinking local authority with a clear vision for improvement\nAccess to robust professional development and reflective supervision.\nFlexible working arrangements and supportive team culture.\nOpportunity to make a real difference in the lives of children and families.\nHow to Apply\nTo express interest or request further information, please contact the recruitment team at [Insert Agency Contact Info].",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-09-23T14:11:39.362Z",
+    "scraped_at": "2026-09-23T14:11:39.362Z",
+    "attachments": [
+      {
+        "filename": "Advanced Practitioner - Job Spec 2024 (1).docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5305756/File/226041",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5305756/226041-0fa3864b2bb48a93f96b88c286beca1e04419a4542edb8c97de098c84ce221bf.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "0fa3864b2bb48a93f96b88c286beca1e04419a4542edb8c97de098c84ce221bf",
+        "contentBytes": 37337,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-09-23T14:11:39.607Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 6332 / 1",
     "source": "xms",
     "source_ref": "000B 6332 / 1",
