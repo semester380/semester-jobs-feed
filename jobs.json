@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5305377",
+    "source": "comensura",
+    "source_ref": "5305377",
+    "source_revision": null,
+    "job_id": "5305377",
+    "job_title": "Basic Grade Occupational Therapist (Jajf4046 - G9) (Social and Healthcare Qualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Delamere Street, Crewe, Cheshire, CW1 2JZ",
+    "city": "Crewe",
+    "postcode": "CW1 2JZ",
+    "start_date": "2026-09-28",
+    "end_date": "2027-02-14",
+    "pay_from": "35.00",
+    "pay_to": "35.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A Recruitment Request number is required for all Orders, please state here: 20289 and 20288\nPlease confirm which DBS is required for this role.\n5. Enhanced – including barred:\nc. Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "raw_portal_description": "A Recruitment Request number is required for all Orders, please state here: 20289 and 20288\nPlease confirm which DBS is required for this role.\n5. Enhanced – including barred:\nc. Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-09-23T13:23:01.694Z",
+    "scraped_at": "2026-09-23T13:23:01.694Z",
+    "attachments": [
+      {
+        "filename": "JAJF4046 - Basic Grade Occ Ther - JD and PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5305377/File/225853",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5305377/225853-85489bd32a5ebf26c531e3e0e519d3b1245f2211f62aa81381b624d2948e162b.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/pdf",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "85489bd32a5ebf26c531e3e0e519d3b1245f2211f62aa81381b624d2948e162b",
+        "contentBytes": 78130,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-09-23T13:23:02.006Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 6893 / 1",
     "source": "xms",
     "source_ref": "000B 6893 / 1",
