@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 6761 / 1",
+    "source": "xms",
+    "source_ref": "000B 6761 / 1",
+    "source_revision": null,
+    "job_id": "000B 6761 / 1",
+    "job_title": "Occupational Therapist",
+    "client": "Berneslai Homes Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Gateway Plaza, Sackville Street,, Barnsley, South Yorkshire, S70 2RD",
+    "city": "Barnsley",
+    "postcode": "S70 2RD",
+    "start_date": "2026-10-12",
+    "end_date": "2027-03-31",
+    "pay_from": "20.29",
+    "pay_to": "20.29",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Berneslai Homes is seeking an experienced Occupational Therapist to provide specialist assessment and reporting services to support adaptation works across the borough. This is a temporary requirement following the conclusion of the previous NHS service arrangement and will focus on delivering timely occupational therapy assessments and recommendations for housing adaptations.\n\nThe successful candidate will play a key role in enabling residents to live safely and independently within their homes by assessing needs and recommending appropriate adaptations.\n\nKey Responsibilities\n\nUndertake occupational therapy assessments for adults requiring housing adaptations.\nComplete detailed assessment reports and recommendations to support adaptation works.\nAssess functional needs and identify suitable equipment and adaptations to promote independence.\nLiaise with residents, families, contractors, housing teams and partner agencies as required.\nMaintain accurate and up-to-date case records and assessment documentation.\nEnsure all assessments and recommendations comply with relevant legislation, policies and professional standards.\nContribute to the timely delivery of adaptation projects and associated statutory responsibilities.\n\nEssential Requirements\n\nDegree or Diploma in Occupational Therapy.\nCurrent registration with the Health and Care Professions Council (HCPC).\nExperience undertaking occupational therapy assessments within housing, adaptations, adult social care or community settings.\nAbility to produce clear, professional assessment reports and recommendations.\nKnowledge of housing adaptations, disabled facilities grants and enabling independence within the home environment.\nExcellent communication and stakeholder management skills.\nAbility to manage a varied caseload and prioritise workload effectively.\n\nDesirable Requirements\n\nPrevious experience working within a local authority, housing provider or NHS community service.\nKnowledge of adaptation processes and relevant housing legislation.\nExperience working collaboratively with technical, housing and construction teams.\n\nKey Deliverables\n\nThe successful candidate will be expected to:\n\nComplete occupational therapy assessments within agreed timescales.\nProduce high-quality reports to support adaptation decisions.\nProvide professional advice and recommendations relating to housing adaptations.\nSupport Barnsley Homes in maintaining an effective and responsive adaptations service.",
+    "raw_portal_description": "Berneslai Homes is seeking an experienced Occupational Therapist to provide specialist assessment and reporting services to support adaptation works across the borough. This is a temporary requirement following the conclusion of the previous NHS service arrangement and will focus on delivering timely occupational therapy assessments and recommendations for housing adaptations.\n\nThe successful candidate will play a key role in enabling residents to live safely and independently within their homes by assessing needs and recommending appropriate adaptations.\n\nKey Responsibilities\n\nUndertake occupational therapy assessments for adults requiring housing adaptations.\nComplete detailed assessment reports and recommendations to support adaptation works.\nAssess functional needs and identify suitable equipment and adaptations to promote independence.\nLiaise with residents, families, contractors, housing teams and partner agencies as required.\nMaintain accurate and up-to-date case records and assessment documentation.\nEnsure all assessments and recommendations comply with relevant legislation, policies and professional standards.\nContribute to the timely delivery of adaptation projects and associated statutory responsibilities.\n\nEssential Requirements\n\nDegree or Diploma in Occupational Therapy.\nCurrent registration with the Health and Care Professions Council (HCPC).\nExperience undertaking occupational therapy assessments within housing, adaptations, adult social care or community settings.\nAbility to produce clear, professional assessment reports and recommendations.\nKnowledge of housing adaptations, disabled facilities grants and enabling independence within the home environment.\nExcellent communication and stakeholder management skills.\nAbility to manage a varied caseload and prioritise workload effectively.\n\nDesirable Requirements\n\nPrevious experience working within a local authority, housing provider or NHS community service.\nKnowledge of adaptation processes and relevant housing legislation.\nExperience working collaboratively with technical, housing and construction teams.\n\nKey Deliverables\n\nThe successful candidate will be expected to:\n\nComplete occupational therapy assessments within agreed timescales.\nProduce high-quality reports to support adaptation decisions.\nProvide professional advice and recommendations relating to housing adaptations.\nSupport Barnsley Homes in maintaining an effective and responsive adaptations service.",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1481846?backToItem=&initialLoad=&tab=&_xmscs=1821becad112685fe9557dce510c9e69b6edc4aaa61fe812ae0d385bddfbd8eabcd1a445c104794f",
+    "accepted_at": "2026-09-24T13:29:07.390Z",
+    "scraped_at": "2026-09-24T13:29:07.390Z",
+    "attachments": [
+      {
+        "filename": "Occuptaional Therapist JD and ES (1).docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/141958?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 6761 _ 1/Occuptaional Therapist JD and ES (1).docx",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "declaredMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "44bf62330b06c4aa2d33320e5644a0c806842e9a11c1543df79b1698a340f892",
+        "contentBytes": 190622,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-09-24T13:29:07.724Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 657D / 1",
     "source": "xms",
     "source_ref": "000B 657D / 1",
