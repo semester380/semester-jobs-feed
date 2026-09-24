@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 5BFC / 1",
+    "source": "xms",
+    "source_ref": "000B 5BFC / 1",
+    "source_revision": null,
+    "job_id": "000B 5BFC / 1",
+    "job_title": "Adults Social Worker [Manchester City Council]",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Manchester Royal Infirmary, Oxford Road, Manchester, Lancashire, M13 9WL, United Kingdom",
+    "city": "Manchester",
+    "postcode": "M13 9WL",
+    "start_date": "2026-10-26",
+    "end_date": "2026-12-28",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "MRI requires and experienced social worker to support the team and prevent delayed discharges.\n\n7 day working. 35 hours per week. Approx 1 in 6 weekends\n\n3 years reference, gaps in employment history checked, any relevant quals as per JDPS",
+    "raw_portal_description": "MRI requires and experienced social worker to support the team and prevent delayed discharges.\n\n7 day working. 35 hours per week. Approx 1 in 6 weekends\n\n3 years reference, gaps in employment history checked, any relevant quals as per JDPS",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1481542?backToItem=&initialLoad=&tab=&_xmscs=8f8b7da8ce1998185a613da144095863898acf0be893059bb8012ef52703be02c61b6e6a6657a82f",
+    "accepted_at": "2026-09-24T08:33:01.899Z",
+    "scraped_at": "2026-09-24T08:33:01.899Z",
+    "attachments": [
+      {
+        "filename": "Manchester Adults EVP.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/141360?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 5BFC _ 1/Manchester Adults EVP.docx",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "declaredMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "a1228007272785b7e896a4ca5ed88cdf572aab62a8f74da38e9af18c9d442e39",
+        "contentBytes": 2351957,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-09-24T08:33:02.665Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5305659",
     "source": "comensura",
     "source_ref": "5305659",
