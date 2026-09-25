@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 641D / 1",
+    "source": "xms",
+    "source_ref": "000B 641D / 1",
+    "source_revision": null,
+    "job_id": "000B 641D / 1",
+    "job_title": "Targeted Early Help Support Practitioner",
+    "client": "Barnsley Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Wosbrough Centre, Powell Street, Worsbrough, Barnsley, South Yorkshire, S70 5NZ",
+    "city": "Barnsley",
+    "postcode": "S70 5NZ",
+    "start_date": "2026-09-21",
+    "end_date": "2026-12-18",
+    "pay_from": "26.62",
+    "pay_to": "26.62",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "As a Targeted Early Help Support Practitioner you will hold a caseload of up to 17 families, completing Early Help Assessments where needed and chairing/attending Family Network Meetings to ensure that the family receive the right support from services. You will deliver interventions with both the parents and the children to ensure that actions identified are complete. You will have a good understanding of thresholds and be able to identify risk and harm which may need a statutory oversight from Social Care\n\n3 days onsite",
+    "raw_portal_description": "As a Targeted Early Help Support Practitioner you will hold a caseload of up to 17 families, completing Early Help Assessments where needed and chairing/attending Family Network Meetings to ensure that the family receive the right support from services. You will deliver interventions with both the parents and the children to ensure that actions identified are complete. You will have a good understanding of thresholds and be able to identify risk and harm which may need a statutory oversight from Social Care\n\n3 days onsite",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1482644?backToItem=&initialLoad=&tab=&_xmscs=7329b7d2eb75d273cf4b16426f963cfcc4b6384bb34afb7b01758ff1dae20b13022ce1f41725ea4d",
+    "accepted_at": "2026-09-25T15:40:50.308Z",
+    "scraped_at": "2026-09-25T15:40:50.308Z",
+    "attachments": [
+      {
+        "filename": "59029 Targeted Early Help Support Practitioner Profile 20221215.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/141799?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 641D _ 1/59029 Targeted Early Help Support Practitioner Profile 20221215.pdf",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/pdf",
+        "declaredMimeType": "application/pdf",
+        "detectedMimeType": "application/pdf",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "3cad070107ba0a80a3a05a4773732c13a95fda5979a697fbfe83b974a6e517a7",
+        "contentBytes": 83660,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-09-25T15:40:50.380Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5305757",
     "source": "comensura",
     "source_ref": "5305757",
