@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5306335",
+    "source": "comensura",
+    "source_ref": "5306335",
+    "source_revision": null,
+    "job_id": "5306335",
+    "job_title": "Telecare Responder (Social Care Unqualified)",
+    "client": null,
+    "procurer": null,
+    "working_address": "Floor Telecare, 202 - 204 Leechmere Road, SR2 9JG",
+    "city": null,
+    "postcode": "SR2 9JG",
+    "start_date": "2026-10-19",
+    "end_date": "2027-04-19",
+    "pay_from": "19.05",
+    "pay_to": "19.05",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A full UK MANUAL driving license is required - A company vehicle will also be provided on duty.\nThe services operate a set rota featuring the following shifts:\n• 33.6 Hours per week\n• We require staff to work on a rota basis including bank holidays and weekends\n• Rota – 2 shifts of 6am to 14.30 followed by 2 shifts of 14:00 to 22:30 and then 2 shifts of 22:00 to 06:30. Successful candidates must be able to complete the full rota\nSee attached advert",
+    "raw_portal_description": "A full UK MANUAL driving license is required - A company vehicle will also be provided on duty.\nThe services operate a set rota featuring the following shifts:\n• 33.6 Hours per week\n• We require staff to work on a rota basis including bank holidays and weekends\n• Rota – 2 shifts of 6am to 14.30 followed by 2 shifts of 14:00 to 22:30 and then 2 shifts of 22:00 to 06:30. Successful candidates must be able to complete the full rota\nSee attached advert",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-10-01T21:00:46.156Z",
+    "scraped_at": "2026-10-01T21:00:46.156Z",
+    "attachments": [
+      {
+        "filename": "Oct26-Telecare Responder.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5306335/File/226389",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5306335/226389-ee387e67d2a9f1412b35b9d0bf1eb74ce854f913df6f365420677f382da44f62.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "ee387e67d2a9f1412b35b9d0bf1eb74ce854f913df6f365420677f382da44f62",
+        "contentBytes": 60286,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-10-01T21:00:46.458Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 705B / 1",
     "source": "xms",
     "source_ref": "000B 705B / 1",
