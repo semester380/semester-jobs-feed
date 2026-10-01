@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5305940",
+    "source": "comensura",
+    "source_ref": "5305940",
+    "source_revision": null,
+    "job_id": "5305940",
+    "job_title": "Acoos Business Support Officer (Jajb4530 - G5) (Social and Healthcare Unqualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Floor 1, Delamere House, CW1 2JZ",
+    "city": "Delamere House",
+    "postcode": "CW1 2JZ",
+    "start_date": "2026-10-05",
+    "end_date": "2027-01-03",
+    "pay_from": "16.88",
+    "pay_to": "16.88",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Recruitment Request number is required for all Orders, please state here: 20436\nAre you replacing a worker within an approved period No (delete as appropriate)\nPlease confirm which DBS is required for this role.\n(Delete the lines which are not applicable and leave the option that is required) not required\n5. Enhanced – including barred:\na. Children’s barred list\nThis information is required for all Orders. If you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)\nWelcome to GOV.UK\nGOV.UK - The best place to find government services and information.",
+    "raw_portal_description": "Recruitment Request number is required for all Orders, please state here: 20436\nAre you replacing a worker within an approved period No (delete as appropriate)\nPlease confirm which DBS is required for this role.\n(Delete the lines which are not applicable and leave the option that is required) not required\n5. Enhanced – including barred:\na. Children’s barred list\nThis information is required for all Orders. If you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)\nWelcome to GOV.UK\nGOV.UK - The best place to find government services and information.",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-10-01T10:48:20.851Z",
+    "scraped_at": "2026-10-01T10:48:20.851Z",
+    "attachments": [
+      {
+        "filename": "ACOOS Bus Supp Off JD PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5305940/File/226151",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5305940/226151-abb32134312dd0db5ea491af69602d8ac8707db7c16fb80a1155f04202322105.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/pdf",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "abb32134312dd0db5ea491af69602d8ac8707db7c16fb80a1155f04202322105",
+        "contentBytes": 259656,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-10-01T10:48:21.242Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 66B4 / 1",
     "source": "xms",
     "source_ref": "000B 66B4 / 1",
