@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 5D74 / 1",
+    "source": "xms",
+    "source_ref": "000B 5D74 / 1",
+    "source_revision": null,
+    "job_id": "000B 5D74 / 1",
+    "job_title": "Service Manager – Learning Disabilities, Transitions & Provider Services (G15)",
+    "client": "Wakefield Authorising, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Pioneer Court, Pioneer Way, Whitwood, , , Castleford, , , WF10 5QU",
+    "city": "Castleford",
+    "postcode": "WF10 5QU",
+    "start_date": "2026-11-16",
+    "end_date": "2026-12-21",
+    "pay_from": "35.78",
+    "pay_to": "35.78",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "3 month temporary cover\n\nLocation: Wakefield District\n\nThe hybrid arrangements would be an expectation of 2 days per week in the office. The candidate would be working the back end of the week, so part day Wednesday and full day Thursday and Friday. Our office is Pioneer Court, Pioneer Way, Castleford, WF10 5QU.\n\nPart time - half day Wednesday, full day Thursday and Friday and then 2 days a week in the office with potentially wfh on the Wednesday",
+    "raw_portal_description": "3 month temporary cover\n\nLocation: Wakefield District\n\nThe hybrid arrangements would be an expectation of 2 days per week in the office. The candidate would be working the back end of the week, so part day Wednesday and full day Thursday and Friday. Our office is Pioneer Court, Pioneer Way, Castleford, WF10 5QU.\n\nPart time - half day Wednesday, full day Thursday and Friday and then 2 days a week in the office with potentially wfh on the Wednesday",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1485589?backToItem=&initialLoad=&tab=&_xmscs=81326c277426a38300df2e84e275de7466eb2970b80e30b005eac5832917f39f60993ee019d75537",
+    "accepted_at": "2026-10-05T13:02:06.498Z",
+    "scraped_at": "2026-10-05T13:02:06.498Z",
+    "attachments": [
+      {
+        "filename": "Service Manager Learning Disabilities 2 - June 2020 jd for secondment.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/141427?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 5D74 _ 1/Service Manager Learning Disabilities 2 - June 2020 jd for secondment.doc",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/msword",
+        "declaredMimeType": "application/msword",
+        "detectedMimeType": "application/msword",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "6dde29d00c3bed7d2796d11bf745477ecf7bb2266f488c71dbb279bc92650aba",
+        "contentBytes": 142336,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-10-05T13:02:07.429Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5307510",
     "source": "comensura",
     "source_ref": "5307510",
@@ -47977,6 +48020,33 @@
         "contentProvenanceRecordedAt": null
       }
     ]
+  },
+  {
+    "item_id": "prism:OR117835",
+    "source": "prism",
+    "source_ref": "OR117835",
+    "source_revision": null,
+    "job_id": "OR117835",
+    "job_title": "Social Worker - Standard (Adults) - Social Care Qualified",
+    "client": "Knowsley Borough Council",
+    "procurer": "Sophie White",
+    "working_address": "Archway Road, Huyton, Liverpool, Merseyside, L36 9YU, United Kingdom",
+    "city": "Liverpool",
+    "postcode": "L36 9YU",
+    "start_date": "2026-10-19",
+    "end_date": "",
+    "pay_from": "25.00",
+    "pay_to": "32.82",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Please Add JDThis is not a comprehensive list of all the tasks, which may be required of the post holder. It is illustrative of the general nature and level of responsibility of the work to be undertaken. 1. As a fully qualified social worker, you will manage a full caseload independently. 2. Apply the knowledge and skills gained post-ASYE to confidently navigate complex cases and make informed, evidence-based decisions. 3. Commitment to undertake the Best Interest Assessor (BIA) qualification 4. Carry out safeguarding enquiries under Section 42 of the Care Act 2014 April 2025 5. Effectively use legislation and frameworks including The Care Act (2014), The Mental Capacity Act (2005), Mental Health Act (2007), CHC framework and associated statutory guidance to ensure the team are compliant with statutory duties 6. Carry out high quality assessment, management and planning of a range of cases including those that require complex/specialist care arrangements. 7. Effectively identify risk in cases, put in place measures to manage risk and ensure risk is effectively reported. 8. Effectively manage complex or high-risk situations in line with Knowsley’s policies and procedures including appropriate escalation 9. Lead and co-ordinate multi-disciplinary and multi-agency meeting to support effective care management approaches. 10. Provide support to less experienced staff and any students/ASYEs or apprentices 11. Promote the welfare and safeguarding of adults in Knowsley. 12. Ensure all work carried out promotes the participation and engagement of all relevant agencies, the adult and their family. 13. Ensure maintenance of records in accordance with good practice, professional codes, and organisational standards 14. Contribute to the well-being of the team by supporting other team members and treating all colleagues with dignity and respect. 15. Take part in regular supervision and appraisal and undertake all mandatory training requirements of the role 16. Any other duties (commensurate with the grade) which will assist the service in meeting its objectives. 17. Contribute to emergency planning arrangements and demonstrate flexibility in responding to unforeseen circumstances, including supporting service delivery during emergencies or disruptions. 18. Willingness to work flexibly from any location determined by the Authority, when required evenings and weekends in accordance with the flexibility agreement in place",
+    "raw_portal_description": "Please Add JDThis is not a comprehensive list of all the tasks, which may be required of the post holder. It is illustrative of the general nature and level of responsibility of the work to be undertaken. 1. As a fully qualified social worker, you will manage a full caseload independently. 2. Apply the knowledge and skills gained post-ASYE to confidently navigate complex cases and make informed, evidence-based decisions. 3. Commitment to undertake the Best Interest Assessor (BIA) qualification 4. Carry out safeguarding enquiries under Section 42 of the Care Act 2014 April 2025 5. Effectively use legislation and frameworks including The Care Act (2014), The Mental Capacity Act (2005), Mental Health Act (2007), CHC framework and associated statutory guidance to ensure the team are compliant with statutory duties 6. Carry out high quality assessment, management and planning of a range of cases including those that require complex/specialist care arrangements. 7. Effectively identify risk in cases, put in place measures to manage risk and ensure risk is effectively reported. 8. Effectively manage complex or high-risk situations in line with Knowsley’s policies and procedures including appropriate escalation 9. Lead and co-ordinate multi-disciplinary and multi-agency meeting to support effective care management approaches. 10. Provide support to less experienced staff and any students/ASYEs or apprentices 11. Promote the welfare and safeguarding of adults in Knowsley. 12. Ensure all work carried out promotes the participation and engagement of all relevant agencies, the adult and their family. 13. Ensure maintenance of records in accordance with good practice, professional codes, and organisational standards 14. Contribute to the well-being of the team by supporting other team members and treating all colleagues with dignity and respect. 15. Take part in regular supervision and appraisal and undertake all mandatory training requirements of the role 16. Any other duties (commensurate with the grade) which will assist the service in meeting its objectives. 17. Contribute to emergency planning arrangements and demonstrate flexibility in responding to unforeseen circumstances, including supporting service delivery during emergencies or disruptions. 18. Willingness to work flexibly from any location determined by the Authority, when required evenings and weekends in accordance with the flexibility agreement in place",
+    "description_origin": "portal",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=13196f03-a698-4105-a817-1cc1e2f6a68b",
+    "accepted_at": null,
+    "scraped_at": "2026-10-05T13:03:28.884Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR117745",
