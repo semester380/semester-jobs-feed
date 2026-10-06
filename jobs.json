@@ -3036,7 +3036,7 @@
     "working_address": "Fishergate, Leyland, Preston, Lancashire, PR1 8RE",
     "city": "Preston",
     "postcode": "PR1 8RE",
-    "start_date": "2026-09-28",
+    "start_date": "2026-10-19",
     "end_date": "2026-12-28",
     "pay_from": "40.00",
     "pay_to": "40.00",
@@ -3048,7 +3048,7 @@
     "description_origin": "portal",
     "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
     "accepted_at": "2026-09-17T15:40:23.611Z",
-    "scraped_at": "2026-09-17T15:40:23.611Z",
+    "scraped_at": "2026-10-06T14:23:10.548Z",
     "attachments": [
       {
         "filename": "consultant-social-worker.word.docx",
