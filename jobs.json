@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5305821",
+    "source": "comensura",
+    "source_ref": "5305821",
+    "source_revision": null,
+    "job_id": "5305821",
+    "job_title": "Social Worker (Adults) (Jajf4131 - G9) (Social and Healthcare Qualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Floor 2nd, Macclesfield Town Hall, SK10 1EA",
+    "city": "Macclesfield Town Hall",
+    "postcode": "SK10 1EA",
+    "start_date": "2026-10-05",
+    "end_date": "2027-10-08",
+    "pay_from": "36.00",
+    "pay_to": "36.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A Recruitment Request number is required for all Orders, please state here: 20416 - to cover a secondment for 12 months\nRequest for a experienced adult social worker for the Community team in Macclesfield, able to deal with complex case work, safeguarding, assessment, capacity and Best Interests decision\n5. Enhanced – including barred:\nb. Adults barred list",
+    "raw_portal_description": "A Recruitment Request number is required for all Orders, please state here: 20416 - to cover a secondment for 12 months\nRequest for a experienced adult social worker for the Community team in Macclesfield, able to deal with complex case work, safeguarding, assessment, capacity and Best Interests decision\n5. Enhanced – including barred:\nb. Adults barred list",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-10-07T08:02:35.477Z",
+    "scraped_at": "2026-10-07T08:02:35.477Z",
+    "attachments": [
+      {
+        "filename": "Social Worker (Progressed) Job Description Specficiation (1).pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5305821/File/226075",
+        "localPath": null,
+        "downloaded": false,
+        "httpContentTypeRaw": null,
+        "declaredMimeType": null,
+        "detectedMimeType": null,
+        "mimeDetectorVersion": null,
+        "contentSha256": null,
+        "contentBytes": null,
+        "contentTypeAgreement": null,
+        "contentProvenanceComplete": null,
+        "contentProvenanceRecordedAt": null
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5307629",
     "source": "comensura",
     "source_ref": "5307629",
