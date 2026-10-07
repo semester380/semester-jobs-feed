@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5306258",
+    "source": "comensura",
+    "source_ref": "5306258",
+    "source_revision": null,
+    "job_id": "5306258",
+    "job_title": "Social Worker (Childrens) (Jajb4097 - G10) (Social and Healthcare Qualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Delamere Street, Crewe, Cheshire, CW1 2JZ",
+    "city": "Crewe",
+    "postcode": "CW1 2JZ",
+    "start_date": "2026-10-19",
+    "end_date": "2026-12-31",
+    "pay_from": "39.00",
+    "pay_to": "39.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A Recruitment Request number is required for all Orders, please state here:\nRWR 20434 Agreed daily rate.\nPlease confirm which DBS is required for this role.\n(Delete the lines which are not applicable and leave the option that is required)\n5. Enhanced – including barred:\na.\nc. Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "raw_portal_description": "A Recruitment Request number is required for all Orders, please state here:\nRWR 20434 Agreed daily rate.\nPlease confirm which DBS is required for this role.\n(Delete the lines which are not applicable and leave the option that is required)\n5. Enhanced – including barred:\na.\nc. Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-10-07T20:35:31.550Z",
+    "scraped_at": "2026-10-07T20:35:31.550Z",
+    "attachments": [
+      {
+        "filename": "JAJB4097 - Social Worker - JD and PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5306258/File/226350",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5306258/226350-b003ac60929bc32ecf9ca4458e1ba1285d7e0516ca2a0a9e706c4256e32ba61b.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/pdf",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "b003ac60929bc32ecf9ca4458e1ba1285d7e0516ca2a0a9e706c4256e32ba61b",
+        "contentBytes": 85709,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-10-07T20:35:31.759Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5307695",
     "source": "comensura",
     "source_ref": "5307695",
