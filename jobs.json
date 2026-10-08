@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 70BA / 1",
+    "source": "xms",
+    "source_ref": "000B 70BA / 1",
+    "source_revision": null,
+    "job_id": "000B 70BA / 1",
+    "job_title": "Children's Team Manager [MCC]",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Etrop Court, Rowlandsway, Manchester, Lancashire, M22 5RG, United Kingdom",
+    "city": "Manchester",
+    "postcode": "M22 5RG",
+    "start_date": "2026-11-09",
+    "end_date": "2027-04-30",
+    "pay_from": "46",
+    "pay_to": "46",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.\n\nSouth Family Help Service have a temporary vacancy for a team manager to support and manage a team of 2 Advanced Practitioners and 4 Social Workers.  The post is within the family help service who are responsible for working with families who need support at CIN, CP, Pre-proceedings, care proceedings and adoption.  The service are currently a test and learn site for the development of the DFE Families First Reforms and as such it is an exciting time to join the service and to be part of the continued development of the family help service and the introduction of the Multi-agency Child Protection Team.\n\nYou will be part of a 10 week allocation rota where you will manage the intake of families into the service.  You will be experienced in providing supportive, reflective supervision to staff and effectively managing family help and safeguarding cases.\n\nYou will be part of a service of 10 Family Help teams, a MACPT team and Children with Disabilities team.  You will receive monthly supervision and have access to training that is available across the directorate.\n\nThe post is based at Etrop Court in Wythenshawe and there is available free parking in the local vicinity.\n\nWorking pattern is 35 hours Monday to Friday.  All of our staff are office based with home working agreed at the discretion of line managers.",
+    "raw_portal_description": "5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.\n\nSouth Family Help Service have a temporary vacancy for a team manager to support and manage a team of 2 Advanced Practitioners and 4 Social Workers.  The post is within the family help service who are responsible for working with families who need support at CIN, CP, Pre-proceedings, care proceedings and adoption.  The service are currently a test and learn site for the development of the DFE Families First Reforms and as such it is an exciting time to join the service and to be part of the continued development of the family help service and the introduction of the Multi-agency Child Protection Team.\n\nYou will be part of a 10 week allocation rota where you will manage the intake of families into the service.  You will be experienced in providing supportive, reflective supervision to staff and effectively managing family help and safeguarding cases.\n\nYou will be part of a service of 10 Family Help teams, a MACPT team and Children with Disabilities team.  You will receive monthly supervision and have access to training that is available across the directorate.\n\nThe post is based at Etrop Court in Wythenshawe and there is available free parking in the local vicinity.\n\nWorking pattern is 35 hours Monday to Friday.  All of our staff are office based with home working agreed at the discretion of line managers.",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1487635?backToItem=&initialLoad=&tab=&_xmscs=3b6869dab8ced31e86e0865338d6c5ea1572a189b42d13a477a9e4ca7158b9903d5d0bdfa1bae0d0",
+    "accepted_at": "2026-10-08T10:39:36.723Z",
+    "scraped_at": "2026-10-08T10:39:36.723Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/142443?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 70BA _ 1/DfE Attributes 2025.xls",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/vnd.ms-excel",
+        "declaredMimeType": "application/vnd.ms-excel",
+        "detectedMimeType": "application/vnd.ms-excel",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "5989b482b60f92cab0a02a012f4a036ed313aaed1f3e981ee72e6850bd035273",
+        "contentBytes": 67584,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-10-08T10:39:36.782Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 7164 / 1",
     "source": "xms",
     "source_ref": "000B 7164 / 1",
