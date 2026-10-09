@@ -3220,20 +3220,36 @@
     "working_address": "Floor 1, Seaham Spectrum Business Centre Unit 8, SR7 7TT",
     "city": null,
     "postcode": "SR7 7TT",
-    "start_date": "2026-09-30",
-    "end_date": "2026-12-22",
+    "start_date": "2026-10-19",
+    "end_date": "2027-01-10",
     "pay_from": "18.39",
     "pay_to": "18.39",
     "pay_type": "per hour",
     "ir35": null,
     "ir35_note": null,
-    "description": "Placements Officer - Grade 7 (Social Care Unqualified)\nTemporary",
-    "raw_portal_description": "Placements Officer - Grade 7 (Social Care Unqualified)\nTemporary",
+    "description": "Placements Officer - Grade 7 (Social Care Unqualified)\nTemporary\nJob description Placement Officer Grade 7 with comments_ (1).docx",
+    "raw_portal_description": "Placements Officer - Grade 7 (Social Care Unqualified)\nTemporary\nJob description Placement Officer Grade 7 with comments_ (1).docx",
     "description_origin": "portal",
     "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
     "accepted_at": "2026-09-23T19:10:12.517Z",
-    "scraped_at": "2026-09-23T19:10:12.517Z",
-    "attachments": []
+    "scraped_at": "2026-10-09T16:51:26.232Z",
+    "attachments": [
+      {
+        "filename": "Job description Placement Officer Grade 7 with comments_ (1).docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5305659/File/226235",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5305659/226235-89158b2f8a86653d1ddf782e407bda818035145115554278132e174d90b79844.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "89158b2f8a86653d1ddf782e407bda818035145115554278132e174d90b79844",
+        "contentBytes": 43893,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-10-09T16:51:26.402Z"
+      }
+    ]
   },
   {
     "item_id": "000B 686F / 1",
