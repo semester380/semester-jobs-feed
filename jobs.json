@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5306399",
+    "source": "comensura",
+    "source_ref": "5306399",
+    "source_revision": null,
+    "job_id": "5306399",
+    "job_title": "Family Partner (Social Care Unqualified)",
+    "client": "North Tyneside Council",
+    "procurer": null,
+    "working_address": "Floor 2, Quadrant East, NE27 0BY",
+    "city": "Quadrant East",
+    "postcode": "NE27 0BY",
+    "start_date": "2026-10-18",
+    "end_date": "2027-04-18",
+    "pay_from": "21.02",
+    "pay_to": "21.02",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Candidates must have the below experience\n* Experienced and skilled in working with children, young people and families taking a whole family approach\n* Effective practice in relation to engagement and working with children, young people and families\n* Experience of working in a multi-disciplinary environment. Able to support while confidently challenging professionals and families where required\n* Highly organised and able to meet deadlines\n* Able to use IT systems effectively to input data for recording, tracking and monitoring purposes\nThis post will be providing duty cover and pre-allocation support to families on the allocation list. This will include, for example, home visits, safety planning, support, guidance and signposting.",
+    "raw_portal_description": "Candidates must have the below experience\n* Experienced and skilled in working with children, young people and families taking a whole family approach\n* Effective practice in relation to engagement and working with children, young people and families\n* Experience of working in a multi-disciplinary environment. Able to support while confidently challenging professionals and families where required\n* Highly organised and able to meet deadlines\n* Able to use IT systems effectively to input data for recording, tracking and monitoring purposes\nThis post will be providing duty cover and pre-allocation support to families on the allocation list. This will include, for example, home visits, safety planning, support, guidance and signposting.",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-10-09T17:05:45.277Z",
+    "scraped_at": "2026-10-09T17:05:45.277Z",
+    "attachments": [
+      {
+        "filename": "Family Support Worker - Advert.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5306399/File/226427",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5306399/226427-52df71bf1bfcab5d8480e05262892e4499bf5da6999b54dcc22758c9ffffc5df.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "52df71bf1bfcab5d8480e05262892e4499bf5da6999b54dcc22758c9ffffc5df",
+        "contentBytes": 17127,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-10-09T17:05:45.428Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 762B / 1",
     "source": "xms",
     "source_ref": "000B 762B / 1",
