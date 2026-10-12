@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 75C7 / 1",
+    "source": "xms",
+    "source_ref": "000B 75C7 / 1",
+    "source_revision": null,
+    "job_id": "000B 75C7 / 1",
+    "job_title": "Senior Physiotherapist",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Adelaide Street, Daubhill, Bolton, Lancashire, BL3 3NY, United Kingdom",
+    "city": "Bolton",
+    "postcode": "BL3 3NY",
+    "start_date": "2026-11-16",
+    "end_date": "2027-01-30",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "An opportunity has arisen to recruit 1 locum Physiotherapist within the Discharge to Assess function of the Independent Living Service and 1 permanent Physiotherapist within the Independent Living Service.\nThe Independent Living Service has 30 staff, including Occupational Therapists, a Disability Officer, and Community Assessment Officers, and includes the Sensory Team and Telecare Team. The locum post aims to support discharge facilitation, help people remain independent at home, and provide community follow-up. The posts will sit alongside Community Therapy and the Neighbourhood team, supporting people using a strengths-based approach to maximise independence.\n\nThe Physiotherapy role will support timely hospital discharges and reduce readmission risks through community-based support. You’ll conduct Completion Care Act 2014 assessments, including support planning and risk assessments. Working collaboratively with Community Therapy and Social Work teams is key. As a trusted assessor for equipment provision and moving and handling support, and by promoting independence through links to reablement, universal, and voluntary services, you will play a vital role.\n\nThis locum post offers an opportunity to contribute to the ongoing development of innovative ways of working across health and social care to improve the experience of people and carers and promote wellbeing and independence.",
+    "raw_portal_description": "An opportunity has arisen to recruit 1 locum Physiotherapist within the Discharge to Assess function of the Independent Living Service and 1 permanent Physiotherapist within the Independent Living Service.\nThe Independent Living Service has 30 staff, including Occupational Therapists, a Disability Officer, and Community Assessment Officers, and includes the Sensory Team and Telecare Team. The locum post aims to support discharge facilitation, help people remain independent at home, and provide community follow-up. The posts will sit alongside Community Therapy and the Neighbourhood team, supporting people using a strengths-based approach to maximise independence.\n\nThe Physiotherapy role will support timely hospital discharges and reduce readmission risks through community-based support. You’ll conduct Completion Care Act 2014 assessments, including support planning and risk assessments. Working collaboratively with Community Therapy and Social Work teams is key. As a trusted assessor for equipment provision and moving and handling support, and by promoting independence through links to reablement, universal, and voluntary services, you will play a vital role.\n\nThis locum post offers an opportunity to contribute to the ongoing development of innovative ways of working across health and social care to improve the experience of people and carers and promote wellbeing and independence.",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1488752?backToItem=&initialLoad=&tab=&_xmscs=a91f38471d32a7beb7678167deebabfe92f929bd693cec206c7a334f7814dffff469dc3b982de2da",
+    "accepted_at": "2026-10-12T07:43:18.054Z",
+    "scraped_at": "2026-10-12T07:43:18.054Z",
+    "attachments": [
+      {
+        "filename": "JDPS Senior Physiotherapist.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/142748?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 75C7 _ 1/JDPS Senior Physiotherapist.docx",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "declaredMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "af00796c8cbb2ebc7915bf8ae444420dc10c2e16d48e7420b80bf520a5711b35",
+        "contentBytes": 86350,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-10-12T07:43:18.246Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5307814",
     "source": "comensura",
     "source_ref": "5307814",
