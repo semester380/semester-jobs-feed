@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 72B5 / 1",
+    "source": "xms",
+    "source_ref": "000B 72B5 / 1",
+    "source_revision": null,
+    "job_id": "000B 72B5 / 1",
+    "job_title": "Personal Advisor",
+    "client": "Barnsley Hiring, Yorkshire Collaboration",
+    "procurer": "Yorkshire Collaboration",
+    "working_address": "Westgate Plaza One, 1 Westgate, Western Street, Barnsley, South Yorkshire, S70 2DR",
+    "city": "Barnsley",
+    "postcode": "S70 2DR",
+    "start_date": "2026-10-19",
+    "end_date": "2027-01-19",
+    "pay_from": "18.35",
+    "pay_to": "18.35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Provide a service direct to care leavers in terms of support, advice, advocacy and information reflecting their needs and the practice/focus of the respective social work team. Provide such direct support, guidance and interventions in consultation with Social Workers/Managers as identified in the assessment and review of the needs of care leavers via Pathway Planning. Responsibilities\n\n • Provide support, advice and information to a range of service users, stakeholders and families, including the provision of practical assistance.\n\n• To assist social work qualified practitioners in the undertaking of their duties relating to all forms of social care interventions as appropriate.\n\n• Assist in the promotion of a range of matters to children in care and care leavers, either through group work or via one to one sessions that enhance life skills, independence and engagement with service users\n\n• To act as named Personal Advisor for Children in Care and leaving Care.\n\n• To act as procurer where necessary following relevant procurement guidelines and administrative systems.\n\n• To provide verbal and written reports for use in the assessment and review process, including the provision of reports/statements which may be required in the family court process, child protection or pathway planning, needs assessment and common assessment processes.\n\n• To undertake statutory visits in line with relevant legislation, guidelines and departmental procedures, record observations and implement appropriate interventions\n\n• To assist in the assessment, preparation, implementation and review of Pathway Plans\n\n• To maintain up to date recording of all actions taken and to maintain effective electronic case records and other administrative systems.\n\n• To promote user involvement at all stages including their involvement in care and pathway planning and review.\n\n• To work in conjunction with internal and external colleagues, including the third sector to provide support and advice.\n\n• To participate in meetings within the leaving care and safeguarding processes, and contribute where appropriate to team around the child meetings, acting as lead practitioner to relevant and former relevant young people",
+    "raw_portal_description": "Provide a service direct to care leavers in terms of support, advice, advocacy and information reflecting their needs and the practice/focus of the respective social work team. Provide such direct support, guidance and interventions in consultation with Social Workers/Managers as identified in the assessment and review of the needs of care leavers via Pathway Planning. Responsibilities\n\n • Provide support, advice and information to a range of service users, stakeholders and families, including the provision of practical assistance.\n\n• To assist social work qualified practitioners in the undertaking of their duties relating to all forms of social care interventions as appropriate.\n\n• Assist in the promotion of a range of matters to children in care and care leavers, either through group work or via one to one sessions that enhance life skills, independence and engagement with service users\n\n• To act as named Personal Advisor for Children in Care and leaving Care.\n\n• To act as procurer where necessary following relevant procurement guidelines and administrative systems.\n\n• To provide verbal and written reports for use in the assessment and review process, including the provision of reports/statements which may be required in the family court process, child protection or pathway planning, needs assessment and common assessment processes.\n\n• To undertake statutory visits in line with relevant legislation, guidelines and departmental procedures, record observations and implement appropriate interventions\n\n• To assist in the assessment, preparation, implementation and review of Pathway Plans\n\n• To maintain up to date recording of all actions taken and to maintain effective electronic case records and other administrative systems.\n\n• To promote user involvement at all stages including their involvement in care and pathway planning and review.\n\n• To work in conjunction with internal and external colleagues, including the third sector to provide support and advice.\n\n• To participate in meetings within the leaving care and safeguarding processes, and contribute where appropriate to team around the child meetings, acting as lead practitioner to relevant and former relevant young people",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1488933?backToItem=&initialLoad=&tab=&_xmscs=3abfdc2122e3053dee26acd59e287ba9f8d045b4bcb100ec92c8766d2b84c9e818bb95b5667e01c8",
+    "accepted_at": "2026-10-12T08:58:58.759Z",
+    "scraped_at": "2026-10-12T08:58:58.759Z",
+    "attachments": [
+      {
+        "filename": "136860 Personal Advisor (Care Leavers Service) Profile 20231205.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/142579?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 72B5 _ 1/136860 Personal Advisor (Care Leavers Service) Profile 20231205.pdf",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/pdf",
+        "declaredMimeType": "application/pdf",
+        "detectedMimeType": "application/pdf",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "25301047ba6ab3448444f9f88eb4d0586f1aee585324d9cbd502f180925133ef",
+        "contentBytes": 221327,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-10-12T08:58:59.136Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 729D / 1",
     "source": "xms",
     "source_ref": "000B 729D / 1",
