@@ -35849,8 +35849,8 @@
     "working_address": "St James' Street, Accrington, Lancashire, BB5 1NQ",
     "city": "Accrington",
     "postcode": "BB5 1NQ",
-    "start_date": "2026-09-28",
-    "end_date": "2026-10-30",
+    "start_date": "2026-10-26",
+    "end_date": "2026-11-30",
     "pay_from": "39.00",
     "pay_to": "39.00",
     "pay_type": "per hour",
@@ -35861,7 +35861,7 @@
     "description_origin": "portal",
     "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
     "accepted_at": "2026-05-13T16:47:21.708Z",
-    "scraped_at": "2026-09-15T13:43:10.179Z",
+    "scraped_at": "2026-10-15T13:55:55.588Z",
     "attachments": []
   },
   {
