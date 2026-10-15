@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 748E / 1",
+    "source": "xms",
+    "source_ref": "000B 748E / 1",
+    "source_revision": null,
+    "job_id": "000B 748E / 1",
+    "job_title": "SEN Tribunal and Mediation Officer (G10)",
+    "client": "Wakefield Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Block C, , Normanton, West Yorkshire, WF6 2DZ",
+    "city": "Normanton",
+    "postcode": "WF6 2DZ",
+    "start_date": "2026-10-19",
+    "end_date": "2027-04-18",
+    "pay_from": "22.94",
+    "pay_to": "22.94",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "This is a hybrid role, with a requirement to attend Wakefield offices and meetings as required.\n\nApplicants must be able to demonstrate experience of SEND casework and a strong understanding of the Children and Families Act 2014, SEND Code of Practice, mediation and SEND Tribunal processes. The successful candidate will manage complex Tribunal and mediation cases, prepare evidence, liaise with families, schools and legal representatives, and work to statutory timescales.\n\nCandidates must meet the essential criteria outlined in the job description and be able to start at short notice.",
+    "raw_portal_description": "This is a hybrid role, with a requirement to attend Wakefield offices and meetings as required.\n\nApplicants must be able to demonstrate experience of SEND casework and a strong understanding of the Children and Families Act 2014, SEND Code of Practice, mediation and SEND Tribunal processes. The successful candidate will manage complex Tribunal and mediation cases, prepare evidence, liaise with families, schools and legal representatives, and work to statutory timescales.\n\nCandidates must meet the essential criteria outlined in the job description and be able to start at short notice.",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1491195?backToItem=&initialLoad=&tab=&_xmscs=75e173fe374728ca31a60749b79b6097e1d77ef544b372e1a29b00e3abc4f081f0bb224e2a4a6a5c",
+    "accepted_at": "2026-10-15T14:12:09.905Z",
+    "scraped_at": "2026-10-15T14:12:09.905Z",
+    "attachments": [
+      {
+        "filename": "SEN Officer.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/142673?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 748E _ 1/SEN Officer.pdf",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/pdf",
+        "declaredMimeType": "application/pdf",
+        "detectedMimeType": "application/pdf",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "f20fc2076b9813ec987f2178dae504f024d0e9f0295de809a37347b53fdd1674",
+        "contentBytes": 401993,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-10-15T14:12:10.192Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5307956",
     "source": "comensura",
     "source_ref": "5307956",
