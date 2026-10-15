@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5302375",
+    "source": "comensura",
+    "source_ref": "5302375",
+    "source_revision": null,
+    "job_id": "5302375",
+    "job_title": "Social Worker (Bcft Dfe) (Social Care Qualified)",
+    "client": "Bradford Metropolitan District Council",
+    "procurer": null,
+    "working_address": "Kirkgate, Shipley, Yorkshire, BD18 3EH",
+    "city": "Shipley",
+    "postcode": "BD18 3EH",
+    "start_date": "2026-10-26",
+    "end_date": "",
+    "pay_from": null,
+    "pay_to": null,
+    "pay_type": null,
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Bradford do not offer Sponsorship\n£38,220 - £46,142 per annum + £3000 Retention Payment\n9% fee based on appointable salary\nCCHDT Children with Disabilities\n3 days per week in office requirement\nThe Children’s Complex Health and Disabilities Team is a specialist social work team working with children and young people with severe and profound disabilities and their families. The team is well established and experienced with their work covering the full range of statutory duties in the delivery of the service.\nThe team provides assessment, support and services to ensure that the children and young people they work with are safe and reach their full potential. They provide support to children and their families in need, support where there are safeguarding concerns and work with children in our care.\nYou need to be an experienced social worker passionate about making a difference in every child’s life? thriving on challenges? embrace change whilst tackling the most complex of needs with drive and determination? Ensuring you put ‘the child’ at the heart of every decision.\nWe’re looking for experienced practitioners who can support our children and families using a restorative and relational-based practice approach.\nYou will be part of a team who has a statutory responsibility for children and young people with disabilities and complex health needs.\nBased at Shipley Town Hall, Shipley\nAre you an experienced social worker passionate about making a difference in every child’s life?\nDo you thrive on challenges, embrace change whilst tackling the most complex of needs with drive and determination?\nEnsuring you put ‘the child’ at the heart of every decision.\nJoin us and help us bring about change.\nWe have posts available across the Children’s Complex Health & Disabilities Team for Senior Social Workers.\nWe’re looking for experienced practitioners who can support our children and families using a restorative and relational-based practice approach.\nYou will be part of a team who has a statutory responsibility for children and young people with disabilities and complex health needs.",
+    "raw_portal_description": "Bradford do not offer Sponsorship\n£38,220 - £46,142 per annum + £3000 Retention Payment\n9% fee based on appointable salary\nCCHDT Children with Disabilities\n3 days per week in office requirement\nThe Children’s Complex Health and Disabilities Team is a specialist social work team working with children and young people with severe and profound disabilities and their families. The team is well established and experienced with their work covering the full range of statutory duties in the delivery of the service.\nThe team provides assessment, support and services to ensure that the children and young people they work with are safe and reach their full potential. They provide support to children and their families in need, support where there are safeguarding concerns and work with children in our care.\nYou need to be an experienced social worker passionate about making a difference in every child’s life? thriving on challenges? embrace change whilst tackling the most complex of needs with drive and determination? Ensuring you put ‘the child’ at the heart of every decision.\nWe’re looking for experienced practitioners who can support our children and families using a restorative and relational-based practice approach.\nYou will be part of a team who has a statutory responsibility for children and young people with disabilities and complex health needs.\nBased at Shipley Town Hall, Shipley\nAre you an experienced social worker passionate about making a difference in every child’s life?\nDo you thrive on challenges, embrace change whilst tackling the most complex of needs with drive and determination?\nEnsuring you put ‘the child’ at the heart of every decision.\nJoin us and help us bring about change.\nWe have posts available across the Children’s Complex Health & Disabilities Team for Senior Social Workers.\nWe’re looking for experienced practitioners who can support our children and families using a restorative and relational-based practice approach.\nYou will be part of a team who has a statutory responsibility for children and young people with disabilities and complex health needs.",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-10-15T10:43:12.930Z",
+    "scraped_at": "2026-10-15T10:43:12.930Z",
+    "attachments": [
+      {
+        "filename": "Social Worker (L2) - JD.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5302375/File/224278",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5302375/224278-ea00454a4de8d4ab7dd5585df2c121f26e8337977046c7dccec4f7a4e6275012.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/pdf",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "ea00454a4de8d4ab7dd5585df2c121f26e8337977046c7dccec4f7a4e6275012",
+        "contentBytes": 369192,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-10-15T10:43:13.150Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5308179",
     "source": "comensura",
     "source_ref": "5308179",
