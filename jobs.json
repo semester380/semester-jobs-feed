@@ -3228,7 +3228,7 @@
     "working_address": "Fishergate, Leyland, Preston, Lancashire, PR1 8RE",
     "city": "Preston",
     "postcode": "PR1 8RE",
-    "start_date": "2026-10-19",
+    "start_date": "2026-10-26",
     "end_date": "2027-01-19",
     "pay_from": "39.00",
     "pay_to": "39.00",
@@ -3240,7 +3240,7 @@
     "description_origin": "portal",
     "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
     "accepted_at": "2026-10-06T01:03:45.234Z",
-    "scraped_at": "2026-10-06T01:03:45.234Z",
+    "scraped_at": "2026-10-15T19:52:02.065Z",
     "attachments": [
       {
         "filename": "CSC-CWD-social-worker-jd-ps.pdf",
