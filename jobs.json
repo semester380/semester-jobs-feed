@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 7AF6 / 1",
+    "source": "xms",
+    "source_ref": "000B 7AF6 / 1",
+    "source_revision": null,
+    "job_id": "000B 7AF6 / 1",
+    "job_title": "Housing Support Worker",
+    "client": "Calderdale Hiring, Yorkshire Collaboration",
+    "procurer": "Yorkshire Collaboration",
+    "working_address": "Ryburn House, Clay Street, Halifax, , HX1 4SG",
+    "city": "Halifax",
+    "postcode": "HX1 4SG",
+    "start_date": "2026-11-16",
+    "end_date": "2026-12-25",
+    "pay_from": "13.7",
+    "pay_to": "13.7",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are looking to recruit a Housing Support Worker that will support clients moving from temporary accommodation into more permanent and suitable accommodation. Options will include supported accommodation, social housing and private sector. Ensuring the right ongoing support is in place is important to ensure tenancies are successful.\n\nYou must have experience of working with vulnerable people including singles and families and the different issues they may face, such as mental and physical health, substance misuse, financial difficulties and domestic abuse. Strong communication skills, welfare benefits knowledge.\n\nNeed to be a car user and to be able around the brough as will be visiting clients on their own and to be able to lone work\n\nTo be able to spot any safeguarding issues\n\nSomone who has done this before as will need to hit the ground running\n\nWill be either in the office or out on a visit, will need to cover a duty rota where they will help support any front line queries\n\nLooking for experience who has dealt with complex needs before\n\nWorking with the client to place them into errancy accommodation and then working with them to move them to privately rented accommodation\n\nNeed to be able to commute to the office everyday and complete visits across the borough\n\nInterviews will be completed face to face, informal interview at Ryburn House, Halifax, HX1 4SG",
+    "raw_portal_description": "We are looking to recruit a Housing Support Worker that will support clients moving from temporary accommodation into more permanent and suitable accommodation. Options will include supported accommodation, social housing and private sector. Ensuring the right ongoing support is in place is important to ensure tenancies are successful.\n\nYou must have experience of working with vulnerable people including singles and families and the different issues they may face, such as mental and physical health, substance misuse, financial difficulties and domestic abuse. Strong communication skills, welfare benefits knowledge.\n\nNeed to be a car user and to be able around the brough as will be visiting clients on their own and to be able to lone work\n\nTo be able to spot any safeguarding issues\n\nSomone who has done this before as will need to hit the ground running\n\nWill be either in the office or out on a visit, will need to cover a duty rota where they will help support any front line queries\n\nLooking for experience who has dealt with complex needs before\n\nWorking with the client to place them into errancy accommodation and then working with them to move them to privately rented accommodation\n\nNeed to be able to commute to the office everyday and complete visits across the borough\n\nInterviews will be completed face to face, informal interview at Ryburn House, Halifax, HX1 4SG",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1491617?backToItem=&initialLoad=&tab=&_xmscs=e841cc36a6db78deb6847d7d6821d56875a21effa79fac2fdfcbad4192b247cbaf84d00a54306f30",
+    "accepted_at": "2026-10-16T07:55:17.628Z",
+    "scraped_at": "2026-10-16T07:25:12.104Z",
+    "attachments": [
+      {
+        "filename": "Housing Support Worker HFU.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/143070?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 7AF6 _ 1/Housing Support Worker HFU.docx",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "declaredMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "6b17d2487eae31203b3a25da0a5ef741fa3d285bc4253d37290e8e177be1e25f",
+        "contentBytes": 73967,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-10-16T07:25:12.308Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5308342",
     "source": "comensura",
     "source_ref": "5308342",
@@ -51337,49 +51380,6 @@
         "contentTypeAgreement": null,
         "contentProvenanceComplete": null,
         "contentProvenanceRecordedAt": null
-      }
-    ]
-  },
-  {
-    "item_id": "000B 7AF6 / 1",
-    "source": "xms",
-    "source_ref": "000B 7AF6 / 1",
-    "source_revision": null,
-    "job_id": "000B 7AF6 / 1",
-    "job_title": "Housing Support Worker",
-    "client": "Calderdale Hiring, Yorkshire Collaboration",
-    "procurer": "Yorkshire Collaboration",
-    "working_address": "Ryburn House, Clay Street, Halifax, , HX1 4SG",
-    "city": "Halifax",
-    "postcode": "HX1 4SG",
-    "start_date": "2026-11-16",
-    "end_date": "2026-12-25",
-    "pay_from": "13.7",
-    "pay_to": "13.7",
-    "pay_type": "per hour",
-    "ir35": "Yes",
-    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
-    "description": "We are looking to recruit a Housing Support Worker that will support clients moving from temporary accommodation into more permanent and suitable accommodation. Options will include supported accommodation, social housing and private sector. Ensuring the right ongoing support is in place is important to ensure tenancies are successful.\n\nYou must have experience of working with vulnerable people including singles and families and the different issues they may face, such as mental and physical health, substance misuse, financial difficulties and domestic abuse. Strong communication skills, welfare benefits knowledge.\n\nNeed to be a car user and to be able around the brough as will be visiting clients on their own and to be able to lone work\n\nTo be able to spot any safeguarding issues\n\nSomone who has done this before as will need to hit the ground running\n\nWill be either in the office or out on a visit, will need to cover a duty rota where they will help support any front line queries\n\nLooking for experience who has dealt with complex needs before\n\nWorking with the client to place them into errancy accommodation and then working with them to move them to privately rented accommodation\n\nNeed to be able to commute to the office everyday and complete visits across the borough\n\nInterviews will be completed face to face, informal interview at Ryburn House, Halifax, HX1 4SG",
-    "raw_portal_description": "We are looking to recruit a Housing Support Worker that will support clients moving from temporary accommodation into more permanent and suitable accommodation. Options will include supported accommodation, social housing and private sector. Ensuring the right ongoing support is in place is important to ensure tenancies are successful.\n\nYou must have experience of working with vulnerable people including singles and families and the different issues they may face, such as mental and physical health, substance misuse, financial difficulties and domestic abuse. Strong communication skills, welfare benefits knowledge.\n\nNeed to be a car user and to be able around the brough as will be visiting clients on their own and to be able to lone work\n\nTo be able to spot any safeguarding issues\n\nSomone who has done this before as will need to hit the ground running\n\nWill be either in the office or out on a visit, will need to cover a duty rota where they will help support any front line queries\n\nLooking for experience who has dealt with complex needs before\n\nWorking with the client to place them into errancy accommodation and then working with them to move them to privately rented accommodation\n\nNeed to be able to commute to the office everyday and complete visits across the borough\n\nInterviews will be completed face to face, informal interview at Ryburn House, Halifax, HX1 4SG",
-    "description_origin": "portal",
-    "detail_url": "https://xms-portal.com/xms/distribution/show/1491617?backToItem=&initialLoad=&tab=&_xmscs=e841cc36a6db78deb6847d7d6821d56875a21effa79fac2fdfcbad4192b247cbaf84d00a54306f30",
-    "accepted_at": null,
-    "scraped_at": "2026-10-16T07:25:12.104Z",
-    "attachments": [
-      {
-        "filename": "Housing Support Worker HFU.docx",
-        "url": "https://xms-portal.com/xms/distribution/viewAttachment/143070?attachmentClass=ItemAttachment",
-        "localPath": "/Users/robarnold/harvester/data/attachments/000B 7AF6 _ 1/Housing Support Worker HFU.docx",
-        "downloaded": true,
-        "httpContentTypeRaw": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "declaredMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "mimeDetectorVersion": "attachment-magic/v1",
-        "contentSha256": "6b17d2487eae31203b3a25da0a5ef741fa3d285bc4253d37290e8e177be1e25f",
-        "contentBytes": 73967,
-        "contentTypeAgreement": "match",
-        "contentProvenanceComplete": true,
-        "contentProvenanceRecordedAt": "2026-10-16T07:25:12.308Z"
       }
     ]
   },
