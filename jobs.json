@@ -7668,7 +7668,7 @@
     "working_address": "103 Albert Road, Centre Square, Middlesbrough, North Yorkshire, TS1 2PA",
     "city": "Middlesbrough",
     "postcode": "TS1 2PA",
-    "start_date": "2026-09-20",
+    "start_date": "2026-10-26",
     "end_date": "2027-03-14",
     "pay_from": "19.70",
     "pay_to": "19.70",
@@ -7680,7 +7680,7 @@
     "description_origin": "portal",
     "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
     "accepted_at": "2026-09-16T18:16:03.434Z",
-    "scraped_at": "2026-09-16T18:16:03.434Z",
+    "scraped_at": "2026-10-20T14:44:38.897Z",
     "attachments": []
   },
   {
