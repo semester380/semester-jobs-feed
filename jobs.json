@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 7E83 / 1",
+    "source": "xms",
+    "source_ref": "000B 7E83 / 1",
+    "source_revision": null,
+    "job_id": "000B 7E83 / 1",
+    "job_title": "Children's Social Worker [Oldham]",
+    "client": "Oldham Council, GM Collaboration",
+    "procurer": null,
+    "working_address": ", , , , , United Kingdom",
+    "city": null,
+    "postcode": null,
+    "start_date": "2026-11-23",
+    "end_date": "2027-04-30",
+    "pay_from": "39",
+    "pay_to": "39",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Childrens Social Workers – Social Work Services Oldham Council\n\nWe are looking for experienced, passionate and ambitious Social Workers to work within frontline children's social work teams, responsible for safeguarding and achieving positive outcomes for children and families.\n\nThis is an exciting opportunity to join a service committed to delivering high-quality practice, strong management oversight and child-centred decision making. You will work within a team working across a broad range of statutory responsibilities, ensuring children receive the right support, protection and intervention at the right time.\n\nAbout the Role\n\nAs Social Worker, you will work across a range of safeguarding and statutory functions, including:\n\nDuty and Assessment\nChild in Need (CIN)\nStrategy Discussions and Strategy Meetings\nSection 47 Child Protection Enquiries\nPre-Proceedings and Public Law Outline (PLO)\nChild Protection Planning and Review\nChildren Looked After (CLA)\nCare Planning and Permanence Planning\nCourt Work and Care Proceedings\n\nYou will be responsible for ensuring high standards of social work practice, delivering effective performance management and supporting staff development to create a positive culture where children remain at the centre of everything we do.\n\nWhat You'll Be Doing\n\nWorking on complex safeguarding decisions and statutory interventions.\nDriving high-quality assessments, plans and interventions that improve outcomes for children and families.\nChild Protection, Child in Need and Children Looked After work.\nPromoting excellent partnership working across multi-agency networks.\n\nAbout You\n\nWe are looking for an experienced social workers  who can inspire and develop while maintaining a relentless focus on improving outcomes for children.\n\nYou will have:\n\nA recognised Social Work qualification.\nRegistration with Social Work England.\nSignificant post-qualifying experience within Children's Social Care.\nExtensive knowledge of Children's legislation, safeguarding procedures and statutory guidance.\nExperience within complex Child Protection, Children Looked After and court-related work.\nA commitment to restorative, relationship-based and strengths-focused practice.\n\nWhy Join Us?\n\nWe are committed to creating an environment where social workers can thrive and deliver their best work.\n\nWe offer:\n\nManageable caseloads and strong management support.\nHigh-quality learning and development opportunities.\nFlexible and hybrid working arrangements.\nRegular reflective supervision.\nA supportive and collaborative leadership culture.",
+    "raw_portal_description": "Childrens Social Workers – Social Work Services Oldham Council\n\nWe are looking for experienced, passionate and ambitious Social Workers to work within frontline children's social work teams, responsible for safeguarding and achieving positive outcomes for children and families.\n\nThis is an exciting opportunity to join a service committed to delivering high-quality practice, strong management oversight and child-centred decision making. You will work within a team working across a broad range of statutory responsibilities, ensuring children receive the right support, protection and intervention at the right time.\n\nAbout the Role\n\nAs Social Worker, you will work across a range of safeguarding and statutory functions, including:\n\nDuty and Assessment\nChild in Need (CIN)\nStrategy Discussions and Strategy Meetings\nSection 47 Child Protection Enquiries\nPre-Proceedings and Public Law Outline (PLO)\nChild Protection Planning and Review\nChildren Looked After (CLA)\nCare Planning and Permanence Planning\nCourt Work and Care Proceedings\n\nYou will be responsible for ensuring high standards of social work practice, delivering effective performance management and supporting staff development to create a positive culture where children remain at the centre of everything we do.\n\nWhat You'll Be Doing\n\nWorking on complex safeguarding decisions and statutory interventions.\nDriving high-quality assessments, plans and interventions that improve outcomes for children and families.\nChild Protection, Child in Need and Children Looked After work.\nPromoting excellent partnership working across multi-agency networks.\n\nAbout You\n\nWe are looking for an experienced social workers  who can inspire and develop while maintaining a relentless focus on improving outcomes for children.\n\nYou will have:\n\nA recognised Social Work qualification.\nRegistration with Social Work England.\nSignificant post-qualifying experience within Children's Social Care.\nExtensive knowledge of Children's legislation, safeguarding procedures and statutory guidance.\nExperience within complex Child Protection, Children Looked After and court-related work.\nA commitment to restorative, relationship-based and strengths-focused practice.\n\nWhy Join Us?\n\nWe are committed to creating an environment where social workers can thrive and deliver their best work.\n\nWe offer:\n\nManageable caseloads and strong management support.\nHigh-quality learning and development opportunities.\nFlexible and hybrid working arrangements.\nRegular reflective supervision.\nA supportive and collaborative leadership culture.",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1494291?backToItem=&initialLoad=&tab=&_xmscs=f7e36fdf7cfa7f6db50922f6ad36b4ec04ad714593019968e5f6a74464a3812cd06a63267b09a2a2",
+    "accepted_at": "2026-10-22T14:24:51.698Z",
+    "scraped_at": "2026-10-22T14:24:51.698Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/143280?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 7E83 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/vnd.ms-excel",
+        "declaredMimeType": "application/vnd.ms-excel",
+        "detectedMimeType": "application/vnd.ms-excel",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "23d6ef54110553d9c31ef0614032734b992da1c7e45d070644f7800ed36333ce",
+        "contentBytes": 67584,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-10-22T14:24:51.868Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5308714",
     "source": "comensura",
     "source_ref": "5308714",
