@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 7FE8 / 1",
+    "source": "xms",
+    "source_ref": "000B 7FE8 / 1",
+    "source_revision": null,
+    "job_id": "000B 7FE8 / 1",
+    "job_title": "Adults Social Worker [Blackpool]",
+    "client": "Blackpool Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Talbot Gateway, , Blackpool, Lancashire, FY1 3AH, United Kingdom",
+    "city": "Blackpool",
+    "postcode": "FY1 3AH",
+    "start_date": "2026-11-23",
+    "end_date": "2027-01-31",
+    "pay_from": "30.66",
+    "pay_to": "30.66",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Blackpool Council is a progressive organisation committed to building on and improving our mental health services.\n\nWe are proud of the high quality of service-user focused care across the Blackpool Coast and constantly endeavour to help our staff deliver the kinds of innovative and effective services our service users and carers deserve.\n\nIf you would like to work within a challenging and supportive environment, Blackpool Council is pleased to be able to offer a social work vacancy within the Community Mental Health Team for Older Adults.\n\nWe are a co-located team working with older adults with various mental health issues and their carers. Working alongside our health colleagues in an integrated way of working that is well established within the team.\n\nWe are committed to a joint approach to service planning, delivery and development.\n\nFor Older Adults, you will provide multi-disciplinary needs and risk assessments, care planning and provide long term social work support within the framework of the Care Act 2014 and in line with the national agenda driving the provision of care to older adults with a mental health problem.\n\nYou will work within the framework of the Care Act 2014 and undertake timely assessments and reviews.\n\nThis will be a short term position of 14 weeks and Mental Health experience with older adults or an understanding of mental health legislation is preferable\n\n3 years reference, gaps in employment history checked, any relevant quals as per JDPS",
+    "raw_portal_description": "Blackpool Council is a progressive organisation committed to building on and improving our mental health services.\n\nWe are proud of the high quality of service-user focused care across the Blackpool Coast and constantly endeavour to help our staff deliver the kinds of innovative and effective services our service users and carers deserve.\n\nIf you would like to work within a challenging and supportive environment, Blackpool Council is pleased to be able to offer a social work vacancy within the Community Mental Health Team for Older Adults.\n\nWe are a co-located team working with older adults with various mental health issues and their carers. Working alongside our health colleagues in an integrated way of working that is well established within the team.\n\nWe are committed to a joint approach to service planning, delivery and development.\n\nFor Older Adults, you will provide multi-disciplinary needs and risk assessments, care planning and provide long term social work support within the framework of the Care Act 2014 and in line with the national agenda driving the provision of care to older adults with a mental health problem.\n\nYou will work within the framework of the Care Act 2014 and undertake timely assessments and reviews.\n\nThis will be a short term position of 14 weeks and Mental Health experience with older adults or an understanding of mental health legislation is preferable\n\n3 years reference, gaps in employment history checked, any relevant quals as per JDPS",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1494372?backToItem=&initialLoad=&tab=&_xmscs=58bc11ac991041f68e9e201bb47da581f9e1b5aa8fc3d96f51b32f65f63b95393f0524714501cbbf",
+    "accepted_at": "2026-10-22T14:32:08.678Z",
+    "scraped_at": "2026-10-22T14:32:08.678Z",
+    "attachments": [
+      {
+        "filename": "JD - 1472.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/143358?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 7FE8 _ 1/JD - 1472.doc",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/msword",
+        "declaredMimeType": "application/msword",
+        "detectedMimeType": "application/msword",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "f50f150e84f27cec88d55aa4139b6764d0a495af7a9cd05cf5ced41b2c6dc115",
+        "contentBytes": 339456,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-10-22T14:32:08.816Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 7E59 / 1",
     "source": "xms",
     "source_ref": "000B 7E59 / 1",
