@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5307649",
+    "source": "comensura",
+    "source_ref": "5307649",
+    "source_revision": null,
+    "job_id": "5307649",
+    "job_title": "Family Partner (Social Care Unqualified)",
+    "client": "North Tyneside Council",
+    "procurer": null,
+    "working_address": "The Silverlink North, Cobalt Business Park, North Tyneside, Tyne and Wear, NE27 0BY",
+    "city": "North Tyneside",
+    "postcode": "NE27 0BY",
+    "start_date": "2026-10-18",
+    "end_date": "2027-04-18",
+    "pay_from": "21.02",
+    "pay_to": "21.02",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "North Tyneside Children’s Social Care is considered to be Outstanding by Ofsted in recognition of the improved services and outcomes for children, young people, and families. We want the best for our families and would encourage you to join us in our commitment to continuously deliver the services that make a difference to children and young people.\nWe are currently looking for a Family Support Worker to join our Social Work Assessment Team, working with our children and young people.\nIf you are passionate about children and young people getting the right help at the right time, about listening to their voice, and about working in partnership with families and wider networks, then we would like to hear from you.\nYou will have a minimum of a Level 3 qualification in childcare, health, education, community, or youth work or similar, and experience of working with children, young people and their families. You will have experience of working in partnership – with children, their family and wider networks, and professional colleagues across education, health, police, and the voluntary sector.\nThe practice model used in North Tyneside is Signs of Safety, and you will be supported in developing and using this approach. We are committed to supporting our practitioners, and you will receive regular high quality reflective supervision and management oversight of the important work that you do. We encourage peer support from your team, and you will have access to regular group supervision.\nYou will have support from the Principal Child and Family Social Worker and Practice Model and Development Team support your own learning and development needs.\nIt is important that you have good written skills, and are proficient in using IT. We will provide you with devices and equipment that promotes flexibility in how you work, and training in LCS, our electronic child record system.",
+    "raw_portal_description": "North Tyneside Children’s Social Care is considered to be Outstanding by Ofsted in recognition of the improved services and outcomes for children, young people, and families. We want the best for our families and would encourage you to join us in our commitment to continuously deliver the services that make a difference to children and young people.\nWe are currently looking for a Family Support Worker to join our Social Work Assessment Team, working with our children and young people.\nIf you are passionate about children and young people getting the right help at the right time, about listening to their voice, and about working in partnership with families and wider networks, then we would like to hear from you.\nYou will have a minimum of a Level 3 qualification in childcare, health, education, community, or youth work or similar, and experience of working with children, young people and their families. You will have experience of working in partnership – with children, their family and wider networks, and professional colleagues across education, health, police, and the voluntary sector.\nThe practice model used in North Tyneside is Signs of Safety, and you will be supported in developing and using this approach. We are committed to supporting our practitioners, and you will receive regular high quality reflective supervision and management oversight of the important work that you do. We encourage peer support from your team, and you will have access to regular group supervision.\nYou will have support from the Principal Child and Family Social Worker and Practice Model and Development Team support your own learning and development needs.\nIt is important that you have good written skills, and are proficient in using IT. We will provide you with devices and equipment that promotes flexibility in how you work, and training in LCS, our electronic child record system.",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-10-22T15:16:33.084Z",
+    "scraped_at": "2026-10-22T15:16:33.084Z",
+    "attachments": [
+      {
+        "filename": "Family Support Worker - Advert.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5307649/File/226548",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5307649/226548-52df71bf1bfcab5d8480e05262892e4499bf5da6999b54dcc22758c9ffffc5df.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "52df71bf1bfcab5d8480e05262892e4499bf5da6999b54dcc22758c9ffffc5df",
+        "contentBytes": 17127,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-10-22T15:16:33.247Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 7FE8 / 1",
     "source": "xms",
     "source_ref": "000B 7FE8 / 1",
@@ -66,12 +109,12 @@
     "description_origin": "portal",
     "detail_url": "https://xms-portal.com/xms/distribution/show/1494330",
     "accepted_at": "2026-10-22T14:26:49.711Z",
-    "scraped_at": "2026-10-22T14:27:57.355Z",
+    "scraped_at": "2026-10-22T14:49:04.722Z",
     "attachments": [
       {
         "filename": "DfE Attributes 2025.xls",
         "url": "https://xms-portal.com/xms/distribution/viewAttachment/143265?attachmentClass=ItemAttachment",
-        "localPath": "/Users/robarnold/harvester/data/attachments/000B 7E59 _ 1/DfE Attributes 2025-1.xls",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 7E59 _ 1/DfE Attributes 2025-3.xls",
         "downloaded": true,
         "httpContentTypeRaw": "application/vnd.ms-excel",
         "declaredMimeType": "application/vnd.ms-excel",
@@ -81,7 +124,7 @@
         "contentBytes": 67584,
         "contentTypeAgreement": "match",
         "contentProvenanceComplete": true,
-        "contentProvenanceRecordedAt": "2026-10-22T14:27:57.399Z"
+        "contentProvenanceRecordedAt": "2026-10-22T14:49:04.786Z"
       }
     ]
   },
