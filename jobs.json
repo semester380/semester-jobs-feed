@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5308714",
+    "source": "comensura",
+    "source_ref": "5308714",
+    "source_revision": null,
+    "job_id": "5308714",
+    "job_title": "Recruitment Officer (Secretarial and Administration)",
+    "client": "Lancashire County Council",
+    "procurer": null,
+    "working_address": "Fishergate, Leyland, Preston, Lancashire, PR1 8RE",
+    "city": "Preston",
+    "postcode": "PR1 8RE",
+    "start_date": "2026-11-02",
+    "end_date": "2027-02-02",
+    "pay_from": "17.95",
+    "pay_to": "17.95",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Hybrid working - Monday and Thursday in office at County Hall, Preston\nMay be extended to 31/3/27\nSee attached JD for full details",
+    "raw_portal_description": "Hybrid working - Monday and Thursday in office at County Hall, Preston\nMay be extended to 31/3/27\nSee attached JD for full details",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-10-22T13:03:52.119Z",
+    "scraped_at": "2026-10-22T13:03:52.119Z",
+    "attachments": [
+      {
+        "filename": "Recruitment Officer G5 JDPS v4 21.10.2025.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5308714/File/227167",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5308714/227167-d6a1ced0d6c046866ba877817fc5cff0608a5b7e234ba9fd91cf0e64236dce43.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "d6a1ced0d6c046866ba877817fc5cff0608a5b7e234ba9fd91cf0e64236dce43",
+        "contentBytes": 129322,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-10-22T13:03:52.416Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 7F29 / 1",
     "source": "xms",
     "source_ref": "000B 7F29 / 1",
