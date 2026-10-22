@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 7E59 / 1",
+    "source": "xms",
+    "source_ref": "000B 7E59 / 1",
+    "source_revision": null,
+    "job_id": "000B 7E59 / 1",
+    "job_title": "Children's Social Worker [Oldham]",
+    "client": "Oldham Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "George Street, , Oldham, Greater Manchester, OL1 1HD, United Kingdom",
+    "city": "Oldham",
+    "postcode": "OL1 1HD",
+    "start_date": "2026-11-23",
+    "end_date": "2027-04-30",
+    "pay_from": "39",
+    "pay_to": "39",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Various social worker roles within assessment and intervention team.  Working with referrals from Mash to complete assessments to determine next steps.  Working with child in need, child protection and some initial proceedings prior to transfer.\n\nStable management structure, manageable caseloads, hybrid working.\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "raw_portal_description": "Various social worker roles within assessment and intervention team.  Working with referrals from Mash to complete assessments to determine next steps.  Working with child in need, child protection and some initial proceedings prior to transfer.\n\nStable management structure, manageable caseloads, hybrid working.\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1494330?backToItem=&initialLoad=&tab=&_xmscs=1253e8698b1e84e9f7c899b938cb9a574051fafeb2265b6c2ca550b01fd3498bb75ecbab26a1ab00",
+    "accepted_at": "2026-10-22T14:26:49.711Z",
+    "scraped_at": "2026-10-22T14:26:49.711Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/143265?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 7E59 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/vnd.ms-excel",
+        "declaredMimeType": "application/vnd.ms-excel",
+        "detectedMimeType": "application/vnd.ms-excel",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "23d6ef54110553d9c31ef0614032734b992da1c7e45d070644f7800ed36333ce",
+        "contentBytes": 67584,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-10-22T14:26:49.774Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 7E83 / 1",
     "source": "xms",
     "source_ref": "000B 7E83 / 1",
@@ -52575,6 +52618,33 @@
         "contentProvenanceRecordedAt": null
       }
     ]
+  },
+  {
+    "item_id": "prism:OR120013",
+    "source": "prism",
+    "source_ref": "OR120013",
+    "source_revision": null,
+    "job_id": "OR120013",
+    "job_title": "CSW - Senior Social Worker / Advanced Practitioner - 0-25 Disabilities (Grade J) - Social Care Qualified",
+    "client": "Barnet Council",
+    "procurer": "Andrew Nicolaou",
+    "working_address": "2 Bristol Avenue, Colindale, London, London, NW9 4EW, United Kingdom",
+    "city": "Colindale",
+    "postcode": "NW9 4EW",
+    "start_date": "2026-11-09",
+    "end_date": "",
+    "pay_from": "27.32",
+    "pay_to": "37.54",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "Must have experience of working in a children's disability team. hybrid working - roughly 1-2 times per week in the office and visits.",
+    "description": "To work within a Resilience framework, to provide a comprehensive and effective integrated social work service, which responds at a higher level in complex situations to the needs of children and their families in a timely manner, within statutory guidelines and the statutory obligations of the council.\nThe post holder will have the skills and ability to practice at a higher level which includes deputising for the line manager in circumstances where the line manager is not available, or they are delegate to act in a line management position by the designated Head of Service.\nTo take a lead role in a specialist area of work as directed by the departmental policies and procedures.\nThe post holder will require substantial post qualifying experience in a statutory Children Social Care setting. It will be desirable for the post holders to have a Practice Educators Award and if not, there will be an expectation that this award is achieved within first year of employment.\nThese post holders are experienced social workers who will be more autonomous in their job. They will demonstrate expert and effective practice in complex situations; and be able to assess and manage higher levels of risk in their own and that of other less experienced social workers.\nTo assess, plan, implement and evaluate safeguarding and permanence measures at a high level of complexity within their own cases and support and mentor less experienced social workers; to ensure all children are given the opportunity to reach their full potential.",
+    "raw_portal_description": "To work within a Resilience framework, to provide a comprehensive and effective integrated social work service, which responds at a higher level in complex situations to the needs of children and their families in a timely manner, within statutory guidelines and the statutory obligations of the council.\nThe post holder will have the skills and ability to practice at a higher level which includes deputising for the line manager in circumstances where the line manager is not available, or they are delegate to act in a line management position by the designated Head of Service.\nTo take a lead role in a specialist area of work as directed by the departmental policies and procedures.\nThe post holder will require substantial post qualifying experience in a statutory Children Social Care setting. It will be desirable for the post holders to have a Practice Educators Award and if not, there will be an expectation that this award is achieved within first year of employment.\nThese post holders are experienced social workers who will be more autonomous in their job. They will demonstrate expert and effective practice in complex situations; and be able to assess and manage higher levels of risk in their own and that of other less experienced social workers.\nTo assess, plan, implement and evaluate safeguarding and permanence measures at a high level of complexity within their own cases and support and mentor less experienced social workers; to ensure all children are given the opportunity to reach their full potential.",
+    "description_origin": "portal",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=b3c5dda0-5983-4afc-b0cd-039b39068aa7",
+    "accepted_at": null,
+    "scraped_at": "2026-10-22T14:27:07.857Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR119714",
