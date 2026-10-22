@@ -9022,8 +9022,8 @@
     "working_address": "Hartlepool Borough Council, Civic Centre, Victoria Road, Hartlepool, Durham",
     "city": "Hartlepool",
     "postcode": null,
-    "start_date": "2026-09-14",
-    "end_date": "2026-12-13",
+    "start_date": "2026-10-26",
+    "end_date": "2027-01-26",
     "pay_from": "35.68",
     "pay_to": "35.68",
     "pay_type": "per hour",
@@ -9034,7 +9034,7 @@
     "description_origin": "portal",
     "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
     "accepted_at": "2026-09-10T16:09:57.139Z",
-    "scraped_at": "2026-09-10T16:09:57.139Z",
+    "scraped_at": "2026-10-22T17:50:29.929Z",
     "attachments": []
   },
   {
