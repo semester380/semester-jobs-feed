@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5309050",
+    "source": "comensura",
+    "source_ref": "5309050",
+    "source_revision": null,
+    "job_id": "5309050",
+    "job_title": "Adults Social Care - Social Worker (Qualified) (Social Care Qualified)",
+    "client": "Darlington Borough Council",
+    "procurer": null,
+    "working_address": "Floor 2, Town Hall, DL1 5QT",
+    "city": "Town Hall",
+    "postcode": "DL1 5QT",
+    "start_date": "2026-11-02",
+    "end_date": "2027-01-29",
+    "pay_from": "197.74",
+    "pay_to": "197.74",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Experienced Qualified Social Worker\n• form collaborative relationships with key partners including acute, primary and community health care, voluntary and independent sector to promote positive outcomes for people with learning disability and their families in Darlington.\n• Practice in a legally literate manner. Carry out strength-based conversations and plans using the necessary legislation including The Care Act (2014) and Mental Capacity Act (2005). Practice within the principles of Making Safeguarding Personal.\n• Manage your caseload with autonomy, using supervision appropriately, use timely interventions that promote positive relationships and respond to changing outcomes and needs.\n• Hold a varied caseload that will include Court of Protection applications and court work. Use support available to complete Court of Protection work that is legally literate, creative and least restrictive.\n• Review and develop support plans, ensuring that they are outcome focused thus enabling people with learning disabilities and their families to have future plans and aspirations.\n• Work with young people with a learning disability and their families who are progressing towards adulthood with a focus on strengths, outcomes, least restrictive options and community assets.\n• Respond to duty work and urgent referrals, respond to risk appropriately, seeking support as required.\n• Advocate the benefits of self-directed support, using systems around this approach effectively. Develop and coordinate care and support.\n• Work positively with colleagues in partner agencies and within the learning disabilities team, support the development of students and less experienced staff.\n• Demonstrate and maintain your registration to your professional body and standards, Social Work England/Royal Collage of Occupational Therapists.",
+    "raw_portal_description": "Experienced Qualified Social Worker\n• form collaborative relationships with key partners including acute, primary and community health care, voluntary and independent sector to promote positive outcomes for people with learning disability and their families in Darlington.\n• Practice in a legally literate manner. Carry out strength-based conversations and plans using the necessary legislation including The Care Act (2014) and Mental Capacity Act (2005). Practice within the principles of Making Safeguarding Personal.\n• Manage your caseload with autonomy, using supervision appropriately, use timely interventions that promote positive relationships and respond to changing outcomes and needs.\n• Hold a varied caseload that will include Court of Protection applications and court work. Use support available to complete Court of Protection work that is legally literate, creative and least restrictive.\n• Review and develop support plans, ensuring that they are outcome focused thus enabling people with learning disabilities and their families to have future plans and aspirations.\n• Work with young people with a learning disability and their families who are progressing towards adulthood with a focus on strengths, outcomes, least restrictive options and community assets.\n• Respond to duty work and urgent referrals, respond to risk appropriately, seeking support as required.\n• Advocate the benefits of self-directed support, using systems around this approach effectively. Develop and coordinate care and support.\n• Work positively with colleagues in partner agencies and within the learning disabilities team, support the development of students and less experienced staff.\n• Demonstrate and maintain your registration to your professional body and standards, Social Work England/Royal Collage of Occupational Therapists.",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-10-27T13:30:48.880Z",
+    "scraped_at": "2026-10-27T13:30:48.880Z",
+    "attachments": [
+      {
+        "filename": "Proposed Job Advert LD Team.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5309050/File/227391",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5309050/227391-2485d7ef6301b3951373e041ae9e519a2d76bb61cb240520f594d53dd9a68d03.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "2485d7ef6301b3951373e041ae9e519a2d76bb61cb240520f594d53dd9a68d03",
+        "contentBytes": 87708,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-10-27T13:30:49.190Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 7D04 / 1",
     "source": "xms",
     "source_ref": "000B 7D04 / 1",
