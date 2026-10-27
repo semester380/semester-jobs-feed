@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 8241 / 1",
+    "source": "xms",
+    "source_ref": "000B 8241 / 1",
+    "source_revision": null,
+    "job_id": "000B 8241 / 1",
+    "job_title": "Children's Social Worker [Stockport MBC]",
+    "client": "Stockport Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Piccadilly, Stockport, Stockport, , SK1 3XE, United Kingdom",
+    "city": "Stockport",
+    "postcode": "SK1 3XE",
+    "start_date": "2026-11-23",
+    "end_date": "2027-02-26",
+    "pay_from": "35",
+    "pay_to": "35",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Assessing Social Worker for Kinship Care Team. The main duties include the completion of kinship assessments (Form K). Other tasks include 'kinship duty' on a rota basis. Kinship Duty includes completion of regulation 24s and VA's. The post is temporary for approx. 4 months and is full time. We are ideally looking for a social worker who can join us almost immediately and who has kinship assessment experience. 37 hours. Monday - Friday. Hybrid Working. The office base is Stopford House which is located in the centre of Stockport.\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "raw_portal_description": "Assessing Social Worker for Kinship Care Team. The main duties include the completion of kinship assessments (Form K). Other tasks include 'kinship duty' on a rota basis. Kinship Duty includes completion of regulation 24s and VA's. The post is temporary for approx. 4 months and is full time. We are ideally looking for a social worker who can join us almost immediately and who has kinship assessment experience. 37 hours. Monday - Friday. Hybrid Working. The office base is Stopford House which is located in the centre of Stockport.\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1495715?backToItem=&initialLoad=&tab=&_xmscs=51493dba8ebe043765086056e7916a37c7980c448e8cc42e12a2543c85f73445ac0af9447badff4a",
+    "accepted_at": "2026-10-27T14:56:03.686Z",
+    "scraped_at": "2026-10-27T14:56:03.686Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/143495?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 8241 _ 1/DfE Attributes 2025.xls",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/vnd.ms-excel",
+        "declaredMimeType": "application/vnd.ms-excel",
+        "detectedMimeType": "application/vnd.ms-excel",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "23d6ef54110553d9c31ef0614032734b992da1c7e45d070644f7800ed36333ce",
+        "contentBytes": 67584,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-10-27T14:56:03.761Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5309054",
     "source": "comensura",
     "source_ref": "5309054",
