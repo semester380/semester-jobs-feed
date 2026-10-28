@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5309146",
+    "source": "comensura",
+    "source_ref": "5309146",
+    "source_revision": null,
+    "job_id": "5309146",
+    "job_title": "Family Time Officer (Social Care Unqualified)",
+    "client": "Redcar and Cleveland Borough Council",
+    "procurer": null,
+    "working_address": "Floor N/A, SEAFIELD HOUSE, TS10 1SP",
+    "city": "SEAFIELD HOUSE",
+    "postcode": "TS10 1SP",
+    "start_date": "2026-11-09",
+    "end_date": "2027-05-09",
+    "pay_from": "20.33",
+    "pay_to": "20.33",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Hours are to be worked over 5 days Monday to Friday and include 1 in 4 Saturdays. Must have business insurance.",
+    "raw_portal_description": "Hours are to be worked over 5 days Monday to Friday and include 1 in 4 Saturdays. Must have business insurance.",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-10-28T20:15:11.271Z",
+    "scraped_at": "2026-10-28T20:15:11.271Z",
+    "attachments": [
+      {
+        "filename": "Family Time Officer-FINAL-22.1.19 (2).doc",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5309146/File/227457",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5309146/227457-0e4bc08903183712912e6903afdb916d47fec243916cadb0490fb05f89cd53bf.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/msword",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "0e4bc08903183712912e6903afdb916d47fec243916cadb0490fb05f89cd53bf",
+        "contentBytes": 82432,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-10-28T20:15:11.516Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5309180",
     "source": "comensura",
     "source_ref": "5309180",
