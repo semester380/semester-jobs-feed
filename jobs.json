@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5309180",
+    "source": "comensura",
+    "source_ref": "5309180",
+    "source_revision": null,
+    "job_id": "5309180",
+    "job_title": "Care Co - Ordinator (Level 1) (Scas) (Social Care Unqualified)",
+    "client": null,
+    "procurer": null,
+    "working_address": "Newton Drive, Houghton Le Spring, Sunderland, Tyne and Wear, DH4 6RB",
+    "city": "Sunderland",
+    "postcode": "DH4 6RB",
+    "start_date": "2026-10-29",
+    "end_date": "2027-04-30",
+    "pay_from": "17.83",
+    "pay_to": "17.83",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "This post is exempt under Schedule 9, Part 1 of the Equality Act 2010. Due to the nature of the role and the needs of the customers receiving support, applications can only be accepted from female candidates",
+    "raw_portal_description": "This post is exempt under Schedule 9, Part 1 of the Equality Act 2010. Due to the nature of the role and the needs of the customers receiving support, applications can only be accepted from female candidates",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-10-28T16:24:35.478Z",
+    "scraped_at": "2026-10-28T16:24:35.478Z",
+    "attachments": [
+      {
+        "filename": "Agency Advert - Care Co-ordinator Level 1 - Newton.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5309180/File/227486",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5309180/227486-2e823fd0bf84c5a2f19ffdbc6c2a1083eae43ae5a3f2c4753045fc26d761c71a.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "2e823fd0bf84c5a2f19ffdbc6c2a1083eae43ae5a3f2c4753045fc26d761c71a",
+        "contentBytes": 56974,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-10-28T16:24:35.679Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 839D / 1",
     "source": "xms",
     "source_ref": "000B 839D / 1",
@@ -21,14 +64,14 @@
     "description": "We require one Mental Health Social worker working at Salford Civic. Will be working at the Front Door team conducting visits and assessments in support of the contact team. Hybrid working is available, up to two days a week from home.\n\n3 years reference, gaps in employment history checked, any relevant quals as per JDPS",
     "raw_portal_description": "We require one Mental Health Social worker working at Salford Civic. Will be working at the Front Door team conducting visits and assessments in support of the contact team. Hybrid working is available, up to two days a week from home.\n\n3 years reference, gaps in employment history checked, any relevant quals as per JDPS",
     "description_origin": "portal",
-    "detail_url": "https://xms-portal.com/xms/distribution/show/1496474?backToItem=&initialLoad=&tab=&_xmscs=01978bcd127934382368e1f635c6e52a56367e50d904ab0a0f743130f653fe4d5de607aecf0a48c4",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1496474",
     "accepted_at": "2026-10-28T15:43:49.911Z",
-    "scraped_at": "2026-10-28T15:43:49.911Z",
+    "scraped_at": "2026-10-28T16:06:07.847Z",
     "attachments": [
       {
         "filename": "6173_Why work for TeamSalford_v7 (1).pdf",
         "url": "https://xms-portal.com/xms/distribution/viewAttachment/143579?attachmentClass=ItemAttachment",
-        "localPath": "/Users/robarnold/harvester/data/attachments/000B 839D _ 1/6173_Why work for TeamSalford_v7 (1).pdf",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 839D _ 1/6173_Why work for TeamSalford_v7 (1)-3.pdf",
         "downloaded": true,
         "httpContentTypeRaw": "application/pdf",
         "declaredMimeType": "application/pdf",
@@ -38,12 +81,12 @@
         "contentBytes": 2304051,
         "contentTypeAgreement": "match",
         "contentProvenanceComplete": true,
-        "contentProvenanceRecordedAt": "2026-10-28T15:43:50.544Z"
+        "contentProvenanceRecordedAt": "2026-10-28T16:06:08.827Z"
       },
       {
         "filename": "6171_ThisIsSalford_Feb2023_v3 (1).pdf",
         "url": "https://xms-portal.com/xms/distribution/viewAttachment/143580?attachmentClass=ItemAttachment",
-        "localPath": "/Users/robarnold/harvester/data/attachments/000B 839D _ 1/6171_ThisIsSalford_Feb2023_v3 (1).pdf",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 839D _ 1/6171_ThisIsSalford_Feb2023_v3 (1)-3.pdf",
         "downloaded": true,
         "httpContentTypeRaw": "application/pdf",
         "declaredMimeType": "application/pdf",
@@ -53,7 +96,7 @@
         "contentBytes": 2592197,
         "contentTypeAgreement": "match",
         "contentProvenanceComplete": true,
-        "contentProvenanceRecordedAt": "2026-10-28T15:43:51.150Z"
+        "contentProvenanceRecordedAt": "2026-10-28T16:06:09.365Z"
       }
     ]
   },
