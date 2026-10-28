@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 82C5 / 1",
+    "source": "xms",
+    "source_ref": "000B 82C5 / 1",
+    "source_revision": null,
+    "job_id": "000B 82C5 / 1",
+    "job_title": "Childrens - Social Work Team Manager",
+    "client": "Hiring - Leeds City Council, Leeds City Council",
+    "procurer": null,
+    "working_address": "St Georges Centre, St Georges Road, Leeds, , LS10 4UZ, United Kingdom",
+    "city": "Leeds",
+    "postcode": "LS10 4UZ",
+    "start_date": "2026-11-02",
+    "end_date": "2026-11-15",
+    "pay_from": "35.13",
+    "pay_to": "35.13",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are looking for Children's Social work Team manager to manage busy area team. Applicants must have experience of team managing and be competent in managing from referral through to permanence.\n\nCandidates must be able to evidence competence in managing\n\nReferrals, through Assessment & Child in Needs, strategy discussion, S47 to Child Protection, Pre-Proceedings through court proceedings into permanence and adoption.\n\nPracticing in line with the councils restorative and family led approach.\nmanage and influence team culture\nsupport with performance, case decision making and outcome focussed supervision.\nManage staff welfare, performance and HR.\nEnsuring best practice and strong quality assurance processes.\n\nApplicants will be mainly office based and available between office hours 8.30 - 5 with some flexibility to support to see through cases / safety planning. The role is based at LS10\n\nAs Leeds is a restorative and relationship-based organisation, candidates are expected to be office based initially to get to know the team and service, with some hybrid working negotiated thereafter on non-duty weeks.",
+    "raw_portal_description": "We are looking for Children's Social work Team manager to manage busy area team. Applicants must have experience of team managing and be competent in managing from referral through to permanence.\n\nCandidates must be able to evidence competence in managing\n\nReferrals, through Assessment & Child in Needs, strategy discussion, S47 to Child Protection, Pre-Proceedings through court proceedings into permanence and adoption.\n\nPracticing in line with the councils restorative and family led approach.\nmanage and influence team culture\nsupport with performance, case decision making and outcome focussed supervision.\nManage staff welfare, performance and HR.\nEnsuring best practice and strong quality assurance processes.\n\nApplicants will be mainly office based and available between office hours 8.30 - 5 with some flexibility to support to see through cases / safety planning. The role is based at LS10\n\nAs Leeds is a restorative and relationship-based organisation, candidates are expected to be office based initially to get to know the team and service, with some hybrid working negotiated thereafter on non-duty weeks.",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1496380?backToItem=&initialLoad=&tab=&_xmscs=bfea8dc7c62a721b41285fe4f10b242098023b8ed7d14386cda96c8bcbe032940bb1d1726e791f36",
+    "accepted_at": "2026-10-28T14:39:43.221Z",
+    "scraped_at": "2026-10-28T14:39:43.221Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/143533?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 82C5 _ 1/DfE Recommendation Attribute.xls",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/vnd.ms-excel",
+        "declaredMimeType": "application/vnd.ms-excel",
+        "detectedMimeType": "application/vnd.ms-excel",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "801b2586f209dd82911dde63c958393d4113b028b3b3c7453dce5f91db53c256",
+        "contentBytes": 67072,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-10-28T14:39:43.304Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5309131",
     "source": "comensura",
     "source_ref": "5309131",
