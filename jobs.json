@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5309144",
+    "source": "comensura",
+    "source_ref": "5309144",
+    "source_revision": null,
+    "job_id": "5309144",
+    "job_title": "Team Manager - Childrens Services (Social Care - Qualified)",
+    "client": "Lancashire County Council",
+    "procurer": null,
+    "working_address": "Burnley Campus, Barden Lane, Burnley, Lancashire, BB10 1JD",
+    "city": "Burnley",
+    "postcode": "BB10 1JD",
+    "start_date": "2026-11-09",
+    "end_date": "2027-02-09",
+    "pay_from": "42.00",
+    "pay_to": "42.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Dept - CYP\nLocation - Burnley\nMay be extended as covering Parental Leave\nInterviews - ASAP\nSee attached JD for dull details\nIn addition to meeting the person specification, the postholder will need strong leadership and management skills, with the ability to provide effective supervision, oversight and performance management of social work staff. Experience of managing complex child protection, child in need and care planning work is essential, together with sound decision-making, risk assessment and safeguarding expertise. The candidate should be confident in chairing professional meetings, managing multi-agency partnerships, supporting practitioners through pre-proceedings and court processes, and driving high standards of practice, quality assurance and service improvement. Strong communication, report writing, workload management and coaching skills are required, alongside the ability to respond effectively to changing service demands and priorities.",
+    "raw_portal_description": "Dept - CYP\nLocation - Burnley\nMay be extended as covering Parental Leave\nInterviews - ASAP\nSee attached JD for dull details\nIn addition to meeting the person specification, the postholder will need strong leadership and management skills, with the ability to provide effective supervision, oversight and performance management of social work staff. Experience of managing complex child protection, child in need and care planning work is essential, together with sound decision-making, risk assessment and safeguarding expertise. The candidate should be confident in chairing professional meetings, managing multi-agency partnerships, supporting practitioners through pre-proceedings and court processes, and driving high standards of practice, quality assurance and service improvement. Strong communication, report writing, workload management and coaching skills are required, alongside the ability to respond effectively to changing service demands and priorities.",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-10-29T14:58:05.357Z",
+    "scraped_at": "2026-10-29T14:58:05.357Z",
+    "attachments": [
+      {
+        "filename": "CS Team Manager JD_ (003).docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5309144/File/227456",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5309144/227456-a3900482019a10366fbb2baf80ab15bba2cabb41cbb2934056d6e1c0dd7b8639.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "a3900482019a10366fbb2baf80ab15bba2cabb41cbb2934056d6e1c0dd7b8639",
+        "contentBytes": 143226,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-10-29T14:58:05.694Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5309146",
     "source": "comensura",
     "source_ref": "5309146",
