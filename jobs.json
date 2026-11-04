@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 8193 / 1",
+    "source": "xms",
+    "source_ref": "000B 8193 / 1",
+    "source_revision": null,
+    "job_id": "000B 8193 / 1",
+    "job_title": "Adults Senior Social Worker",
+    "client": "Manchester City Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Alexandra House, Moss Lane East, Manchester, Lancashire, M15 5BA, United Kingdom",
+    "city": "Manchester",
+    "postcode": "M15 5BA",
+    "start_date": "2026-12-07",
+    "end_date": "2027-01-29",
+    "pay_from": "32",
+    "pay_to": "32",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are thrilled to offer an exciting opportunity to join our Adult Early Support Team (AEST). This dynamic, rapidly expanding, and multidisciplinary team operates within Manchester Adult Care Services.\n\nOur aim is to provide effective, strengths based support from the first point of contact, aiming to prevent, reduce, or delay the escalation of needs and promote the independence of Manchester residents, while contributing to the delivery of the city's prevention agenda.\n\nWe're looking for a dynamic, passionate, and innovative individual who thrives in a fast-paced environment and embraces change. If you're someone who thinks creatively and is committed to making a positive impact on the lives of Manchester residents, we'd love to hear from you.\n\nYou should bring experience from a social care setting, particularly in supporting adults facing complex challenges. Strong collaboration skills are essential, as you'll work closely with a range of on-site partners including social care teams, police, mental health professionals, occupational therapists, and voluntary sector organisations.\n\nRequired - 3 years reference, gaps in employment history checked, any relevant quals as per JDPS.",
+    "raw_portal_description": "We are thrilled to offer an exciting opportunity to join our Adult Early Support Team (AEST). This dynamic, rapidly expanding, and multidisciplinary team operates within Manchester Adult Care Services.\n\nOur aim is to provide effective, strengths based support from the first point of contact, aiming to prevent, reduce, or delay the escalation of needs and promote the independence of Manchester residents, while contributing to the delivery of the city's prevention agenda.\n\nWe're looking for a dynamic, passionate, and innovative individual who thrives in a fast-paced environment and embraces change. If you're someone who thinks creatively and is committed to making a positive impact on the lives of Manchester residents, we'd love to hear from you.\n\nYou should bring experience from a social care setting, particularly in supporting adults facing complex challenges. Strong collaboration skills are essential, as you'll work closely with a range of on-site partners including social care teams, police, mental health professionals, occupational therapists, and voluntary sector organisations.\n\nRequired - 3 years reference, gaps in employment history checked, any relevant quals as per JDPS.",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1498417?backToItem=&initialLoad=&tab=&_xmscs=6d980eca585985a9fe1d0c5f05adf1f8f4f47fd65e5e13e6a0f280aaffacf8b9968062ef3b800958",
+    "accepted_at": "2026-11-04T11:43:52.564Z",
+    "scraped_at": "2026-11-04T11:43:52.564Z",
+    "attachments": [
+      {
+        "filename": "Role Profile - Senior Social Worker (G8).pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/143447?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 8193 _ 1/Role Profile - Senior Social Worker (G8).pdf",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/pdf",
+        "declaredMimeType": "application/pdf",
+        "detectedMimeType": "application/pdf",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "cd4d9470cd755d4735a641929e29dececeaf7b37e3ac9c4cfe7d7ecc4a7f13c4",
+        "contentBytes": 183343,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-04T11:43:52.735Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5309585",
     "source": "comensura",
     "source_ref": "5309585",
