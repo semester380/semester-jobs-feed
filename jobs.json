@@ -66,12 +66,12 @@
     "description_origin": "portal",
     "detail_url": "https://xms-portal.com/xms/distribution/show/1498971",
     "accepted_at": "2026-11-05T11:29:33.811Z",
-    "scraped_at": "2026-11-05T11:40:49.064Z",
+    "scraped_at": "2026-11-05T11:50:54.910Z",
     "attachments": [
       {
         "filename": "DfE Recommendation Attribute.xlsx",
         "url": "https://xms-portal.com/xms/distribution/viewAttachment/143807?attachmentClass=ItemAttachment",
-        "localPath": "/Users/robarnold/harvester/data/attachments/000B 87E3 _ 1/DfE Recommendation Attribute-2.xlsx",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 87E3 _ 1/DfE Recommendation Attribute-3.xlsx",
         "downloaded": true,
         "httpContentTypeRaw": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
         "declaredMimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
@@ -81,7 +81,7 @@
         "contentBytes": 39015,
         "contentTypeAgreement": "match",
         "contentProvenanceComplete": true,
-        "contentProvenanceRecordedAt": "2026-11-05T11:40:49.107Z"
+        "contentProvenanceRecordedAt": "2026-11-05T11:50:54.948Z"
       }
     ]
   },
