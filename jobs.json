@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 87A6 / 1",
+    "source": "xms",
+    "source_ref": "000B 87A6 / 1",
+    "source_revision": null,
+    "job_id": "000B 87A6 / 1",
+    "job_title": "Occupational Therapist [Blackpool]",
+    "client": "Blackpool Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Talbot Gateway, , Blackpool, Lancashire, FY1 3AH, United Kingdom",
+    "city": "Blackpool",
+    "postcode": "FY1 3AH",
+    "start_date": "2026-11-23",
+    "end_date": "2027-02-01",
+    "pay_from": "28.87",
+    "pay_to": "31.89",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "2 x 37\n\nWe are looking for Occupational Therapists who are dynamic and motivated, to work within the Adult Social Care Team, to support with Reablement, Assessment and Proportionate Care (Ao1).\n\nBlackpool's Adult Social Care is undertaking a fantastic transformation journey, and we are looking for enthusiastic, highly motivated people to come and join us.  You will be working within a Multi Disciplinary Team alongside Social Workers, Care Providers, and other Health and Care professionals to ensure that the People of Blackpool receive the best outcomes available to them.",
+    "raw_portal_description": "2 x 37\n\nWe are looking for Occupational Therapists who are dynamic and motivated, to work within the Adult Social Care Team, to support with Reablement, Assessment and Proportionate Care (Ao1).\n\nBlackpool's Adult Social Care is undertaking a fantastic transformation journey, and we are looking for enthusiastic, highly motivated people to come and join us.  You will be working within a Multi Disciplinary Team alongside Social Workers, Care Providers, and other Health and Care professionals to ensure that the People of Blackpool receive the best outcomes available to them.",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1498931?backToItem=&initialLoad=&tab=&_xmscs=846ea5d7ad4dd421d83f109355ef1e29f5b8780075c95a5d1d9beeb6a40a9601909319f49c33ea97",
+    "accepted_at": "2026-11-05T11:27:11.066Z",
+    "scraped_at": "2026-11-05T11:27:11.066Z",
+    "attachments": [
+      {
+        "filename": "Occupational Therapist - JD for advert.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/143797?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 87A6 _ 1/Occupational Therapist - JD for advert.docx",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "declaredMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "94bebd9904578de19b8c824147f255b72e13733bb17f719cde6a91de137c979b",
+        "contentBytes": 242968,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-05T11:27:11.238Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 882C / 1",
     "source": "xms",
     "source_ref": "000B 882C / 1",
