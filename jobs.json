@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 88F2 / 1",
+    "source": "xms",
+    "source_ref": "000B 88F2 / 1",
+    "source_revision": null,
+    "job_id": "000B 88F2 / 1",
+    "job_title": "Adults Social Worker Level 2",
+    "client": "SCC_Hiring, Sheffield City Council",
+    "procurer": null,
+    "working_address": "Community Mental Health Team North, Wheata Clinic, 570 Wheata Place, Sheffield, South Yorkshire, S5 9DZ, United Kingdom",
+    "city": "Sheffield",
+    "postcode": "S5 9DZ",
+    "start_date": "2026-11-16",
+    "end_date": "2027-03-31",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "This agency post is for the Mental Health Social Care team in Sheffield (North). The candidate will need to be an experienced social worker with a mental health background, and previous experience working within a mental health team/setting is essential.\n\nCore tasks and duties as follows:\n\nUndertaking social care assessments and delivering timely care packages for adults between 18-65 with severe and enduring mental health conditions, predominantly for those living in the community\nMental capacity assessments, BI decisions and s42 safeguarding duties/enquiries as required\nUnderstanding of Section 117, Attending 117 meetings, ward rounds, professional meetings\nParticipation in duty rota\nLAS / Liquid Logic experience preferred\nCar Driver preferred",
+    "raw_portal_description": "This agency post is for the Mental Health Social Care team in Sheffield (North). The candidate will need to be an experienced social worker with a mental health background, and previous experience working within a mental health team/setting is essential.\n\nCore tasks and duties as follows:\n\nUndertaking social care assessments and delivering timely care packages for adults between 18-65 with severe and enduring mental health conditions, predominantly for those living in the community\nMental capacity assessments, BI decisions and s42 safeguarding duties/enquiries as required\nUnderstanding of Section 117, Attending 117 meetings, ward rounds, professional meetings\nParticipation in duty rota\nLAS / Liquid Logic experience preferred\nCar Driver preferred",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1499371?backToItem=&initialLoad=&tab=&_xmscs=b8c24747d71b082236383f770a19b2c1356cfc34f20187673b523a3e4a7037cc3081313f64d1ef08",
+    "accepted_at": "2026-11-06T09:54:43.953Z",
+    "scraped_at": "2026-11-06T09:54:43.953Z",
+    "attachments": [
+      {
+        "filename": "2 x temporary rcfs for north - Nov 2026.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/143873?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 88F2 _ 1/2 x temporary rcfs for north - Nov 2026.pdf",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/pdf",
+        "declaredMimeType": "application/pdf",
+        "detectedMimeType": "application/pdf",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "9be1300489b2a9271dee348f49c5c78f192c6427c601d9e47725e66ce3cdf98c",
+        "contentBytes": 34468,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-06T09:54:44.069Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5309670",
     "source": "comensura",
     "source_ref": "5309670",
