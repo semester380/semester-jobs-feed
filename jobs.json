@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 89DB / 1",
+    "source": "xms",
+    "source_ref": "000B 89DB / 1",
+    "source_revision": null,
+    "job_id": "000B 89DB / 1",
+    "job_title": "Adults Social Worker Level 3 Lower Valley Team",
+    "client": "Calderdale Authorising, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "The Shay Stadium Halifax, , Halifax, west Yorkshire, HX1 2ys, United Kingdom",
+    "city": "Halifax",
+    "postcode": "HX1 2YS",
+    "start_date": "2026-11-16",
+    "end_date": "2027-02-16",
+    "pay_from": "22.37",
+    "pay_to": "22.37",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Social worker in a adults locality team, Care Act assessments, MCA's and Best interest, safeguarding and legal work.\n\nThe post is a 37 hour post to cover maternity leave between the Lower and South Locality Teams.\n\nWe are seeking individuals who are passionate about adult social care and providing a high-quality service and are keen to develop their professional experience and knowledge. They will be a key part in ensuring our continued success in fulfilling the Council’s statutory responsibilities under the Care Act 2014. The service is committed to helping people to achieve the outcomes that matter to them in their life and the successful applicant will work closely with colleagues to protect an adult’s right to live in safely, free from abuse and neglect.\n\nThe Team, work with people over the age of 18 with a Physical disability and older adults over the age of 65 with a variety of needs. The team work with individuals, their families, carers and other professionals to uphold Human Rights and outcomes that have a collaborative approach.\n\nDuties include:\n\nCompleting Care Act Assessments and Reviews\n\nConduct safeguarding enquiries and deal with stage 3 safeguarding investigations.\n\nComplete Mental capacity assessments and best interest decisions.\n\nAttend MDT meetings and work alongside other professionals within the community.\n\nAttend ICB reviews and complete CHC checklists /attend DST\n\nLegal work\n\nSupport on the office cover rota with screening tasks has context menu",
+    "raw_portal_description": "Social worker in a adults locality team, Care Act assessments, MCA's and Best interest, safeguarding and legal work.\n\nThe post is a 37 hour post to cover maternity leave between the Lower and South Locality Teams.\n\nWe are seeking individuals who are passionate about adult social care and providing a high-quality service and are keen to develop their professional experience and knowledge. They will be a key part in ensuring our continued success in fulfilling the Council’s statutory responsibilities under the Care Act 2014. The service is committed to helping people to achieve the outcomes that matter to them in their life and the successful applicant will work closely with colleagues to protect an adult’s right to live in safely, free from abuse and neglect.\n\nThe Team, work with people over the age of 18 with a Physical disability and older adults over the age of 65 with a variety of needs. The team work with individuals, their families, carers and other professionals to uphold Human Rights and outcomes that have a collaborative approach.\n\nDuties include:\n\nCompleting Care Act Assessments and Reviews\n\nConduct safeguarding enquiries and deal with stage 3 safeguarding investigations.\n\nComplete Mental capacity assessments and best interest decisions.\n\nAttend MDT meetings and work alongside other professionals within the community.\n\nAttend ICB reviews and complete CHC checklists /attend DST\n\nLegal work\n\nSupport on the office cover rota with screening tasks has context menu",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1499466?backToItem=&initialLoad=&tab=&_xmscs=d92da6255948c2b9462799c67c9c74322bd6b0f040cb89cbbadc880107b3f06c7e300d8a72658c8f",
+    "accepted_at": "2026-11-06T12:18:37.055Z",
+    "scraped_at": "2026-11-06T12:18:37.055Z",
+    "attachments": [
+      {
+        "filename": "Social_Worker_Level_3.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/143926?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 89DB _ 1/Social_Worker_Level_3.pdf",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/pdf",
+        "declaredMimeType": "application/pdf",
+        "detectedMimeType": "application/pdf",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "0d179b08f3cd5beab247faa9cf2009580660fd426fe76de556fc6ff224ea7777",
+        "contentBytes": 77832,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-06T12:18:37.119Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5309730",
     "source": "comensura",
     "source_ref": "5309730",
