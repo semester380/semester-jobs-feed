@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5309631",
+    "source": "comensura",
+    "source_ref": "5309631",
+    "source_revision": null,
+    "job_id": "5309631",
+    "job_title": "Adults Social Care - Social Worker - Post Progression (Social Care Qualified)",
+    "client": "Durham County Council",
+    "procurer": null,
+    "working_address": "95033S01, Enterprise House, Meadowfield Avenue, Spennymoor, Durham, DL16 6JF",
+    "city": "Spennymoor",
+    "postcode": "DL16 6JF",
+    "start_date": "2026-11-16",
+    "end_date": "2026-12-31",
+    "pay_from": "203.89",
+    "pay_to": "203.89",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "order for the Sedgefield SW Hub - 1 year agency post approved previously - this is to backfill prior agency worker that was removed from post.\nAlready approved by SM Julie Stockman.",
+    "raw_portal_description": "order for the Sedgefield SW Hub - 1 year agency post approved previously - this is to backfill prior agency worker that was removed from post.\nAlready approved by SM Julie Stockman.",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-11-06T18:19:24.348Z",
+    "scraped_at": "2026-11-06T18:19:24.348Z",
+    "attachments": [
+      {
+        "filename": "SW Post - spec.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5309631/File/227684",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5309631/227684-ff55a12047de02a77c7dac88cc5eef27f8d08ec0f4cdf94ae4f8d2f358d1b0d8.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "ff55a12047de02a77c7dac88cc5eef27f8d08ec0f4cdf94ae4f8d2f358d1b0d8",
+        "contentBytes": 18055,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-06T18:19:24.604Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 8853 / 1",
     "source": "xms",
     "source_ref": "000B 8853 / 1",
