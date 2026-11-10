@@ -23,7 +23,7 @@
     "description_origin": "portal",
     "detail_url": "https://xms-portal.com/xms/distribution/show/1500503",
     "accepted_at": "2026-11-10T11:07:06.152Z",
-    "scraped_at": "2026-11-10T11:18:13.120Z",
+    "scraped_at": "2026-11-10T11:28:26.362Z",
     "attachments": []
   },
   {
@@ -56056,6 +56056,33 @@
         "contentProvenanceRecordedAt": null
       }
     ]
+  },
+  {
+    "item_id": "prism:OR122225",
+    "source": "prism",
+    "source_ref": "OR122225",
+    "source_revision": null,
+    "job_id": "OR122225",
+    "job_title": "CSW - SWwF - Social Worker (MOU) Child in Need and Child Protection Service (MOU) - Social Care Qualified",
+    "client": "Croydon Council",
+    "procurer": "Marie Clair Enright",
+    "working_address": "Bernard Weatherill House, 8 Mint Walk, Croydon, Greater London, CR0 1EA, United Kingdom",
+    "city": "Croydon",
+    "postcode": "CR0 1EA",
+    "start_date": "2026-11-24",
+    "end_date": "",
+    "pay_from": "27.36",
+    "pay_to": "37.52",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "Social work position in social work with families- long term CP, CIN and court work. Hybrid working policy. Case load approx 18-20.",
+    "description": "CSW - SWwF - Social Worker (MOU) Child in Need and Child Protection Service (MOU)",
+    "raw_portal_description": "CSW - SWwF - Social Worker (MOU) Child in Need and Child Protection Service (MOU)",
+    "description_origin": "portal",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=872c0d1e-02d3-4cac-b5f6-36d43c4cb3ae",
+    "accepted_at": null,
+    "scraped_at": "2026-11-10T11:52:58.493Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR122241",
