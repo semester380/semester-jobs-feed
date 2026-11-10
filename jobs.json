@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5309941",
+    "source": "comensura",
+    "source_ref": "5309941",
+    "source_revision": null,
+    "job_id": "5309941",
+    "job_title": "Child And Youth Justice Worker (Social Care - Qualified)",
+    "client": "Lancashire County Council",
+    "procurer": null,
+    "working_address": "Fishergate, Leyland, Preston, Lancashire, PR1 8RE",
+    "city": "Preston",
+    "postcode": "PR1 8RE",
+    "start_date": "2026-12-01",
+    "end_date": "2027-02-26",
+    "pay_from": "18.81",
+    "pay_to": "18.81",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Child And Youth Justice Worker\nBased in Burnley or Preston\nClosing date for CV's 17/11/26\nInterviews - 20/11/26\nReview day 26/02/27\nSee attached JD for full details\nSkills, knowledge and experience\n- Extended experience or the ability to demonstrate the competence to undertake the role.\n- Possession of, or the ability to demonstrate the capability to gain, relevant qualifications, or equivalent where applicable.\n- Working knowledge of the practices, processes and procedures relevant to the role.\n- Developed skills appropriate to the job discipline.",
+    "raw_portal_description": "Child And Youth Justice Worker\nBased in Burnley or Preston\nClosing date for CV's 17/11/26\nInterviews - 20/11/26\nReview day 26/02/27\nSee attached JD for full details\nSkills, knowledge and experience\n- Extended experience or the ability to demonstrate the competence to undertake the role.\n- Possession of, or the ability to demonstrate the capability to gain, relevant qualifications, or equivalent where applicable.\n- Working knowledge of the practices, processes and procedures relevant to the role.\n- Developed skills appropriate to the job discipline.",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-11-10T23:03:32.815Z",
+    "scraped_at": "2026-11-10T23:03:32.815Z",
+    "attachments": [
+      {
+        "filename": "CYJS Worker - Job advert Sep 2026.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5309941/File/227845",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5309941/227845-292082c4e6edecccc2bdef46abd68dcc431e7d696dbe5b5d1924775713f76b97.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "292082c4e6edecccc2bdef46abd68dcc431e7d696dbe5b5d1924775713f76b97",
+        "contentBytes": 22564,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-10T23:03:32.993Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5309498",
     "source": "comensura",
     "source_ref": "5309498",
