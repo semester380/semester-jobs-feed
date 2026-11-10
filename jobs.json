@@ -3192,7 +3192,7 @@
     "working_address": "4 Manchester Road, Bradford, Yorkshire, BD5 0QL",
     "city": "Bradford",
     "postcode": "BD5 0QL",
-    "start_date": "2026-11-09",
+    "start_date": "2026-11-30",
     "end_date": "2027-02-01",
     "pay_from": "37.00",
     "pay_to": "37.00",
@@ -3204,7 +3204,7 @@
     "description_origin": "portal",
     "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
     "accepted_at": "2026-10-23T19:19:49.943Z",
-    "scraped_at": "2026-10-23T19:19:49.943Z",
+    "scraped_at": "2026-11-10T17:34:04.228Z",
     "attachments": [
       {
         "filename": "Advanced Practitioner.doc.pdf",
