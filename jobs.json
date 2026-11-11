@@ -139,12 +139,12 @@
     "description_origin": "portal",
     "detail_url": "https://xms-portal.com/xms/distribution/show/1501542",
     "accepted_at": "2026-11-11T14:53:03.306Z",
-    "scraped_at": "2026-11-11T15:04:01.177Z",
+    "scraped_at": "2026-11-11T15:14:17.615Z",
     "attachments": [
       {
         "filename": "DfE Recommendation Attribute.xlsx",
         "url": "https://xms-portal.com/xms/distribution/viewAttachment/144080?attachmentClass=ItemAttachment",
-        "localPath": "/Users/robarnold/harvester/data/attachments/000B 8CAF _ 1/DfE Recommendation Attribute-2.xlsx",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 8CAF _ 1/DfE Recommendation Attribute-3.xlsx",
         "downloaded": true,
         "httpContentTypeRaw": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
         "declaredMimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
@@ -154,7 +154,7 @@
         "contentBytes": 39015,
         "contentTypeAgreement": "match",
         "contentProvenanceComplete": true,
-        "contentProvenanceRecordedAt": "2026-11-11T15:04:01.225Z"
+        "contentProvenanceRecordedAt": "2026-11-11T15:14:17.680Z"
       }
     ]
   },
@@ -56441,6 +56441,33 @@
         "contentProvenanceRecordedAt": null
       }
     ]
+  },
+  {
+    "item_id": "prism:OR122559",
+    "source": "prism",
+    "source_ref": "OR122559",
+    "source_revision": null,
+    "job_id": "OR122559",
+    "job_title": "Sector Marketing Manger G10 - Admin & Clerical",
+    "client": "YPO",
+    "procurer": "Phil Williams",
+    "working_address": "Industrial Park, 41 Kenmore Road, Wakefield, West Yorkshire, WF2 0XE, United Kingdom",
+    "city": "Wakefield",
+    "postcode": "WF2 0XE",
+    "start_date": "2026-11-26",
+    "end_date": "",
+    "pay_from": "22.37",
+    "pay_to": "29.44",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "None",
+    "description": "Role Purpose\n\nThis is a senior marketing role responsible for leading the development and delivery of marketing strategies for YPO's Procurement Services sector. The postholder will work closely with senior leaders and category teams to increase brand awareness, generate leads, strengthen customer relationships, and drive revenue growth. The role combines strategic planning, campaign leadership, stakeholder management, and performance analysis to support organisational objectives and commercial success.\n\nKey Responsibilities\nDevelop and implement annual marketing strategies aligned to organisational and sector objectives.\nLead, plan, execute, and evaluate multi-channel marketing campaigns that attract new customers, increase engagement, and improve retention.\nDrive qualified website traffic and generate leads for the procurement team.\nAct as the marketing lead for Procurement Services, partnering with category leads to deliver agreed business priorities.\nOversee the creation of compelling content across websites, blogs, publications, email campaigns, and digital channels.\nManage the end-to-end delivery of email marketing campaigns, including planning, execution, reporting, and optimisation.\nMonitor customer behaviour, market trends, competitor activity, and campaign performance to inform marketing decisions.\nIdentify and implement innovative marketing techniques, technologies, and continuous improvement initiatives.\nBuild relationships with suppliers, partners, and agencies to maximise collaboration opportunities and commercial outcomes.\nTake ownership of customer touchpoints, communications, and marketing assets to ensure a consistent customer experience.\nPlanning and Organising\nLead extensive marketing planning to support delivery of the organisational strategy.\nHold full responsibility for marketing activity within the assigned sector, including forecasting, budgeting, campaign planning, timelines, and performance delivery.\nCoordinate cross-functional planning with procurement, sales, customer services, finance, operations, and other internal teams.\nBalance strategic priorities while responding effectively to ad hoc requests from senior stakeholders.\nContinuously analyse and monitor campaign performance, using data and insights to optimise results and achieve objectives.\nProblem Solving and Decision Making\nMake strategic and operational decisions regarding the planning, implementation, and measurement of marketing activity.\nEnsure all marketing activity maintains the integrity of the YPO brand and delivers a positive customer experience.\nInfluence senior stakeholders and sector leaders on marketing strategy, priorities, and delivery.\nRecommend and implement tactical and strategic improvements that support business growth and organisational objectives.\nStakeholder Management and Relationships\n\nInternal stakeholders:\n\nStrategic Leadership Team\nMarketing and E-Commerce Team\nProcurement teams (Category Business Managers and Buyers)\nBusiness Development and Sales Teams\nFinance, Operations, Customer Services, HR, and other support functions\n\nExternal stakeholders:\n\nCustomers\nSuppliers\nStrategic partners\nDigital and creative agencies\nSkills and Experience Demonstrated by the Role\nStrategic marketing leadership\nCampaign planning and execution\nLead generation and customer acquisition\nCustomer engagement and retention\nContent marketing and brand management\nData analysis and performance reporting\nStakeholder engagement and influencing skills\nCross-functional collaboration\nCommercial awareness and revenue growth focus\nProject management and organisational skills\nPersonal Attributes\nStrong communicator with the ability to explain complex information clearly and confidently.\nInfluential relationship builder capable of working effectively with senior stakeholders.\nProactive, analytical, and commercially minded.\nAdaptable and able to manage multiple priorities in a fast-paced environment.\nFluent spoken English at Level 2 (Proficient) in line with the Fluency Duty requirements under the Immigration Act 2016.",
+    "raw_portal_description": "Role Purpose\n\nThis is a senior marketing role responsible for leading the development and delivery of marketing strategies for YPO's Procurement Services sector. The postholder will work closely with senior leaders and category teams to increase brand awareness, generate leads, strengthen customer relationships, and drive revenue growth. The role combines strategic planning, campaign leadership, stakeholder management, and performance analysis to support organisational objectives and commercial success.\n\nKey Responsibilities\nDevelop and implement annual marketing strategies aligned to organisational and sector objectives.\nLead, plan, execute, and evaluate multi-channel marketing campaigns that attract new customers, increase engagement, and improve retention.\nDrive qualified website traffic and generate leads for the procurement team.\nAct as the marketing lead for Procurement Services, partnering with category leads to deliver agreed business priorities.\nOversee the creation of compelling content across websites, blogs, publications, email campaigns, and digital channels.\nManage the end-to-end delivery of email marketing campaigns, including planning, execution, reporting, and optimisation.\nMonitor customer behaviour, market trends, competitor activity, and campaign performance to inform marketing decisions.\nIdentify and implement innovative marketing techniques, technologies, and continuous improvement initiatives.\nBuild relationships with suppliers, partners, and agencies to maximise collaboration opportunities and commercial outcomes.\nTake ownership of customer touchpoints, communications, and marketing assets to ensure a consistent customer experience.\nPlanning and Organising\nLead extensive marketing planning to support delivery of the organisational strategy.\nHold full responsibility for marketing activity within the assigned sector, including forecasting, budgeting, campaign planning, timelines, and performance delivery.\nCoordinate cross-functional planning with procurement, sales, customer services, finance, operations, and other internal teams.\nBalance strategic priorities while responding effectively to ad hoc requests from senior stakeholders.\nContinuously analyse and monitor campaign performance, using data and insights to optimise results and achieve objectives.\nProblem Solving and Decision Making\nMake strategic and operational decisions regarding the planning, implementation, and measurement of marketing activity.\nEnsure all marketing activity maintains the integrity of the YPO brand and delivers a positive customer experience.\nInfluence senior stakeholders and sector leaders on marketing strategy, priorities, and delivery.\nRecommend and implement tactical and strategic improvements that support business growth and organisational objectives.\nStakeholder Management and Relationships\n\nInternal stakeholders:\n\nStrategic Leadership Team\nMarketing and E-Commerce Team\nProcurement teams (Category Business Managers and Buyers)\nBusiness Development and Sales Teams\nFinance, Operations, Customer Services, HR, and other support functions\n\nExternal stakeholders:\n\nCustomers\nSuppliers\nStrategic partners\nDigital and creative agencies\nSkills and Experience Demonstrated by the Role\nStrategic marketing leadership\nCampaign planning and execution\nLead generation and customer acquisition\nCustomer engagement and retention\nContent marketing and brand management\nData analysis and performance reporting\nStakeholder engagement and influencing skills\nCross-functional collaboration\nCommercial awareness and revenue growth focus\nProject management and organisational skills\nPersonal Attributes\nStrong communicator with the ability to explain complex information clearly and confidently.\nInfluential relationship builder capable of working effectively with senior stakeholders.\nProactive, analytical, and commercially minded.\nAdaptable and able to manage multiple priorities in a fast-paced environment.\nFluent spoken English at Level 2 (Proficient) in line with the Fluency Duty requirements under the Immigration Act 2016.",
+    "description_origin": "portal",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=3083e832-5849-4152-b8c3-00a36df192b4",
+    "accepted_at": null,
+    "scraped_at": "2026-11-11T16:08:01.161Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR122533",
