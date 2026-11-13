@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 8B94 / 1",
+    "source": "xms",
+    "source_ref": "000B 8B94 / 1",
+    "source_revision": null,
+    "job_id": "000B 8B94 / 1",
+    "job_title": "Adults Social Worker [Bolton]",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Market Street, Farnworth, Bolton, Lancashire, BL4 7PD, United Kingdom",
+    "city": "Bolton",
+    "postcode": "BL4 7PD",
+    "start_date": "2026-12-14",
+    "end_date": "2027-05-16",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "This position is with the young adults in transition, Preparing for Adulthood Team located within adult services.  Social worker required with minimum of 2 years post qualified practice statutory role within adult social care.  Experience of assessments and planning in accordance with the Care Act 2014 and Mental Capacity Act 2005.  Requiring 3 years reference, gaps in employment history checked, any relevant quals as per JDPS.\n\nThe contractual hours for this role are 8:36am to 5:00pm, Monday to Friday, with a one-hour unpaid lunch break. However, the service supports a flexible working culture and there is generally flexibility around start and finish times, provided operational requirements are met.Bolton Council operates a hybrid working policy which requires employees to be office-based for approximately 60% of their working time. For a full-time worker, this would typically mean a maximum of two days per week working from home, subject to service requirements and managerial agreement.\n\nTo support induction, integration into the team, and familiarisation with local systems, processes and partnership arrangements, the successful candidate will be expected to attend the office full-time during their first 3 to 4 weeks in post.",
+    "raw_portal_description": "This position is with the young adults in transition, Preparing for Adulthood Team located within adult services.  Social worker required with minimum of 2 years post qualified practice statutory role within adult social care.  Experience of assessments and planning in accordance with the Care Act 2014 and Mental Capacity Act 2005.  Requiring 3 years reference, gaps in employment history checked, any relevant quals as per JDPS.\n\nThe contractual hours for this role are 8:36am to 5:00pm, Monday to Friday, with a one-hour unpaid lunch break. However, the service supports a flexible working culture and there is generally flexibility around start and finish times, provided operational requirements are met.Bolton Council operates a hybrid working policy which requires employees to be office-based for approximately 60% of their working time. For a full-time worker, this would typically mean a maximum of two days per week working from home, subject to service requirements and managerial agreement.\n\nTo support induction, integration into the team, and familiarisation with local systems, processes and partnership arrangements, the successful candidate will be expected to attend the office full-time during their first 3 to 4 weeks in post.",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1502354?backToItem=&initialLoad=&tab=&_xmscs=f44f40cc91a0331b41b4b6ff97f6d4612adfba64fa630737258bac361644e59f9212a7b0dc0eee29",
+    "accepted_at": "2026-11-13T08:29:15.740Z",
+    "scraped_at": "2026-11-13T08:29:15.740Z",
+    "attachments": [
+      {
+        "filename": "Social Worker Gr H to I.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/144033?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 8B94 _ 1/Social Worker Gr H to I.docx",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "declaredMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "18ee55c824284593da674a080942296790ed4005054f1bd747723a3627dfb77c",
+        "contentBytes": 212396,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-13T08:29:15.830Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5308993",
     "source": "comensura",
     "source_ref": "5308993",
