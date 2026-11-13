@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5310013",
+    "source": "comensura",
+    "source_ref": "5310013",
+    "source_revision": null,
+    "job_id": "5310013",
+    "job_title": "Basic Grade Occupational Therapist (Jajf4046 - G9) (Social and Healthcare Qualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Floor cost centre s E151900, Delamere House, CW1 2JZ",
+    "city": "Delamere House",
+    "postcode": "CW1 2JZ",
+    "start_date": "2026-11-15",
+    "end_date": "2027-03-31",
+    "pay_from": "35.00",
+    "pay_to": "35.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A Recruitment Request number is required for all Orders, please state here: 20472\nSouth OT team cost centre code is E151900, please can this be corrected on the system, thanks\nPlease confirm which DBS is required for this role.\n5. Enhanced – including barred:\nc. Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "raw_portal_description": "A Recruitment Request number is required for all Orders, please state here: 20472\nSouth OT team cost centre code is E151900, please can this be corrected on the system, thanks\nPlease confirm which DBS is required for this role.\n5. Enhanced – including barred:\nc. Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-11-13T10:08:16.224Z",
+    "scraped_at": "2026-11-13T10:08:16.224Z",
+    "attachments": [
+      {
+        "filename": "JAJF4046 - Basic Grade Occ Ther - JD and PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5310013/File/227872",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5310013/227872-85489bd32a5ebf26c531e3e0e519d3b1245f2211f62aa81381b624d2948e162b.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/pdf",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "85489bd32a5ebf26c531e3e0e519d3b1245f2211f62aa81381b624d2948e162b",
+        "contentBytes": 78130,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-13T10:08:16.405Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 8B94 / 1",
     "source": "xms",
     "source_ref": "000B 8B94 / 1",
@@ -21,14 +64,14 @@
     "description": "This position is with the young adults in transition, Preparing for Adulthood Team located within adult services.  Social worker required with minimum of 2 years post qualified practice statutory role within adult social care.  Experience of assessments and planning in accordance with the Care Act 2014 and Mental Capacity Act 2005.  Requiring 3 years reference, gaps in employment history checked, any relevant quals as per JDPS.\n\nThe contractual hours for this role are 8:36am to 5:00pm, Monday to Friday, with a one-hour unpaid lunch break. However, the service supports a flexible working culture and there is generally flexibility around start and finish times, provided operational requirements are met.Bolton Council operates a hybrid working policy which requires employees to be office-based for approximately 60% of their working time. For a full-time worker, this would typically mean a maximum of two days per week working from home, subject to service requirements and managerial agreement.\n\nTo support induction, integration into the team, and familiarisation with local systems, processes and partnership arrangements, the successful candidate will be expected to attend the office full-time during their first 3 to 4 weeks in post.",
     "raw_portal_description": "This position is with the young adults in transition, Preparing for Adulthood Team located within adult services.  Social worker required with minimum of 2 years post qualified practice statutory role within adult social care.  Experience of assessments and planning in accordance with the Care Act 2014 and Mental Capacity Act 2005.  Requiring 3 years reference, gaps in employment history checked, any relevant quals as per JDPS.\n\nThe contractual hours for this role are 8:36am to 5:00pm, Monday to Friday, with a one-hour unpaid lunch break. However, the service supports a flexible working culture and there is generally flexibility around start and finish times, provided operational requirements are met.Bolton Council operates a hybrid working policy which requires employees to be office-based for approximately 60% of their working time. For a full-time worker, this would typically mean a maximum of two days per week working from home, subject to service requirements and managerial agreement.\n\nTo support induction, integration into the team, and familiarisation with local systems, processes and partnership arrangements, the successful candidate will be expected to attend the office full-time during their first 3 to 4 weeks in post.",
     "description_origin": "portal",
-    "detail_url": "https://xms-portal.com/xms/distribution/show/1502354?backToItem=&initialLoad=&tab=&_xmscs=f44f40cc91a0331b41b4b6ff97f6d4612adfba64fa630737258bac361644e59f9212a7b0dc0eee29",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1502354",
     "accepted_at": "2026-11-13T08:29:15.740Z",
-    "scraped_at": "2026-11-13T08:29:15.740Z",
+    "scraped_at": "2026-11-13T08:51:40.803Z",
     "attachments": [
       {
         "filename": "Social Worker Gr H to I.docx",
         "url": "https://xms-portal.com/xms/distribution/viewAttachment/144033?attachmentClass=ItemAttachment",
-        "localPath": "/Users/robarnold/harvester/data/attachments/000B 8B94 _ 1/Social Worker Gr H to I.docx",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 8B94 _ 1/Social Worker Gr H to I-3.docx",
         "downloaded": true,
         "httpContentTypeRaw": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
         "declaredMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -38,7 +81,7 @@
         "contentBytes": 212396,
         "contentTypeAgreement": "match",
         "contentProvenanceComplete": true,
-        "contentProvenanceRecordedAt": "2026-11-13T08:29:15.830Z"
+        "contentProvenanceRecordedAt": "2026-11-13T08:51:40.870Z"
       }
     ]
   },
