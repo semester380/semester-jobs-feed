@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 8DB1 / 1",
+    "source": "xms",
+    "source_ref": "000B 8DB1 / 1",
+    "source_revision": null,
+    "job_id": "000B 8DB1 / 1",
+    "job_title": "Childrens Social Worker (Emergency Duty Team) [Bolton]",
+    "client": "Bolton Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Castleton Street, Tonge Moor, Bolton, Lancashire, BL2 2JW, United Kingdom",
+    "city": "Bolton",
+    "postcode": "BL2 2JW",
+    "start_date": "2026-12-14",
+    "end_date": "2027-02-05",
+    "pay_from": "37",
+    "pay_to": "37",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are looking for an experience qualified Social Worker to joint our Emergency Duty Team (EDT).\n\nThe EDT operate an emergency out of hours service for professionals and the general public in Bolton. The emergency social worker works between 5pm and 9.00am Monday to Thursday and 24 hours at Weekends and Bank Holidays.\n\nThe role entails working directly with service users using a range of social work knowledge, skills, methods and techniques. The role relates specifically to the provision of an emergency social work service out of hours, including responsibilities under the Mental Health Act, child protection duties and other situations where there is a risk to individual members of the public.\n\nApplicants must be AMPH trained to enable duties and functions to be undertaken including but not limited to\n\nProviding an emergency social work service to Children’s & Adults Social Care, Mental Health and homelessness as appropriate.\nUndertaking the role of Approval Mental Health Practitioner, ensuring decisions made and actions taken are appropriate and in line with Legislation / best practice.\nProviding guidance, support and case supervision to other staff, including Back up Social Workers and call handlers, who work out of hours and, where appropriate, approval of case management decisions.\n\nFor full duties see attached JD/PS.\n\nThe role is homebased – however any applicants must be able to travel or attend meetings in Bolton at short notice.\n\nReferences will be requested for any candidate invited to interview",
+    "raw_portal_description": "We are looking for an experience qualified Social Worker to joint our Emergency Duty Team (EDT).\n\nThe EDT operate an emergency out of hours service for professionals and the general public in Bolton. The emergency social worker works between 5pm and 9.00am Monday to Thursday and 24 hours at Weekends and Bank Holidays.\n\nThe role entails working directly with service users using a range of social work knowledge, skills, methods and techniques. The role relates specifically to the provision of an emergency social work service out of hours, including responsibilities under the Mental Health Act, child protection duties and other situations where there is a risk to individual members of the public.\n\nApplicants must be AMPH trained to enable duties and functions to be undertaken including but not limited to\n\nProviding an emergency social work service to Children’s & Adults Social Care, Mental Health and homelessness as appropriate.\nUndertaking the role of Approval Mental Health Practitioner, ensuring decisions made and actions taken are appropriate and in line with Legislation / best practice.\nProviding guidance, support and case supervision to other staff, including Back up Social Workers and call handlers, who work out of hours and, where appropriate, approval of case management decisions.\n\nFor full duties see attached JD/PS.\n\nThe role is homebased – however any applicants must be able to travel or attend meetings in Bolton at short notice.\n\nReferences will be requested for any candidate invited to interview",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1502943?backToItem=&initialLoad=&tab=&_xmscs=96870d4ba4de82279fc8d6cce3e81e19b9691bcf7d905c23bd183c3702966418efeedad70aa79507",
+    "accepted_at": "2026-11-13T16:23:43.088Z",
+    "scraped_at": "2026-11-13T16:23:43.088Z",
+    "attachments": [
+      {
+        "filename": "Social Worker (Emergency Duty Team) JDPS March 2023.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/144133?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 8DB1 _ 1/Social Worker (Emergency Duty Team) JDPS March 2023.docx",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "declaredMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "3d9e4badfe6f3092fa64f8d788ef18f2bdfa6ce5a70a0ed949c31d4a12112381",
+        "contentBytes": 436365,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-13T16:23:43.243Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 878A / 1",
     "source": "xms",
     "source_ref": "000B 878A / 1",
