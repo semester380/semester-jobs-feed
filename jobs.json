@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5310331",
+    "source": "comensura",
+    "source_ref": "5310331",
+    "source_revision": null,
+    "job_id": "5310331",
+    "job_title": "Social Worker - Childrens Services (Social Care - Qualified)",
+    "client": "Lancashire County Council",
+    "procurer": null,
+    "working_address": "Burnley Campus, Barden Lane, Burnley, Lancashire, BB10 1JD",
+    "city": "Burnley",
+    "postcode": "BB10 1JD",
+    "start_date": "2026-11-30",
+    "end_date": "2027-01-25",
+    "pay_from": "39.00",
+    "pay_to": "39.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Dept - Family Safeguarding\nLocation - Burnley & Pendle\nInterviews - ASAP\nSee attached JD for full details\nALL CANDIDATES MUST\n• have at least three years' experience in a permanent post within a local authority\n• not have held a permanent or fixed-term position with an LA within the last 12 weeks\nFamily Safeguarding Service | Lancashire\nWe're expanding our Family Safeguarding Service in East Lancashire and are seeking experienced Social Workers to support children and families within our Child in Need, Child Protection and Court Teams.\nWhy Lancashire?\n✅ Innovative Family Safeguarding model\n✅ Strong, stable and supportive teams\n✅ High-quality reflective supervision\n✅ Multi-disciplinary working with specialist practitioners\n✅ Training in Family Safeguarding and Motivational Interviewing\n✅ Professional autonomy and manageable decision-making\nWe're looking for:\n• 3+ years' post-qualification experience in children's social care\n• Experience of CIN, CP and Court work\n• Relationship-based, strengths-focused practitioners\n• Social workers who are passionate about improving outcomes for children\nJoin a service where good social work is valued, relationships matter, and children remain at the heart of everything we do.",
+    "raw_portal_description": "Dept - Family Safeguarding\nLocation - Burnley & Pendle\nInterviews - ASAP\nSee attached JD for full details\nALL CANDIDATES MUST\n• have at least three years' experience in a permanent post within a local authority\n• not have held a permanent or fixed-term position with an LA within the last 12 weeks\nFamily Safeguarding Service | Lancashire\nWe're expanding our Family Safeguarding Service in East Lancashire and are seeking experienced Social Workers to support children and families within our Child in Need, Child Protection and Court Teams.\nWhy Lancashire?\n✅ Innovative Family Safeguarding model\n✅ Strong, stable and supportive teams\n✅ High-quality reflective supervision\n✅ Multi-disciplinary working with specialist practitioners\n✅ Training in Family Safeguarding and Motivational Interviewing\n✅ Professional autonomy and manageable decision-making\nWe're looking for:\n• 3+ years' post-qualification experience in children's social care\n• Experience of CIN, CP and Court work\n• Relationship-based, strengths-focused practitioners\n• Social workers who are passionate about improving outcomes for children\nJoin a service where good social work is valued, relationships matter, and children remain at the heart of everything we do.",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-11-16T20:22:11.687Z",
+    "scraped_at": "2026-11-16T20:22:11.687Z",
+    "attachments": [
+      {
+        "filename": "social-worker-childrens-services-jdps (1).pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5310331/File/228030",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5310331/228030-a86c63b81915f7b8c0186de950b55da2a923b86474f8ac81e8795e36b8b27b7c.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/pdf",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "a86c63b81915f7b8c0186de950b55da2a923b86474f8ac81e8795e36b8b27b7c",
+        "contentBytes": 198908,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-16T20:22:12.109Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5310354",
     "source": "comensura",
     "source_ref": "5310354",
