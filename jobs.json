@@ -56225,8 +56225,8 @@
     "working_address": "Fishergate, Leyland, Preston, Lancashire, PR1 8RE",
     "city": "Preston",
     "postcode": "PR1 8RE",
-    "start_date": "2026-09-28",
-    "end_date": "2026-11-27",
+    "start_date": "2026-11-30",
+    "end_date": "2027-02-28",
     "pay_from": "39.00",
     "pay_to": "39.00",
     "pay_type": "per hour",
@@ -56237,7 +56237,7 @@
     "description_origin": "portal",
     "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
     "accepted_at": "2026-02-16T12:50:58.939Z",
-    "scraped_at": "2026-09-21T16:23:38.398Z",
+    "scraped_at": "2026-11-16T17:39:59.739Z",
     "attachments": []
   },
   {
