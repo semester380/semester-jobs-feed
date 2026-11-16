@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 9075 / 1",
+    "source": "xms",
+    "source_ref": "000B 9075 / 1",
+    "source_revision": null,
+    "job_id": "000B 9075 / 1",
+    "job_title": "Case Assessor [Blackpool]",
+    "client": "Blackpool Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Talbot Gateway, , Blackpool, Lancashire, FY1 3AH, United Kingdom",
+    "city": "Blackpool",
+    "postcode": "FY1 3AH",
+    "start_date": "2026-11-16",
+    "end_date": "2027-03-31",
+    "pay_from": "15.78",
+    "pay_to": "15.78",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Umbrella rate - £20.26\n\nCase Assessor (Review Team)\n\nFixed Term Opportunity\n\nLocation: Bickerstaffe House, Blackpool\nWorking Pattern: Hybrid working with a minimum of 3 days per week in the office\nHours: 37 hours per week\n\nAbout the Role\n\nWe are seeking experienced and motivated Case Assessors to join a dedicated Review Team within Adult Social Care. This is an exciting opportunity to be part of a fast-paced project focused on delivering timely, high-quality, strengths-based reviews for adults across the whole Adult Social Care department.\n\nWorking with people who have a range of needs, you will undertake person-centred reviews to ensure care and support arrangements remain appropriate, proportionate, and focused on achieving the outcomes that matter most to individuals. You will work collaboratively with people, families, providers and partner agencies to identify opportunities to maximise independence, utilise community resources and support networks, and ensure care arrangements continue to reflect assessed need.\n\nThis role offers a unique opportunity to work across a wide range of service areas, gaining valuable experience while contributing to improved outcomes for local residents.\n\nAbout You\n\nYou will have significant experience of undertaking Care Act reviews within Adult Social Care. You will be confident in applying strengths-based practice, managing competing priorities, and making evidence-based decisions within a busy operational environment.\n\nYou will demonstrate:\n\nA commitment to person-centred, strengths-based practice.\nExcellent assessment and review skills.\nThe ability to manage a varied and demanding caseload.\nStrong communication and partnership working skills.\nExperience of working with adults with complex needs.\nA proactive and solution-focused approach.\n\nIf you are passionate about promoting independence, delivering proportionate support, and ensuring people receive the right care at the right time, we would welcome your application.\n\nPlease note: Due to the fixed-term nature of this project and the volume of reviews to be completed, candidates should be comfortable working in a dynamic and fast-paced environment whilst maintaining high standards of practice and recording.",
+    "raw_portal_description": "Umbrella rate - £20.26\n\nCase Assessor (Review Team)\n\nFixed Term Opportunity\n\nLocation: Bickerstaffe House, Blackpool\nWorking Pattern: Hybrid working with a minimum of 3 days per week in the office\nHours: 37 hours per week\n\nAbout the Role\n\nWe are seeking experienced and motivated Case Assessors to join a dedicated Review Team within Adult Social Care. This is an exciting opportunity to be part of a fast-paced project focused on delivering timely, high-quality, strengths-based reviews for adults across the whole Adult Social Care department.\n\nWorking with people who have a range of needs, you will undertake person-centred reviews to ensure care and support arrangements remain appropriate, proportionate, and focused on achieving the outcomes that matter most to individuals. You will work collaboratively with people, families, providers and partner agencies to identify opportunities to maximise independence, utilise community resources and support networks, and ensure care arrangements continue to reflect assessed need.\n\nThis role offers a unique opportunity to work across a wide range of service areas, gaining valuable experience while contributing to improved outcomes for local residents.\n\nAbout You\n\nYou will have significant experience of undertaking Care Act reviews within Adult Social Care. You will be confident in applying strengths-based practice, managing competing priorities, and making evidence-based decisions within a busy operational environment.\n\nYou will demonstrate:\n\nA commitment to person-centred, strengths-based practice.\nExcellent assessment and review skills.\nThe ability to manage a varied and demanding caseload.\nStrong communication and partnership working skills.\nExperience of working with adults with complex needs.\nA proactive and solution-focused approach.\n\nIf you are passionate about promoting independence, delivering proportionate support, and ensuring people receive the right care at the right time, we would welcome your application.\n\nPlease note: Due to the fixed-term nature of this project and the volume of reviews to be completed, candidates should be comfortable working in a dynamic and fast-paced environment whilst maintaining high standards of practice and recording.",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1503783?backToItem=&initialLoad=&tab=&_xmscs=895736515339be128ddf0abe8e54856037ad4819611478a33514d07d9c0daa3328b97f6004da0c2b",
+    "accepted_at": "2026-11-16T17:17:20.814Z",
+    "scraped_at": "2026-11-16T17:17:20.814Z",
+    "attachments": [
+      {
+        "filename": "JD - 3208 - Advert.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/144274?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 9075 _ 1/JD - 3208 - Advert.doc",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/msword",
+        "declaredMimeType": "application/msword",
+        "detectedMimeType": "application/msword",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "15e37193d61eefaff3f7862b51df0e36ecc07876616ef5e23cb95987fff92537",
+        "contentBytes": 296448,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-16T17:17:20.909Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 905E / 1",
     "source": "xms",
     "source_ref": "000B 905E / 1",
