@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 9083 / 1",
+    "source": "xms",
+    "source_ref": "000B 9083 / 1",
+    "source_revision": null,
+    "job_id": "000B 9083 / 1",
+    "job_title": "Adults Social Worker [Blackpool]",
+    "client": "Blackpool Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Talbot Gateway, , Blackpool, Lancashire, FY1 3AH, United Kingdom",
+    "city": "Blackpool",
+    "postcode": "FY1 3AH",
+    "start_date": "2026-12-16",
+    "end_date": "2027-03-31",
+    "pay_from": "30.66",
+    "pay_to": "30.66",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "3 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSocial Worker (Review Team)\n\nFixed Term Opportunity\n\nLocation: Bickerstaffe House, Blackpool\nWorking Pattern: Hybrid working with a minimum of 3 days per week in the office\nHours: 37 hours per week\n\n\nAbout the Role\n\nWe are seeking experienced and motivated Social Workers to join a dedicated temporary Review Team within Adult Social Care. This is an exciting opportunity to be part of a fast paced project focused on delivering timely, high quality, strengths based reviews for adults across the whole Adult Social Care department.\n\nWorking with people who have a range of needs, you will undertake person centred reviews to ensure care and support arrangements remain appropriate, proportionate, and focused on achieving the outcomes that matter most to individuals. You will work collaboratively with people, families, providers and partner agencies to identify opportunities to maximise independence, utilise community resources and support networks, and ensure care arrangements continue to reflect assessed need.\n\nThis role offers a unique opportunity to work across a wide range of service areas, gaining valuable experience while contributing to improved outcomes for local residents.\n\nAbout You\n\nYou will be a qualified and registered Social Worker with experience of undertaking Care Act assessments and reviews within Adult Social Care. You will be confident in applying strengths based practice, managing competing priorities, and making evidence based decisions within a busy operational environment.\n\nYou will demonstrate:\n\nA commitment to person centred, strengths based practice.\nExcellent assessment and review skills.\nThe ability to manage a varied and demanding caseload.\nStrong communication and partnership working skills.\nExperience of working with adults with complex needs.\nA proactive and solution-focused approach.\n\nIf you are passionate about promoting independence, delivering proportionate support, and ensuring people receive the right care at the right time, we would welcome your application.\n\nPlease note: Due to the fixed term nature of this project and the volume of reviews to be completed, candidates should be comfortable working in a dynamic and fast paced environment whilst maintaining high standards of practice and recording.",
+    "raw_portal_description": "3 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSocial Worker (Review Team)\n\nFixed Term Opportunity\n\nLocation: Bickerstaffe House, Blackpool\nWorking Pattern: Hybrid working with a minimum of 3 days per week in the office\nHours: 37 hours per week\n\n\nAbout the Role\n\nWe are seeking experienced and motivated Social Workers to join a dedicated temporary Review Team within Adult Social Care. This is an exciting opportunity to be part of a fast paced project focused on delivering timely, high quality, strengths based reviews for adults across the whole Adult Social Care department.\n\nWorking with people who have a range of needs, you will undertake person centred reviews to ensure care and support arrangements remain appropriate, proportionate, and focused on achieving the outcomes that matter most to individuals. You will work collaboratively with people, families, providers and partner agencies to identify opportunities to maximise independence, utilise community resources and support networks, and ensure care arrangements continue to reflect assessed need.\n\nThis role offers a unique opportunity to work across a wide range of service areas, gaining valuable experience while contributing to improved outcomes for local residents.\n\nAbout You\n\nYou will be a qualified and registered Social Worker with experience of undertaking Care Act assessments and reviews within Adult Social Care. You will be confident in applying strengths based practice, managing competing priorities, and making evidence based decisions within a busy operational environment.\n\nYou will demonstrate:\n\nA commitment to person centred, strengths based practice.\nExcellent assessment and review skills.\nThe ability to manage a varied and demanding caseload.\nStrong communication and partnership working skills.\nExperience of working with adults with complex needs.\nA proactive and solution-focused approach.\n\nIf you are passionate about promoting independence, delivering proportionate support, and ensuring people receive the right care at the right time, we would welcome your application.\n\nPlease note: Due to the fixed term nature of this project and the volume of reviews to be completed, candidates should be comfortable working in a dynamic and fast paced environment whilst maintaining high standards of practice and recording.",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1503667?backToItem=&initialLoad=&tab=&_xmscs=a7922662e2641ac271259c6cee3089cd5af3e12dc3204e5bed2a10c85e5d7c947471a3c125b98f54",
+    "accepted_at": "2026-11-16T15:55:20.195Z",
+    "scraped_at": "2026-11-16T15:55:20.195Z",
+    "attachments": [
+      {
+        "filename": "SocialWorkerJDAdvert.pdf",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/144275?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 9083 _ 1/SocialWorkerJDAdvert.pdf",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/pdf",
+        "declaredMimeType": "application/pdf",
+        "detectedMimeType": "application/pdf",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "26ab23f31b4b2db2ac4506f39995b2bfb07e89f12564899055910374908bd6d4",
+        "contentBytes": 614979,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-16T15:55:20.367Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 8D4E / 1",
     "source": "xms",
     "source_ref": "000B 8D4E / 1",
