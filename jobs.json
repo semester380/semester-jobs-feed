@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 90DD / 1",
+    "source": "xms",
+    "source_ref": "000B 90DD / 1",
+    "source_revision": null,
+    "job_id": "000B 90DD / 1",
+    "job_title": "Children's Senior Social Worker [Stockport MBC]",
+    "client": "Stockport Metropolitan Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Piccadilly, Stockport, Stockport, , SK1 3XE, United Kingdom",
+    "city": "Stockport",
+    "postcode": "SK1 3XE",
+    "start_date": "2026-12-30",
+    "end_date": "2027-03-01",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Children with Disabilities Advanced Practitioner needed temporarily to support a thriving CWD service. Experienced of working with disabled children essential in addition to confidence in safeguarding.\n\nAt least 4 days in the office.",
+    "raw_portal_description": "Children with Disabilities Advanced Practitioner needed temporarily to support a thriving CWD service. Experienced of working with disabled children essential in addition to confidence in safeguarding.\n\nAt least 4 days in the office.",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1504282?backToItem=&initialLoad=&tab=&_xmscs=772a58ceba8d4b47df5bc7f24d09bd89c809ba133e57c8efb1513b0d3cfb2f985ebc4d828b7e3b08",
+    "accepted_at": "2026-11-17T16:36:07.489Z",
+    "scraped_at": "2026-11-17T16:36:07.489Z",
+    "attachments": [
+      {
+        "filename": "DfE Attributes 2025.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/144314?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 90DD _ 1/DfE Attributes 2025.xls",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/vnd.ms-excel",
+        "declaredMimeType": "application/vnd.ms-excel",
+        "detectedMimeType": "application/vnd.ms-excel",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "c0ba7924ef16d9ef828c3c29bd0e23abbf3fbe5936bbd6dabd3eb77ebbdacd18",
+        "contentBytes": 67584,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-17T16:36:07.622Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5310395",
     "source": "comensura",
     "source_ref": "5310395",
