@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5310402",
+    "source": "comensura",
+    "source_ref": "5310402",
+    "source_revision": null,
+    "job_id": "5310402",
+    "job_title": "Senior Family Worker (Social Care Unqualified)",
+    "client": "Stockton on Tees Borough Council",
+    "procurer": null,
+    "working_address": "Floor 1st, Dunedin House, TS17 6BJ",
+    "city": "Dunedin House",
+    "postcode": "TS17 6BJ",
+    "start_date": "2026-11-30",
+    "end_date": "2027-02-26",
+    "pay_from": "21.02",
+    "pay_to": "21.02",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Role is to be based within the Disabled Children's Social Work Team\nPlease see Job Spec attached within the Role Tab.",
+    "raw_portal_description": "Role is to be based within the Disabled Children's Social Work Team\nPlease see Job Spec attached within the Role Tab.",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-11-17T12:11:29.772Z",
+    "scraped_at": "2026-11-17T12:11:29.772Z",
+    "attachments": [
+      {
+        "filename": "Senior Family Worker (Disabled Childrens Team) - JD, PS & KR.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5310402/File/228083",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5310402/228083-fd5f96f40638f898c09701b8e583c4fa562c1964657295b053eabd2f418ed5f6.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/pdf",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "fd5f96f40638f898c09701b8e583c4fa562c1964657295b053eabd2f418ed5f6",
+        "contentBytes": 376207,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-17T12:11:30.052Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5310387",
     "source": "comensura",
     "source_ref": "5310387",
