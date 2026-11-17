@@ -57718,6 +57718,33 @@
     ]
   },
   {
+    "item_id": "prism:OR123307",
+    "source": "prism",
+    "source_ref": "OR123307",
+    "source_revision": null,
+    "job_id": "OR123307",
+    "job_title": "Occupational Health Advisor - Social Care Qualified",
+    "client": "Isle of Wight Council",
+    "procurer": "Nick Wright",
+    "working_address": "County Hall, High Street, Newport, Isle of Wight, PO30 1UD, United Kingdom",
+    "city": "Newport",
+    "postcode": "PO30 1UD",
+    "start_date": "2026-12-14",
+    "end_date": "",
+    "pay_from": "27.02",
+    "pay_to": "35.99",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "This role would ideally be a hybrid of in person and remote working however for the right person a fully remote option is available. Circa 7.5 hours per week (mon-fri) as demanded, potential for more during peak workloads.",
+    "description": "Job Purpose\n\nAssist in the delivery of a high quality, consistent and effective clinical lead occupational health service for the council and island schools.\n\nAssist in promoting and maintaining a good health & wellbeing climate within the workplace\n\nJob Context\n\nReview, develop and implement occupational health policies, practices aligned to organisational needs, in conjunction with human resources, health and safety colleagues and wider stakeholders.\n\nAssist in the development of the occupational health/health & wellbeing intranet. Triage management referrals, scheduling occupational health advisor clinics.\n\nManage own case load of occupational health referrals, face to face, telephone and paper based. Work in partnership with the external Occupational health provider to ensure the effective delivery of the occupational health service.\n\nProvide advice and guidance to managers on interventions and adjustments to support the management of health conditions within the workplace.\n\nProvide specialist occupational health advice on general medical matters within the broad sphere of employment including the applicability of the Equality Act.\n\nPrepare reports and maintain accurate health records as per professional guidelines and Council policies Attend meetings and case conferences to provide expert advice on occupational health matters Developing health screening programmes.\n\nCo-ordinate and deliver health surveillance (e.g. audiometry, HAVS, skin surveillance, night workers) and immunisation programmes (e.g. flu vaccinations) within the workplace.\n\nDesign and deliver promotions, presentations and training sessions on employee health and wellbeing, stress awareness and management of sickness absence.\n\nTo ensure that own professional development is maintained in line with Nursing and Midwifery Council requirements.",
+    "raw_portal_description": "Job Purpose\n\nAssist in the delivery of a high quality, consistent and effective clinical lead occupational health service for the council and island schools.\n\nAssist in promoting and maintaining a good health & wellbeing climate within the workplace\n\nJob Context\n\nReview, develop and implement occupational health policies, practices aligned to organisational needs, in conjunction with human resources, health and safety colleagues and wider stakeholders.\n\nAssist in the development of the occupational health/health & wellbeing intranet. Triage management referrals, scheduling occupational health advisor clinics.\n\nManage own case load of occupational health referrals, face to face, telephone and paper based. Work in partnership with the external Occupational health provider to ensure the effective delivery of the occupational health service.\n\nProvide advice and guidance to managers on interventions and adjustments to support the management of health conditions within the workplace.\n\nProvide specialist occupational health advice on general medical matters within the broad sphere of employment including the applicability of the Equality Act.\n\nPrepare reports and maintain accurate health records as per professional guidelines and Council policies Attend meetings and case conferences to provide expert advice on occupational health matters Developing health screening programmes.\n\nCo-ordinate and deliver health surveillance (e.g. audiometry, HAVS, skin surveillance, night workers) and immunisation programmes (e.g. flu vaccinations) within the workplace.\n\nDesign and deliver promotions, presentations and training sessions on employee health and wellbeing, stress awareness and management of sickness absence.\n\nTo ensure that own professional development is maintained in line with Nursing and Midwifery Council requirements.",
+    "description_origin": "portal",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=23595011-edff-45b3-bfc1-69de7d098ae4",
+    "accepted_at": null,
+    "scraped_at": "2026-11-17T12:22:17.056Z",
+    "attachments": []
+  },
+  {
     "item_id": "prism:OR123353",
     "source": "prism",
     "source_ref": "OR123353",
@@ -57741,7 +57768,7 @@
     "description_origin": "synthetic",
     "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=e70b906a-36cd-40a6-8bfa-c9113cd367cb",
     "accepted_at": null,
-    "scraped_at": "2026-11-17T12:07:07.833Z",
+    "scraped_at": "2026-11-17T12:17:52.921Z",
     "attachments": []
   },
   {
