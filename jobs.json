@@ -21,14 +21,14 @@
     "description": "MCC Require a Senior SW for Cared For Children\n\nWorking 35 hours.  Monday to Friday\nWorking for an outstanding authority with high support and high challenge\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
     "raw_portal_description": "MCC Require a Senior SW for Cared For Children\n\nWorking 35 hours.  Monday to Friday\nWorking for an outstanding authority with high support and high challenge\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
     "description_origin": "portal",
-    "detail_url": "https://xms-portal.com/xms/distribution/show/1504812?backToItem=&initialLoad=&tab=&_xmscs=7524b6f2a547864222584717f878708dadc6ceba9424d4ba8de9a65f190d346e14cc29fbe63534b0",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1504812",
     "accepted_at": "2026-11-18T14:59:25.860Z",
-    "scraped_at": "2026-11-18T14:59:25.860Z",
+    "scraped_at": "2026-11-18T15:21:31.373Z",
     "attachments": [
       {
         "filename": "DfE Attributes 2025.xls",
         "url": "https://xms-portal.com/xms/distribution/viewAttachment/144150?attachmentClass=ItemAttachment",
-        "localPath": "/Users/robarnold/harvester/data/attachments/000B 8E27 _ 1/DfE Attributes 2025.xls",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 8E27 _ 1/DfE Attributes 2025-1.xls",
         "downloaded": true,
         "httpContentTypeRaw": "application/vnd.ms-excel",
         "declaredMimeType": "application/vnd.ms-excel",
@@ -38,7 +38,7 @@
         "contentBytes": 67584,
         "contentTypeAgreement": "match",
         "contentProvenanceComplete": true,
-        "contentProvenanceRecordedAt": "2026-11-18T14:59:25.959Z"
+        "contentProvenanceRecordedAt": "2026-11-18T15:21:31.552Z"
       }
     ]
   },
