@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5310632",
+    "source": "comensura",
+    "source_ref": "5310632",
+    "source_revision": null,
+    "job_id": "5310632",
+    "job_title": "Community Resource Worker (Social Care Qualified)",
+    "client": "Bradford Metropolitan District Council",
+    "procurer": null,
+    "working_address": "4 Manchester Road, Bradford, Yorkshire, BD5 0QL",
+    "city": "Bradford",
+    "postcode": "BD5 0QL",
+    "start_date": "2026-12-07",
+    "end_date": "2027-03-02",
+    "pay_from": "22.00",
+    "pay_to": "22.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Team 1 to 10\nChildren in Care\nStart: asap\n3 Months\napproved: 30/10/2026\nAG732",
+    "raw_portal_description": "Team 1 to 10\nChildren in Care\nStart: asap\n3 Months\napproved: 30/10/2026\nAG732",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-11-19T20:30:05.307Z",
+    "scraped_at": "2026-11-19T20:30:05.307Z",
+    "attachments": [
+      {
+        "filename": "Community Resource Worker (Localities) - Job Profile.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5310632/File/228195",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5310632/228195-3f109efd3d1f371ffbb0400f9d2ec080ea65b177628fc8bebda3a63ca5295777.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/pdf",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "3f109efd3d1f371ffbb0400f9d2ec080ea65b177628fc8bebda3a63ca5295777",
+        "contentBytes": 179599,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-19T20:30:05.523Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5310612",
     "source": "comensura",
     "source_ref": "5310612",
