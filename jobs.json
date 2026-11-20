@@ -1,5 +1,63 @@
 [
   {
+    "item_id": "000B 93DC / 1",
+    "source": "xms",
+    "source_ref": "000B 93DC / 1",
+    "source_revision": null,
+    "job_id": "000B 93DC / 1",
+    "job_title": "Childrens - Advanced Practitioner",
+    "client": "Authorising - Leeds City Council, Leeds City Council",
+    "procurer": null,
+    "working_address": "Merrion House, 110 Merrion Centre, Leeds, , LS1 2HJ, United Kingdom",
+    "city": "Leeds",
+    "postcode": "LS1 2HJ",
+    "start_date": "2026-11-24",
+    "end_date": "2026-12-14",
+    "pay_from": "32.5",
+    "pay_to": "32.5",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "To join the Duty and Advice Team at the Integrated Front door. To manage contacts and referrals, making timely decision to safeguard and support children ad their families.",
+    "raw_portal_description": "To join the Duty and Advice Team at the Integrated Front door. To manage contacts and referrals, making timely decision to safeguard and support children ad their families.",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1506030?backToItem=&initialLoad=&tab=&_xmscs=91769d9f7e59b4ddd6454c0921334e3a36572a3fba0b5e2c87e1725ab5e9f7cdee0c666be70ee605",
+    "accepted_at": "2026-11-20T15:48:08.470Z",
+    "scraped_at": "2026-11-20T15:48:08.470Z",
+    "attachments": [
+      {
+        "filename": "Childrens - Advanced Practitioner LCC Profile v1.0.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/144475?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 93DC _ 1/Childrens - Advanced Practitioner LCC Profile v1.0.docx",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "declaredMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "c8db398e617bcb0233952f2f359ca6c5b93a276e9bd15757cd2669b0b29485aa",
+        "contentBytes": 18777,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-20T15:48:08.513Z"
+      },
+      {
+        "filename": "DfE Recommendation Attribute.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/144476?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 93DC _ 1/DfE Recommendation Attribute.xls",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/vnd.ms-excel",
+        "declaredMimeType": "application/vnd.ms-excel",
+        "detectedMimeType": "application/vnd.ms-excel",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "801b2586f209dd82911dde63c958393d4113b028b3b3c7453dce5f91db53c256",
+        "contentBytes": 67072,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-20T15:48:08.562Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 94AC / 1",
     "source": "xms",
     "source_ref": "000B 94AC / 1",
@@ -21,14 +79,14 @@
     "description": "The role is to work a rolling rota pattern working weekends, evenings and nights with other people on shift covering children and adults.  Depending on where the person lives there may be opportunity to work from home.  A manager is also on shift during peak hours, along with another advanced practitioner.\n\nThere are some weeks that working less than 36 hours (as below).  This is the same for all agency staff and is in line with the way the rota pattern falls.  Otherwise all the shifts are the same for all agency staff working a full time pattern.  There may be occasions that I need to move to a different shift, but this will be occasional so flexibility is a must. Bury are clear that they are working to WTD – ie cant work more than 48 hours Mon-Sun with Bury or elsewhere so hours combined with 11 hours rest.  The weeks are less on hours, I can offer hours up to 36 as long as this doesn’t breach WTD rest time.\n\nWeek 1 – 24 hours\n\nWeek 2 – 36 hours\n\nWeek 3 – 29 hours\n\nWeek 4 – 36 hours\n\nWeek 5 – 36 hours\n\nWeek 6 – 29 hours\n\nWeek 7 – 36 hours\n\nWeek 8 – 29 hours\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
     "raw_portal_description": "The role is to work a rolling rota pattern working weekends, evenings and nights with other people on shift covering children and adults.  Depending on where the person lives there may be opportunity to work from home.  A manager is also on shift during peak hours, along with another advanced practitioner.\n\nThere are some weeks that working less than 36 hours (as below).  This is the same for all agency staff and is in line with the way the rota pattern falls.  Otherwise all the shifts are the same for all agency staff working a full time pattern.  There may be occasions that I need to move to a different shift, but this will be occasional so flexibility is a must. Bury are clear that they are working to WTD – ie cant work more than 48 hours Mon-Sun with Bury or elsewhere so hours combined with 11 hours rest.  The weeks are less on hours, I can offer hours up to 36 as long as this doesn’t breach WTD rest time.\n\nWeek 1 – 24 hours\n\nWeek 2 – 36 hours\n\nWeek 3 – 29 hours\n\nWeek 4 – 36 hours\n\nWeek 5 – 36 hours\n\nWeek 6 – 29 hours\n\nWeek 7 – 36 hours\n\nWeek 8 – 29 hours\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions on the Details tab and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
     "description_origin": "portal",
-    "detail_url": "https://xms-portal.com/xms/distribution/show/1505942?backToItem=&initialLoad=&tab=&_xmscs=214b4b7ac8727fc54603517dabd3d80f8431e64a647adfedc94947f7447d3d3e3a0972cd32cf90ad",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1505942",
     "accepted_at": "2026-11-20T15:27:55.607Z",
-    "scraped_at": "2026-11-20T15:27:55.607Z",
+    "scraped_at": "2026-11-20T15:38:59.274Z",
     "attachments": [
       {
         "filename": "DfE Recommendation Attribute.xlsx",
         "url": "https://xms-portal.com/xms/distribution/viewAttachment/144513?attachmentClass=ItemAttachment",
-        "localPath": "/Users/robarnold/harvester/data/attachments/000B 94AC _ 1/DfE Recommendation Attribute.xlsx",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 94AC _ 1/DfE Recommendation Attribute-2.xlsx",
         "downloaded": true,
         "httpContentTypeRaw": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
         "declaredMimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
@@ -38,7 +96,7 @@
         "contentBytes": 39015,
         "contentTypeAgreement": "match",
         "contentProvenanceComplete": true,
-        "contentProvenanceRecordedAt": "2026-11-20T15:27:55.657Z"
+        "contentProvenanceRecordedAt": "2026-11-20T15:38:59.322Z"
       }
     ]
   },
