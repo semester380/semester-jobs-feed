@@ -1,5 +1,32 @@
 [
   {
+    "item_id": "000B 943B / 1",
+    "source": "xms",
+    "source_ref": "000B 943B / 1",
+    "source_revision": null,
+    "job_id": "000B 943B / 1",
+    "job_title": "Adults Social Worker [Warrington]",
+    "client": "Warrington Borough Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "Warrington Hospital, , Warrington, , WA5 1QG, United Kingdom",
+    "city": "Warrington",
+    "postcode": "WA5 1QG",
+    "start_date": "2026-12-30",
+    "end_date": "Fri 12/03/2027",
+    "pay_from": "30",
+    "pay_to": "30",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are seeking 3 experienced Social Workers to join our busy Transfer of Care Hub supporting timely and safe hospital discharges from acute settings.\n\nYou will work as part of a multi-disciplinary team, completing strengths-based assessments, discharge planning, and coordinating support to achieve the best outcomes for residents.\n\nEssential requirements:\n\nQualified Social Worker registered with Social Work England\nExperience in Adult Social Care\n\nExperience in hospital discharge/transfer of care work is desirable\n\nFull UK driving licence and access to a vehicle\nAbility to work in a fast-paced hospital discharge environment\n\nWhat we offer:\n\n37 hours per week\nSupportive team\nPotential for some home working, subject to service needs\nCar user mileage\n\n3 years reference, gaps in employment history checked, any relevant quals as per JDPS",
+    "raw_portal_description": "We are seeking 3 experienced Social Workers to join our busy Transfer of Care Hub supporting timely and safe hospital discharges from acute settings.\n\nYou will work as part of a multi-disciplinary team, completing strengths-based assessments, discharge planning, and coordinating support to achieve the best outcomes for residents.\n\nEssential requirements:\n\nQualified Social Worker registered with Social Work England\nExperience in Adult Social Care\n\nExperience in hospital discharge/transfer of care work is desirable\n\nFull UK driving licence and access to a vehicle\nAbility to work in a fast-paced hospital discharge environment\n\nWhat we offer:\n\n37 hours per week\nSupportive team\nPotential for some home working, subject to service needs\nCar user mileage\n\n3 years reference, gaps in employment history checked, any relevant quals as per JDPS",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1506067?backToItem=&initialLoad=&tab=&_xmscs=fa2753b8cf8426757e800cc3dd023d6c88793febe4cf5eb4cf0dde65312bb70a7845f655b55f437b",
+    "accepted_at": "2026-11-20T15:58:58.189Z",
+    "scraped_at": "2026-11-20T15:58:58.189Z",
+    "attachments": []
+  },
+  {
     "item_id": "000B 93DC / 1",
     "source": "xms",
     "source_ref": "000B 93DC / 1",
@@ -81,12 +108,12 @@
     "description_origin": "portal",
     "detail_url": "https://xms-portal.com/xms/distribution/show/1505942",
     "accepted_at": "2026-11-20T15:27:55.607Z",
-    "scraped_at": "2026-11-20T15:38:59.274Z",
+    "scraped_at": "2026-11-20T15:50:01.015Z",
     "attachments": [
       {
         "filename": "DfE Recommendation Attribute.xlsx",
         "url": "https://xms-portal.com/xms/distribution/viewAttachment/144513?attachmentClass=ItemAttachment",
-        "localPath": "/Users/robarnold/harvester/data/attachments/000B 94AC _ 1/DfE Recommendation Attribute-2.xlsx",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 94AC _ 1/DfE Recommendation Attribute-3.xlsx",
         "downloaded": true,
         "httpContentTypeRaw": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
         "declaredMimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
@@ -96,7 +123,7 @@
         "contentBytes": 39015,
         "contentTypeAgreement": "match",
         "contentProvenanceComplete": true,
-        "contentProvenanceRecordedAt": "2026-11-20T15:38:59.322Z"
+        "contentProvenanceRecordedAt": "2026-11-20T15:50:01.062Z"
       }
     ]
   },
