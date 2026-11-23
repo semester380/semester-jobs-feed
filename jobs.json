@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 93D7 / 1",
+    "source": "xms",
+    "source_ref": "000B 93D7 / 1",
+    "source_revision": null,
+    "job_id": "000B 93D7 / 1",
+    "job_title": "Equipment Service Development Officer",
+    "client": "Trafford Council, GM Collaboration",
+    "procurer": null,
+    "working_address": "TALBOT ROAD, , MANCHESTER, GREATER MANCHESTER, M32 0TH, United Kingdom",
+    "city": "MANCHESTER",
+    "postcode": "M32 0TH",
+    "start_date": "2026-12-07",
+    "end_date": "2027-03-05",
+    "pay_from": "20.37",
+    "pay_to": "21.78",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "Umbrella rate - £26.24 - £28.06\n\nEquipment Development officer for People who are Deaf and Hard of hearing\n\nAdult Social Care is part of the Adults and Wellbeing Directorate and covers a wide range of services/activities to help people live as independently as possible, stay safe and support their wellbeing. We currently have an exciting vacancy within our team.  As an Equipment Service Development Officer, you will be a key member of a multi-disciplinary team within the North Community Neighbourhood Team offering a borough wide service. You will play a vital role in promoting the independence and wellbeing of service users who are from the deaf and hearing-impaired community.\n\nYou will be expected to have qualifications such as NVQ level 3 / HND or City in Guilds level 2 course or relevant to working with deaf or hard of hearing people, plus at least 2 years’ relevant work experience. Be experienced in signing and have a Level 2 British Sign Language. You will be committed to personal and professional development.\n\nYou will have experience of direct working with adults and children who are deaf or hard of hearing.  Hold a good knowledge of the equipment that may be beneficial for deaf people and knowledge of the national social care agenda. Experience and understanding of working in partnership with service users to promote choice and control.\n\nYou’ll also be able to establish and maintain excellent working relationships, and negotiate effectively with all key stakeholders, including providers, service users, direct payments and social work teams.  You will be expected to manage resources and capacity in an innovative and creative way to best meet the needs of service users. Have good IT skills to be able to develop and maintain information management systems.\n\nOrganizational skills, priorities and manage workload over extended periods, producing accurate work within deadlines.\n\nYou must be willing and able to travel to sites within the Trafford Borough",
+    "raw_portal_description": "Umbrella rate - £26.24 - £28.06\n\nEquipment Development officer for People who are Deaf and Hard of hearing\n\nAdult Social Care is part of the Adults and Wellbeing Directorate and covers a wide range of services/activities to help people live as independently as possible, stay safe and support their wellbeing. We currently have an exciting vacancy within our team.  As an Equipment Service Development Officer, you will be a key member of a multi-disciplinary team within the North Community Neighbourhood Team offering a borough wide service. You will play a vital role in promoting the independence and wellbeing of service users who are from the deaf and hearing-impaired community.\n\nYou will be expected to have qualifications such as NVQ level 3 / HND or City in Guilds level 2 course or relevant to working with deaf or hard of hearing people, plus at least 2 years’ relevant work experience. Be experienced in signing and have a Level 2 British Sign Language. You will be committed to personal and professional development.\n\nYou will have experience of direct working with adults and children who are deaf or hard of hearing.  Hold a good knowledge of the equipment that may be beneficial for deaf people and knowledge of the national social care agenda. Experience and understanding of working in partnership with service users to promote choice and control.\n\nYou’ll also be able to establish and maintain excellent working relationships, and negotiate effectively with all key stakeholders, including providers, service users, direct payments and social work teams.  You will be expected to manage resources and capacity in an innovative and creative way to best meet the needs of service users. Have good IT skills to be able to develop and maintain information management systems.\n\nOrganizational skills, priorities and manage workload over extended periods, producing accurate work within deadlines.\n\nYou must be willing and able to travel to sites within the Trafford Borough",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1506458?backToItem=&initialLoad=&tab=&_xmscs=c6fc45e2f333b7bc686994d21dd9c3c649dcfafc335f7dc39913d9c461ef5bd106617ebfcffcd213",
+    "accepted_at": "2026-11-23T11:51:27.726Z",
+    "scraped_at": "2026-11-23T11:51:27.726Z",
+    "attachments": [
+      {
+        "filename": "Equipment Service Development Officer Band 7 FINAL 31.3.25 (2).docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/144474?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 93D7 _ 1/Equipment Service Development Officer Band 7 FINAL 31.3.25 (2).docx",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "declaredMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "20dbcfe0df7a4a093d84ae3ad2b75b84d264fab8bea486e6e8ca7efd611b0fd6",
+        "contentBytes": 833102,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-23T11:51:27.990Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 899E / 1",
     "source": "xms",
     "source_ref": "000B 899E / 1",
