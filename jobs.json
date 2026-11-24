@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5310882",
+    "source": "comensura",
+    "source_ref": "5310882",
+    "source_revision": null,
+    "job_id": "5310882",
+    "job_title": "Care Brokerage Officer (Social Care - Qualified)",
+    "client": "Lancashire County Council",
+    "procurer": null,
+    "working_address": "Fishergate, Leyland, Preston, Lancashire, PR1 8RE",
+    "city": "Preston",
+    "postcode": "PR1 8RE",
+    "start_date": "2026-12-07",
+    "end_date": "2027-02-07",
+    "pay_from": "18.81",
+    "pay_to": "18.81",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "Dept - ASC CMS Care Navigation Team\nLocation - Hybrid/County Hall, Preston\nInterviews - ASAP\nSee attached JD for full details",
+    "raw_portal_description": "Dept - ASC CMS Care Navigation Team\nLocation - Hybrid/County Hall, Preston\nInterviews - ASAP\nSee attached JD for full details",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-11-24T16:58:46.543Z",
+    "scraped_at": "2026-11-24T16:58:46.543Z",
+    "attachments": [
+      {
+        "filename": "Brokerage Officer Job Description.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5310882/File/228318",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5310882/228318-f5c957b8d27a4dea34acb24c4e072c8b71d59b01ffe7501d773f74ef66da3136.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/pdf",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "f5c957b8d27a4dea34acb24c4e072c8b71d59b01ffe7501d773f74ef66da3136",
+        "contentBytes": 237489,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-24T16:58:47.162Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 94AD / 1",
     "source": "xms",
     "source_ref": "000B 94AD / 1",
