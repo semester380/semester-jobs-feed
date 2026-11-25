@@ -1,5 +1,32 @@
 [
   {
+    "item_id": "comensura:5311025",
+    "source": "comensura",
+    "source_ref": "5311025",
+    "source_revision": null,
+    "job_id": "5311025",
+    "job_title": "Mou - Childrens Social Care - Advanced Practitioner (Social Care Qualified)",
+    "client": "Gateshead Council",
+    "procurer": null,
+    "working_address": "Civic Centre, Regent Street, Gateshead, Tyne and Wear, NE8 1HH",
+    "city": "Gateshead",
+    "postcode": "NE8 1HH",
+    "start_date": "2026-11-30",
+    "end_date": "2027-03-31",
+    "pay_from": "34.45",
+    "pay_to": "34.45",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "I am looking for a UASC social worker, a number of our young people live in Birmingham so we would be open to employing an agency worker who does not live locally but can travel to the North East to visit young people in Gateshead. I would be flexible on days in the office for this reason.\nSocial Work Statutory duites as part of Children in Our Care Team carrying a full caseload of UASC.",
+    "raw_portal_description": "I am looking for a UASC social worker, a number of our young people live in Birmingham so we would be open to employing an agency worker who does not live locally but can travel to the North East to visit young people in Gateshead. I would be flexible on days in the office for this reason.\nSocial Work Statutory duites as part of Children in Our Care Team carrying a full caseload of UASC.",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-11-25T13:39:03.548Z",
+    "scraped_at": "2026-11-25T13:39:03.548Z",
+    "attachments": []
+  },
+  {
     "item_id": "000B 90B2 / 1",
     "source": "xms",
     "source_ref": "000B 90B2 / 1",
@@ -60077,7 +60104,7 @@
     "description_origin": "portal",
     "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=74cfb66e-1491-425f-95ca-5f1cf234e418",
     "accepted_at": null,
-    "scraped_at": "2026-11-25T13:07:09.723Z",
+    "scraped_at": "2026-11-25T13:29:47.013Z",
     "attachments": []
   },
   {
