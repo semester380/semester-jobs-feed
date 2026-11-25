@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5310403",
+    "source": "comensura",
+    "source_ref": "5310403",
+    "source_revision": null,
+    "job_id": "5310403",
+    "job_title": "Social Worker (Progressing) (Jajb4213 - G9) (Social and Healthcare Qualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Delamere Street, Crewe, Cheshire, CW1 2JZ",
+    "city": "Crewe",
+    "postcode": "CW1 2JZ",
+    "start_date": "2026-11-29",
+    "end_date": "2027-04-30",
+    "pay_from": "39.00",
+    "pay_to": "39.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A recruitment request is required for all Orders, please state here:\nRWR - 20231\nAre you replacing a worker within an approved period No (delete as appropriate)\nWe are looking for experienced Social Workers with a minimum of 3 years experience who thrive in a busy and fast-paced environment. The role offers diverse casework across the full social care journey, from Duty and Assessment through to Public Law Outline (PLO) work and issuing care proceedings where required. You will be part of a service at the forefront of Families First implementation, working within a supportive and stable team that is committed to delivering high-quality social work practice. The service uses Liquidlogic as its case management system and offers hybrid working, with three days office-based and two days working from home, alongside free parking facilities. We are seeking someone who is committed, enthusiastic, and passionate about achieving positive outcomes for children and families. The successful candidate will bring strong assessment and intervention skills, a proactive approach to managing complex casework, and a commitment to delivering consistently high standards of practice.\nPlease confirm which DBS is required for this role.\n(Delete the lines which are not applicable and leave the option that is required) not required\n5. Enhanced – including barred:\nc. Both children’s and adults",
+    "raw_portal_description": "A recruitment request is required for all Orders, please state here:\nRWR - 20231\nAre you replacing a worker within an approved period No (delete as appropriate)\nWe are looking for experienced Social Workers with a minimum of 3 years experience who thrive in a busy and fast-paced environment. The role offers diverse casework across the full social care journey, from Duty and Assessment through to Public Law Outline (PLO) work and issuing care proceedings where required. You will be part of a service at the forefront of Families First implementation, working within a supportive and stable team that is committed to delivering high-quality social work practice. The service uses Liquidlogic as its case management system and offers hybrid working, with three days office-based and two days working from home, alongside free parking facilities. We are seeking someone who is committed, enthusiastic, and passionate about achieving positive outcomes for children and families. The successful candidate will bring strong assessment and intervention skills, a proactive approach to managing complex casework, and a commitment to delivering consistently high standards of practice.\nPlease confirm which DBS is required for this role.\n(Delete the lines which are not applicable and leave the option that is required) not required\n5. Enhanced – including barred:\nc. Both children’s and adults",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-11-25T15:49:48.614Z",
+    "scraped_at": "2026-11-25T15:49:48.614Z",
+    "attachments": [
+      {
+        "filename": "Social Worker Job Description and Specification.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5310403/File/228084",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5310403/228084-776ec695a74f51235d259cee02cf35cc1cadb6fa869e32fe3f64c3c324235756.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/pdf",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "776ec695a74f51235d259cee02cf35cc1cadb6fa869e32fe3f64c3c324235756",
+        "contentBytes": 1095630,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-25T15:49:49.184Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 92E9 / 1",
     "source": "xms",
     "source_ref": "000B 92E9 / 1",
@@ -120,12 +163,12 @@
     "description_origin": "portal",
     "detail_url": "https://xms-portal.com/xms/distribution/show/1508068",
     "accepted_at": "2026-11-25T15:20:18.626Z",
-    "scraped_at": "2026-11-25T15:31:25.315Z",
+    "scraped_at": "2026-11-25T15:43:52.116Z",
     "attachments": [
       {
         "filename": "DfE Attributes 2025.xls",
         "url": "https://xms-portal.com/xms/distribution/viewAttachment/144635?attachmentClass=ItemAttachment",
-        "localPath": "/Users/robarnold/harvester/data/attachments/000B 96AF _ 1/DfE Attributes 2025-1.xls",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 96AF _ 1/DfE Attributes 2025-2.xls",
         "downloaded": true,
         "httpContentTypeRaw": "application/vnd.ms-excel",
         "declaredMimeType": "application/vnd.ms-excel",
@@ -135,7 +178,7 @@
         "contentBytes": 67584,
         "contentTypeAgreement": "match",
         "contentProvenanceComplete": true,
-        "contentProvenanceRecordedAt": "2026-11-25T15:31:25.389Z"
+        "contentProvenanceRecordedAt": "2026-11-25T15:43:52.166Z"
       }
     ]
   },
