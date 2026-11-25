@@ -21,9 +21,9 @@
     "description": "We are seeking an experience social worker to primary cover the role of LADO, Please see Roles Information /Duties below for further information.\n- Full time (37 hrs) Mon-Fri.\n- Needs to be able to start ASAP.\n- Minimum contract of 3 months.\n- Must be office-based minimum of 3 x days per week.\n- Must be a qualified SW and registered with SW England.\n- Must have a minimum of 3 years post-qualifying experience in frontline child protection/safeguarding.\n- Previous LADO experience is desirable. As a minimum, must have knowledge and understanding of the role and statutory responsibilities of the LADO.\n- Must have experience of and be confident in chairing complex meetings.\n- Must be confident in communicating with and professionally challenging senior leaders/managers in all organisations.",
     "raw_portal_description": "We are seeking an experience social worker to primary cover the role of LADO, Please see Roles Information /Duties below for further information.\n- Full time (37 hrs) Mon-Fri.\n- Needs to be able to start ASAP.\n- Minimum contract of 3 months.\n- Must be office-based minimum of 3 x days per week.\n- Must be a qualified SW and registered with SW England.\n- Must have a minimum of 3 years post-qualifying experience in frontline child protection/safeguarding.\n- Previous LADO experience is desirable. As a minimum, must have knowledge and understanding of the role and statutory responsibilities of the LADO.\n- Must have experience of and be confident in chairing complex meetings.\n- Must be confident in communicating with and professionally challenging senior leaders/managers in all organisations.",
     "description_origin": "portal",
-    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders?OrderNumber=5310994&TabName=Search#Search",
     "accepted_at": "2026-11-25T14:09:57.766Z",
-    "scraped_at": "2026-11-25T14:09:57.766Z",
+    "scraped_at": "2026-11-25T14:10:36.649Z",
     "attachments": []
   },
   {
@@ -60149,6 +60149,33 @@
         "contentProvenanceRecordedAt": null
       }
     ]
+  },
+  {
+    "item_id": "prism:OR124516",
+    "source": "prism",
+    "source_ref": "OR124516",
+    "source_revision": null,
+    "job_id": "OR124516",
+    "job_title": "Social Worker – Children’s - Social Care Qualified",
+    "client": "Sefton MBC",
+    "procurer": "Angela O'Neill",
+    "working_address": "Trinity Road, Bootle, Merseyside, L20 3NJ, United Kingdom",
+    "city": "Bootle",
+    "postcode": "L20 3NJ",
+    "start_date": "2026-12-07",
+    "end_date": "",
+    "pay_from": "22.38",
+    "pay_to": "30.26",
+    "pay_type": "per hour",
+    "ir35": "Inside",
+    "ir35_note": "Team 7 - ECF 26 1142\nTeam 10 x 2 - ECF 26 1140/26 1139\nTeam 8 x 2 - 26 1136/26 1138",
+    "description": "H & P  service and 5 workers",
+    "raw_portal_description": "H & P  service and 5 workers",
+    "description_origin": "portal",
+    "detail_url": "https://prism.workforce.teammatrix.com/MatrixWorkforce/Order?Tab=0&GUID=f6227289-dc71-4a80-ad29-7f4386d226e7",
+    "accepted_at": null,
+    "scraped_at": "2026-11-25T14:11:11.144Z",
+    "attachments": []
   },
   {
     "item_id": "prism:OR124492",
