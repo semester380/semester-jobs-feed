@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 9897 / 1",
+    "source": "xms",
+    "source_ref": "000B 9897 / 1",
+    "source_revision": null,
+    "job_id": "000B 9897 / 1",
+    "job_title": "Childrens - Social Work Team Manager",
+    "client": "Hiring - Leeds City Council, Leeds City Council",
+    "procurer": null,
+    "working_address": "Parks & Countryside, Farnley Hall, Leeds, West Yorkshire, LS12 5HA, United Kingdom",
+    "city": "Leeds",
+    "postcode": "LS12 5HA",
+    "start_date": "2026-11-30",
+    "end_date": "2026-12-28",
+    "pay_from": "40",
+    "pay_to": "40",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We require an experienced Children's Social Care Team Manager to join one of our Area Social Work Teams at Farnley Hall. You will oversee a team of social work staff who undertake duty and assessment work as well as child in need, child protection and care proceedings. You will also contribute to the wider West management team and work alongside your colleagues to achieve best outcomes for all of our children. Leeds Practice Model is based around relational practice and doing with our children and families, and knowledge in this area would be an advantage.\n\nDue to the nature of the role this is primarily an office-based role at Farnley Hall, LS12 5HA.",
+    "raw_portal_description": "We require an experienced Children's Social Care Team Manager to join one of our Area Social Work Teams at Farnley Hall. You will oversee a team of social work staff who undertake duty and assessment work as well as child in need, child protection and care proceedings. You will also contribute to the wider West management team and work alongside your colleagues to achieve best outcomes for all of our children. Leeds Practice Model is based around relational practice and doing with our children and families, and knowledge in this area would be an advantage.\n\nDue to the nature of the role this is primarily an office-based role at Farnley Hall, LS12 5HA.",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1509036?backToItem=&initialLoad=&tab=&_xmscs=2a9fcf553184607b881dac4bafd9500ba1b4515b9dfda520d02be7f4ad03af1a8b4fc6633d167d10",
+    "accepted_at": "2026-11-26T16:19:51.621Z",
+    "scraped_at": "2026-11-26T16:19:51.621Z",
+    "attachments": [
+      {
+        "filename": "DfE Recommendation Attribute.xls",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/144767?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 9897 _ 1/DfE Recommendation Attribute.xls",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/vnd.ms-excel",
+        "declaredMimeType": "application/vnd.ms-excel",
+        "detectedMimeType": "application/vnd.ms-excel",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "801b2586f209dd82911dde63c958393d4113b028b3b3c7453dce5f91db53c256",
+        "contentBytes": 67072,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-26T16:19:51.674Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 9904 / 1",
     "source": "xms",
     "source_ref": "000B 9904 / 1",
@@ -21,14 +64,14 @@
     "description": "1x experienced Practice Manager required for Families First\n\nflexibility to pay up to capped rate £46\n\n\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
     "raw_portal_description": "1x experienced Practice Manager required for Families First\n\nflexibility to pay up to capped rate £46\n\n\n\n5 years reference, gaps in employment history checked, any relevant quals as per JDPS\n\nSuppliers: Please complete the DfE Recommendation Compliance Questions and add the file to the Candidate record before Submission. If the Candidate does not pass these questions, the application will not be taken further.",
     "description_origin": "portal",
-    "detail_url": "https://xms-portal.com/xms/distribution/show/1508941?backToItem=&initialLoad=&tab=&_xmscs=f110a8882f5e906033eff5585be9b9ffe4940b88c01a4117bc3549640e39af3dd38120a2c8d17a63",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1508941",
     "accepted_at": "2026-11-26T16:17:58.338Z",
-    "scraped_at": "2026-11-26T16:17:58.338Z",
+    "scraped_at": "2026-11-26T16:18:53.528Z",
     "attachments": [
       {
         "filename": "DfE Attributes 2025.xls",
         "url": "https://xms-portal.com/xms/distribution/viewAttachment/144782?attachmentClass=ItemAttachment",
-        "localPath": "/Users/robarnold/harvester/data/attachments/000B 9904 _ 1/DfE Attributes 2025.xls",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 9904 _ 1/DfE Attributes 2025-1.xls",
         "downloaded": true,
         "httpContentTypeRaw": "application/vnd.ms-excel",
         "declaredMimeType": "application/vnd.ms-excel",
@@ -38,7 +81,7 @@
         "contentBytes": 67584,
         "contentTypeAgreement": "match",
         "contentProvenanceComplete": true,
-        "contentProvenanceRecordedAt": "2026-11-26T16:17:58.477Z"
+        "contentProvenanceRecordedAt": "2026-11-26T16:18:53.593Z"
       }
     ]
   },
