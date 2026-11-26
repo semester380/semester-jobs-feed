@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5311100",
+    "source": "comensura",
+    "source_ref": "5311100",
+    "source_revision": null,
+    "job_id": "5311100",
+    "job_title": "Mou - Childrens Social Care - Advanced Practitioner (Social Care Qualified)",
+    "client": "Gateshead Council",
+    "procurer": null,
+    "working_address": "Civic Centre, Regent Street, Gateshead, Tyne and Wear, NE8 1HH",
+    "city": "Gateshead",
+    "postcode": "NE8 1HH",
+    "start_date": "2026-11-30",
+    "end_date": "2027-04-30",
+    "pay_from": "34.45",
+    "pay_to": "34.45",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "CSW / AP role within CIOC Team",
+    "raw_portal_description": "CSW / AP role within CIOC Team",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-11-26T12:03:15.468Z",
+    "scraped_at": "2026-11-26T12:03:15.468Z",
+    "attachments": [
+      {
+        "filename": "CIOC Social Work Agency job profile.docx",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5311100/File/228429",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5311100/228429-c588f4bf731496e52c94d82583f61ca4eb74dce6e8ecb370b6337d77af5341f0.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "c588f4bf731496e52c94d82583f61ca4eb74dce6e8ecb370b6337d77af5341f0",
+        "contentBytes": 194174,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-26T12:03:16.049Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 93AD / 1",
     "source": "xms",
     "source_ref": "000B 93AD / 1",
