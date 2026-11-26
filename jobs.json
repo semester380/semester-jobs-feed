@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 9798 / 1",
+    "source": "xms",
+    "source_ref": "000B 9798 / 1",
+    "source_revision": null,
+    "job_id": "000B 9798 / 1",
+    "job_title": "Support Worker - Field Services",
+    "client": "SCC_Authorising, Sheffield City Council",
+    "procurer": null,
+    "working_address": "Stadia Technology Park, 60 Shirland Lane, Sheffield, South Yorkshire, S9 3SP, United Kingdom",
+    "city": "Sheffield",
+    "postcode": "S9 3SP",
+    "start_date": "2026-11-30",
+    "end_date": "2027-03-31",
+    "pay_from": "12.71",
+    "pay_to": "12.71",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "As a Family Support Worker within the Children and Families Fieldwork Team based at South Fieldwork Services, Stadia Technology Park, Attercliffe, you will play a key role in supporting children, young people, and families to improve outcomes and maintain their wellbeing. Working alongside Social Workers and partner agencies, you will help deliver high-quality, child-centred support in line with current legislation, policies, and safeguarding procedures.\n\nKey responsibilities include:\n\nProviding practical and emotional support to children, young people, and their families.\nAssisting with housing and accommodation-related issues, including supporting families with applications, referrals, and form completion.\nSupporting children in need and vulnerable families to access services and resources.\nTransporting children and young people to and from foster placements, appointments, contact sessions, and other required locations.\nUndertaking direct work with children and families to support care plans and improve outcomes.\nMaintaining accurate records and contributing to assessments, reports, and reviews.\nLiaising with Social Workers, foster carers, schools, health professionals, and other partner agencies to ensure coordinated support.\nRequirements\nExperience of working with children, young people, and families in a social care, education, or support setting.\nGood understanding of safeguarding and child protection principles.\nAbility to build positive professional relationships with children and families.\nStrong organisational, communication, and record-keeping skills.\nAbility to work full-time, Monday to Friday, 8:45am to 5:15pm.\nA full driving licence and access to a vehicle are desirable, with business-use car insurance, as regular travel across Sheffield and occasional out-of-city travel will be required.",
+    "raw_portal_description": "As a Family Support Worker within the Children and Families Fieldwork Team based at South Fieldwork Services, Stadia Technology Park, Attercliffe, you will play a key role in supporting children, young people, and families to improve outcomes and maintain their wellbeing. Working alongside Social Workers and partner agencies, you will help deliver high-quality, child-centred support in line with current legislation, policies, and safeguarding procedures.\n\nKey responsibilities include:\n\nProviding practical and emotional support to children, young people, and their families.\nAssisting with housing and accommodation-related issues, including supporting families with applications, referrals, and form completion.\nSupporting children in need and vulnerable families to access services and resources.\nTransporting children and young people to and from foster placements, appointments, contact sessions, and other required locations.\nUndertaking direct work with children and families to support care plans and improve outcomes.\nMaintaining accurate records and contributing to assessments, reports, and reviews.\nLiaising with Social Workers, foster carers, schools, health professionals, and other partner agencies to ensure coordinated support.\nRequirements\nExperience of working with children, young people, and families in a social care, education, or support setting.\nGood understanding of safeguarding and child protection principles.\nAbility to build positive professional relationships with children and families.\nStrong organisational, communication, and record-keeping skills.\nAbility to work full-time, Monday to Friday, 8:45am to 5:15pm.\nA full driving licence and access to a vehicle are desirable, with business-use car insurance, as regular travel across Sheffield and occasional out-of-city travel will be required.",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1508385?backToItem=&initialLoad=&tab=&_xmscs=d4822d7d494274ba7658f9c9f5281c91015d2b9fbe9db5a3ab7466d28bb556f6f45555fab99a7b31",
+    "accepted_at": "2026-11-26T09:14:20.828Z",
+    "scraped_at": "2026-11-26T09:14:20.828Z",
+    "attachments": [
+      {
+        "filename": "Support Worker Fieldwork new template.docx",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/144704?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 9798 _ 1/Support Worker Fieldwork new template.docx",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "declaredMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "detectedMimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "4e1b1903f2befa6240f302e25dd2ecead6620f02e1ed950b8cb748e02746a7a7",
+        "contentBytes": 415398,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-26T09:14:20.982Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 979B / 1",
     "source": "xms",
     "source_ref": "000B 979B / 1",
