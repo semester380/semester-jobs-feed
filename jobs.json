@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "000B 9787 / 1",
+    "source": "xms",
+    "source_ref": "000B 9787 / 1",
+    "source_revision": null,
+    "job_id": "000B 9787 / 1",
+    "job_title": "Social Worker - Standard (Adults) (G8)",
+    "client": "Wakefield Hiring, Yorkshire Collaboration",
+    "procurer": null,
+    "working_address": "Pinderfields Hospital Social Work Team, 20-22 Barr Lane , Wakefield , , WF1 4AD, United Kingdom",
+    "city": "Wakefield",
+    "postcode": "WF1 4AD",
+    "start_date": "2026-11-30",
+    "end_date": "2027-02-28",
+    "pay_from": "18.96",
+    "pay_to": "18.96",
+    "pay_type": "per hour",
+    "ir35": "Yes",
+    "ir35_note": "Following the changes to IR35 Legislation (effective 6th April 2021) Personal Services Companies (PSCs) Inside IR35, will be subject to employment taxes before we pay them and Reed will need to pay HMRC Employers National Insurance Contributions and the Apprenticeship Levy, regardless of whether the organisation is Public or Private. Unless this field is checked, the Tax Status PSC will not be available.",
+    "description": "We are looking for a motivated  Social Worker to join our Hospital Social Work Team to support with Winter Pressures.  We work with Adult’s over 18 to facilitate a safe transfer of care from hospital - promoting a home first ethos. You must enjoy working in a fast-paced environment and working closely with our multi-disciplinary system partners.\n\nYour main responsibilities as a Hospital Social Worker:\n\nYou will manage a varied caseload, which will include capacity assessments, best interest decision making, and being part of a duty rota.\nYou will deliver exceptional social care to the adults we are supporting and their carers and promote choice and control as much as possible.\nThe team is looking to appoint an individual who is enthusiastic to engage in adopting strengths based, person centred assessments.\nYou will engage in outcomes focused and preventative conversations which build on the strengths of people and their local networks.",
+    "raw_portal_description": "We are looking for a motivated  Social Worker to join our Hospital Social Work Team to support with Winter Pressures.  We work with Adult’s over 18 to facilitate a safe transfer of care from hospital - promoting a home first ethos. You must enjoy working in a fast-paced environment and working closely with our multi-disciplinary system partners.\n\nYour main responsibilities as a Hospital Social Worker:\n\nYou will manage a varied caseload, which will include capacity assessments, best interest decision making, and being part of a duty rota.\nYou will deliver exceptional social care to the adults we are supporting and their carers and promote choice and control as much as possible.\nThe team is looking to appoint an individual who is enthusiastic to engage in adopting strengths based, person centred assessments.\nYou will engage in outcomes focused and preventative conversations which build on the strengths of people and their local networks.",
+    "description_origin": "portal",
+    "detail_url": "https://xms-portal.com/xms/distribution/show/1509233?backToItem=&initialLoad=&tab=&_xmscs=588cde6e9cfd0ed8c5ba04fc3398ce16660314e4d66ed5dc32292581f037673ba4cd5c181a3ad785",
+    "accepted_at": "2026-11-27T09:44:59.969Z",
+    "scraped_at": "2026-11-27T09:44:59.969Z",
+    "attachments": [
+      {
+        "filename": "PR2533 001 Social Worker.doc",
+        "url": "https://xms-portal.com/xms/distribution/viewAttachment/144677?attachmentClass=ItemAttachment",
+        "localPath": "/Users/robarnold/harvester/data/attachments/000B 9787 _ 1/PR2533 001 Social Worker.doc",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/msword",
+        "declaredMimeType": "application/msword",
+        "detectedMimeType": "application/msword",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "f1761fc87012a79960a713ef08722b0ff2fcd75719ba05be115b49d12fc5fd30",
+        "contentBytes": 138752,
+        "contentTypeAgreement": "match",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-27T09:45:00.033Z"
+      }
+    ]
+  },
+  {
     "item_id": "comensura:5311176",
     "source": "comensura",
     "source_ref": "5311176",
