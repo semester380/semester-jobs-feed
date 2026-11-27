@@ -1,5 +1,48 @@
 [
   {
+    "item_id": "comensura:5311101",
+    "source": "comensura",
+    "source_ref": "5311101",
+    "source_revision": null,
+    "job_id": "5311101",
+    "job_title": "Independent Reviewing Officer (Jajb4003 - G11) (Social and Healthcare Qualified)",
+    "client": "Cheshire East Council",
+    "procurer": null,
+    "working_address": "Market Place, Macclesfield, Cheshire, SK10 1EA",
+    "city": "Macclesfield",
+    "postcode": "SK10 1EA",
+    "start_date": "2026-12-07",
+    "end_date": "2027-06-30",
+    "pay_from": "40.00",
+    "pay_to": "40.00",
+    "pay_type": "per hour",
+    "ir35": null,
+    "ir35_note": null,
+    "description": "A Recruitment Request number is required for all Orders, please state here: 20657\nPlease confirm which DBS is required for this role.\n(Delete the lines which are not applicable and leave the option that is required)\n5. Enhanced – including barred:\na. Children’s barred list\nb. Adults barred list\nc. Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "raw_portal_description": "A Recruitment Request number is required for all Orders, please state here: 20657\nPlease confirm which DBS is required for this role.\n(Delete the lines which are not applicable and leave the option that is required)\n5. Enhanced – including barred:\na. Children’s barred list\nb. Adults barred list\nc. Both children’s and adults\nThis information is required for all Orders.\nIf you are unsure please refer to the GOV.UK website:\nFind out which DBS check is right for your employee - GOV.UK (www.gov.uk)",
+    "description_origin": "portal",
+    "detail_url": "https://uk.comensura.net/cnet5/Suppliers/Orders#Pending%20Acceptance",
+    "accepted_at": "2026-11-27T17:52:05.213Z",
+    "scraped_at": "2026-11-27T17:52:05.213Z",
+    "attachments": [
+      {
+        "filename": "JAJB4003 - Independent Reviewing Officer - JD and PS.pdf",
+        "url": "https://uk.comensura.net/cnet5/Suppliers/Api/Files/Orders/5311101/File/228430",
+        "localPath": "/Users/robarnold/harvester/data/attachments/comensura-5311101/228430-d3d34852be7e19cf582c76d70b002ba4cbeadae0f3b89dcf6a975643ade66283.source",
+        "downloaded": true,
+        "httpContentTypeRaw": "application/octet-stream",
+        "declaredMimeType": "application/octet-stream",
+        "detectedMimeType": "application/pdf",
+        "mimeDetectorVersion": "attachment-magic/v1",
+        "contentSha256": "d3d34852be7e19cf582c76d70b002ba4cbeadae0f3b89dcf6a975643ade66283",
+        "contentBytes": 112145,
+        "contentTypeAgreement": "generic-compatible",
+        "contentProvenanceComplete": true,
+        "contentProvenanceRecordedAt": "2026-11-27T17:52:05.473Z"
+      }
+    ]
+  },
+  {
     "item_id": "000B 981D / 1",
     "source": "xms",
     "source_ref": "000B 981D / 1",
